@@ -1,2 +1,2 @@
-# PinkPeachProject
-Sito di informatica Tor Vergata dagli studenti per gli studenti
+# PPP - The Pink Peach Project
+## Sito di informatica Tor Vergata, fatto dagli studenti per gli studenti
