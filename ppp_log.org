@@ -1,0 +1,87 @@
+#+TITLE: Pink Peach Project Log
+
+* About
+  Questo file conterrà una serie di informazioni riguardanti il ~pink peach
+  project~.
+
+* Dati di interesse
+  Il sito dovrà fornire almeno le seguenti informazioni
+
+  - *orario delle lezioni*.
+  - *date esami*.
+  - *contatti professori*.
+  - *lista dei corsi*.
+  - *informazioni dettagliate per ciascun corso*
+
+  A seguire riportiamo una breve discussione su come queste
+  informazioni devono essere mostrate.
+  
+** Orario delle lezioni
+   L'orario delle lezioni sarà mostrato in due formati diversi in modo
+   da garantire la responsiveness del sito.
+
+*** Desktop/Laptop
+    Per i dispositivi tradizionali *desktop* (e *laptop*), l'orario verrà
+    mostrato con una semplice tabella una volta che l'utente ha scelto
+    il corso di laurea (tra *triennale* e *magistrale*), e l'anno di
+    interesse.
+
+    |-------+-----------------------+---------+----------------------+-----------------------+----------------|
+    |   *Ora* | *Lunedì*                | *Martedì* | *Mercoledì*            | *Giovedì*               | *Venerdì*        |
+    |-------+-----------------------+---------+----------------------+-----------------------+----------------|
+    | 09:00 |                       |         |                      |                       |                |
+    | 10:00 |                       |         |                      |                       |                |
+    | 11:00 | Geometria ed Algebra  | Fisica  | Geometria ed Algebra | Fisica                |                |
+    | 12:00 | Geometria ed Algebra  | Fisica  | Geometria ed Algebra | Fisica                |                |
+    | 13:00 |                       |         |                      |                       |                |
+    | 14:00 | Logica e reti logiche |         | Programmazione       | Logica e reti logiche | Programmazione |
+    | 15:00 | Logica e reti logiche |         | Programmazione       | Logica e reti logiche | Programmazione |
+    | 16:00 |                       |         | Programmazione       |                       | Programmazione |
+    | 17:00 |                       |         |                      |                       |                |
+    | 18:00 |                       |         |                      |                       |                |
+    |-------+-----------------------+---------+----------------------+-----------------------+----------------|
+
+*** Mobile/iPad
+    Quando invece abbiamo a che fare con dispositivi di una larghezza
+    più limitata l'idea è quella di spezzare l'orario in due tabelle:
+
+    - Quella contenente gli *orari della mattina*
+
+      |-------+----------------------+---------+----------------------+---------+---------|
+      |   *Ora* | *Lunedì*               | *Martedì* | *Mercoledì*            | *Giovedì* | *Venerdì* |
+      |-------+----------------------+---------+----------------------+---------+---------|
+      | 09:00 |                      |         |                      |         |         |
+      | 10:00 |                      |         |                      |         |         |
+      | 11:00 | Geometria ed Algebra | Fisica  | Geometria ed Algebra | Fisica  |         |
+      | 12:00 | Geometria ed Algebra | Fisica  | Geometria ed Algebra | Fisica  |         |
+      | 13:00 |                      |         |                      |         |         |
+      |-------+----------------------+---------+----------------------+---------+---------|
+
+    
+    - E quella contenente gli *orari del pomeriggio*
+
+      |-------+-----------------------+---------+----------------+-----------------------+----------------|
+      |   *Ora* | *Lunedì*                | *Martedì* | *Mercoledì*      | *Giovedì*               | *Venerdì*        |
+      |-------+-----------------------+---------+----------------+-----------------------+----------------|
+      | 14:00 | Logica e reti logiche |         | Programmazione | Logica e reti logiche | Programmazione |
+      | 15:00 | Logica e reti logiche |         | Programmazione | Logica e reti logiche | Programmazione |
+      | 16:00 |                       |         | Programmazione |                       | Programmazione |
+      | 17:00 |                       |         |                |                       |                |
+      | 18:00 |                       |         |                |                       |                |
+      |-------+-----------------------+---------+----------------+-----------------------+----------------|
+      
+* Struttura sito
+  L'idea è quella di scaricare tramite del web-scraping dal sito
+  ufficiale di informatica (http://www.informatica.uniroma2.it/) le
+  informazioni di interesse, metterle in una cartella, e
+  successivamente utilizzare un secondo python script per generare, a
+  partire dai dati scaricati, le pagine html/css/javascript necessarie
+  per costruire il nuovo sito.
+
+  Così facendo abbiamo un sito statico che viene ri-generato in modo
+  dinamico ogni tot. di tempo.
+
+  Per quanto riguarda la scaricazione delle informazioni dal sito di
+  informatica, è possibile utilizzare lo scraper al seguente URL:
+  [[https://github.com/LeonardoE95/TorVergataCSWebAPI.git][TorVergataCSWebAPI]], che dovrà essere integrati nella repository
+  corrente a breve.
