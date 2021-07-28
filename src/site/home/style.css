@@ -9,6 +9,10 @@
   position: absolute;
 }
 
+#barraMenu a.navbar-brand {
+  font-family: 'Times New Roman', Times, serif;
+}
+
 .underbar {
   width: 0;
   height: 3px;
@@ -71,6 +75,8 @@
   width: 62px;
 }
 
+/* HEADER */
+
 header {
   max-width: 300px;
   margin: auto;
@@ -82,6 +88,11 @@ header {
 header h1 {
   font-family: 'Times New Roman', Times, serif;
   text-align: center;
+  font-size: 48px;
+}
+
+header h1:nth-child(3) {
+  font-size: 60px;
 }
 
 #switch-button {
@@ -99,6 +110,9 @@ header h1 {
 }
 
 #triennale, #magistrale {
+  font-family: monospace;
+  font-size: x-large;
+  font-weight: bold;
   width: 50%;
   margin: 0;
   position: absolute;
@@ -141,10 +155,10 @@ header h1 {
 }
 
 .select-disabled {
-  -webkit-touch-callout: none; /* iOS Safari */
-  -webkit-user-select: none; /* Safari */
-  -khtml-user-select: none; /* Konqueror HTML */
-  -moz-user-select: none; /* Old versions of Firefox */
-  -ms-user-select: none; /* Internet Explorer/Edge */
+  -webkit-touch-callout: none;  /* iOS Safari */
+  -webkit-user-select: none;    /* Safari */
+  -khtml-user-select: none;     /* Konqueror HTML */
+  -moz-user-select: none;       /* Old versions of Firefox */
+  -ms-user-select: none;        /* Internet Explorer/Edge */
   user-select: none;
 }
