@@ -102,7 +102,7 @@ header h1:nth-child(3) {
   border-radius: 10px;
   /*border: 4px outset rgb(128, 128, 128);
   background-color:lightgray;*/
-  border: 1px solid green;
+  border: 2px solid green;
   position: relative;
   width: 100%;
   height: 3em;
@@ -139,7 +139,7 @@ header h1:nth-child(3) {
   cursor: pointer;
   position: absolute;
   /*border-radius: 9px;*/
-  border-radius: 8px 0px 0px 8px;
+  border-radius: 6px 0px 0px 6px;
   z-index: 1;
   top: 0;
   width: 50%;
@@ -151,7 +151,7 @@ header h1:nth-child(3) {
 
 .right {
   left: 50% !important;
-  border-radius: 0px 8px 8px 0px !important;
+  border-radius: 0px 6px 6px 0px !important;
 }
 
 .select-disabled {
@@ -161,4 +161,22 @@ header h1:nth-child(3) {
   -moz-user-select: none;       /* Old versions of Firefox */
   -ms-user-select: none;        /* Internet Explorer/Edge */
   user-select: none;
+}
+
+/* main */
+main {
+  height: 1000px;
+}
+
+/* footer */
+footer {
+  display: flex;
+  flex-wrap: nowrap;
+  padding: 25px 40%;
+}
+
+footer div {
+  display: inline;
+  margin: auto;
+  cursor: pointer;
 }
