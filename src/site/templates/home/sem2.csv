@@ -1,0 +1,31 @@
+anno,ora,lunedì,martedì,mercoledì,giovedì,venerdì
+1,9:00, X,X,X,X,X
+1,10:00, X,X,X,X,X
+1,11:00, Geometria ed algebra(online),Fisica(online),Geometria ed algebra(online),Fisica(online),X
+1,12:00, Geometria ed algebra(online),Fisica(online),Geometria ed algebra(online),Fisica(online),X
+1,13:00, X,X,X,X,X
+1,14:00, Logica e reti logiche(Aula 13),X,Programmazione dei calcolatori con laboratorio(online),Logica e reti logiche(Aula 13),Programmazione dei calcolatori con laboratorio(online)
+1,15:00, Logica e reti logiche(Aula 13),X,Programmazione dei calcolatori con laboratorio(online),Logica e reti logiche(Aula 13),Programmazione dei calcolatori con laboratorio(online)
+1,16:00, X,X,Programmazione dei calcolatori con laboratorio(online),X,Programmazione dei calcolatori con laboratorio(online)
+1,17:00, X,X,X,X,X
+1,18:00, X,X,X,X,X
+2,9:00, Algoritmi e strutture dati(online),Sistemi operativi e reti(online),Fondamenti di informatica(online),Algoritmi e strutture dati(online),X
+2,10:00, Algoritmi e strutture dati(online),Sistemi operativi e reti(online),Fondamenti di informatica(online),Algoritmi e strutture dati(online),X
+2,11:00, Linguaggi e metodologie di programmazione(online),Fondamenti di informatica(online),Linguaggi e metodologie di programmazione(online),Sistemi operativi e reti(online),X
+2,12:00, Linguaggi e metodologie di programmazione(online),Fondamenti di informatica(online),Linguaggi e metodologie di programmazione(online),Sistemi operativi e reti(online),X
+2,13:00, X,X,X,X,X
+2,14:00, Basi di dati e di conoscenza(Aula 3PP2),Ricerca operativa(online),Basi di dati e di conoscenza(Aula 13),X,X
+2,15:00, Basi di dati e di conoscenza(Aula 3PP2),Ricerca operativa(online),Basi di dati e di conoscenza(Aula 13),X,X
+2,16:00, X,Ricerca operativa(online),X,X,X
+2,17:00, X,Ricerca operativa(online),X,X,X
+2,18:00, X,X,X,X,X
+3,9:00, X,X,X,X,X
+3,10:00, Ingegneria del software(9:30),X,X,X,Ingegneria del software(9:30)
+3,11:00, Ingegneria del software(10:30),Programmazione Java per dispositivi mobili(11:30),Modelli e linguaggi di simulazione(11:30),X,Ingegneria del software(10:30)
+3,12:00, Modelli e linguaggi di simulazione(11:30),Programmazione Java per dispositivi mobili(12:30),Modelli e linguaggi di simulazione(12:30),Programmazione Web(online),X
+3,13:00, Modelli e linguaggi di simulazione(12:30),X,X,Programmazione Web(online),X
+3,14:00, X,Programmazione Web(online),X,Programmazione Java per dispositivi mobili(online),X
+3,15:00, X,Programmazione Web(online),X,Programmazione Java per dispositivi mobili(online),X
+3,16:00, X,X,X,X,X
+3,17:00, X,X,X,X,X
+3,18:00, X,X,X,X,X
