@@ -19,4 +19,23 @@ window.onload = function() {
         calendarioTriennale.classList.toggle("hidden");
         calendarioMagistrale.classList.toggle("hidden");
     });
+
+
+    /* When the user scrolls down, hide the navbar. When the user scrolls up, show the navbar */
+    var prevScrollpos = window.pageYOffset;
+    const barraMenu = document.getElementById("barraMenu");
+
+    window.onscroll = function() {
+        var currentScrollPos = window.pageYOffset;
+        var h = barraMenu.style.height;
+
+        if (prevScrollpos > currentScrollPos) {
+            barraMenu.style.top = "0";
+            barraMenu.classList.add("ombra-menu");
+        } else {
+            barraMenu.style.top = `-100px`;
+            barraMenu.classList.remove("ombra-menu");
+        }
+        prevScrollpos = currentScrollPos;
+    }
 };
