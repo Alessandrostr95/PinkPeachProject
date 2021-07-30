@@ -38,15 +38,17 @@ def import_csv(f_name, degree="Triennale"):
 
 if __name__ == "__main__":
 
-    csv_file = "./sem2.csv"
+    csv_file = ["./sem2.csv", "./sem2_magistrale.csv"]
     result_file = "../../home/index.html"
 
-    dati = import_csv( csv_file )
-    pprint( dati )
-
+    triennale = import_csv( csv_file[0] )
+    magistrale = import_csv( csv_file[1], degree="Master" )
+    pprint( triennale )
+    pprint( magistrale )
+    
     env = Environment( loader=FileSystemLoader(".") )
     template = env.get_template( './table.html' )
-    output_from_parsed_template = template.render( orari=dati )
+    output_from_parsed_template = template.render( bachelor=triennale, master=magistrale )
     
     print( output_from_parsed_template )
 
