@@ -1,14 +1,21 @@
 .news {
-  height: 85vh;
   margin: 0;
   /*padding: .6rem;*/
   padding: 0;
+}
+
+.news .buffer {
+  width: 100%;
+  padding: 0;
+  height: 60vh;
   overflow-y: scroll;
   overflow-x: hidden;
 }
 
 .news div.row {
   background-color: darkseagreen !important;
+  width: 100% !important;
+  margin: 0 !important;
 }
 
 .message {
@@ -71,21 +78,21 @@
 
 /* scroll bar */
 /* width */
-.news::-webkit-scrollbar {
+.news ::-webkit-scrollbar {
   width: 10px;
 }
 
 /* Track */
-.news::-webkit-scrollbar-track {
+.news ::-webkit-scrollbar-track {
   background: #f1f1f1;
 }
 
 /* Handle */
-.news::-webkit-scrollbar-thumb {
+.news ::-webkit-scrollbar-thumb {
   background: rgba(0, 128, 0, 0.6);
 }
 
 /* Handle on hover */
-::-webkit-scrollbar-thumb:hover {
+.news ::-webkit-scrollbar-thumb:hover {
   background: rgba(0, 100, 0, 0.8);
 }
