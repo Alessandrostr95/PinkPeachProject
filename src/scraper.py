@@ -769,5 +769,8 @@ class UniScraper(object):
 # ----------------------------
 
 if __name__ == "__main__":
-    bachelor_scraper = UniScraper(Degree.BACHELOR, create_dir=True)
+    # bachelor_scraper = UniScraper(Degree.BACHELOR, create_dir=True)
     # bachelor_scraper.get_all_data("20-21")
+
+    master_scraper = UniScraper(Degree.MASTER, create_dir=True)
+    master_scraper.get_all_data("20-21")    

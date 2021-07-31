@@ -1,0 +1,28 @@
+{
+  "nomeCorso": "Information retrieval",
+  "docente": "Giorgio Gambosi, Danilo Croce",
+  "annoAccademico": "2020-2021",
+  "crediti": "6",
+  "settore": "INF/01",
+  "anno": "2",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [
+    {
+      "titolo": "Sito del corso",
+      "data": "09-10-2020 11:11",
+      "contenuto": "Il sito contenente le informazioni sul corso e i relativi materiali link \u00e8 il\u00a0seguente.\u00a0Si consiglia di accedere aprendo un nuovo pannello o una nuova finestra."
+    },
+    {
+      "titolo": "Link a Teams",
+      "data": "04-10-2020 19:30",
+      "contenuto": "Il corso si svolger\u00e0 in modalit\u00e0 on-line sulla piattaforma Teams dell'Ateneo. Il relativo link \u00e8 il seguente."
+    }
+  ],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "null",
+  "testiRiferimento": "null",
+  "ricevimento": "null",
+  "modalit\u00e0Esame": "null"
+}

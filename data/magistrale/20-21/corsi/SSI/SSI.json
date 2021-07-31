@@ -1,0 +1,24 @@
+{
+  "nomeCorso": "Sicurezza dei sistemi informativi",
+  "docente": "Maurizio Talamo, Andrea Dimitri",
+  "annoAccademico": "2020-2021",
+  "crediti": "9",
+  "settore": "INF/01",
+  "anno": "2",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [
+    {
+      "titolo": "<span style=\"text-decoration: underline;\">Presentazione del corso.</span>",
+      "dataUpload": "07.10.2020 09:34:56",
+      "link": "http://www.informatica.uniroma2.it/upload/2020/SSI/PresentazioneCorsoSSI.pdf",
+      "dimensione": "963 KB"
+    }
+  ],
+  "programma": "1) La Sicurezza di un sistema gerarchico\n1.a\u00a0 \u00a0Gli obiettivi del security layer: autenticazione delle parti, confidenzialit\u00e0 e integrit\u00e0, non ripudiabilit\u00e0\n1.b\u00a0 \u00a0Crittografia simmetrica e asimmetrica\n1.c\u00a0 \u00a0PKI, certificati digitali\n1.d\u00a0 \u00a0La firma elettronica\n1.e\u00a0 \u00a0Il protocollo SSL/TLS\n\n2) La Sicurezza di un sistema cooperativo\n2.a\u00a0 \u00a0Formalizzazione di un sistema cooperativo attraverso WFL\n2.b\u00a0 \u00a0Monitoraggio dei task e delle applicazioni\n2.c\u00a0 \u00a0Anomaly detection systems e analisi delle reti\n2.d\u00a0 \u00a0Entropia e monitoraggio dei processi\n\n3) La Sicurezza di una rete sociale\n3.1\u00a0 \u00a0Definizione di social network e social network analysis\n3.2\u00a0 \u00a0Analisi locale e globale di una social network\n3.3\u00a0 \u00a0La funzione di trust\n3.4\u00a0 \u00a0Costruzione di un firewall applicativo attraverso la SNA\n\n4) La Sicurezza di un sistema distribuito\n4.1\u00a0 Sistemi non gerarchizzabili e approcci distribuiti ai problemi\n4.2\u00a0 \u00a0Distributed Ledgers Technology e Blockchain theory\n4.3\u00a0 \u00a0Sicurezza nelle DLT",
+  "testiRiferimento": "Slide e materiale didattico distribuito dal docente durante le lezioni oppure, su richiesta, via mail.",
+  "ricevimento": "I docenti ricevono gli studenti previo appuntamento concordato via mail (da richiedere a andrea.dimitri@uniroma2.it).",
+  "modalit\u00e0Esame": "L'esame \u00e8 orale. Il colloquio pu\u00f2 riguardare il programma del corso, oppure, la discussione di una tesina su un argomento del corso. In questo secondo caso l'argomento deve essere concordato con il docente."
+}

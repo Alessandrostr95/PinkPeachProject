@@ -1,0 +1,51 @@
+table {
+	width: fit-content; 
+	border-collapse: collapse;
+	overflow: hidden;
+	box-shadow: 0 0 20px rgba(0,0,0,0.1);
+	font-size: small;
+}
+
+th, td {
+	background-color: rgba(255,255,255,0.2);
+}
+
+th {
+	text-align: left;
+}
+
+thead {
+    background-color: green;
+    color: white;
+}
+
+thead th {
+	background-color: green;
+}
+
+tbody tr:hover {
+	background-color: rgba(5, 73, 5, 0.6);
+}
+
+tbody td {
+	position: relative;
+    transition: transform .2s; /* Animation */
+    text-align: center;
+    cursor: pointer;
+}
+
+tbody td:hover {
+    color: honeydew;
+    font-weight: bold;
+}
+
+tbody td:hover::before {
+	content: "";
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: -9999px;
+	bottom: -9999px;
+	background-color: rgba(5, 73, 5, 0.5);
+	z-index: -1;
+}

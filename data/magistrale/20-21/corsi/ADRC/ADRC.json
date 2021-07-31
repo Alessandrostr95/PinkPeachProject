@@ -1,0 +1,39 @@
+{
+  "nomeCorso": "Algoritmi distribuiti e reti complesse",
+  "docente": "Andrea Clementi, Luciano Guala'",
+  "annoAccademico": "2020-2021",
+  "crediti": "9",
+  "settore": "INF/01",
+  "anno": "1",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [
+    {
+      "titolo": "ADRC: VERBALIZZAZIONE ET AL",
+      "data": "25-02-2021 09:45",
+      "contenuto": "GLI STUDENTI DEL CORSO DI ADRC INTERESSATI ALLA VERBALIZZAZIONE DEGLI ESAMI ED AL\u00a0 RICONOSCIMENTO DI CFU EXTRA, SONO PREGATI DI SEGUIRE LE INFORMAZIONI DATE NEL CANALE GENERALE DI ADRC DELLA PIATTAFORMA TEAMS"
+    },
+    {
+      "titolo": "ADRC ON LINE",
+      "data": "28-09-2020 12:13",
+      "contenuto": "A causa della nota pandemia COVID-19, le lezioni del corso avranno luogo in modalit\u00e0 on line, secondo l'orario ufficiale disponibile sul sito del corso di laurea:\n\nLUNEDI et GIOVEDI\u00a0 dalle 14:30 alle 16:30.\n\nIL corso si svolgera' sulla piattaforma TEAM. Nel Team\n\nCLEMENTI-8065531-ALGORITMI_DISTRIBUITI_E_RETI_COMPLESSE\n\ntroverete tutte le informazioni e gli appuntamenti relativi al corso. E' fortemente consigliato partecipare attivamente a tutti gli eventi on-line del corso.\n\n\nPer iscriversi al suddetto TEAM specifico,\u00a0*dopo*\u00a0aver verificato l'attivazione ed il funzionamento delle proprie credenziali sulla suddetta piattaforma (rivolgendosi eventualmente\u00a0ed\u00a0esclusivamente\u00a0ai contatti utili per\u00a0 questa procedura), in caso di problemi\u00a0specifici\u00a0con il team di ADRC, lo studente interessato \u00e8 pregato di inviare una email ai docenti del corso ADRC specificando nel soggetto \"ADRC Team\"."
+    },
+    {
+      "titolo": "ADRC ON LINE",
+      "data": "28-09-2020 12:02",
+      "contenuto": ""
+    }
+  ],
+  "lezioni": [
+    {
+      "id": "0",
+      "data": "28-09-2020",
+      "contenuto": "Quest'anno le lezioni avverranno ONLINE sulla piattaforma teams e saranno li memorizzate nel materiali didattico"
+    }
+  ],
+  "materiale": [],
+  "programma": "Il corso ADRC per l'a.a. 2020-21 sar\u00e0 costituito da due moduli:\n\na)\u00a0Calcolo Distribuito\u00a0 (Prof. Clementi)\nb)\u00a0Teoria Algoritmica dei Giochi\u00a0(Dr. Gual\u00e0)\n\n\n\n\nIl modulo (a)\npresenta i principi fondamentali del calcolo distribuito sia da un punto di vista dei modelli di comunicazione/computazione pi\u00f9 importanti che per quanto riguarda i metodi algoritmici fondamentali per tali modelli.\nL'obiettivo formativo e' quello di fornire degli strumenti efficienti e rigorosi per il Problem Solving in cui, rispetto ai corsi algoritmici della triennale, per la prima volta le entit\u00e0 computazionali (agenti)\u00a0 sono molteplici ed interagenti.Questo nuovo paradigma offre ottime\u00a0 basi per progettare\u00a0 protocolli efficienti per problemi fondamentali ed estremamente attuali nel mondo dei moderni sistemi distribuiti.Questa parte sar\u00e0 tenuta del Prof. Clementi e sar\u00e0 di 6 cfu.Nel modulo (b),\u00a0il Dr. Gual\u00e0 tratter\u00e0 un altro aspetto fondamentaledei sistemi distribuiti moderni: la presenza di comportamenti egoistici degli agenti di un sistema distribuito. Tale presenza ha portato negli ultimi decenni a sviluppare un'importante teoria:l'Algorithmic Game Theory. Profondamente ispirata dalla famosa Game Theory (Nash Equilbria), questa teoria viene trattata nel corso per affrontare importanti problematiche nel campo dell'ottimizzazione di reti di comunicazione e di altre applicazioni.\n\n\nQui sotto vengono riportati i \u00a0programmi generali e preliminari\u00a0per i 2 moduli.\u00a0Modulo (a):\u00a0Algoritmi Distribuiti- Modelli di computazione distribuiti: paradigmi, algoritmi, misure di complessit\u00e0, comunicazione- Un processo epidemico: Il\u00a0 Broadcast e l'Information Spreading- Il problema del Wake-Up- Il problema dello Spanning Tree- Il problema del Leader Election- Il Modello Wireless: il fenomeno delle collisioni- Il Broadcast su Wireless Networks: protcolli\u00a0 deterministici e randomizzati- Modelli e Processi\u00a0 Distribuiti avanzati in\u00a0 \u00a0 Network Science\u00a0\u00a0\u00a0Modulo (b) \u00a0Teoria Algoritmica dei Gioghi\u00a0**** - da inserire *****",
+  "testiRiferimento": "N. Santoro:\nDesign and analysis of Distributed Algorithms +\u00a0\u00a0Slides e Note del Docente disponibili sulla piattaforma Teams",
+  "ricevimento": "per appuntamento, concordato via email con i docenti. Il ricevimento avra' luogo\nattraverso la piattaforma Team. In casi eccezionali e per motivazioni specifiche valutate\ndai docenti, sara' possibile effettuare ricevimenti on-line su altri sistemi (skype, etc etc).",
+  "modalit\u00e0Esame": "Gli esami si svolgeranno mediante un colloquio orale sulla piattaforma TEAM"
+}

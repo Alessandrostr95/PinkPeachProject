@@ -1,0 +1,23 @@
+{
+  "nomeCorso": "Calcolo delle probabilit\u00e0",
+  "docente": "Claudio Macci",
+  "annoAccademico": "2020-2021",
+  "crediti": "6",
+  "settore": "MAT/06",
+  "anno": "1",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [
+    {
+      "titolo": "",
+      "data": "04-03-2021 20:07",
+      "contenuto": "Tutte le informazioni del corso sono disponibili qui:\nhttps://www.mat.uniroma2.it/~macci/didattica-CP-informatica-magistrale.htm"
+    }
+  ],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "null",
+  "testiRiferimento": "null",
+  "ricevimento": "null",
+  "modalit\u00e0Esame": "null"
+}

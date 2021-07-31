@@ -1,0 +1,17 @@
+{
+  "nomeCorso": "Metodi di verifica di sistemi",
+  "docente": "Benedetto Intrigila",
+  "annoAccademico": "2020-2021",
+  "crediti": "6",
+  "settore": "INF/01",
+  "anno": "2",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "Model checking. Approccio esplicito e simbolico.\nNella parte avanzata del corso verra' considerato\nl'uso del model checking nel planning e/o per i sistemi ibridi.",
+  "testiRiferimento": "Systems and Software Verification\nModel-Checking Techniques and Tools\nAutori: Berard, B., Bidoit, M., Finkel, A., Laroussinie, F.,\nPetit, A., Petrucci, L., Schnoebelen, P",
+  "ricevimento": "null",
+  "modalit\u00e0Esame": "null"
+}

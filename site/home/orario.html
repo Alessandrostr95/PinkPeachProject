@@ -1,0 +1,729 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="table-style.css">
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
+      crossorigin="anonymous"
+    />
+    <script src="script.js"></script>
+    <title>Informatica Tor Vergata</title>
+  </head>
+  <body>
+    <!-- Barra del menu -->
+    <nav
+      id="barraMenu"
+      class="navbar sticky-top navbar-expand-md navbar-light bg-light ombra-menu"
+    >
+      <div class="container-fluid">
+        <a class="navbar-brand" href="http://web.uniroma2.it/" target="_blank">
+          <img
+            src="./logo_TV.svg"
+            alt="logo tor vergata"
+            height="60px"
+            class="d-inline-block align-text-top"
+          />
+          <div class="d-inline-block align-text-top">
+            Università degli studi <br />
+            di Roma Tor Vergata
+          </div>
+        </a>
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#navbarTogglerDemo02"
+          aria-controls="navbarTogglerDemo02"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div
+          class="collapse navbar-collapse justify-content-end"
+          id="navbarTogglerDemo02"
+        >
+          <ul class="navbar-nav">
+            <li class="nav-item">
+              <a class="nav-link" href="#">Orari</a>
+            </li>
+
+            <li class="nav-item">
+              <a class="nav-link" href="#">Corsi</a>
+            </li>
+
+            <li class="nav-item">
+              <a class="nav-link" href="#">Docenti</a>
+            </li>
+
+            <li class="nav-item">
+              <a class="nav-link" href="#">Esami</a>
+            </li>
+            <div class="underbar"></div>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <!-- header -->
+    <header class="select-disabled">
+      <h1>Corso di laurea</h1>
+      <div id="switch-button">
+        <h3 id="triennale" class="toggled">Triennale</h3>
+        <h3 id="magistrale">Magistrale</h3>
+        <div id="slide-bar"></div>
+      </div>
+      <h1>Informatica</h1>
+    </header>
+
+    <!-- main -->
+    <main class="container"> 
+
+      <!-- calendario triennale -->
+      <div id="calendario-triennale" class="container-fluid">
+        <nav>
+          <div class="nav nav-tabs" id="nav-tab" role="tablist">
+            <button
+              class="nav-link active"
+              id="nav-home-tab"
+              data-bs-toggle="tab"
+              data-bs-target="#first-year"
+              type="button"
+              role="tab"
+              aria-controls="nav-home"
+              aria-selected="true"
+            >
+              I
+            </button>
+            <button
+              class="nav-link"
+              id="nav-profile-tab"
+              data-bs-toggle="tab"
+              data-bs-target="#second-year"
+              type="button"
+              role="tab"
+              aria-controls="nav-profile"
+              aria-selected="false"
+            >
+              II
+            </button>
+            <button
+              class="nav-link"
+              id="nav-contact-tab"
+              data-bs-toggle="tab"
+              data-bs-target="#third-year"
+              type="button"
+              role="tab"
+              aria-controls="nav-contact"
+              aria-selected="false"
+            >
+              III
+            </button>
+          </div>
+        </nav>
+
+        <div class="tab-content" id="nav-tabContent">
+          <div
+            class="tab-pane fade show active"
+            id="first-year"
+            role="tabpanel"
+            aria-labelledby="nav-home-tab"
+          >
+            <!-- calendario primo anno here -->
+            
+<!-- auto-generated with python script -->
+<div class="table-responsive-sm">
+    <table class="table table-bordered align-middle">
+        <thead>
+            <tr class="text-center">
+                <th scope="col">Ora</th>
+                <th scope="col">Lunedì</th>
+                <th scope="col">Martedì</th>
+                <th scope="col">Mercoledì</th>
+                <th scope="col">Giovedì</th>
+                <th scope="col">Venerdì</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <th scope="row">09:00</th>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <th scope="row">10:00</th>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <th scope="row">11:00</th>
+                <td>Geometria ed algebra<br />(online)</td>
+                <td>Fisica<br />(online)</td>
+                <td>Geometria ed algebra<br />(online)</td>
+                <td>Fisica<br />(online)</td>
+                <td></td>
+            </tr>
+            <tr>
+                <th scope="row">12:00</th>
+                <td>Geometria ed algebra<br />(online)</td>
+                <td>Fisica<br />(online)</td>
+                <td>Geometria ed algebra<br />(online)</td>
+                <td>Fisica<br />(online)</td>
+                <td></td>
+            </tr>
+            <tr>
+                <th scope="row">13:00</th>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <th scope="row">14:00</th>
+                <td>Logica e reti logiche<br />(Aula 13)</td>
+                <td></td>
+                <td>Programmazione dei calcolatori con laboratorio<br />(online)</td>
+                <td>Logica e reti logiche<br />(Aula 13)</td>
+                <td>Programmazione dei calcolatori con laboratorio<br />(online)</td>
+            </tr>
+            <tr>
+                <th scope="row">15:00</th>
+                <td>Logica e reti logiche<br />(Aula 13)</td>
+                <td></td>
+                <td>Programmazione dei calcolatori con laboratorio<br />(online)</td>
+                <td>Logica e reti logiche<br />(Aula 13)</td>
+                <td>Programmazione dei calcolatori con laboratorio<br />(online)</td>
+            </tr>
+            <tr>
+                <th scope="row">16:00</th>
+                <td></td>
+                <td></td>
+                <td>Programmazione dei calcolatori con laboratorio<br />(online)</td>
+                <td></td>
+                <td>Programmazione dei calcolatori con laboratorio<br />(online)</td>
+            </tr>
+            <tr>
+                <th scope="row">17:00</th>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <th scope="row">18:00</th>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+          </div>
+          <div
+            class="tab-pane fade"
+            id="second-year"
+            role="tabpanel"
+            aria-labelledby="nav-profile-tab"
+          >
+            <!-- calendario secondo anno here -->
+            
+<!-- auto-generated with python script -->
+<div class="table-responsive-sm">
+    <table class="table table-bordered align-middle">
+        <thead>
+            <tr class="text-center">
+                <th scope="col">Ora</th>
+                <th scope="col">Lunedì</th>
+                <th scope="col">Martedì</th>
+                <th scope="col">Mercoledì</th>
+                <th scope="col">Giovedì</th>
+                <th scope="col">Venerdì</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <th scope="row">09:00</th>
+                <td>Algoritmi e strutture dati<br />(online)</td>
+                <td>Sistemi operativi e reti<br />(online)</td>
+                <td>Fondamenti di informatica<br />(online)</td>
+                <td>Algoritmi e strutture dati<br />(online)</td>
+                <td></td>
+            </tr>
+            <tr>
+                <th scope="row">10:00</th>
+                <td>Algoritmi e strutture dati<br />(online)</td>
+                <td>Sistemi operativi e reti<br />(online)</td>
+                <td>Fondamenti di informatica<br />(online)</td>
+                <td>Algoritmi e strutture dati<br />(online)</td>
+                <td></td>
+            </tr>
+            <tr>
+                <th scope="row">11:00</th>
+                <td>Linguaggi e metodologie di programmazione<br />(online)</td>
+                <td>Fondamenti di informatica<br />(online)</td>
+                <td>Linguaggi e metodologie di programmazione<br />(online)</td>
+                <td>Sistemi operativi e reti<br />(online)</td>
+                <td></td>
+            </tr>
+            <tr>
+                <th scope="row">12:00</th>
+                <td>Linguaggi e metodologie di programmazione<br />(online)</td>
+                <td>Fondamenti di informatica<br />(online)</td>
+                <td>Linguaggi e metodologie di programmazione<br />(online)</td>
+                <td>Sistemi operativi e reti<br />(online)</td>
+                <td></td>
+            </tr>
+            <tr>
+                <th scope="row">13:00</th>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <th scope="row">14:00</th>
+                <td>Basi di dati e di conoscenza<br />(Aula 3PP2)</td>
+                <td>Ricerca operativa<br />(online)</td>
+                <td>Basi di dati e di conoscenza<br />(Aula 13)</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <th scope="row">15:00</th>
+                <td>Basi di dati e di conoscenza<br />(Aula 3PP2)</td>
+                <td>Ricerca operativa<br />(online)</td>
+                <td>Basi di dati e di conoscenza<br />(Aula 13)</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <th scope="row">16:00</th>
+                <td></td>
+                <td>Ricerca operativa<br />(online)</td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <th scope="row">17:00</th>
+                <td></td>
+                <td>Ricerca operativa<br />(online)</td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <th scope="row">18:00</th>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+          </div>
+          <div
+            class="tab-pane fade"
+            id="third-year"
+            role="tabpanel"
+            aria-labelledby="nav-contact-tab"
+          >
+            <!-- calendario terzo anno here -->
+            
+<!-- auto-generated with python script -->
+<div class="table-responsive-sm">
+    <table class="table table-bordered align-middle">
+        <thead>
+            <tr class="text-center">
+                <th scope="col">Ora</th>
+                <th scope="col">Lunedì</th>
+                <th scope="col">Martedì</th>
+                <th scope="col">Mercoledì</th>
+                <th scope="col">Giovedì</th>
+                <th scope="col">Venerdì</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <th scope="row">09:00</th>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <th scope="row">10:00</th>
+                <td>Ingegneria del software<br />(9:30)</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td>Ingegneria del software<br />(9:30)</td>
+            </tr>
+            <tr>
+                <th scope="row">11:00</th>
+                <td>Ingegneria del software<br />(10:30)</td>
+                <td>Programmazione Java per dispositivi mobili<br />(11:30)</td>
+                <td>Modelli e linguaggi di simulazione<br />(11:30)</td>
+                <td></td>
+                <td>Ingegneria del software<br />(10:30)</td>
+            </tr>
+            <tr>
+                <th scope="row">12:00</th>
+                <td>Modelli e linguaggi di simulazione<br />(11:30)</td>
+                <td>Programmazione Java per dispositivi mobili<br />(12:30)</td>
+                <td>Modelli e linguaggi di simulazione<br />(12:30)</td>
+                <td>Programmazione Web<br />(online)</td>
+                <td></td>
+            </tr>
+            <tr>
+                <th scope="row">13:00</th>
+                <td>Modelli e linguaggi di simulazione<br />(12:30)</td>
+                <td></td>
+                <td></td>
+                <td>Programmazione Web<br />(online)</td>
+                <td></td>
+            </tr>
+            <tr>
+                <th scope="row">14:00</th>
+                <td></td>
+                <td>Programmazione Web<br />(online)</td>
+                <td></td>
+                <td>Programmazione Java per dispositivi mobili<br />(online)</td>
+                <td></td>
+            </tr>
+            <tr>
+                <th scope="row">15:00</th>
+                <td></td>
+                <td>Programmazione Web<br />(online)</td>
+                <td></td>
+                <td>Programmazione Java per dispositivi mobili<br />(online)</td>
+                <td></td>
+            </tr>
+            <tr>
+                <th scope="row">16:00</th>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <th scope="row">17:00</th>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <th scope="row">18:00</th>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+          </div>
+        </div>
+      </div>
+
+      <!-- calendario magistrale -->
+      <div id="calendario-magistrale" class="container-fluid hidden">
+        <nav>
+          <div class="nav nav-tabs" id="nav-tab" role="tablist">
+            <button
+              class="nav-link active"
+              id="nav-home-tab"
+              data-bs-toggle="tab"
+              data-bs-target="#master-first-year"
+              type="button"
+              role="tab"
+              aria-controls="nav-home"
+              aria-selected="true"
+            >
+              I
+            </button>
+            <button
+              class="nav-link"
+              id="nav-profile-tab"
+              data-bs-toggle="tab"
+              data-bs-target="#master-second-year"
+              type="button"
+              role="tab"
+              aria-controls="nav-profile"
+              aria-selected="false"
+            >
+              II
+            </button>
+          </div>
+        </nav>
+
+        <div class="tab-content" id="nav-tabContent">
+          <div
+            class="tab-pane fade show active"
+            id="master-first-year"
+            role="tabpanel"
+            aria-labelledby="nav-home-tab"
+          >
+            <!-- calendario primo anno here -->
+            
+<!-- auto-generated with python script -->
+<div class="table-responsive-sm">
+    <table class="table table-bordered align-middle">
+        <thead>
+            <tr class="text-center">
+                <th scope="col">Ora</th>
+                <th scope="col">Lunedì</th>
+                <th scope="col">Martedì</th>
+                <th scope="col">Mercoledì</th>
+                <th scope="col">Giovedì</th>
+                <th scope="col">Venerdì</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <th scope="row">09:00</th>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td>Inferenza statistica e teoria dell'informazione<br />(9:00)</td>
+                <td>Sistemi distribuiti cooperativi<br />(online)</td>
+            </tr>
+            <tr>
+                <th scope="row">10:00</th>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td>Inferenza statistica e teoria dell'informazione<br />(10:00)</td>
+                <td>Sistemi distribuiti cooperativi<br />(online)</td>
+            </tr>
+            <tr>
+                <th scope="row">11:00</th>
+                <td>Sistemi di simulazione distribuita<br />(11:30)</td>
+                <td></td>
+                <td>Sistemi distribuiti cooperativi<br />(online)</td>
+                <td>Calcolo delle probabilità<br />(online)</td>
+                <td>Sistemi di simulazione distribuita<br />(11:30)</td>
+            </tr>
+            <tr>
+                <th scope="row">12:00</th>
+                <td>Sistemi di simulazione distribuita<br />(12:30)</td>
+                <td></td>
+                <td>Sistemi distribuiti cooperativi<br />(online)</td>
+                <td>Calcolo delle probabilità<br />(online)</td>
+                <td>Sistemi di simulazione distribuita<br />(12:30)</td>
+            </tr>
+            <tr>
+                <th scope="row">13:00</th>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <th scope="row">14:00</th>
+                <td></td>
+                <td>Sistemi distribuiti cooperativi<br />(online)</td>
+                <td>Calcolo delle probabilità<br />(online)</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <th scope="row">15:00</th>
+                <td></td>
+                <td>Sistemi distribuiti cooperativi<br />(online)</td>
+                <td>Calcolo delle probabilità<br />(online)</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <th scope="row">16:00</th>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <th scope="row">17:00</th>
+                <td></td>
+                <td>Inferenza statistica e teoria dell'informazione<br />(17:00)</td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <th scope="row">18:00</th>
+                <td></td>
+                <td>Inferenza statistica e teoria dell'informazione<br />(18:00)</td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+          </div>
+          <div
+            class="tab-pane fade"
+            id="master-second-year"
+            role="tabpanel"
+            aria-labelledby="nav-profile-tab"
+          >
+            <!-- calendario secondo anno here -->
+            
+<!-- auto-generated with python script -->
+<div class="table-responsive-sm">
+    <table class="table table-bordered align-middle">
+        <thead>
+            <tr class="text-center">
+                <th scope="col">Ora</th>
+                <th scope="col">Lunedì</th>
+                <th scope="col">Martedì</th>
+                <th scope="col">Mercoledì</th>
+                <th scope="col">Giovedì</th>
+                <th scope="col">Venerdì</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <th scope="row">09:00</th>
+                <td>Sicurezza dei sistemi informativi<br />(online)</td>
+                <td>Sicurezza dei sistemi informativi<br />(online)</td>
+                <td>Web mining and retrieval<br />(online)</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <th scope="row">10:00</th>
+                <td>Sicurezza dei sistemi informativi<br />(online)</td>
+                <td>Sicurezza dei sistemi informativi<br />(online)</td>
+                <td>Web mining and retrieval<br />(online)</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <th scope="row">11:00</th>
+                <td>Sistemi cooperativi e reti sociali<br />(online)</td>
+                <td>Machine learning<br />(online)</td>
+                <td></td>
+                <td>Web mining and retrieval<br />(online)</td>
+                <td>Sicurezza dei sistemi informativi<br />(online)</td>
+            </tr>
+            <tr>
+                <th scope="row">12:00</th>
+                <td>Sistemi cooperativi e reti sociali<br />(online)</td>
+                <td>Machine learning<br />(online)</td>
+                <td></td>
+                <td>Web mining and retrieval<br />(online)</td>
+                <td>Sicurezza dei sistemi informativi<br />(online)</td>
+            </tr>
+            <tr>
+                <th scope="row">13:00</th>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <th scope="row">14:00</th>
+                <td>Web mining and retrieval<br />(14:00)</td>
+                <td></td>
+                <td></td>
+                <td>Machine learning<br />(14:00)</td>
+                <td>Machine learning<br />(14:00)</td>
+            </tr>
+            <tr>
+                <th scope="row">15:00</th>
+                <td>Web mining and retrieval<br />(15:00)</td>
+                <td></td>
+                <td></td>
+                <td>Machine learning<br />(15:00)</td>
+                <td>Machine learning<br />(15:00)</td>
+            </tr>
+            <tr>
+                <th scope="row">16:00</th>
+                <td></td>
+                <td></td>
+                <td>Sistemi cooperativi e reti sociali<br />(online)</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <th scope="row">17:00</th>
+                <td></td>
+                <td></td>
+                <td>Sistemi cooperativi e reti sociali<br />(online)</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <th scope="row">18:00</th>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+          </div>
+        </div>
+      </div>
+    </main>
+
+    <hr>
+
+    <!-- footer -->
+    <footer>
+      <div id="gitIcon">
+        <a href="https://github.com/Alessandrostr95/PinkPeachProject">
+          <img src="../icons/icons8-github-96.png" alt="git" width="28px">
+        </a>
+      </div>
+      <div id="sitoUfficialeIcon">
+        <a href="http://www.informatica.uniroma2.it/">
+          <img src="../icons/icons8-toilet-paper-80.png" alt="sito-informatica" width="28px">
+        </a>
+      </div>
+    </footer>
+
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+      crossorigin="anonymous"
+    ></script>
+  </body>
+</html>
