@@ -66,6 +66,12 @@
   transition: 0.5s ease;
   cursor: pointer;
 }
+/*
+versione vecchia quando gli elementi erano:
+- Informazioni
+- Didattica
+- Docenti
+- Studenti
 #barraMenu li:nth-of-type(1):hover ~ .underbar {
   left: 8px;
   width: 90px;
@@ -81,6 +87,23 @@
 #barraMenu li:nth-of-type(4):hover ~ .underbar {
   left: 267px;
   width: 62px;
+}
+*/
+#barraMenu li:nth-of-type(1):hover ~ .underbar {
+  left: 8px;
+  width: 38px;
+}
+#barraMenu li:nth-of-type(2):hover ~ .underbar {
+  left: 60px;
+  width: 38px;
+}
+#barraMenu li:nth-of-type(3):hover ~ .underbar {
+  left: 113px;
+  width: 55px;
+}
+#barraMenu li:nth-of-type(4):hover ~ .underbar {
+  left: 185px;
+  width: 43px;
 }
 
 /* HEADER */
