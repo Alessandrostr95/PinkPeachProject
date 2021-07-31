@@ -3,6 +3,8 @@ const magistrale = "magistrale"
 
 var currentState = triennale;
 
+var coll;
+
 window.onload = function() {
     const slideBar = document.querySelector("#slide-bar");
     const triennale = document.querySelector("#triennale");
@@ -12,6 +14,10 @@ window.onload = function() {
     const calendarioMagistrale = document.getElementById("calendario-magistrale");
 
     document.querySelector("#switch-button").addEventListener("click", function(){
+        /**
+         * Cambio la radice triennale/magistrale del sito
+         * ...
+         */
         slideBar.classList.toggle("right");
         triennale.classList.toggle("toggled");
         magistrale.classList.toggle("toggled");
@@ -21,7 +27,10 @@ window.onload = function() {
     });
 
 
-    /* When the user scrolls down, hide the navbar. When the user scrolls up, show the navbar */
+    /*
+     * When the user scrolls down, hide the navbar. 
+     * When the user scrolls up, show the navbar.
+     */
     var prevScrollpos = window.pageYOffset;
     const barraMenu = document.getElementById("barraMenu");
 
@@ -38,4 +47,20 @@ window.onload = function() {
         }
         prevScrollpos = currentScrollPos;
     }
+
+
+    /* Faccio collassare gli elementi del NAV-TREE quando clicco su un elemento padre */
+    coll = document.querySelectorAll(".tree .tree-node");
+    console.log( coll );
+
+    for(let i = 0; i < coll.length; i++){
+        let u = coll[i].parentElement.querySelector("ul");
+        if( u ) {
+            coll[i].addEventListener("click", function(){
+                // console.log( u );
+                u.classList.toggle("hidden");
+            });
+        }
+    }
+
 };
