@@ -39,7 +39,7 @@ def import_csv(f_name, degree="Triennale"):
 if __name__ == "__main__":
 
     csv_file = ["./sem2.csv", "./sem2_magistrale.csv"]
-    result_file = "../../home/index.html"
+    result_file = "../../home/orario.html"
 
     triennale = import_csv( csv_file[0] )
     magistrale = import_csv( csv_file[1], degree="Master" )

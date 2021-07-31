@@ -5,7 +5,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="style.css" />
-    <link rel="stylesheet" href="table-style.css">
+    <link rel="stylesheet" href="table-style.css" />
+    <link rel="stylesheet" href="news-style.css" />
     <link
       href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
       rel="stylesheet"
@@ -19,7 +20,13 @@
     <!-- Barra del menu -->
     <nav
       id="barraMenu"
-      class="navbar sticky-top navbar-expand-md navbar-light bg-light ombra-menu"
+      class="
+        navbar
+        sticky-top
+        navbar-expand-md navbar-light
+        bg-light
+        ombra-menu
+      "
     >
       <div class="container-fluid">
         <a class="navbar-brand" href="http://web.uniroma2.it/" target="_blank">
@@ -84,148 +91,38 @@
     </header>
 
     <!-- main -->
-    <main class="container"> 
+    <main class="container">
 
-      <!-- calendario triennale -->
-      <div id="calendario-triennale" class="container-fluid">
-        <nav>
-          <div class="nav nav-tabs" id="nav-tab" role="tablist">
-            <button
-              class="nav-link active"
-              id="nav-home-tab"
-              data-bs-toggle="tab"
-              data-bs-target="#first-year"
-              type="button"
-              role="tab"
-              aria-controls="nav-home"
-              aria-selected="true"
-            >
-              I
-            </button>
-            <button
-              class="nav-link"
-              id="nav-profile-tab"
-              data-bs-toggle="tab"
-              data-bs-target="#second-year"
-              type="button"
-              role="tab"
-              aria-controls="nav-profile"
-              aria-selected="false"
-            >
-              II
-            </button>
-            <button
-              class="nav-link"
-              id="nav-contact-tab"
-              data-bs-toggle="tab"
-              data-bs-target="#third-year"
-              type="button"
-              role="tab"
-              aria-controls="nav-contact"
-              aria-selected="false"
-            >
-              III
-            </button>
-          </div>
-        </nav>
+      <!-- ANNUNCI -->
+      <p class="h1 text-center">News</p>
+      <section class="news container border border-3">
+        <div class="row row-cols-1 row-cols-md-2">
+        {% for item in items %}
+          {% block news scoped %}{% endblock %}
+        {% endfor %}
+        </div>   
+      </section>
 
-        <div class="tab-content" id="nav-tabContent">
-          <div
-            class="tab-pane fade show active"
-            id="first-year"
-            role="tabpanel"
-            aria-labelledby="nav-home-tab"
-          >
-            <!-- calendario primo anno here -->
-            {% block triennale1 %}{% endblock %}
-          </div>
-          <div
-            class="tab-pane fade"
-            id="second-year"
-            role="tabpanel"
-            aria-labelledby="nav-profile-tab"
-          >
-            <!-- calendario secondo anno here -->
-            {% block triennale2 %}{% endblock %}
-          </div>
-          <div
-            class="tab-pane fade"
-            id="third-year"
-            role="tabpanel"
-            aria-labelledby="nav-contact-tab"
-          >
-            <!-- calendario terzo anno here -->
-            {% block triennale3 %}{% endblock %}
-          </div>
-        </div>
-      </div>
-
-      <!-- calendario magistrale -->
-      <div id="calendario-magistrale" class="container-fluid hidden">
-        <nav>
-          <div class="nav nav-tabs" id="nav-tab" role="tablist">
-            <button
-              class="nav-link active"
-              id="nav-home-tab"
-              data-bs-toggle="tab"
-              data-bs-target="#master-first-year"
-              type="button"
-              role="tab"
-              aria-controls="nav-home"
-              aria-selected="true"
-            >
-              I
-            </button>
-            <button
-              class="nav-link"
-              id="nav-profile-tab"
-              data-bs-toggle="tab"
-              data-bs-target="#master-second-year"
-              type="button"
-              role="tab"
-              aria-controls="nav-profile"
-              aria-selected="false"
-            >
-              II
-            </button>
-          </div>
-        </nav>
-
-        <div class="tab-content" id="nav-tabContent">
-          <div
-            class="tab-pane fade show active"
-            id="master-first-year"
-            role="tabpanel"
-            aria-labelledby="nav-home-tab"
-          >
-            <!-- calendario primo anno here -->
-            {% block magistrale1 %}{% endblock %}
-          </div>
-          <div
-            class="tab-pane fade"
-            id="master-second-year"
-            role="tabpanel"
-            aria-labelledby="nav-profile-tab"
-          >
-            <!-- calendario secondo anno here -->
-            {% block magistrale2 %}{% endblock %}
-          </div>
-        </div>
-      </div>
+      <!-- NAV TREEE -->
+      <section></section>
     </main>
 
-    <hr>
+    <hr />
 
     <!-- footer -->
     <footer>
       <div id="gitIcon">
         <a href="https://github.com/Alessandrostr95/PinkPeachProject">
-          <img src="../icons/icons8-github-96.png" alt="git" width="28px">
+          <img src="../icons/icons8-github-96.png" alt="git" width="28px" />
         </a>
       </div>
       <div id="sitoUfficialeIcon">
         <a href="http://www.informatica.uniroma2.it/">
-          <img src="../icons/icons8-toilet-paper-80.png" alt="sito-informatica" width="28px">
+          <img
+            src="../icons/icons8-toilet-paper-80.png"
+            alt="sito-informatica"
+            width="28px"
+          />
         </a>
       </div>
     </footer>
