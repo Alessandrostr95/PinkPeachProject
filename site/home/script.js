@@ -10,8 +10,11 @@ window.onload = function() {
     const triennale = document.querySelector("#triennale");
     const magistrale = document.querySelector("#magistrale");
     
-    const calendarioTriennale = document.getElementById("calendario-triennale");
-    const calendarioMagistrale = document.getElementById("calendario-magistrale");
+    //const calendarioTriennale = document.getElementById("calendario-triennale");
+    //const calendarioMagistrale = document.getElementById("calendario-magistrale");
+
+    const navTreeTriennale = document.getElementById("nav-tree-triennale");
+    const navTreeMagistrale = document.getElementById("nav-tree-magistrale")
 
     document.querySelector("#switch-button").addEventListener("click", function(){
         /**
@@ -22,8 +25,10 @@ window.onload = function() {
         triennale.classList.toggle("toggled");
         magistrale.classList.toggle("toggled");
         currentState = currentState === triennale ? magistrale : triennale;
-        calendarioTriennale.classList.toggle("hidden");
-        calendarioMagistrale.classList.toggle("hidden");
+        //calendarioTriennale.classList.toggle("hidden");
+        //calendarioMagistrale.classList.toggle("hidden");
+        navTreeTriennale.classList.toggle("hidden");
+        navTreeMagistrale.classList.toggle("hidden");
     });
 
 
