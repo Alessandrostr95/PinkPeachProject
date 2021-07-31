@@ -1,0 +1,23 @@
+{
+  "nomeCorso": "Programmazione Web",
+  "docente": "Pierpaolo Loreti",
+  "annoAccademico": "2020-2021",
+  "crediti": "6",
+  "settore": "ING-INF/05",
+  "anno": "3",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [
+    {
+      "id": "0",
+      "data": "null",
+      "contenuto": "https://teams.microsoft.com/l/team/19%3a90ceebcc4e7e4f1c97073492e91bf64e%40thread.tacv2/conversations?groupId=edccf5b7-7046-4949-bc59-20eb0ed35a54&tenantId=24c5be2a-d764-40c5-9975-82d08ae47d0e"
+    }
+  ],
+  "materiale": [],
+  "programma": "null",
+  "testiRiferimento": "null",
+  "ricevimento": "null",
+  "modalit\u00e0Esame": "Appello Sessione estiva\n24 Giugno, ore 11.00 - 13.00\n20 Luglio, ore 10.00 - 12.00"
+}

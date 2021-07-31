@@ -1,0 +1,144 @@
+{
+  "nomeCorso": "Algoritmi e strutture dati",
+  "docente": "Andrea Clementi, Luciano Guala'",
+  "annoAccademico": "2020-2021",
+  "crediti": "12",
+  "settore": "INF/01",
+  "anno": "2",
+  "semestre": "1-2",
+  "propedeuticit\u00e0": "Analisi Matematica. Matematica discreta. Programmazione dei calcolatori con laboratorio.",
+  "comunicazioni": [
+    {
+      "titolo": "Appelli sessione autunnale a.a. 2019/20 e prova parziale a.a. 2020/21",
+      "data": "15-01-2021 23:11",
+      "contenuto": "Per gli studenti che intendono sostenere l'esame di ASD relativo all'a.a. 2019/20, gli appelli di febbraio sono da considerarsi esclusivi. Ognuno dei due moduli pu\u00f2 essere sostenuto in uno solo dei due appelli.\nChi vuole sostenere solo il modulo 1 e tenere il voto per tutto l'a.a. 2020/21 deve presentarsi alla prova parziale.\n\nLa prova parziale \u00e8 fissata per il 24/02/2021 alle ore 9 (in coincidenza con il secondo appello).\n\nModalit\u00e0 d'esame:\nIn tutti gli appelli l'esame consister\u00e0 in una prova a risposta multipla seguita in caso di esito positivo da una prova orale. Le prove orali in modalit\u00e0 remota (online) si svolgeranno lo stesso giorno dello scritto ed eventualmente nei giorni subito successivi."
+    },
+    {
+      "titolo": "Modalit\u00e0 di svolgimento del corso.",
+      "data": "02-10-2020 13:52",
+      "contenuto": "Quest'anno le lezioni del primo semestre si svolgeranno online sulla piattaforma MS TEAMS. Il team di questo corso \u00e8:\n\nGUALA'-8067331-ALGORITMI_E_STRUTTURE_DATI\n\nPer partecipare alla classe virtuale e quindi alle lezioni \u00e8 necessario richiedere la partecipazione al team.\nSe qualcuno riscontra problemi nell'iscrizione mi scriva all'indizzo guala@mat.uniroma2.it."
+    }
+  ],
+  "lezioni": [
+    {
+      "id": "23",
+      "data": "14-01-2021",
+      "contenuto": "Correzione Problem Set 2."
+    },
+    {
+      "id": "22",
+      "data": "12-01-2021",
+      "contenuto": "Correzione Problem Set 1."
+    },
+    {
+      "id": "21",
+      "data": "17-12-2020",
+      "contenuto": "Cammini minimi in grafi pesati. Il problema del calcolo dei cammini minimi a singola sorgente. Un algoritmo veloce quando il grafo ha pesi non negativi: l'algoritmo di Dijkstra."
+    },
+    {
+      "id": "20",
+      "data": "15-12-2020",
+      "contenuto": "Usi meno scontati della visita DFS. Catalogare per tipo gli archi del grafo. Individuare un ciclo in grafi diretti. Grafi diretti aciclici (DAG) e ordinamento topologico. Usare la visita DFS per trovare un ordinamento topologico di un DAG. Componenti fortemente connesse: un algoritmo lineare per calcolarle."
+    },
+    {
+      "id": "19",
+      "data": "10-12-2020",
+      "contenuto": "Strutture dati per rappresentare un grafo. Matrice di adiacenza e Liste di adiacenza. Visite di un grafo. Visita in ampiezza (BFS): cammini minimi da una sorgente. Visita in profondit\u00e0 (DFS): uscire da un labirinto."
+    },
+    {
+      "id": "18",
+      "data": "03-12-2020",
+      "contenuto": "I Grafi (diretti, non diretti, pesati). Nozioni preliminari. Cammini, distanze, diametro. Alberi. Grafi Euleriani. I grafi come linguaggio potente per descrivere scenari e problemi. Esempi di scenari/problematiche descrivibili come grafi/problemi su grafi (reti stradali/di trasporto, reti sociali, reti \u201cdelle dipendenze\u201d)."
+    },
+    {
+      "id": "17",
+      "data": "01-12-2020",
+      "contenuto": "Il problema della Coda con priorit\u00e0. d-Heap, Heap Binomiali, (cenni sugli) Heap di Fibonacci e complessit\u00e0 ammortizzata."
+    },
+    {
+      "id": "16",
+      "data": "26-11-2020",
+      "contenuto": "Esercitazione. Progettare un algoritmo che, dato un vettore ordinato A[1:n] di n bit, trova il numero k di zero presenti in A. Algoritmo con complessit\u00e0 O(log n). Un miglior algoritmo con tempo O(log k) (Es. 8). Progettare un algoritmo con complessit\u00e0 lineare che, dato un vettore A[1:n] di n bit, trova l\u2019indice k tale che il numero di zeri in A[1:k] \u00e8 uguale al numero di uni in A[k+1:n] (Es. 9)."
+    },
+    {
+      "id": "15",
+      "data": "24-11-2020",
+      "contenuto": "Il problema del Dizionario: secondo episodio. Alberi AVL: definizione ed esempi. Dimostrazione della delimitazione superiore dell\u2019altezza di un albero AVL (che usa la nozione di albero di Fibonacci). Operazioni sugli alberi AVL: search, insert, delete."
+    },
+    {
+      "id": "14",
+      "data": "19-11-2020",
+      "contenuto": "Il problema del Dizionario. Alberi binari di ricerca. Definizione. Visita in ordine simmetrico di un BST. Ricerca, inserimento, cancellazione (ricerca del massimo, del minimo, del predecessore e del successore di un nodo)."
+    },
+    {
+      "id": "13",
+      "data": "17-11-2020",
+      "contenuto": "Esercitazione sulle visite di alberi. Progettazione di un algoritmo che, preso un albero con valori e colori (rosso e nero), trova il valore del cammino rosso di tipo nodo-radice di valore massimo (Es 5). Altro esercizio: progettare un algoritmo che,\u00a0 preso un albero e in intero h, restituisce il numero di nodi dell'albero di profondit\u00e0 almeno h (Es 6). Altro esercizio: preso un albero binario con valori, calcola il numero di nodi per cui la somma dei valori degli antenati \u00e8 uguale alla somma dei valori dei discendenti (Es. 7)."
+    },
+    {
+      "id": "12",
+      "data": "12-11-2020",
+      "contenuto": "Strutture dati elementari: rappresentazioni indicizzate e rappresentazioni collegate. Implementazione di un dizionario con array ordinato/non ordinato e lista ordinata/non ordinata. Rappresentazioni di alberi. Algoritmi di visita di un albero: profondit\u00e0 versione iterativa, profondit\u00e0 versione ricorsiva (preordine, postordine, ordine simmetrico), ampiezza. Algoritmo per calcolare l\u2019altezza di un albero."
+    },
+    {
+      "id": "11",
+      "data": "10-11-2020",
+      "contenuto": "Esercitazione. Primo esercizio: dato un array di n numeri unimodale, progettare un algoritmo con complessit\u00e0 o(n) che trova il massimo e uno con complessit\u00e0 o(n log n) che lo ordina (Es. 3). Secondo esercizio: dato un vettore A di n numeri, progettare un algoritmo che in tempo O(n) trova due indici i e j con i<j che massimizzano A[j]-A[i] (Es. 4)."
+    },
+    {
+      "id": "10",
+      "data": "05-11-2020",
+      "contenuto": "Esercitazione. Esercizio: dimostrare o confutare una relazione asintotica (Es. 1). Esercizio di progettazione di un algoritmo che, dato un vettore ordinato A di n interi distinti e un valore x, trova (se esistono) due elementi di A che sommano a x. Soluzione banale con complessit\u00e0 quadratica, soluzione di complessit\u00e0 O(n log n) e soluzione con tempo O(n) (Es. 2)."
+    },
+    {
+      "id": "9",
+      "data": "03-11-2020",
+      "contenuto": "Ancora algoritmi di ordinamento non basati su confronti. Una variante dell\u2019IntegerSort per ordinare n record con chiavi intere: BucketSort. Un algoritmo veloce per ordinare interi \u201cgrandi\u201d: il RadixSort. Discussione del seguente esercizio: dato un array di n interi compresi fra 1 e k, costruire in tempo O(n+k) un oracolo (struttura dati) che sia in grado di rispondere in tempo costante a domande del tipo \"quanti interi nell'array sono compresi fra a e b?\"(Esercizio e soluzioni a fine delle slide sull'IntegerSort)."
+    },
+    {
+      "id": "8",
+      "data": "29-10-2020",
+      "contenuto": "Delimitazioni superiori e inferiori di algoritmi e problemi. Un lower bound alla complessit\u00e0 temporale necessaria per ordinare n elementi (per una classe di algoritmi ragionevoli, quelli basati su confronti). Un algoritmo veloce per ordinare interi \u201cpiccoli\u201d: IntegerSort."
+    },
+    {
+      "id": "7",
+      "data": "27-10-2020",
+      "contenuto": "Progettare algoritmi efficienti attraverso la progettazione di strutture dati efficienti. Un esempio: l'HeapSort - che ordina in loco n elementi in tempo O(n log n) nel caso peggiore."
+    },
+    {
+      "id": "6",
+      "data": "22-10-2020",
+      "contenuto": "Il Problema dell\u2019ordinamento. Un algoritmo semplice ma inefficiente: il Selection Sort. Un algoritmo migliore: il MergeSort. Un altro algoritmo che usa la tecnica divide et impera: il QuickSort: analisi del caso peggiore, migliore, e intuizioni sul caso medio. Discussione versione randomizzata del QuickSort e differenza fra complessit\u00e0 nel caso medio e tempo atteso di un algoritmo randomizzato."
+    },
+    {
+      "id": "5",
+      "data": "20-10-2020",
+      "contenuto": "Ancora sulle equazioni di ricorrenza. Metodo della sostituzione. Teorema Fondamentale delle Ricorrenze (Master). Semplici esempi. Quando non si pu\u00f2 applicare. Metodo del cambiamento di variabile."
+    },
+    {
+      "id": "4",
+      "data": "15-10-2020",
+      "contenuto": "Analisi della complessit\u00e0 nel caso medio: un esempio. Il problema della ricerca di un elemento in un insieme: ricerca sequenziale e ricerca binaria. Equazioni di ricorrenza. Metodo dell\u2019iterazione. Metodo che usa l\u2019albero della ricorsione."
+    },
+    {
+      "id": "3",
+      "data": "13-10-2020",
+      "contenuto": "Modello di calcolo RAM. Costi uniformi e logaritmici. Complessit\u00e0 caso peggiore, migliore, medio. Notazioni asintotiche: O-grande, Omega-grande, Theta. O-piccolo, Omega-piccolo. Definizioni e semplici esempi. Propriet\u00e0. Usare la notazione asintotica nelle analisi della complessit\u00e0 computazionale degli algoritmi."
+    },
+    {
+      "id": "2",
+      "data": "08-10-2020",
+      "contenuto": "Il problema del calcolo dell\u2019n-esimo numero di Fibonacci. Un algoritmo numerico e un algoritmo ricorsivo. Analisi della complessit\u00e0 temporale dell\u2019algoritmo ricorsivo. Un algoritmo iterativo di complessit\u00e0 temporale O(n) e di complessit\u00e0 spaziale O(n) (Fibonacci3). Portare la memoria a O(1): Fibonacci4. Introduzione informale alla notazione asintotica. Algoritmo con complessit\u00e0 O(log n) per il calcolo dell\u2019n-simo numero di Fibonacci. Discussione della complessit\u00e0 spaziale degli algoritmi ricorsivi Fibonacci2 e Fibonacci6."
+    },
+    {
+      "id": "1",
+      "data": "06-10-2020",
+      "contenuto": "Introduzione al corso. Motivazioni e concetti fondamentali. Un primo esempio: il problema di trovare una moneta falsa (pi\u00f9 pesante) fra n monete usando una bilancia a due piatti."
+    }
+  ],
+  "materiale": [],
+  "programma": "http://www.mat.uniroma2.it/~guala/ASDL_2020.htm",
+  "testiRiferimento": "http://www.mat.uniroma2.it/~guala/ASDL_2020.htm",
+  "ricevimento": "In questo semestre il ricevimento sar\u00e0 svolto online. Mandatemi una email per prendere appuntamento.",
+  "modalit\u00e0Esame": "http://www.mat.uniroma2.it/~guala/ASDL_2020.htm"
+}

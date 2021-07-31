@@ -1,0 +1,17 @@
+{
+  "nomeCorso": "Calcolo numerico",
+  "docente": "Francesca Pelosi",
+  "annoAccademico": "2020-2021",
+  "crediti": "6",
+  "settore": "MAT/08",
+  "anno": "3",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Analisi Matematica. Matematica discreta.",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "con Dr Carlo Garoni\n\nErrori di arrotondamento\n\nIntroduzione l corso. I numeri macchina\nTaglio, arrotondamento, precisione di macchina, operazioni di macchina, Condizionamento, numero di condizionamento, (esempi)\nEsempi sulla stabilit\u00e0, errori inerenti, di troncamento ed arrotondamento\n\nMetodi numerici perequazioni e sistemi di equazioni non lineari;\n\nMetodi di bisezione, corde, secanti,Newton, linearizzazione, metodo delle iterate per equazioni non lineari;\nMetodo di Newton per sistemi di equazioni non lineari, teorema di convergenza, stabilit\u00e0 (cenni);\nOrdine dei metodi iterativi, analisi dell\u2019ordine del metodo di Newton;\n\nMetodi numerici per l'algebra lineare:\n\nRichiami di algebra lineare. Spazi normati, norme Holderiane, norme matriciali indotte e naturali ;\nSistemi lineari, numero di condizionamento;\nMetodo di Gauss (richiami);\nMetodi iterativi per sistemi lineari: metodo di Jacobi e metodo di Gauss-Seidel;\nTeoremi di convergenza e velocit\u00e0 dei metodi iterativi;\nImplementazione dei metodi iterativi;\n\nInterpolazione polinomiale\n\nInterpolazione ed approssimazione dei dati, formalizzazione del problema ed esempi;\nPolinomio interpolante nelle forme di Lagrange e Newton, differenze divise;\nErrore nelle formule di interpolazione, differenze divise e derivate;\n\nCalcolo approssimato di integrali.\n\nFormule di quadratura di tipo interpolatorio: analisi e grado di precisione;\nFormule di Newton-Cote e formule composite a schema fisso;\nAnalisi dell\u2019 errore;\n\n\nUtilizzo del software Matlab (LAB)",
+  "testiRiferimento": "TESTI DI RIFERIMENTO\n[1] M.G.Gasparo, R. Morandi: Elementi di Calcolo Numerico:metodi e algoritmi, McGraw-Hill , 2008.\n[2] D. Bini, M. Capovani, O. Menchi, Metodi numerici per l'Algebra Lineare, Zanichelli, Bologna, 1988\n[3] R. Bevilacqua, D. Bini, M. Capovani, O. Menchi Metodi Numerici, Zanichelli, Bologna, 1992.\n\nTESTI DI APPROFONDIMENTO\n\n[4] Quarteroni, R. Sacco, F. Saleri, Matematica Numerica, Springer-Verlag, Milano 1998\n[5] V. Comincioli, Analisi Numerica, McGrawHill\n[6] G.H. Golub, C. F. Van Loan, Matrix computations.Third edition. Johns Hopkins Studies in the Mathematical Sciences.Johns Hopkins University Press, Baltimore, MD, 1996.",
+  "ricevimento": "da concordare con il docente",
+  "modalit\u00e0Esame": "Scritto e orale"
+}

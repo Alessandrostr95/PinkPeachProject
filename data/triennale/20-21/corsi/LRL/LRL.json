@@ -1,0 +1,24 @@
+{
+  "nomeCorso": "Logica e reti logiche",
+  "docente": "Francesco Pasquale",
+  "annoAccademico": "2020-2021",
+  "crediti": "6",
+  "settore": "INF/01",
+  "anno": "1",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [
+    {
+      "titolo": "Si veda la pagina del corso sul sito del docente:<br> <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa2021/lrl\" target=\"_blank\">https://www.mat.uniroma2.it/~pasquale/dida/aa2021/lrl</a></br>",
+      "dataUpload": "03.03.2021 18:56:58",
+      "link": "http://www.informatica.uniroma2.it/upload/2020/LRL/redirect.html",
+      "dimensione": "0 KB"
+    }
+  ],
+  "programma": "Prima Parte (Logica)Richiami di matematica: teoria degli insiemi elementare, algebra Booleana, relazioni e funzioni, principio di induzione.Logica proposizionale: connettivi logici, tabelle di verit\u00e0, variabili, formule, tableaux. Sistemi assiomatici. Correttezza e completezza.Logica del primo ordine: quantificatori, relazioni, propriet\u00e0 e predicati, formule della logica del primo ordine. Tableaux del primo ordine.Cenni al fenomeno dell'incompletezza.Seconda Parte (Reti Logiche)Sistemi numerici e rappresentazione dei numeri: binaria, esadecimale, base64. Le operazioni aritmetiche. Rappresentazione delle informazioni: le codifiche ASCII e Unicode; lo standard IEEE754per i numeri in virgola mobile.\nFunzioni Booleane e forme canoniche. Mappe di Karnaugh. Porte logiche e circuiti logici.Circuiti combinatori: codificatori e decodificatori, multiplexer, sommatori e sottrattori.Circuiti sequenziali: Latch e Flip-Flop.\nCenni ai linguaggi per la descrizione dell'hardware (HDLs).\nAutomi a stati finiti.",
+  "testiRiferimento": "Raymond M. Smullyan[1]\u00a0 A Beginner's Guide to Mathematical Logic\u00a0\u00a0\u00a0\u00a0\u00a0 Dover Publications, 2014\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Sarah L. Harris and David Money Harris[2]\u00a0 Sistemi digitali e architettura dei calcolatori\u00a0\u00a0\u00a0\u00a0\u00a0 Zanichelli, 2017",
+  "ricevimento": "Durante il periodo delle lezioni (Marzo - Giugno 2021):Marted\u00ec 15:30 - 18:30 oppure su appuntamento.Al di fuori del periodo delle lezioni:Su appuntamento.",
+  "modalit\u00e0Esame": "L'esame consiste in una prova scritta e in un colloquio orale.Durante il corso gli studenti potranno svolgere due test intermedi. Chi riceve una valutazione positiva a entrambi i test \u00e8 esonerato dalla prova scritta e ammesso a sostenere direttamente il colloquio orale."
+}

@@ -1,0 +1,29 @@
+{
+  "nomeCorso": "Intelligenza artificiale 1",
+  "docente": "Roberto Basili",
+  "annoAccademico": "2020-2021",
+  "crediti": "6",
+  "settore": "ING-INF/05",
+  "anno": "3",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Programmazione dei calcolatori con laboratorio.",
+  "comunicazioni": [
+    {
+      "titolo": "Home Page e Data Inizio Lezioni",
+      "data": "27-09-2020 00:55",
+      "contenuto": "Le lezioni avranno inizio a partire da Martedi' 6 Ottobre 2020, alle ore 9:00.\nLa modalit\u00e0 didattica sar\u00e0 on-line, con la possibilit\u00e0 di fruire di ricevimenti on-line.\n\nLa pagina Web del Corso \u00e8 al sito: http://sag.art.uniroma2.it/didattica/basili/IA_20_21/"
+    }
+  ],
+  "lezioni": [
+    {
+      "id": "0",
+      "data": "null",
+      "contenuto": "Le lezioni avranno inizio a partire da Martedi' 6 Ottobre 2020, alle ore 9:00.\nLa modalit\u00e0 didattica sar\u00e0 on-line, con la possibilit\u00e0 di fruire di ricevimenti on-line.\n\nCalendario delle lezioni del Corso:\nMARTEDI', h. 9:00-11:00 (MS Teams)\nVENERDI', h. 9:00-11:00 (MS Teams)"
+    }
+  ],
+  "materiale": [],
+  "programma": "null",
+  "testiRiferimento": "null",
+  "ricevimento": "null",
+  "modalit\u00e0Esame": "null"
+}

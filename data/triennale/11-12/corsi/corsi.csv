@@ -1,0 +1,22 @@
+anno,insegnamento,link,codice,settore,CFU,semetre,docente,propedeuticità
+1,Analisi Matematica,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2011&cdl=0&id=AM,AM,MAT/05,9,1,Radulescu,
+1,Fisica,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2011&cdl=0&id=FI,FI,,6,2,Sgarlata,
+1,Fondamenti di informatica,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2011&cdl=0&id=FO,FO,INF/01,6,2,Giammarresi,
+1,Geometria ed algebra,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2011&cdl=0&id=GA,GA,,6,2,Letizia,
+1,Matematica discreta,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2011&cdl=0&id=MD,MD,MAT/03,9,1,Brenti,
+1,Programmazione dei calcolatori con laboratorio,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2011&cdl=0&id=PR,PR,INF/01,12,1-2,Talamo,
+1,Reti logiche ed architettura dei calcolatori,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2011&cdl=0&id=RLAC,RLAC,INF/01,12,1-2,Guala',
+2,Algoritmi e strutture di dati con laboratorio,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2011&cdl=0&id=ASDL,ASDL,INF/01,12,1-2,Rossi,
+2,Basi di dati,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2011&cdl=0&id=BD,BD,INF/01,12,1-2,Vigliano,Matematica discreta-Programmazione dei calcolatori con laboratorio-
+2,Calcolo delle probabilità e statistica,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2011&cdl=0&id=CPS,CPS,MAT/06,6,1,Macci,Analisi Matematica-
+2,Linguaggi e metodologie di programmazione,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2011&cdl=0&id=LP,LP,INF/01,12,1-2,Bianchi,Programmazione dei calcolatori con laboratorio-
+2,Ricerca operativa,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2011&cdl=0&id=RO,RO,MAT/09,6,1,Pacifici,
+2,Sistemi operativi e reti,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2011&cdl=0&id=SOR,SOR,INF/01,12,1-2,Frasca,Programmazione dei calcolatori con laboratorio-Reti logiche ed architettura dei calcolatori-
+3,Algoritmi e strutture di dati 2,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2011&cdl=0&id=ASD2,ASD2,INF/01,6,2,Clementi,
+3,Calcolo numerico,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2011&cdl=0&id=CN,CN,MAT/08,6,1,Bertaccini,Analisi Matematica-Matematica discreta-Algoritmi e strutture di dati con laboratorio-
+3,Fisica 2,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2011&cdl=0&id=FI2,FI2,,3,2,Sgarlata,
+3,Ingegneria del software,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2011&cdl=0&id=IS,IS,INF/01,12,1-2,Intrigila,Linguaggi e metodologie di programmazione-
+3,Intelligenza artificiale,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2011&cdl=0&id=IA,IA,INF/01,6,1,De Luca,Programmazione dei calcolatori con laboratorio-
+3,Laboratorio di ingegneria del software,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2011&cdl=0&id=LIS,LIS,INF/01,6,2,Bei,Ingegneria del software-
+3,Linguaggi e traduttori,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2011&cdl=0&id=LT,LT,INF/01,6,1,Giammarresi, Letizia,Fondamenti di informatica-Programmazione dei calcolatori con laboratorio-
+3,Metodi avanzati dell'informatica,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2011&cdl=0&id=MAI,MAI,INF/01,6,2,Clementi,

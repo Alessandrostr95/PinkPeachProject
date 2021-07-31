@@ -1,0 +1,23 @@
+{
+  "nomeCorso": "Analisi Matematica",
+  "docente": "Francesco Fidaleo",
+  "annoAccademico": "2020-2021",
+  "crediti": "9",
+  "settore": "MAT/05",
+  "anno": "1",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [
+    {
+      "titolo": "Passaggio del corso in modalita' online",
+      "data": "12-11-2020 10:30",
+      "contenuto": "Da venerdi' 13 e fino a data da destinarsi (cioe' fino a quando un nucleo di studenti che superasse la decina di unita' sia disposto a seguire in presenza), il corso di Analisi Matematica si terra' esclusivamente online, uniformandosi alla situazione degli altri corsi.\n\nFrancesco Fidaleo"
+    }
+  ],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "null",
+  "testiRiferimento": "null",
+  "ricevimento": "null",
+  "modalit\u00e0Esame": "null"
+}

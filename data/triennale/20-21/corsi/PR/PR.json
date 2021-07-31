@@ -1,0 +1,23 @@
+{
+  "nomeCorso": "Programmazione dei calcolatori con laboratorio",
+  "docente": "Gianluca Rossi",
+  "annoAccademico": "2020-2021",
+  "crediti": "12",
+  "settore": "INF/01",
+  "anno": "1",
+  "semestre": "1-2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [
+    {
+      "id": "0",
+      "data": "null",
+      "contenuto": "Tutte le informazioni sono disponibili qui\n\nhttp://www.gianlucarossi.net/programmazione-dei-calcolatori/"
+    }
+  ],
+  "materiale": [],
+  "programma": "Tutte le informazioni sono disponibili qui\n\nhttp://www.gianlucarossi.net/programmazione-dei-calcolatori/",
+  "testiRiferimento": "Tutte le informazioni sono disponibili qui\n\nhttp://www.gianlucarossi.net/programmazione-dei-calcolatori/",
+  "ricevimento": "Tutte le informazioni sono disponibili qui\n\nhttp://www.gianlucarossi.net/programmazione-dei-calcolatori/",
+  "modalit\u00e0Esame": "Tutte le informazioni sono disponibili qui\n\nhttp://www.gianlucarossi.net/programmazione-dei-calcolatori/"
+}

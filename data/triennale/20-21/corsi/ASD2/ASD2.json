@@ -1,0 +1,156 @@
+{
+  "nomeCorso": "Algoritmi e strutture dati 2",
+  "docente": "Francesco Pasquale",
+  "annoAccademico": "2020-2021",
+  "crediti": "6",
+  "settore": "INF/01",
+  "anno": "3",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Algoritmi e strutture dati.",
+  "comunicazioni": [
+    {
+      "titolo": "Informazioni",
+      "data": "22-09-2020 20:17",
+      "contenuto": "In accordo con le decisioni del Consiglio del Corso di Laurea, per l'AA 2020/21 il corso verr\u00e0 erogato in modalit\u00e0 on-line. Durante il corso valuteremo la possibilit\u00e0 di svolgere alcune attivit\u00e0 (in particolare le esercitazioni) in presenza, in base alla disponibilit\u00e0 delle aule e alle opinioni/preferenze degli studenti frequentanti.\n\nGli studenti interessati a partecipare alle lezioni sono invitati a iscriversi al corso tramite il Delphi. Questo non \u00e8 n\u00e9 obbligatorio n\u00e9 vincolante (potete seguire il corso anche senza registrarvi e potete abbandonarlo in ogni momento anche se vi siete registrati), ma \u00e8 utile a me per avere l'elenco degli indirizzi email degli studenti interessati, nel caso avessi necessit\u00e0 di inviare comunicazioni urgenti relative al corso.\n\nIo non uso Microsoft Teams per la gestione dei corsi e personalmente disapprovo l'utilizzo in ambito accademico di qualunque piattaforma basata su software proprietario. Tutto il materiale relativo a questo corso sar\u00e0 reso disponibile sulla pagina web del corso https://www.mat.uniroma2.it/~pasquale/dida/aa2021/asd2/Le lezioni si svolgeranno di norma qui:\nhttps://tvalgoteam.site/asd2\n(si tratta di un'istanza di Jitsi installata su un pc che si trova nel mio ufficio). Chi volesse fare delle prove indipendenti con questo sistema di videoconferenza pu\u00f2 usare il server messo a disposizione dagli sviluppatori di jitsi qui, oppure uno dei numerosi server italiani messi a disposizione da volontari in questo periodo di emergenza, di cui trovate un elenco qui (o, volendo, pu\u00f2 anche installarsi un proprio server: istruzioni dettagliate si trovano qui).\n\nPer qualunque altra informazione non esitate a contattarmi per email.\n\nF.P."
+    }
+  ],
+  "lezioni": [
+    {
+      "id": "25",
+      "data": "18-01-2021",
+      "contenuto": "Esercitazione. Fine corso."
+    },
+    {
+      "id": "24",
+      "data": "15-01-2021",
+      "contenuto": "L'evoluzione del mining e della hash-rate della rete bitcoin. I fork di Bitcoin e gli Altcoin. Le transazioni. La rete Bitcoin testnet. Esempi. ([3]: Cap. 2 e 3). Lavagna. Esercizi."
+    },
+    {
+      "id": "23",
+      "data": "11-01-2021",
+      "contenuto": "Le firme digitali e il loro utilizzo in Bitcoin. La rete P2P dei full node. La Proof of Work per validare le transazioni e la Blockchain come registro distribuito. ([3]: Cap. 1 e 2). Lavagna. Esercizi."
+    },
+    {
+      "id": "22",
+      "data": "08-01-2021",
+      "contenuto": "Introduzione alle Cryptocurrencies: le funzioni hash crittografiche e le loro propriet\u00e0. Collision resistance e il paradosso dei compleanni. Cenni alla costruzione di Merkle-Damg\u00e5rd. ([3]: Cap. 1 e [2]: Cap 5.1). Lavagna. Esercizi."
+    },
+    {
+      "id": "21",
+      "data": "21-12-2020",
+      "contenuto": "Esercitazione."
+    },
+    {
+      "id": "20",
+      "data": "18-12-2020",
+      "contenuto": "Metodi Monte Carlo per la stima di parametri. Campionamento casuale (sampling) e conteggio, cenni alla classe #P. Esempio: Un FPRAS (Fully Polynomial-time Randomized Approximation Scheme) per il problema del conteggio delle assegnazioni che soddisfano una formula in DNF. ([2]: Cap. 11.1, 11.2). Lavagna. Esercizi."
+    },
+    {
+      "id": "19",
+      "data": "14-12-2020",
+      "contenuto": "Il Metodo Probabilistico: il conteggio di base e il metodo del valore atteso. Cenni alla tecnica di derandomizzazione tramite medie condizionate ([2]: Cap. 6.1, 6.2, 6.3).Lavagna. Esercizi."
+    },
+    {
+      "id": "18",
+      "data": "11-12-2020",
+      "contenuto": "[Guest Lecture by Isabella Ziccardi]: Pseudorandomness e pseudorandom generators, i primi tentativi: middle-square e linear congruential. Periodo massimo e potency. Cenni alle implicazioni dell'esistenza dei pseudorandom generator in teoria della complessit\u00e0. Cenni ai Cryptographically-secure pseudo random generators.Lavagna. Note. Esercizi."
+    },
+    {
+      "id": "17",
+      "data": "04-12-2020",
+      "contenuto": "Stime del discostamento di una variabile aleatoria dal suo valore atteso. La disuguaglianza di Markov. La varianza di una variabile aleatoria e la disuguaglianza di Chebyshev. Somme di variabili aleatorie indipendenti e le disuguaglianze di Chernoff ([2]: Cap. 3.1, 3.2, 3.3, 4.1, 4.2).Lavagna. Esercizi."
+    },
+    {
+      "id": "16",
+      "data": "30-11-2020",
+      "contenuto": "Test di primalit\u00e0 probabilistici polinomiali. Il test di Fermat. Richiami di teoria elementare dei numeri: numeri di Carmichael, radici non-banali dell'unit\u00e0, cenni al Teorema dei numeri primi. Il test di Miller-Rabin. ([1]: Cap. 1.3. Per approfondire si veda [5]: Cap. 13.8).Lavagna. Codice. Esercizi."
+    },
+    {
+      "id": "15",
+      "data": "27-11-2020",
+      "contenuto": "Esercitazione."
+    },
+    {
+      "id": "14",
+      "data": "23-11-2020",
+      "contenuto": "Valore atteso di una variabile aleatoria e linearit\u00e0. Esempi: Analisi di un semplice algoritmo 2-apx in valore atteso per Max-Cut. Analisi del numero atteso di confronti dell'algoritmo Random Quick Sort. ([2]: Cap. 2.5). Lavagna. Esercizi."
+    },
+    {
+      "id": "13",
+      "data": "20-11-2020",
+      "contenuto": "Introduzione agli algoritmi probabilistici. Esempio: un algoritmo probabilistico per verificare il prodotto di matrici. Variabili aleatorie e valore atteso: la distribuzione geometrica. ([2]: Cap. 1.3, 2.4. Per un ripasso di probabilit\u00e0 dicreta si vedano, per esempio, i primi due capitoli in [2]). Lavagna. Esercizi."
+    },
+    {
+      "id": "12",
+      "data": "16-11-2020",
+      "contenuto": "I problemi computazionalmente difficili come risorsa: I fondamenti della crittografia a chiave pubblica, il protocollo di Diffie-Hellman per la generazione di una chiave condivisa e il sistema di cifratura RSA. Cenni a One-time pad, cifrari a blocchi, AES. ([1]: Cap. 1.2 e 1.4).Lavagna. Esercizi."
+    },
+    {
+      "id": "11",
+      "data": "13-11-2020",
+      "contenuto": "Euristiche di ricerca locale. Ricerca locale con fattore di approssimazione garantito. Esempio: Un algoritmo approssimante per Max-Cut. Cenni a Gradient descent e Simulated annealing. ([1]: Cap. 9.3, e [4]: Cap. 12.4).Lavagna. Esercizi."
+    },
+    {
+      "id": "10",
+      "data": "09-11-2020",
+      "contenuto": "Esercitazione."
+    },
+    {
+      "id": "9",
+      "data": "06-11-2020",
+      "contenuto": "Affrontare i problemi computazionalmente difficili: 2. Algoritmi Approssimanti. Esempio: un algoritmo 2-approssimante per il problema k-clustering. Approssimazioni arbitrariamente buone. Esempio: un FPTAS (Fully Polynomial-Time Approximation Scheme) per il problema Knapsack ([1]: Cap. 9.2, [4]: Cap. 11.8). Lavagna. Esercizi."
+    },
+    {
+      "id": "8",
+      "data": "02-11-2020",
+      "contenuto": "Problemi computazionalmente difficili e come affrontarli: 1. Ricerca esaustiva intelligente. Le tecniche: Backtracking e Branch-and-bound. Esempi: Un algoritmo per SAT e un algoritmo per TSP ([1]: Cap. 9.1).Lavagna. Esercizi."
+    },
+    {
+      "id": "7",
+      "data": "26-10-2020",
+      "contenuto": "Ottimalit\u00e0 e running time dell'algoritmo di Ford e Fulkerson. La variante con capacity scaling per rendere l'algoritmo polinomiale. ([4]: Cap. 7.2 e 7.3). Lavagna. Esercizi."
+    },
+    {
+      "id": "6",
+      "data": "23-10-2020",
+      "contenuto": "Reti di flusso e \"grafo residuo\". L'algoritmo di Ford e Fulkerson per il problema Max-Flow: correttezza e terminazione. ([1]: Cap. 7.2. Si veda anche [4]: Cap. 7.1 e 7.2).Lavagna. Esercizi."
+    },
+    {
+      "id": "5",
+      "data": "19-10-2020",
+      "contenuto": "Esercitazione."
+    },
+    {
+      "id": "4",
+      "data": "16-10-2020",
+      "contenuto": "La tecnica della Riduzione. Esempi: Un algoritmo lineare per 2-SAT ottenuto tramite riduzione al problema di scomporre un grafo diretto in componenti fortemente connesse e DAG delle componenti. Richiami su grafi diretti, DAGs e topological sorting. Introduzione al problema Max Flow ([1]: Esercizio 3.28 e inizio Cap. 7.2).Lavagna. Esercizi."
+    },
+    {
+      "id": "3",
+      "data": "12-10-2020",
+      "contenuto": "La tecnica della Programmazione Dinamica. Esempi: Un algoritmo per Chain matrix multiplication e un algoritmo per Independent set su alberi. ([1]: Cap. 6.5, 6.7. Per un ripasso sulla tecnica della Programmazione Dinamica si veda il Capitolo 6 in [4]).Lavagna. Esercizi."
+    },
+    {
+      "id": "2",
+      "data": "09-10-2020",
+      "contenuto": "La tecnica Divide et Impera. Esempio: l'algoritmo di Karatsuba per moltiplicare due interi. Cenni all'algoritmo di Strassen per la moltiplicazione di matrici. Richiami sulle relazioni di ricorrenza e sul Teorema Master. ([1]: Cap. 1.1, 2.1, 2.2, 2.5. Per un ripasso sulla tecnica Divide et Impera si veda il Capitolo 5 in [4]).Lavagna. Esercizi."
+    },
+    {
+      "id": "1",
+      "data": "05-10-2020",
+      "contenuto": "Introduzione al corso, descrizione del programma di massima. La tecnica Greedy. Esempio: Un algoritmo greedy per decidere la soddisfacibilit\u00e0 delle formule di Horn ([1]: Cap. 5.3. Per un ripasso sulla tecnica greedy si veda il Capitolo 4 in [4]).Lavagna. Esercizi."
+    }
+  ],
+  "materiale": [
+    {
+      "titolo": "Si veda la pagina del corso sul sito del docente:<br> <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa2021/asd2/\" target=\"_blank\">https://www.mat.uniroma2.it/~pasquale/dida/aa2021/asd2/</a></br>",
+      "dataUpload": "06.10.2020 17:06:54",
+      "link": "http://www.informatica.uniroma2.it/upload/2020/ASD2/redirect.html",
+      "dimensione": "0 KB"
+    }
+  ],
+  "programma": "Progettare algoritmi efficienti. Riepilogo delle tecniche pi\u00f9 efficaci per progettare algoritmi efficienti: Greedy, Divide-et-Impera, Programmazione Dinamica, Riduzioni. Il problema Max-Flow e l'algoritmo di Ford e Fulkerson. Linear programming e duality.\nProblemi computazionalmente difficili. Richiami di NP-completezza da un punto di vista algoritmico. Le tecniche per affrontare i problemi computazionalmente difficili: ricerca esaustiva intelligente, algoritmi approssimanti, euristiche. I problemi computazionalmente difficili come risorsa: il protocollo di Diffie-Hellman, il sistema RSA e i fondamenti della crittografia a chiave pubblica. La matematica dietro le scene: Teoria dei numeri.\nAlgoritmi probabilistici. Il ruolo della randomness negli algoritmi. Quando scegliere a caso semplifica l'implementazione: Test di primalit\u00e0 di Miller-Rabin. Quando scegliere a caso rende gli algoritmi pi\u00f9 efficienti: Packet Routing. Quando poter scegliere a caso \u00e8 indispensabile: Protocolli interattivi e zero-knowledge proofs. Le tecniche per analizzare gli algoritmi probabilistici, la concentrazione della misura. Metodi Monte Carlo. Cenni alla classe #P. Campionamento e conteggio approssimato. Catene di Markov a stati finiti e tempo discreto. Cenni a FPRAS (Fully Polynomial-time Radomized Approximation Scheme) e ai metodi MCMC (Markov Chain Monte Carlo).\nCryptocurrencies.Le idee algoritmiche che hanno dato vita a Bitcoin. Gli ingredienti: reti Peer-to-Peer, funzioni hash crittografiche e firme digitali. La Blockchain e il problema del consenso distribuito. Transazioni, blocchi, alberi di Merkle.",
+  "testiRiferimento": "Testi di riferimento\n[1] S. Dasgupta, C. Papadimitriou, and U. Vazirani. Algorithms. McGraw-Hill, 2006. [2] M. Mitzenmacher and E. Upfal. Probability and Computing (2nd edition). Cambridge University Press, 2017.[3] A. Narayanan, J. Bonneau, E. Felten, A. Miller, and S. Goldfeder. Bitcoin and Cryptocurrency Technologies. Princeton University Press, 2016.\n\n\nTesti di supporto\n[4] J. Kleinberg and E. Tardos. Algorithm Design. Addison-Wesley, 2005.[5] T.H. Cormen, C.E. Leiserson, R.L. Rivest, C. Stein. Introduction to Algorithms. The MIT press, 2001.[6] T. Roughgarden. Algorithms Illuminated: Part 4: Algorithms for NP-Hard Problems. Soundlikeyourself Publishing LLC, 2020.",
+  "ricevimento": "Durante il periodo delle lezioni (Ottobre 2020 - Gennaio 2021):Luned\u00ec 15:30 - 17:30 oppure su appuntamento.Al di fuori del periodo delle lezioni:Su appuntamento.",
+  "modalit\u00e0Esame": "L'esame consiste in una prova scritta e in un colloquio orale. Durante il corso gli studenti potranno svolgere due test intermedi sotto forma di homework. Chi ottiene una valutazione positiva a entrambi gli homework \u00e8 esonerato dalla prova scritta."
+}

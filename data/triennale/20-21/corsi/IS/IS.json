@@ -1,0 +1,17 @@
+{
+  "nomeCorso": "Ingegneria del software",
+  "docente": "Benedetto Intrigila, Andrea D'Ambrogio",
+  "annoAccademico": "2020-2021",
+  "crediti": "12",
+  "settore": "INF/01",
+  "anno": "3",
+  "semestre": "1-2",
+  "propedeuticit\u00e0": "Linguaggi e metodologie di programmazione.",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "ProgrammaPrima Parte:Il ciclo di vita del softwareGestione dei requisiti software (Principalmente).Design (Cenni).Sviluppo (Cenni).Verifica e validazione (Cenni).Il linguaggio di modellazione UML e il suo uso nell'analisi dei requisiti.",
+  "testiRiferimento": "I. Sommerville\u00a0Software Engineering 7\u00a0(o edizioni successive)\u00a0(come integrazione sar\u00e0 usato anche:\u00a0CRAIG LARMAN:\u00a0Applicare UML e i pattern. Analisi e progettazione orientata agli oggetti.)\u00a0Per UML:\u00a0L. Baresi, L. Lavazza, M. Pianciamore\u00a0Dall'idea al codice con UML 2\u00a0Addison Wesley\n\nNOTA BENE. Molto materiale didattico verr\u00e0 fornito direttamente ai gruppi.\n\nTool di Modellazione UML: Visual Paradigm\n\nAs an academic partner of Visual Paradigm, Visual Paradigm is providing us with their UML tools, database design tools and agile tools for educational use.",
+  "ricevimento": "Per appuntamento. Mandare una mail a benedetto.intrigila AT uniroma2.it",
+  "modalit\u00e0Esame": "null"
+}

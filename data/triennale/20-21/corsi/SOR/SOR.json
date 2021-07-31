@@ -1,0 +1,597 @@
+{
+  "nomeCorso": "Sistemi operativi e reti",
+  "docente": "Pietro Frasca",
+  "annoAccademico": "2020-2021",
+  "crediti": "12",
+  "settore": "INF/01",
+  "anno": "2",
+  "semestre": "1-2",
+  "propedeuticit\u00e0": "Architettura dei sistemi di elaborazione. Programmazione dei calcolatori con laboratorio.",
+  "comunicazioni": [
+    {
+      "titolo": "Date esami Appello 2 A.A. 2020-2021",
+      "data": "03-07-2021 11:52",
+      "contenuto": "Si comunica che gli studenti prenotati per l'esama di SOR, appello 2 della sessione estiva A.A. 2020/2021, svolgeranno l'esame via MS Teams nell'ordine temporale mostrato nella seguente tabella:\n\nMarted\u00ec 6/07/2021 10:00\n1\nMASTRACCI\nEDOARDO\n217123\n2\nPERNA\nFABRIZIO\n286652\n3\nDAMIANI\nANDREA\n243550\n4\nPIERAZZI\nADRIEN\n251786\n5\nFEDERICI\nIACOPO\n262346\n6\nDE MENNA\nDANIELE\n245514\n7\nMONTUORI\nLORENZA\n281251\n8\nLAURETTI\nNICHOLAS\n270856\nvenerd\u00ec 9/07/2021 10:00\n9\nMATTIOLI\nSIMONE\n282422\n10\nDI STEFANO\nMATTEO\n258651\n11\nPORCEDDU\nMARTINO\n269103\n12\nMUSCEDERE\nDAVID\n259171\n13\nCIOTTI\nGIORGIO\n233262\n14\nCATENACCI\nALESSANDRO\n229310\n15\nZHOU\nJONATHAN\n256529\n16\nTAMBURRINI\nSAMUELE\n283622\n\nLe modalit\u00e0 d'esame sono descritte nella precedente comunicazione del\u00a014-01-2021 12:48."
+    },
+    {
+      "titolo": "Date esami Appello 1 A.A. 2020-2021",
+      "data": "21-06-2021 11:01",
+      "contenuto": "Si comunica che gli studenti prenotati per l'esama di SOR, appello 1 della sessione estiva A.A. 2020/2021, svolgeranno l'esame via MS Teams nell'ordine temporale mostrato nella seguente tabella:\n\nMarted\u00ec 22/06/2021 10:0\n\n1\nTONIATTI\nDAVIDE\n285077\n2\nCALORE\nDARIO\n284371\n3\nDI STEFANO\nMATTEO\n258651\n4\nGALGANO\nELEONORA\n284291\n5\nPRO\nVALERIO\n280714\n6\nDAMIANI\nANDREA\n243550\n7\nDEGAN DI DIECO\nMATTEO\n245325\n8\nDE MITRI\nANGELO\n254580\n9\nMONTUORI\nLORENZA\n281251\n\n\nVenerd\u00ec 25/06/2021 10:00\n\n10\nBLANGIARDO\nANDREA\n260709\n11\nMATTIOLI\nSIMONE\n282422\n12\nALEXA\nADRIAN\n283395\n13\nCOLAVECCHI\nLORENZO\n267722\n14\nCIOTTI\nGIORGIO\n233262\n15\nSCARAMELLA\nCHIARA\n229605\n16\nMAIELLO\nMATTEO\n253533\n17\nFEDERICI\nIACOPO\n262346\n18\nDE MENNA\nDANIELE\n245514\n\nLe modalit\u00e0 d'esame sono descritte nella precedente comunicazione del\u00a014-01-2021 12:48."
+    },
+    {
+      "titolo": "Date esami Appello 6 A.A. 2019-2020 ed Esonero 2 A.A. 2020-2021",
+      "data": "15-02-2021 14:56",
+      "contenuto": "Si comunica che gli studenti prenotati per l'esama di SOR, appello 6 della sessione invernale A.A. 2019/2020 e per l'esonero 2 A.A. 2020/2021, svolgeranno l'esame via MS Teams nell' l'ordine temporale mostrato nella seguente tabella:\n\nAPPELLO 6 - A.A: 2019/2020\nMarted\u00ec 16/02/2021 10:00\n\nCognome\nNome\nMatricola\n1\nDI STEFANO\nMATTEO\n258651\n2\nPARENTE\nORLANDO\n227408\n3\nLAURETTI\nNICHOLAS\n270856\n4\nPIERAZZI\nADRIEN\n251786\n5\nPALOMBA\nGIULIA\n244630\n6\nVELLUCCI\nSAVERIO\n252861\n\nESONERO 2 - A.A. 2020/2021\nMarted\u00ec 16/02/20201 10:00\n\nCognome\nNome\nMatricola\n1\nPESCE\nEMANUELE\n281010\n2\nMAZZARINI\nTIZIANO\n273384\n3\nBLANGIARDO\nANDREA\n260709\n4\nTONIATTI\nDAVIDE\n285077\n\nESONERO 2 - A.A. 2020/2021Marted\u00ec 23/02/20201 10:00\n\n5\nAHARDANE\nAMINE\n285619\n6\nCIOTTI\nGIORGIO\n233262\n7\nMASTRACCI\nEDOARDO\n217123\n8\nSALERNO\nDAMIANO\n179840\n9\nDORIA\nDANIELE\n204666\n10\nMAIELLO\nMATTEO\n253533\n11\nSCARAMELLA\nCHIARA\n229605\n12\nALEXA\nADRIAN\n283395\n13\nAPPETITO\nALESSANDRO\n273387\n14\nCARETTA\nALBERTO\n227975"
+    },
+    {
+      "titolo": "Date e modalit\u00e0 d'esame per gli appelli della sessione invernale e per l'esonero",
+      "data": "14-01-2021 12:48",
+      "contenuto": "Per sostenere l'esame dell'appello invernale a.a. 2019/2020 o l'esonero a.a. 2010/2021 lo studente deve seguire i seguenti passi:\n\n1) prenotarsi su Delphi come di consueto;\n\n2) registrarsi al Teams di Sistemi operativi e reti (se ancora non registrato);\n\n3) partecipare alla riunione Teams alla data e all'ora di svolgimento dell'esame.\n\nGli appelli d'esame della sessione invernale e l'esonero si svolgeranno via MS Teams sotto forma di colloquio logicamente diviso in due parti. La prima parte del colloquio sar\u00e0 basata su argomenti tipici di una prova scritta. In particolare, lo studente dovr\u00e0 scrivere e/o spiegare il codice di un'applicazione multi processo e/o multi thread, essere in grado di descrivere un progetto di rete intranet con relativo schema hardware e piano d'indirizzamento, rispondere ad altre domande poste sotto forma di problemi. Se lo studente supera la prima parte del colloquio, rispondendo in modo soddisfacente, passer\u00e0 immediatamente a svolgere la seconda parte del colloquio che riguarda argomenti, tipici di una prova orale.\n\nSi ricorda che nella sezione Materiale didattico del corso SOR sono disponibili:\n\nRaccolta di testi d'esame di Sistemi operativi e reti.\nRaccolta di esempi di system call. La raccolta contiene esempi di base sull'uso delle chiamate di sistema descritte durante il corso e molte soluzioni di problemi d'esame (programmi multiprocesso e multithread).\n\nSia l'esame completo a.a. 2019/2020 che l'esonero a.a. 2020/2021 di sistemi operativi e reti si svolgeranno in due appelli mutualmente esclusivi. Pertanto, uno studente pu\u00f2 partecipare, a scelta, solo a uno dei due appelli. Le date sono le seguenti:\n\nAppello 1\n26/01/2021 ore 10:00 e 1/02/2021 ore 1:00\n\nAppello 2\n16/02/2021 ore 10:00 e 23/02/2021 ore 10:00\n\nNOTA Lo studente che intende sostenere l'esonero in uno dei due appelli deve prenotarsi via Delphi e non pi\u00f9 inviando una email al docente, come avveniva negli anni precedenti."
+    },
+    {
+      "titolo": "Inizio e orario lezioni di Sitemi operativi e reti",
+      "data": "02-10-2020 12:12",
+      "contenuto": "Le lezioni di Sistemi operativi e reti a.a. 2020/2021 inizieranno marted\u00ec 6 ottobre 2020 alle ore 9:00, online su MS Teams.\nLe lezioni si svolgeranno secondo l'orario pubblicato: marted\u00ec e gioved\u00ec dalle 9:00 alle 11:00."
+    }
+  ],
+  "lezioni": [
+    {
+      "id": "48",
+      "data": "27-05-2021",
+      "contenuto": "Reti wireless. Collegamenti wireless e caratteristiche di rete.\u00a0Wi-Fi 802.11. Canali e associazioni.\u00a0 Scansione attiva e passiva. Il protocollo CSMA/CA. Host nascosti: RTS e CTS. Frame IEEE 802.11. Utilizzo di IEEE 802.11 per collegamenti punto-punto. Esempio di progettazione LAN.\u00a0(NOTA: lezione svolta a distanza con MS Teams)"
+    },
+    {
+      "id": "47",
+      "data": "25-05-2021",
+      "contenuto": "Ethernet. Struttura del frame Ethernet. CSMA/CD di Ethernet. Efficienza di Ethernet. Tecnologie Ethernet. Hub.\u00a0Switch dello strato di collegamento. Confronto tra switch e router. Lan virtuali (VLAN).\u00a0(NOTA: lezione svolta a distanza con MS Teams)"
+    },
+    {
+      "id": "46",
+      "data": "20-05-2021",
+      "contenuto": "Protocolli di accesso multiplo. Protocolli a suddivisione di canale. Protocolli di accesso casuale. CSMA e CSMA/CD. Protocolli a turno. Reti LAN. Indirizzi LAN. ARP. Invio di datagram a nodi interni alla LAN.\u00a0Invio di datagram a nodi esterni alla LAN.\u00a0(NOTA: lezione svolta a distanza con MS Teams)"
+    },
+    {
+      "id": "45",
+      "data": "18-05-2021",
+      "contenuto": "Lo strato di collegamento. Servizi offerti dallo strato di collegamento. Adattatori (schede di rete). Tecniche di rilevazione e correzione degli errori. Controllo di parit\u00e0. Controllo di parit\u00e0 a due dimensioni. Somma di controllo.\u00a0Controllo a ridondanza ciclica. Esempio di calcolo CRC.\u00a0(NOTA: lezione svolta a distanza con MS Teams)"
+    },
+    {
+      "id": "44",
+      "data": "13-05-2021",
+      "contenuto": "Esempi di uso del BGP nelle reti stub e nelle reti stub multi homed. I-BGP. Instradamento multicast. Gruppi multicasta. IGMP.\u00a0Algoritmi di instradamento multicast (solo conclusioni). Esempio di applicazione multicast in Java.\u00a0(NOTA: lezione svolta a distanza con MS Teams)"
+    },
+    {
+      "id": "43",
+      "data": "11-05-2021",
+      "contenuto": "Instradamento in Internet. Instradamento intra-sistema. RIP. OSPF. Instradamento inter-sistema. BGP. Reti stub e reti stub multi homed. Funzionamento del BGP. I messaggi BGP.\u00a0\u00a0(NOTA: lezione svolta a distanza con MS Teams)"
+    },
+    {
+      "id": "42",
+      "data": "06-05-2021",
+      "contenuto": "IPv6. Formato del datagram IPv6. Passaggio da IPv4 a IPv6. Metodo dual-stack. Metodo del tunneling. ICMP. ICMP per IPv6. Algoritmi di instradamento. Algoritmi di instradamento LS. Algoritmi di instradamento DV. Confronto tra LS e DV.\u00a0(NOTA: lezione svolta a distanza con MS Teams)"
+    },
+    {
+      "id": "41",
+      "data": "04-05-2021",
+      "contenuto": "Indirizzamento per classe. Indirizzamento CIDR. Assegnazione di indirizzi IP. Configurazione delle interfacce di rete di host e router. DHCP. Traduzione degli indirizzi di rete (NAT). UPnP (Universal Plug and Play).\u00a0(NOTA: lezione svolta a distanza con MS Teams)"
+    },
+    {
+      "id": "40",
+      "data": "29-04-2021",
+      "contenuto": "Livello di rete. Reti a circuito virtuale. Reti datagram. Il protocollo IP. Formato dei datagram IPv4. Frammentazione del datagram IPv4. Indirizzamento IPv4.\u00a0(NOTA: lezione svolta a distanza con MS Teams)"
+    },
+    {
+      "id": "39",
+      "data": "27-04-2021",
+      "contenuto": "Trasferimento affidabile dei dati. Alcuni tipici scenari. Raddoppio dell'intervallo di timeout. Ritrasmissione rapida. Controllo del flusso. Controllo della congestione TCP. AIMD. Partenza lenta. Reazione a eventi di timeout. Prevenzione della congestione. Calcolo semplificato del throughput TCP.\u00a0(NOTA: lezione svolta a distanza con MS Teams)"
+    },
+    {
+      "id": "38",
+      "data": "22-04-2021",
+      "contenuto": "Trasporto orientato alla connessione: TCP. Struttura del segmento TCP. Numeri di sequenza e numeri di riscontro.\u00a0 Esempio di numeri di sequenza e di riscontro. Stima del tempo di andata e ritorno (RTT) e timeout. Calcolo del timeout per le ritrasmissioni. Instaurazione della connessione TCP.\u00a0(NOTA: lezione svolta a distanza con MS Teams)"
+    },
+    {
+      "id": "37",
+      "data": "20-04-2021",
+      "contenuto": "Programmazione delle socket con UDP. Esempio di applicazione C/S con UDP. Lo strato di trasporto. Multiplexing e demultiplexing nell'UDP e nel TCP. ll protocollo UDP. Struttura del segmento UDP. Checksum di UDP.\u00a0(NOTA: lezione svolta a distanza con MS Teams)"
+    },
+    {
+      "id": "36",
+      "data": "15-04-2021",
+      "contenuto": "Confronto tra le architetture C/S e P2P. Programmazione delle socket. Programmazione delle socket con TCP. Esempio di applicazione C/S TCP in Java.\u00a0(NOTA: lezione svolta a distanza con MS Teams)"
+    },
+    {
+      "id": "35",
+      "data": "13-04-2021",
+      "contenuto": "Video Internet. Streaming HTTP e DASH. Applicazioni P2P. P2P con database centralizzato e distruito. Inondazione di richieste. Tabelle hash distribuite (DHT). DHT circolare. BitTorrent (sola lettura).\u00a0(NOTA: lezione svolta a distanza con MS Teams)"
+    },
+    {
+      "id": "34",
+      "data": "08-04-2021",
+      "contenuto": "Record DNS. Messaggi DNS. Distribuzione di contenuti. Server proxy. Esempio d'uso di server proxy. Reti per la distribuzione di contenuti (CDN).\u00a0\u00a0(NOTA: lezione svolta a distanza con MS Teams)"
+    },
+    {
+      "id": "33",
+      "data": "06-04-2021",
+      "contenuto": "Protocolli di accesso alla posta. POP3. IMAP. Posta elettronica con HTTP. DNS. Servizi forniti dal DNS. Funzionamento del DNS. DNS: database distribuiti e gerarchici. Cache DNS.\u00a0(NOTA: lezione svolta a distanza con MS Teams)"
+    },
+    {
+      "id": "32",
+      "data": "01-04-2021",
+      "contenuto": "Il protocollo FTP. Modalit\u00e0 attiva e passiva. Comandi FTP. Posta elettronica. SMTP.\u00a0Formati dei messaggi di posta e MIME. Estensioni MIME per dati non ascii. Esempi di messaggi con intestazioni MIMe. Esempi di messaggi multipart/mixed. Il messaggio ricevuto.\u00a0(NOTA: lezione svolta a distanza con MS Teams)"
+    },
+    {
+      "id": "31",
+      "data": "30-03-2021",
+      "contenuto": "Get condizionale.\u00a0Interazione utente-server: autorizzazione e cookie. Connessione non persistente e persistente. Connessioni non persistenti in parallelismo\u00a0 e in serie. Connessione persistente senza parallelismo e con parallelismo.\u00a0(NOTA: lezione svolta a distanza con MS Teams)"
+    },
+    {
+      "id": "30",
+      "data": "25-03-2021",
+      "contenuto": "Applicazioni di rete. Web. Il protocollo HTTP. Formato del messaggio di richiesta HTTP. Formato del messaggio di risposta HTTP.\u00a0(NOTA: lezione svolta a distanza con MS Teams)"
+    },
+    {
+      "id": "29",
+      "data": "23-03-2021",
+      "contenuto": "I Livelli di Internet e i servizi che forniscono. Livello di applicazione. Architetture e protocolli dello strato di applicazione Indirizzamento dei processi. Processi di comunicazione nella rete. Servizi formiti dai protocolli di trasporto alle applicazioni. Requisiti di servizio delle applicazioni.\u00a0Servizi forniti dai protocolli di trasporto.\u00a0(NOTA: lezione svolta a distanza con MS Teams)"
+    },
+    {
+      "id": "28",
+      "data": "18-03-2021",
+      "contenuto": "Gli ISP e le reti dorsali di Internet. Ritardi e perdite nelle reti a commutazione di pacchetto. Tipi di ritardo: trasmissione, propagazione, elaborazione, coda. Ritardo totale. Ritardo da host a host. Ritardi e percorsi in Internet. Traceroute e tracert. Perdita di pacchetti. Intensit\u00e0 del traffico.\u00a0Gli strati di Internet\u00a0 e i servizi che forniscono. Lo stack protocollare di Internet e il modello ISO OSI.\u00a0(NOTA: lezione svolta a distanza con MS Teams)"
+    },
+    {
+      "id": "27",
+      "data": "16-03-2021",
+      "contenuto": "Mezzi trasmissivi. Doppini in rame. Cavi coassiali. Fibre ottiche. Canali radio terrestri. Canali radio satellitari. Accesso alla rete Internet. Accesso residenziale, aziendale e wireless.\u00a0(NOTA: lezione svolta a distanza con MS Teams)"
+    },
+    {
+      "id": "26",
+      "data": "11-03-2021",
+      "contenuto": "La sezione interna della rete (nucleo). Commutazione di circuito. Multiplazione (multiplexing) nelle reti a commutazione di circuito. FDM e TDM. Commutazione di pacchetto. Confronto tra commutazione di circuito e commutazione di pacchetto. Frammentazione del messaggio. Reti a commutazione di pacchetto datagram.(NOTA: lezione svolta a distanza con MS Teams)"
+    },
+    {
+      "id": "25",
+      "data": "09-03-2021",
+      "contenuto": "Internet. Descrizione dei servizi. Definizione di protocollo di rete. Applicazioni client/server. Servizi senza connessione e orientati alla connessione."
+    },
+    {
+      "id": "24",
+      "data": "12-01-2021",
+      "contenuto": "Allocazione dei dispositivi e tecniche di spooling. Livello dipendente dai dispositivi (driver). Controller di un dispositivo. Funzionamento del dispositivo. Comunicazione tra processo e dispositivo. Gestione di un dispositivo mediante controllo di programma. Gestione di un dispositivo mediante interruzione. Descrittore di un dispositivo. La struttura dati del descrittore di dispositivo. Gestione di un dispositivo con DMA. Driver di un dispositivo. Flusso di controllo durante un trasferimento."
+    },
+    {
+      "id": "23",
+      "data": "07-01-2021",
+      "contenuto": "Protezione di file e directory. Protezione in Unix. Gestione dell\u2019I/O. Classificazione dei dispositivi. Struttura logica del sottosistema di I/O. Livello indipendente dai dispositivi. Bufferizzazione. Gestione degli errori e delle eccezioni."
+    },
+    {
+      "id": "22",
+      "data": "22-12-2020",
+      "contenuto": "Organizzazione fisica del file system Unix. Strutture dati del kernel per l\u2019accesso ai file. System call per i file: open, close, read, write, lseek. Esempi di SC dei file."
+    },
+    {
+      "id": "21",
+      "data": "17-12-2020",
+      "contenuto": "Il livello organizzazione fisica. Tecniche di allocazione dei file. Allocazione contigua, a lista concatenata, a indice. Il livello dispositivo virtuale. Il file system nei sistemi Unix-like. Struttura logica del file system."
+    },
+    {
+      "id": "20",
+      "data": "15-12-2020",
+      "contenuto": "Scheduling del disco. Algoritmi FCFS, SSFT e SCAN. Tecnologia dischi RAID.\u00a0 Il file system. La struttura logica del file system. File e directory. Gestione della struttura logica del file system. l livello di accesso al file system. Strutture dati e operazioni di accesso ai fileMetodi di accesso. Accesso sequenziale. Accesso diretto. Accesso a indice."
+    },
+    {
+      "id": "19",
+      "data": "10-12-2020",
+      "contenuto": "Memoria segmentata e paginata. Gestione degli spazi virtuali. Paginazione a pi\u00f9 livelli.\u00a0Algoritmi di sostituzione delle pagine. Algoritmo seconda scelta. Gestione della memoria nei sistemi Unix. Gestione della memoria secondaria. Dischi e SSD. Organizzazione fisica dei dischi. Criteri di ordinamento dei dati su disco e politiche di scheduling.\u00a0Esempio memorizzazione di dati su disco."
+    },
+    {
+      "id": "18",
+      "data": "03-12-2020",
+      "contenuto": "Memoria paginata. Memoria virtuale. Segmentazione su richiesta. Paginazione su richiesta. Rimpiazzamento delle pagine."
+    },
+    {
+      "id": "17",
+      "data": "01-12-2020",
+      "contenuto": "Protezione e condivisione di informazioni con spazio virtuale unico. Partizioni multiple. Memoria segmentata. Memoria paginata."
+    },
+    {
+      "id": "16",
+      "data": "26-11-2020",
+      "contenuto": "Gestione della memoria. Creazione di un file eseguibile. Organizzazione dello spazio virtuale. Spazio viruale unico (lineare). Rilocazione statica e dinamica. Organizzazione\u00a0 dello spazio virtuale con modello di memoria segmentato. Memoria partizionata. Partizioni fisse. Partizioni variabili. Tecniche di allocazione mediante free list. Best-fit, First-fit e Worst-fit."
+    },
+    {
+      "id": "15",
+      "data": "24-11-2020",
+      "contenuto": "Blocco critico (stallo). Rappresentazioni dello stato di allocazione delle risorse. Modelli basati su grafo. Modelli basati su matrici.\u00a0Esempio di situazione di stallo. Condizioni per lo stallo. Metodi per il trattamento dello stallo. Prevenzione statica. Prevenzione dinamica. Algoritmo del banchiere. Esempio. Rilevamento dei blocchi critici. Esempio di soluzione al problema dei cinque filosofi."
+    },
+    {
+      "id": "14",
+      "data": "19-11-2020",
+      "contenuto": "Algoritmi di scheduling real-time. Rate Nonotonic. Sheduling nei sistemi multiprocessore. Affinit\u00e0 del processore. Scheduling in UNIX."
+    },
+    {
+      "id": "13",
+      "data": "17-11-2020",
+      "contenuto": "Principali algoritmi di scheduling. Shortest job first (SJF). Shortest Next Process First (SNPF). Shortest Remaining Time First (SRTF). Round Robin. Algoritmi di scheduling basati sulle priorit\u00e0. Algoritmi di scheduling a code multiple. Algoritmi di scheduling real-time. Scheduling in UNIX. Blocco critico (stallo). Rappresentazioni dello stato di allocazione delle risorse. Modelli basati su grafo. Algoritmi di scheduling basati sulle priorit\u00e0. Algoritmi di scheduling a code multiple."
+    },
+    {
+      "id": "12",
+      "data": "12-11-2020",
+      "contenuto": "Esempio di sincronizzazione tra thread: soluzione modello produttore-consumatore con variabili condition. Scheduling della CPU. Scheduling a breve, medio e lungo termine. Comportamento dei processi. Parametri di scheduling."
+    },
+    {
+      "id": "11",
+      "data": "10-11-2020",
+      "contenuto": "Sincronizzazione tra thread in POSIX. Mutex. Semafori. Variabili condition. Esempi."
+    },
+    {
+      "id": "10",
+      "data": "05-11-2020",
+      "contenuto": "Comunicazione e sincronizzazione tra processi/thread. Soluzione al problema della comunicazione con semafori. Soluzione al problema della comunicazione con buffer di capacit\u00e0 1 e N. Interazione tra processi. Sincronizzazione con segnali. System call per l'uso dei segnali. Invio di segnali tra processi. Esempi."
+    },
+    {
+      "id": "9",
+      "data": "03-11-2020",
+      "contenuto": "I thread nello standard POSIX: la libreria pthreads. Creazione di thread. Terminazione di thread. Unione (join) di thread. Struttura di un'applicazione multithread. Esempi di un'applicazione multithread. Sincronizzazione tra processi/thread. Cooperazione e competizione tra processi/thread. Modello a memoria comune. Modello ad ambiente locale. Problema della mutua esclusione. Soluzioni al problema della mutua esclusione. Soluzione della mutua esclusione con strumenti basati su istruzioni tipo TSL. Le funzioni lock() e unlock(). Semafori. Soluzione al problema della mutua esclusione con semafori."
+    },
+    {
+      "id": "8",
+      "data": "29-10-2020",
+      "contenuto": "Comunicazione tra processi con pipe. Esempio d'uso di pipe. Comunicazione con pipe con nome. Esempio d'uso di pipe con nome. Thread. Thread a livello utente. Modello da molti a uno. Thread a livello kernel. Modello da uno a uno. Modello da molti a molti."
+    },
+    {
+      "id": "7",
+      "data": "27-10-2020",
+      "contenuto": "Scambio di messaggi (message passing). Comunicazione diretta e indiretta. Le funzioni send() e receive(). Comunicazione e sincronizzazione con send() e receive(). Code di messaggi. Code di messaggi POSIX. Esempi comunicazione tra processi con code di messaggi POSIX."
+    },
+    {
+      "id": "6",
+      "data": "22-10-2020",
+      "contenuto": "Comunicazione tra processi. Memoria condivisa. Modello produttore-consumatore. Esempio di comunicazioni tra processi non sincronizzati. Memoria condivisa in POSIX.\u00a0 Esempi applicativi."
+    },
+    {
+      "id": "5",
+      "data": "20-10-2020",
+      "contenuto": "Operazioni sui processi. Creazione e terminazione dei processi.\u00a0 Creazione dei processi in POSIX. Fork. Esempio Fork. Sostituzione del codice. Famiglia di funzioni exec(). Esempio con execl(). Terminazione di processi. Le funzioni exit(), wait() e waitpid(). Esempi."
+    },
+    {
+      "id": "4",
+      "data": "15-10-2020",
+      "contenuto": "Principali componenti del sistema operativo. Gestione dei processi. Concetto di processo. Stati di un processo. Transizioni di stato di un processo. Descrittore del processo (PCB). Code di processi. Scheduler. Cambio di contesto."
+    },
+    {
+      "id": "3",
+      "data": "13-10-2020",
+      "contenuto": "Operazioni del sistema operativo. Funzionamento dual-mode. Timer. Ambienti di elaborazione. Computing tradizionale e mobile. Sistemi paralleli e distribuiti. Client-server e peer-to-peer. Cloud. Struttura e organizzazione software dei sistemi operativi. Struttura monolitica. Struttura stratificata. Struttura a microkernel. Struttura modulare. Struttura ibrida."
+    },
+    {
+      "id": "2",
+      "data": "08-10-2020",
+      "contenuto": "Sistemi a singolo processore. Sistemi multiprocessore. Cluster. Struttura del sistema operativo. Sistemi operativi batch multiprogrammati. Sistemi operativi time sharing. Sistemi in tempo reale. Sistemi embedded real-time. Sistemi operativi per personal computer."
+    },
+    {
+      "id": "1",
+      "data": "06-10-2020",
+      "contenuto": "Presentazione del corso. Introduzione sui sistemi operativi. Funzionamento di un computer. Struttura della memoria. Struttura di I/O."
+    }
+  ],
+  "materiale": [
+    {
+      "titolo": "Appunti Sistemi operativi - Lezione 16",
+      "dataUpload": "30.06.2021 10:26:19",
+      "link": "http://www.informatica.uniroma2.it/upload/2020/SOR/SISTEMI OPERTATIVI LEZ16.pdf",
+      "dimensione": "452 KB"
+    },
+    {
+      "titolo": "Appunti Sistemi operativi - Lezione 15",
+      "dataUpload": "30.06.2021 10:25:56",
+      "link": "http://www.informatica.uniroma2.it/upload/2020/SOR/SISTEMI OPERTATIVI LEZ15.pdf",
+      "dimensione": "626 KB"
+    },
+    {
+      "titolo": "Appunti Reti di calcolatori - Lezione 24 (48)",
+      "dataUpload": "31.05.2021 08:58:50",
+      "link": "http://www.informatica.uniroma2.it/upload/2020/SOR/RETI LEZ24.pdf",
+      "dimensione": "834 KB"
+    },
+    {
+      "titolo": "Appunti Reti di calcolatori - Lezione 23 (47)",
+      "dataUpload": "31.05.2021 08:58:27",
+      "link": "http://www.informatica.uniroma2.it/upload/2020/SOR/RETI LEZ23.pdf",
+      "dimensione": "646 KB"
+    },
+    {
+      "titolo": "Appunti Reti di calcolatori - Lezione 22 (46)",
+      "dataUpload": "31.05.2021 08:58:10",
+      "link": "http://www.informatica.uniroma2.it/upload/2020/SOR/RETI LEZ22.pdf",
+      "dimensione": "552 KB"
+    },
+    {
+      "titolo": "Appunti Reti di calcolatori - Lezione 21 (45)",
+      "dataUpload": "19.05.2021 13:24:21",
+      "link": "http://www.informatica.uniroma2.it/upload/2020/SOR/RETI LEZ21.pdf",
+      "dimensione": "529 KB"
+    },
+    {
+      "titolo": "Appunti Reti di calcolatori - Lezione 20 (44)",
+      "dataUpload": "19.05.2021 13:23:40",
+      "link": "http://www.informatica.uniroma2.it/upload/2020/SOR/RETI LEZ20.pdf",
+      "dimensione": "491 KB"
+    },
+    {
+      "titolo": "Appunti Reti di calcolatori - Lezione 19 (43)",
+      "dataUpload": "11.05.2021 11:34:13",
+      "link": "http://www.informatica.uniroma2.it/upload/2020/SOR/RETI LEZ19.pdf",
+      "dimensione": "385 KB"
+    },
+    {
+      "titolo": "Appunti Reti di calcolatori - Lezione 18 (42)",
+      "dataUpload": "11.05.2021 11:33:58",
+      "link": "http://www.informatica.uniroma2.it/upload/2020/SOR/RETI LEZ18.pdf",
+      "dimensione": "363 KB"
+    },
+    {
+      "titolo": "Appunti Reti di calcolatori - Lezione 17 (41)",
+      "dataUpload": "11.05.2021 11:33:43",
+      "link": "http://www.informatica.uniroma2.it/upload/2020/SOR/RETI LEZ17.pdf",
+      "dimensione": "655 KB"
+    },
+    {
+      "titolo": "Appunti Reti di calcolatori - Lezione 16 (40)",
+      "dataUpload": "11.05.2021 11:33:16",
+      "link": "http://www.informatica.uniroma2.it/upload/2020/SOR/RETI LEZ16.pdf",
+      "dimensione": "581 KB"
+    },
+    {
+      "titolo": "Appunti Reti di calcolatori - Lezione 15 (39)",
+      "dataUpload": "11.05.2021 11:32:46",
+      "link": "http://www.informatica.uniroma2.it/upload/2020/SOR/RETI LEZ15.pdf",
+      "dimensione": "797 KB"
+    },
+    {
+      "titolo": "Esempi di programmazione delle socket UDP e TCP",
+      "dataUpload": "23.04.2021 10:29:27",
+      "link": "http://www.informatica.uniroma2.it/upload/2020/SOR/ProgrammazioneSocket.zip",
+      "dimensione": "38 KB"
+    },
+    {
+      "titolo": "Appunti Reti di calcolatori - Lezione 14 (38)",
+      "dataUpload": "23.04.2021 10:23:15",
+      "link": "http://www.informatica.uniroma2.it/upload/2020/SOR/RETI LEZ14.pdf",
+      "dimensione": "703 KB"
+    },
+    {
+      "titolo": "Appunti Reti di calcolatori - Lezione 13 (37)",
+      "dataUpload": "23.04.2021 10:22:56",
+      "link": "http://www.informatica.uniroma2.it/upload/2020/SOR/RETI LEZ13.pdf",
+      "dimensione": "612 KB"
+    },
+    {
+      "titolo": "Appunti Reti di calcolatori - Lezione 12 (36)",
+      "dataUpload": "23.04.2021 10:22:31",
+      "link": "http://www.informatica.uniroma2.it/upload/2020/SOR/RETI LEZ12.pdf",
+      "dimensione": "657 KB"
+    },
+    {
+      "titolo": "Appunti Reti di calcolatori - Lezione 11 (35)",
+      "dataUpload": "23.04.2021 10:22:17",
+      "link": "http://www.informatica.uniroma2.it/upload/2020/SOR/RETI LEZ11.pdf",
+      "dimensione": "468 KB"
+    },
+    {
+      "titolo": "Appunti Reti di calcolatori - Lezione 10 (34)",
+      "dataUpload": "23.04.2021 10:21:59",
+      "link": "http://www.informatica.uniroma2.it/upload/2020/SOR/RETI LEZ10.pdf",
+      "dimensione": "1112 KB"
+    },
+    {
+      "titolo": "Appunti Reti di calcolatori - Lezione 9 (33)",
+      "dataUpload": "06.04.2021 11:58:37",
+      "link": "http://www.informatica.uniroma2.it/upload/2020/SOR/RETI LEZ09.pdf",
+      "dimensione": "711 KB"
+    },
+    {
+      "titolo": "Appunti Reti di calcolatori - Lezione 8 (32)",
+      "dataUpload": "06.04.2021 11:58:11",
+      "link": "http://www.informatica.uniroma2.it/upload/2020/SOR/RETI LEZ08.pdf",
+      "dimensione": "516 KB"
+    },
+    {
+      "titolo": "Appunti Reti di calcolatori - Lezione 7 (31)",
+      "dataUpload": "06.04.2021 11:57:57",
+      "link": "http://www.informatica.uniroma2.it/upload/2020/SOR/RETI LEZ07.pdf",
+      "dimensione": "542 KB"
+    },
+    {
+      "titolo": "Appunti Reti di calcolatori - Lezione 6 (30)",
+      "dataUpload": "06.04.2021 11:57:37",
+      "link": "http://www.informatica.uniroma2.it/upload/2020/SOR/RETI LEZ06.pdf",
+      "dimensione": "599 KB"
+    },
+    {
+      "titolo": "Appunti Reti di calcolatori - Lezione 5 (29)",
+      "dataUpload": "06.04.2021 11:57:18",
+      "link": "http://www.informatica.uniroma2.it/upload/2020/SOR/RETI LEZ05.pdf",
+      "dimensione": "441 KB"
+    },
+    {
+      "titolo": "Appunti Reti di calcolatori - Lezione 4 (28)",
+      "dataUpload": "22.03.2021 12:08:37",
+      "link": "http://www.informatica.uniroma2.it/upload/2020/SOR/RETI LEZ04.pdf",
+      "dimensione": "856 KB"
+    },
+    {
+      "titolo": "Appunti Reti di calcolatori - Lezione 3 (27)",
+      "dataUpload": "22.03.2021 12:08:23",
+      "link": "http://www.informatica.uniroma2.it/upload/2020/SOR/RETI LEZ03.pdf",
+      "dimensione": "874 KB"
+    },
+    {
+      "titolo": "Appunti Reti di calcolatori - Lezione 2 (26)",
+      "dataUpload": "15.03.2021 09:07:19",
+      "link": "http://www.informatica.uniroma2.it/upload/2020/SOR/RETI LEZ02.pdf",
+      "dimensione": "758 KB"
+    },
+    {
+      "titolo": "Appunti Reti di calcolatori - Lezione 1 (25)",
+      "dataUpload": "10.03.2021 23:33:52",
+      "link": "http://www.informatica.uniroma2.it/upload/2020/SOR/RETI LEZ01.pdf",
+      "dimensione": "674 KB"
+    },
+    {
+      "titolo": "Appunti Sistemi operativi - Lezione 24",
+      "dataUpload": "14.01.2021 12:48:10",
+      "link": "http://www.informatica.uniroma2.it/upload/2020/SOR/SISTEMI OPERTATIVI LEZ24.pdf",
+      "dimensione": "625 KB"
+    },
+    {
+      "titolo": "Raccolta di esempi di system call. La raccolta contiene esempi di base sull'uso delle chiamate di sistema descritte durante il corso e molte soluzioni di problemi d'esame (programmi multiprocesso e multithread). Versione del 13-01-2021.",
+      "dataUpload": "14.01.2021 12:37:21",
+      "link": "http://www.informatica.uniroma2.it/upload/2020/SOR/EsempiSystemCall_13-01-2021.zip",
+      "dimensione": "67 KB"
+    },
+    {
+      "titolo": "Raccolta di testi d'esame di Sistemi operativi e reti.",
+      "dataUpload": "14.01.2021 12:35:57",
+      "link": "http://www.informatica.uniroma2.it/upload/2020/SOR/RaccoltaTestiEsameSOR-Dic2019.zip",
+      "dimensione": "5120 KB"
+    },
+    {
+      "titolo": "Appunti Sistemi operativi - Lezione 23",
+      "dataUpload": "11.01.2021 10:03:41",
+      "link": "http://www.informatica.uniroma2.it/upload/2020/SOR/SISTEMI OPERTATIVI LEZ23.pdf",
+      "dimensione": "629 KB"
+    },
+    {
+      "titolo": "Appunti Sistemi operativi - Lezione 22",
+      "dataUpload": "11.01.2021 10:03:29",
+      "link": "http://www.informatica.uniroma2.it/upload/2020/SOR/SISTEMI OPERTATIVI LEZ22.pdf",
+      "dimensione": "402 KB"
+    },
+    {
+      "titolo": "Appunti Sistemi operativi - Lezione 21",
+      "dataUpload": "21.12.2020 09:49:21",
+      "link": "http://www.informatica.uniroma2.it/upload/2020/SOR/SISTEMI OPERTATIVI LEZ21.pdf",
+      "dimensione": "401 KB"
+    },
+    {
+      "titolo": "Appunti Sistemi operativi - Lezione 20",
+      "dataUpload": "21.12.2020 09:49:08",
+      "link": "http://www.informatica.uniroma2.it/upload/2020/SOR/SISTEMI OPERTATIVI LEZ20.pdf",
+      "dimensione": "492 KB"
+    },
+    {
+      "titolo": "Appunti Sistemi operativi - Lezione 19",
+      "dataUpload": "21.12.2020 09:48:52",
+      "link": "http://www.informatica.uniroma2.it/upload/2020/SOR/SISTEMI OPERTATIVI LEZ19.pdf",
+      "dimensione": "451 KB"
+    },
+    {
+      "titolo": "Appunti Sistemi operativi - Lezione 18",
+      "dataUpload": "09.12.2020 09:13:12",
+      "link": "http://www.informatica.uniroma2.it/upload/2020/SOR/SISTEMI OPERTATIVI LEZ18.pdf",
+      "dimensione": "315 KB"
+    },
+    {
+      "titolo": "Appunti Sistemi operativi - Lezione 17",
+      "dataUpload": "09.12.2020 09:12:54",
+      "link": "http://www.informatica.uniroma2.it/upload/2020/SOR/SISTEMI OPERTATIVI LEZ17.pdf",
+      "dimensione": "422 KB"
+    },
+    {
+      "titolo": "Appunti Sistemi operativi - Lezione 14",
+      "dataUpload": "30.11.2020 09:41:41",
+      "link": "http://www.informatica.uniroma2.it/upload/2020/SOR/SISTEMI OPERTATIVI LEZ14.pdf",
+      "dimensione": "435 KB"
+    },
+    {
+      "titolo": "Appunti Sistemi operativi - Lezione 13",
+      "dataUpload": "30.11.2020 09:41:29",
+      "link": "http://www.informatica.uniroma2.it/upload/2020/SOR/SISTEMI OPERTATIVI LEZ13.pdf",
+      "dimensione": "347 KB"
+    },
+    {
+      "titolo": "Appunti Sistemi operativi - Lezione 12",
+      "dataUpload": "13.11.2020 18:04:50",
+      "link": "http://www.informatica.uniroma2.it/upload/2020/SOR/SISTEMI OPERTATIVI LEZ12.pdf",
+      "dimensione": "204 KB"
+    },
+    {
+      "titolo": "Appunti Sistemi operativi - Lezione 11",
+      "dataUpload": "13.11.2020 18:04:41",
+      "link": "http://www.informatica.uniroma2.it/upload/2020/SOR/SISTEMI OPERTATIVI LEZ11.pdf",
+      "dimensione": "212 KB"
+    },
+    {
+      "titolo": "Appunti Sistemi operativi - Lezione 10",
+      "dataUpload": "09.11.2020 11:01:04",
+      "link": "http://www.informatica.uniroma2.it/upload/2020/SOR/SISTEMI OPERTATIVI LEZ10.pdf",
+      "dimensione": "553 KB"
+    },
+    {
+      "titolo": "Appunti Sistemi operativi - Lezione 9",
+      "dataUpload": "03.11.2020 10:56:43",
+      "link": "http://www.informatica.uniroma2.it/upload/2020/SOR/SISTEMI OPERTATIVI LEZ09.pdf",
+      "dimensione": "439 KB"
+    },
+    {
+      "titolo": "Appunti Sistemi operativi - Lezione 8",
+      "dataUpload": "02.11.2020 09:43:18",
+      "link": "http://www.informatica.uniroma2.it/upload/2020/SOR/SISTEMI OPERTATIVI LEZ08.pdf",
+      "dimensione": "371 KB"
+    },
+    {
+      "titolo": "Appunti Sistemi operativi - Lezione 7",
+      "dataUpload": "28.10.2020 12:43:38",
+      "link": "http://www.informatica.uniroma2.it/upload/2020/SOR/SISTEMI OPERTATIVI LEZ07.pdf",
+      "dimensione": "310 KB"
+    },
+    {
+      "titolo": "Appunti Sistemi operativi - Lezione 6",
+      "dataUpload": "24.10.2020 10:01:02",
+      "link": "http://www.informatica.uniroma2.it/upload/2020/SOR/SISTEMI OPERTATIVI LEZ06.pdf",
+      "dimensione": "238 KB"
+    },
+    {
+      "titolo": "Appunti Sistemi operativi - Lezione 5",
+      "dataUpload": "24.10.2020 10:00:45",
+      "link": "http://www.informatica.uniroma2.it/upload/2020/SOR/SISTEMI OPERTATIVI LEZ05.pdf",
+      "dimensione": "254 KB"
+    },
+    {
+      "titolo": "Appunti Sistemi operativi - Lezione 4",
+      "dataUpload": "17.10.2020 10:44:25",
+      "link": "http://www.informatica.uniroma2.it/upload/2020/SOR/SISTEMI OPERTATIVI LEZ04.pdf",
+      "dimensione": "326 KB"
+    },
+    {
+      "titolo": "Appunti Sistemi operativi - Lezione 3",
+      "dataUpload": "14.10.2020 09:49:14",
+      "link": "http://www.informatica.uniroma2.it/upload/2020/SOR/SISTEMI OPERTATIVI LEZ03.pdf",
+      "dimensione": "408 KB"
+    },
+    {
+      "titolo": "Appunti Sistemi operativi - Lezione 2",
+      "dataUpload": "14.10.2020 09:49:01",
+      "link": "http://www.informatica.uniroma2.it/upload/2020/SOR/SISTEMI OPERTATIVI LEZ02.pdf",
+      "dimensione": "873 KB"
+    },
+    {
+      "titolo": "Appunti Sistemi operativi - Lezione 1",
+      "dataUpload": "14.10.2020 09:48:41",
+      "link": "http://www.informatica.uniroma2.it/upload/2020/SOR/SISTEMI OPERTATIVI LEZ01.pdf",
+      "dimensione": "286 KB"
+    },
+    {
+      "titolo": "Presentazione dell'insegnamento Sistemi operativi e\u00a0 reti (SOR).",
+      "dataUpload": "14.10.2020 09:47:28",
+      "link": "http://www.informatica.uniroma2.it/upload/2020/SOR/SISTEMI OPERTATIVI PRESENTAZIONE.pdf",
+      "dimensione": "202 KB"
+    }
+  ],
+  "programma": "Parte I: Sistemi operativi(I semestre)\nIntroduzione ai sistemi operativi.\nClassificazione dei sistemi operativi.\nPrincipali modelli strutturali.\nGestione dei processi.\nThread.\nSincronizzazione dei processi.\nGestione della memoria.\nGestione dell' I/O.\nGestione del file system.\nI sistemi operativi Unix e Linux.\nCasi di studio: Unix e Linux\nParte II: Reti di calcolatori (II semestre)\nReti di calcolatori e Internet.\nStrato di applicazione.\nStrato di trasporto.\nStrato di rete e instradamento.\nStrato di collegamento e reti di area locale.\nReti wireless",
+  "testiRiferimento": "Testi di riferimento\nSistemi Operativi, X ed., A. Silberschatz, P. Galvin, G. Gagne. Pearson.\u00a0Reti di Calcolatori e Internet, VII ed. - Un approccio top-down - J.F. Kurose, K.W. Ross - Pearson - Addison Wesley.\u00a0Altri libri consigliati\nSistemi operativi, II ed. - P. Ancilotti, M. Boari, A. Ciampolini, G. Lipari - McGraw-Hill\u00a0I moderni Sistemi Operativi, IV ed., A. S. Tanenbaum. Pearson - Prentice Hall.\u00a0Sistemi operativi, D. M. Dhamdhere, McGraw-Hill.\u00a0Reti di Calcolatori e Internet, B. A. Forouzan, McGraw-Hill.",
+  "ricevimento": "Il docente \u00e8 a disposizione per il \"ricevimento studenti\" al termine delle lezioni, su MS Teams, alle ore 11:00 del marted\u00ec e gioved\u00ec, o per appuntamento da concordare via email (pietro.frasca@uniroma2.it).",
+  "modalit\u00e0Esame": "Di seguito sono descritte le modalit\u00e0 d'esame di Sistemi operativi e reti nel caso in cui si svogano online oppure in presenza.\n\nModalit\u00e0 d'esame on line\nPer sostenere l'eame online lo studente deve seguire i seguenti passi:\n1) prenotarsi su Delphi come di consueto;\n2) registrarsi al Teams di Sistemi operativi e reti (se ancora non registrato);\n3) partecipare alla riunione Teams alla data e all'ora di svolgimento dell'esame.\n\nL'esame si svolger\u00e0 via MS Teams sottoforma di colloquio logicamente diviso in due parti. La prima parte del colloquio sar\u00e0 basata su argomenti tipici di una prova scritta. In particolare, lo studente dovr\u00e0 scrivere e/o spiegare il codice di un'applicazione\nmulti processo e/o multi thread, essere in grado di descrivere un progetto di rete intranet con relativo schema hardware e piano d'indirizzamento, rispondere ad altre domande poste sottoforma di problemi. Se lo studente supera la prima parte del colloquio, rispondendo in modo soddisfacente, passer\u00e0 immediatamente a svolgere la seconda parte del colloquio che riguarda\u00a0 argomenti, tipici di una prova orale.\n\nModalit\u00e0 d'esame in presenza\nL'esame di\u00a0Sistemi operativi e reti\u00a0consiste in una prova scritta e in una prova orale. Il testo della prova scritta \u00e8 suddiviso in due partm ciascuna delle quali \u00e8 composta da un gruppo di 3 domande. Le domande della prima parte riguardano argomenti di\u00a0Sistemi operativi, mentre le domande della seconda parte sono relative ad argomenti di\u00a0Reti di calcolatori. Le domande sono del tipo a risposta aperta o sottoforma di problemi. Per la parte\u00a0Sistemi operativi\u00a0una delle domande consiste nello sviluppo di un breve programma in linguaggio C basato sulle system call POSIX studiate durante il corso.\u00a0La durata dell'esame \u00e8 di 2 ore. Durante lo svolgimento della prova scritta \u00e8 vietato l'uso di libri e/o appunti di qualsiasi genere.\nPer sostenere la prova orale \u00e8 necessario aver superato la prova scritta con una votazione di almeno 18/30.\nPer sostenere l'esame \u00e8 obbligatorio prenotarsi mediante il servizio \"Servizi on Line\" all'indirizzo\u00a0http://delphi.uniroma2.it\n\nEsonero\nGli studenti possono sostenere,\u00a0nel solo appello invernale, l'esonero di\u00a0Sistemi operativi e reti\u00a0che consiste in una prova scritta e in una prova orale basate sugli argomenti della prima parte del corso\u00a0(Sistemi operativi).\nLo studente che supera l'esonero deve sostenere la restante parte di SOR entro l'anno accademico corrente.\nPer sostenere l'esonero lo studente deve prenotarsi mediante il servizio \"Servizi on Line\" all'indirizzo\u00a0http://delphi.uniroma2.it\nIl testo della prova scritta dell'esonero \u00e8 composto da un gruppo di 3 domande. Le domande sono del tipo a risposta aperta o sottoforma di problemi. Una delle domande consiste nello sviluppo di un breve programma in linguaggio C basato sulle system call POSIX studiate durante il corso.\nLa durata della prova scritta dell'esonero \u00e8 di 1 ora.\nDurante lo svolgimento della prova scritta \u00e8 vietato l'uso di libri e/o appunti di qualsiasi genere.\u00a0Per sostenere la prova orale \u00e8 necessario aver superato la prova scritta con una votazione di almeno 18/30.\n\nMateriale didattico utile per l'esame\nUna raccolta di testi di esame relativi agli a.a. passati e vari esempi di programmi sulle system call POSIX e sulla programmazione delle socket saranno disponibili nell'area \"materiale didattico\"."
+}

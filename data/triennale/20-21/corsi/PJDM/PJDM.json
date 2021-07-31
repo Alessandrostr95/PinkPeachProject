@@ -1,0 +1,23 @@
+{
+  "nomeCorso": "Programmazione Java per dispositivi mobili",
+  "docente": "Pierpaolo Loreti",
+  "annoAccademico": "2020-2021",
+  "crediti": "6",
+  "settore": "ING-INF/03",
+  "anno": "3",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [
+    {
+      "id": "0",
+      "data": "null",
+      "contenuto": "https://teams.microsoft.com/l/team/19:55a4851ae98041048697cbb6f294ae3d%40thread.tacv2/conversations?groupId=3fba264f-6954-4f04-b1b7-57c00c8e80d3&tenantId=24c5be2a-d764-40c5-9975-82d08ae47d0e"
+    }
+  ],
+  "materiale": [],
+  "programma": "Basi Java: Introduzione a java, Programmazione ad oggetti, Design pattern per la programmazione ad oggetti. Programmazione con IDE come Eclipse.Android OS: Introduzione alla programmazione su terminali mobili, App Android, Risorse per le APP, Creazione di APP, Creazione di elementi grafici, gestione delle comunicazioni.\nJ2EE: Programmazione java per server, basi di JSP, interfacce REST",
+  "testiRiferimento": "null",
+  "ricevimento": "null",
+  "modalit\u00e0Esame": "Documento di specifica:\n10 Giugno, ore 14.00 - 16.00 - Teams\n\nTest a Risposta Multipla\n24 Giugno, ore 10.00 - 11.00 - Aula C9 Macroarea Ingegneria\n15 Luglio, ore 10.00 - 11.00 - Aula C9 Macroarea Ingegneria\n\nPresentazione progetti\n\n01 Luglio, ore 10.00 - Aula C9 Macroarea Ingegneria\n15 Luglio, ore 15.00\u00a0 - Aula C9 Macroarea Ingegneria"
+}

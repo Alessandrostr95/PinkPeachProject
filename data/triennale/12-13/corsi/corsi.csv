@@ -1,0 +1,23 @@
+anno,insegnamento,link,codice,settore,CFU,semetre,docente,propedeuticità
+1,Analisi Matematica,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2012&cdl=0&id=AM,AM,MAT/05,9,1,Radulescu,
+1,Architettura elaboratori,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2012&cdl=0&id=ASE,ASE,INF/01,6,1,Pieroni,
+1,Fisica,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2012&cdl=0&id=FI,FI,FIS/01,6,2,Camarri,
+1,Fondamenti di informatica,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2012&cdl=0&id=FO,FO,INF/01,12,1-2,Intrigila,
+1,Geometria ed algebra,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2012&cdl=0&id=GA,GA,MAT/03,6,2,Ghione,
+1,Matematica discreta,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2012&cdl=0&id=MD,MD,MAT/03,9,1,Brenti,
+1,Programmazione,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2012&cdl=0&id=PR,PR,INF/01,12,1-2,Rossi,
+2,Algoritmi e strutture di dati con laboratorio,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2012&cdl=0&id=ASDL,ASDL,INF/01,12,1-2,Guala',
+2,Basi di dati,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2012&cdl=0&id=BD,BD,INF/01,12,1-2,Vigliano,Matematica discreta-Programmazione-
+2,Calcolo delle probabilità e statistica,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2012&cdl=0&id=CPS,CPS,MAT/06,6,1,Macci,Analisi Matematica-
+2,Programmazione a oggetti,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2012&cdl=0&id=PO,PO,INF/01,12,1-2,Buttarazzi,Programmazione-
+2,Ricerca operativa,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2012&cdl=0&id=RO,RO,MAT/09,6,2,Scozzari,
+2,Sistemi operativi e reti,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2012&cdl=0&id=SOR,SOR,INF/01,12,1-2,Frasca,Architettura elaboratori-Programmazione-
+3,Algoritmi e strutture di dati 2,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2012&cdl=0&id=ASD2,ASD2,INF/01,6,1,Clementi,
+3,Calcolo numerico,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2012&cdl=0&id=CN,CN,MAT/08,6,2,Pelosi,Analisi Matematica-Matematica discreta-Algoritmi e strutture di dati con laboratorio-
+3,Informatica teorica,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2012&cdl=0&id=IT,IT,INF/01,6,1,Di Ianni,
+3,Ingegneria del software,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2012&cdl=0&id=IS,IS,INF/01,12,1-2,Intrigila,Programmazione a oggetti-
+3,Intelligenza artificiale,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2012&cdl=0&id=IA,IA,INF/01,12,1-2,Pazienza,Programmazione-
+3,Laboratorio avanzato di informatica,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2012&cdl=0&id=LAI,LAI,INF/01,6,1,Talamo,
+3,Logica per la programmazione e dimostrazione automatica,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2012&cdl=0&id=LPDA,LPDA,INF/01,6,2,Zanzotto,
+3,Modelli e linguaggi di simulazione,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2012&cdl=0&id=MLS,MLS,INF/01,6,2,Iazeolla,
+3,Programmazione web,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2012&cdl=0&id=PW,PW,INF/01,6,2,Buttarazzi,Programmazione-Programmazione a oggetti-

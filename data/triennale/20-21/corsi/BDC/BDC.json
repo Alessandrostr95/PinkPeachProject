@@ -1,0 +1,158 @@
+{
+  "nomeCorso": "Basi di dati e di conoscenza",
+  "docente": "Loredana Vigliano",
+  "annoAccademico": "2020-2021",
+  "crediti": "12",
+  "settore": "INF/01",
+  "anno": "2",
+  "semestre": "1-2",
+  "propedeuticit\u00e0": "Matematica discreta. Programmazione dei calcolatori con laboratorio.",
+  "comunicazioni": [
+    {
+      "titolo": "estratto della seduta del Senato Accademico del 20/07/2021",
+      "data": "28-07-2021 15:00",
+      "contenuto": ".....\nESAMI DI PROFITTO\nGli esami di profitto saranno svolti in presenza. Sara\u0300 comunque previsto anche un appello in modalita\u0300 telematica, al fine di assicurare a tutti gli studenti che lo richiedano, - in quanto al momento impossibilitati a sostenerli in presenza per comprovate ragioni quali essere positivi al Covid o in quarantena attestata da certificazione medica o per gli studenti stranieri cui e\u0300 impedito il rientro in Italia - la possibilita\u0300 di sostenerel\u2019esame.\n......"
+    },
+    {
+      "titolo": "ESAMI SESSIONE ESTIVA",
+      "data": "09-07-2021 17:51",
+      "contenuto": "PERGLI ESAMI ONLINE (scritto , progetti e orali)\nE' indispensabile , per sostenere l'esame online scritto disporre di computer con videocamera, microfono e connessione internet funzionante (vedi anhe Regole successive)\n\nSi ricorda che \u00e8 necessario prenotarsi su Delphi anche per chi deve sostenere solo l'orale, e che questo si svolger\u00e0 in presenza a meno di presentazione di\u00a0certificazione\n\nESAMI SESSIONE AUTUNNALE\n\nIII Appello\u00a0(IV per Bioinformatici)AA2020-21 (per chi ha superato lo scritto di Luglio)\n\n13 Settembre consegna progetto entro le ore 12 inviando mail a vigliano@mat.uniroma2.it\n15-16 Settembre orali aula 20 con orario e ordine da stabilire.\n\nIV Appello\u00a0(V per Bioinformatici)AA2020-21\n\n27 Settembre scritto\u00a0 ore ???? online o in presenza con aula da definire\n28 Settembre consegna progetto entro le ore 12 inviando mail a vigliano@mat.uniroma2.it\n30 Settembre-1 Ottobre orali con orario e ordine da stabilire"
+    },
+    {
+      "titolo": "Regole per l'esame scritto",
+      "data": "21-06-2021 17:46",
+      "contenuto": "Le regole per partecipare all\u2019esame scritto online di Basi di Dati e Conoscenza (Informatici e Bioinformatici) sono :\n\n-\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Iscriversi a Delphi(ANCHE SOLO PER L'ORALE)\n-\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Inviare una mail per partecipare allo scritto avigliano@mat.uniroma2.itcon nome, cognome, matricola, corso e soprattutto mail a cui sar\u00e0 inviato il Forms con lo scritto\n-\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Lo scritto verr\u00e0 effettuato in pi\u00f9 turni (suddivider\u00f2 io)\n-\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Ogni studente pu\u00f2 partecipare ad un solo turno\n-\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Se uno studente non vuole pi\u00f9 partecipare allo scritto, deve comunicarlo in modo da poter lasciare il posto ad un altro studente\n-\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 L\u2019assegnazione del compito con Microsoft Forms pare funzioni solo con Chrome, assicuratevene ed eventualmente provvedete\n-\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Poco prima dell\u2019inizio i partecipanti di quel turno devono collegarsi a Teams, canale VIGLIANO-2020-21-BASI_DI_DATI_CONOSCENZA-->Esami scritti 20-21, con a portata di mano documento (per l\u2019identificazione), fogli bianchi e penna\u2026.e basta\n-\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Al momento in cui invio/assegno il compito gli studenti dovranno gi\u00e0 essere tutti collegati al suddetto canale e dovranno essere visibili con microfoni e videocamere attivati\n-\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Eventuali domande potranno essere fatte sulla chat (al solito solo per i primi 20 minuti)\n-\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Il file da caricare con lo schema E-R \u00e8 preferibile sia una scansione (o al limite una foto) del vostro foglio scritto a mano (ben chiaro e ben visibile!)\n\nPer qualsiasi dubbio potete scrivermi ."
+    },
+    {
+      "titolo": "ESAMI ONLINE BIOINFORMATICA",
+      "data": "21-06-2021 17:46",
+      "contenuto": "Si avvisano gli studenti di BIOINFORMATICA che, in questo appello, possono fare richiesta di esameorale online, anche se residenti fuori regione."
+    },
+    {
+      "titolo": "Lezioni BDC online",
+      "data": "21-06-2021 17:45",
+      "contenuto": "\n\nPotete trovare le lezioni di Basi di Dati sul Team :\nVIGLIANO-2020-21-BASI_DI_DATI"
+    }
+  ],
+  "lezioni": [
+    {
+      "id": "0",
+      "data": "null",
+      "contenuto": "Orario Primo semestre :\nLuned\u00ec ore 16-18 aula 7PP2 (aula virtuale Teams)\nMercoled\u00ec ore 16-18 aula 7PP2 (aule virtuale Teams)\n\nIn presenza in giorni ci spiegazioni e chiarimenti decisi dal docente"
+    }
+  ],
+  "materiale": [
+    {
+      "titolo": "<span style=\"background-color: #d7ecfc;\">Risultati dello scritto del 5 Luglio 2021</span>",
+      "dataUpload": "05.07.2021 19:58:04",
+      "link": "http://www.informatica.uniroma2.it/upload/2020/BDC/risIIappello.pdf",
+      "dimensione": "76 KB"
+    },
+    {
+      "titolo": "13 GIS Sistemi Informativi Geografici",
+      "dataUpload": "21.04.2021 16:19:12",
+      "link": "http://www.informatica.uniroma2.it/upload/2020/BDC/GISnew.pdf",
+      "dimensione": "4595 KB"
+    },
+    {
+      "titolo": "12 DB NoSQL e Mongodb",
+      "dataUpload": "12.04.2021 16:52:23",
+      "link": "http://www.informatica.uniroma2.it/upload/2020/BDC/12Database_NoSQL_en2.pdf",
+      "dimensione": "439 KB"
+    },
+    {
+      "titolo": "Istruzioni istallazione Mongodb",
+      "dataUpload": "07.04.2021 17:11:09",
+      "link": "http://www.informatica.uniroma2.it/upload/2020/BDC/Istruzioni_mongo.pdf",
+      "dimensione": "68 KB"
+    },
+    {
+      "titolo": "Linee giuda per il progetto (Informatici)",
+      "dataUpload": "29.03.2021 16:45:04",
+      "link": "http://www.informatica.uniroma2.it/upload/2020/BDC/guidaprogettoBasididati2021.pdf",
+      "dimensione": "83 KB"
+    },
+    {
+      "titolo": "11 Architettura e Motori di MySQL",
+      "dataUpload": "23.03.2021 16:57:15",
+      "link": "http://www.informatica.uniroma2.it/upload/2020/BDC/4Architettura_MySQL.pdf",
+      "dimensione": "228 KB"
+    },
+    {
+      "titolo": "11 bis MVCC in MySQKL",
+      "dataUpload": "22.03.2021 16:25:41",
+      "link": "http://www.informatica.uniroma2.it/upload/2020/BDC/MVCC.pdf",
+      "dimensione": "1813 KB"
+    },
+    {
+      "titolo": "<span style=\"background-color: #f3f3f3;\">09 Architettura ottimizzatore MySQL</span>",
+      "dataUpload": "17.03.2021 11:00:23",
+      "link": "http://www.informatica.uniroma2.it/upload/2020/BDC/2terQuery_performance_optimization.pdf",
+      "dimensione": "205 KB"
+    },
+    {
+      "titolo": "07 Comando Explain",
+      "dataUpload": "16.03.2021 17:46:58",
+      "link": "http://www.informatica.uniroma2.it/upload/2020/BDC/07Explain.pdf",
+      "dimensione": "3082 KB"
+    },
+    {
+      "titolo": "10 Ottimizzazione Query",
+      "dataUpload": "16.03.2021 17:40:58",
+      "link": "http://www.informatica.uniroma2.it/upload/2020/BDC/07SqlTuning.pdf",
+      "dimensione": "5332 KB"
+    },
+    {
+      "titolo": "08 Ottimizzazione Indici",
+      "dataUpload": "08.03.2021 16:23:24",
+      "link": "http://www.informatica.uniroma2.it/upload/2020/BDC/08IndexTuning.pdf",
+      "dimensione": "6875 KB"
+    },
+    {
+      "titolo": "06 Organizzazione fisica dei dati",
+      "dataUpload": "16.12.2020 18:21:11",
+      "link": "http://www.informatica.uniroma2.it/upload/2020/BDC/1organizzazione_fisica_dei_dati_senza_figure.pdf",
+      "dimensione": "312 KB"
+    },
+    {
+      "titolo": "Linee guida per il progetto (solo per BioInformatica)",
+      "dataUpload": "10.12.2020 09:46:36",
+      "link": "http://www.informatica.uniroma2.it/upload/2020/BDC/guidaprogettoBasididati2020_BIO_emergenza.pdf",
+      "dimensione": "154 KB"
+    },
+    {
+      "titolo": "05 DBMS e SQL",
+      "dataUpload": "10.12.2020 09:45:00",
+      "link": "http://www.informatica.uniroma2.it/upload/2020/BDC/5DBMSeSQL[Compatibility Mode].pdf",
+      "dimensione": "387 KB"
+    },
+    {
+      "titolo": "04 Modello concettuale, schema E-R logico e schema E-R normalizzato",
+      "dataUpload": "11.11.2020 18:32:47",
+      "link": "http://www.informatica.uniroma2.it/upload/2020/BDC/4Modconcettualeschemae-r.pdf",
+      "dimensione": "463 KB"
+    },
+    {
+      "titolo": "03 Algebra Relazionale e Calcolo Relazionale",
+      "dataUpload": "19.10.2020 18:28:51",
+      "link": "http://www.informatica.uniroma2.it/upload/2020/BDC/3algebra_calcolo_relazionale.pdf",
+      "dimensione": "190 KB"
+    },
+    {
+      "titolo": "02 Modello Relazionale",
+      "dataUpload": "15.10.2020 10:21:28",
+      "link": "http://www.informatica.uniroma2.it/upload/2020/BDC/2modello_relazionale.pdf",
+      "dimensione": "80 KB"
+    },
+    {
+      "titolo": "01 Introduzione, storia e definizioni",
+      "dataUpload": "08.10.2020 10:12:38",
+      "link": "http://www.informatica.uniroma2.it/upload/2020/BDC/1definizioni_storia_new.pdf",
+      "dimensione": "359 KB"
+    }
+  ],
+  "programma": "Introduzione\u00a0- Modello relazionale\u00a0- Algebra relazionale\u00a0- Calcolo relazionale\u00a0- Flusso di progetto e visione dei dati\u00a0- Modello concettuale dei dati\u00a0- Disegno logico DB\u00a0Schema Entity-relationship\u00a0- Disegno fisico DB\u00a0- Forme normali\u00a0- Query language e implementazioni su mySQL\u00a0DML\u00a0SQL\u00a0- Organizzazione fisica dei dati\u00a0- Ottimizzazione degli indici\u00a0- Normalizzazione e Denormalizzazione\u00a0- Ottimizzazione delle interrogazioni\u00a0------ MySQL e ottimizzazioni\n- Transazioni\u00a0------ Locking a due fasi, Timestamp,MVCC\u00a0------ MySQL e Storage Engine\u00a0- Basi di dati attive\u00a0------ Trigger e Stored Procedure\u00a0------ Cursor, Trigger e Stored Procedure in MySQL\n- Basi di dati\u00a0geospaziali e GIS\u00a0- Basi di dati su architetture distribuite\u00a0------ Commit a due fasi\u00a0- Architetture per l' analisi dei dati (facoltativo)------ Data Warehouse(facoltativo)------ Data Mining\u00a0(facoltativo)\n- \u00a0DB NoSQL : MongoDB e/o MySQL8- Implementazione progetto",
+  "testiRiferimento": "Prima parte\n- Atzeni,Ceri,Fraternali,Paraboschi,Torlone\u00a0Basi di dati -Modelli e Linguaggi di interrogazione-\u00a0ed. McGraw-Hill 4nd edition (\u00e8 il libro piccolo)\n\nSeconda parte\n- Elmasri,NavatheSistemi di basi di dati, Fondamenti e complementiPearson 7a edizione italiana\n\n\n- lucidi di L. Vigliano presentati a Lezione (non coprono tutto il programma)",
+  "ricevimento": "Al termine di ogni lezione o previo appuntamento via mail\nPer ora sempre tramite Teams",
+  "modalit\u00e0Esame": "L\u2019 esame comprende uno scritto, un progetto e un orale. Lo scritto pu\u00f2 essere conservato per un solo appello, eccetto per l\u2019 ultimo appello dell\u2019 anno accademico (non si pu\u00f2 conservare).\nNello specifico :\nse supero lo scritto a Giugno posso portare il progetto a Luglio\nse supero lo scritto a Luglio posso portare il progetto solo al primo appello di Settembre\nse supero lo scritto a Settembre posso portare il progetto solo al primo appello di Febbraio, poi stop.\nRiassumendo: il primo appello di Settembre e il primo appello di Gennaio/Febbraio sono riservati ai soli studenti che hanno superato lo scritto nell' appello precedente."
+}

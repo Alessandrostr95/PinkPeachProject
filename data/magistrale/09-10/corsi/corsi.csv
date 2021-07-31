@@ -1,0 +1,8 @@
+anno,insegnamento,link,codice,settore,CFU,semetre,docente,propedeuticità
+1,Algebra,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2009&cdl=1&id=ALG,ALG,,6,2,Piacentini Cattaneo,
+1,Calcolo delle probabilità,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2009&cdl=1&id=CP,CP,,6,2,Calzolari,
+1,Elementi di economia nel progetto di sistemi,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2009&cdl=1&id=EEPS,EEPS,,6,2,Marinelli,
+1,Informatica teorica,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2009&cdl=1&id=IT,IT,,6,1,Gambosi,
+1,Matematica computazionale,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2009&cdl=1&id=MC,MC,,6,2,Zellini,
+1,Sistemi di agenti,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2009&cdl=1&id=SDA,SDA,,6,2,De Luca,
+2,Sicurezza dei sistemi informativi,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2009&cdl=1&id=SSI,SSI,,9,2,Arcieri,

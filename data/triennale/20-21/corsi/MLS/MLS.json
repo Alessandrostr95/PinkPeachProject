@@ -1,0 +1,23 @@
+{
+  "nomeCorso": "Modelli e linguaggi di simulazione",
+  "docente": "Giuseppe Iazeolla",
+  "annoAccademico": "2020-2021",
+  "crediti": "6",
+  "settore": "ING-INF/05",
+  "anno": "3",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [
+    {
+      "id": "0",
+      "data": "null",
+      "contenuto": "Come da Orario Ufficiale"
+    }
+  ],
+  "materiale": [],
+  "programma": "vedi su Delphi",
+  "testiRiferimento": "vedi su Delphi",
+  "ricevimento": "Iazeoll@uniroma2.it",
+  "modalit\u00e0Esame": "vedi su Delphi"
+}
