@@ -12,6 +12,9 @@ TEMPLATES_ROOT = "../../templates/"
 #TEMPLATES_ROOT = os.environ['TEMPLATES_ROOT']
 
 def import_courses( triennale=True ):
+    """
+        Funzione che importa i dati dei corsi
+    """
     if triennale:
         f_name = DATA_ROOT + "triennale/20-21/corsi/corsi.csv"
     else:
@@ -23,7 +26,20 @@ def import_courses( triennale=True ):
     return[line for line in sem]
 
 def import_teachers(f_name, triennale=True ):
-
+    """
+        Funzione che restituisce una lista di dati inerenti ai professori,
+        con le seguenti informazioni:
+            - homepage -> sito internet del professore
+            - insegnamento -> materia insegnata
+            - mail -> indirizzo e-mail
+            - nome -> nome del professore nel formato 'Cognome Nome'
+            - qualifica -> qualifica del docente
+            - studio -> numero dello studio
+            - telefono -> numero di telefono (dello studio)
+            - img-name -> url dell'immagine
+            - id-name -> nome del professore nel formato 'cognome-nome'
+            - link-corso -> link del corso
+    """
     f = open( f_name )
     sem = csv.DictReader(f)
     lines = [line for line in sem]
@@ -55,15 +71,27 @@ def import_teachers(f_name, triennale=True ):
     return data
 
 def get(s):
+    """
+        Funzione utile per filtrare i campi nulli del file csv.
+        Se il campo è nullo ritorna None.
+    """
     if s != 'null' and s != '':
         return s
     else:
         return None
 
 def id_name(x):
+    """
+        Funzione che dato un nome nel formato "Cognome Nome"
+        ritorna l'id-name in formato "cognome-nome".
+    """
     return x.lower().replace("'","").replace(" ","-")
 
 def img_name(x, extension=".jpg"):
+    """
+        Funzione che dato un nome nel formato "Cognome Nome"
+        ritorna il nome dell'immagine associata al docente.
+    """
     return id_name(x) + extension
 
 if __name__ == "__main__":
