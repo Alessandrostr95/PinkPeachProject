@@ -71,4 +71,45 @@ window.onload = function() {
         }
     }
 
+    autoWrite();
+
 };
+
+/**
+ * Auto-write text
+ */
+
+const text2write = [
+    "Benvenuto nel sito di informatica Tor Vergata.",
+    "Fatto dagli studenti per gli studenti ",
+];
+const speed = 25;
+var i = 0;
+var s;
+  
+function autoWrite() {
+    s = document.querySelector(".auto-write-text");
+    write(0);
+};
+  
+function write(k) {
+    if(k == 0) {
+        if (i < text2write[0].length) {
+            s.innerHTML += text2write[0][i];
+            i++;
+            setTimeout(() => write(k), speed + Math.random() * 25);
+        } else {
+            s.innerHTML += "<br/>> ";
+            i = 0;
+            setTimeout(() => write(1), 500 + Math.random() * 25);
+        }
+    } else {
+        if (i < text2write[1].length) {
+            s.innerHTML += text2write[1][i];
+            i++;
+            setTimeout(() => write(1), speed + Math.random() * 25);
+        } else {
+            s.innerHTML += '<img src="../icons/icons8-pixel-heart-96.png" height="25em" />';
+        }
+    }
+}

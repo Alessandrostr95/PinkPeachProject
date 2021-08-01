@@ -200,6 +200,41 @@ main {
   min-height: 1000px;
 }
 
+#welcome-message {
+  min-height: 8em;
+}
+
+@media screen and (min-width: 576px) {
+  #welcome-message {
+    min-height: 4em;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  #welcome-message {
+    padding: 30px;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  #welcome-message {
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+}
+
+.auto-write-text{
+  animation: blink-cursor .75s step-end infinite;
+  border-right: .15em solid green; /* cursore sul lato */
+  font: larger Inconsolata, monospace;
+}
+
+/* The typewriter cursor effect */
+@keyframes blink-cursor {
+  from, to { border-color: transparent }
+  50% { border-color: green; }
+}
+
 /* footer */
 footer {
   display: flex;
