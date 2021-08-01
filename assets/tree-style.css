@@ -1,13 +1,23 @@
 .tree {
   position: relative;
   background: white;
-  margin-top: 20px;
+  margin: auto;
   padding: 30px;
   font-family: "Roboto Mono", monospace;
   font-size: 0.85rem;
   font-weight: 400;
   line-height: 1.5;
   color: #212529;
+}
+
+.card .card-body .tree {
+  padding: 0;
+}
+
+@media screen and (min-width: 992px) {
+  .tree {
+    padding-left: 0;
+  }
 }
 
 .tree .comment {
