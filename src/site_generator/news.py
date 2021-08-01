@@ -3,6 +3,9 @@ import feedparser
 import os
 from pprint import pprint
 
+#SITE_ROOT = "../../site/"
+#DATA_ROOT = "../../data/"
+#TEMPLATES_ROOT = "../../templates/"
 SITE_ROOT = os.environ['SITE_ROOT']
 SRC_ROOT = os.environ['SRC_ROOT']
 DATA_ROOT = os.environ['DATA_ROOT']
@@ -26,17 +29,25 @@ def import_news(f_name):
             ]
         })
 
-    pprint( entries )
+    #pprint( entries )
     return entries
 
 if __name__ == "__main__":
-    f_names = [DATA_ROOT + "triennale/20-21/annunci/triennale.xml"]
+    f_names = [
+        DATA_ROOT + "triennale/20-21/annunci/triennale.xml",
+        DATA_ROOT + "magistrale/20-21/annunci/magistrale.xml"
+        ]
     result_file = SITE_ROOT + "home/index.html"
     
     template_dir = TEMPLATES_ROOT + "/home/"
     template_file = "news.html"
     
-    items = import_news( f_names[0] )
+    items = {
+        "triennale": import_news( f_names[0] ),
+        "magistrale": import_news( f_names[1] )
+        }
+
+    pprint( items )
 
     env = Environment( loader=FileSystemLoader( template_dir ) )
     template = env.get_template( template_file )

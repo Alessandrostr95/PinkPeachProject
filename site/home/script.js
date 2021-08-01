@@ -3,8 +3,6 @@ const magistrale = "magistrale"
 
 var currentState = triennale;
 
-var coll;
-
 window.onload = function() {
     const slideBar = document.querySelector("#slide-bar");
     const triennale = document.querySelector("#triennale");
@@ -14,7 +12,10 @@ window.onload = function() {
     //const calendarioMagistrale = document.getElementById("calendario-magistrale");
 
     const navTreeTriennale = document.getElementById("nav-tree-triennale");
-    const navTreeMagistrale = document.getElementById("nav-tree-magistrale")
+    const navTreeMagistrale = document.getElementById("nav-tree-magistrale");
+
+    const newsTriennale = document.getElementById("news-triennale");
+    const newsMagistrale = document.getElementById("news-magistrale");
 
     document.querySelector("#switch-button").addEventListener("click", function(){
         /**
@@ -29,6 +30,8 @@ window.onload = function() {
         //calendarioMagistrale.classList.toggle("hidden");
         navTreeTriennale.classList.toggle("hidden");
         navTreeMagistrale.classList.toggle("hidden");
+        newsTriennale.classList.toggle("hidden");
+        newsMagistrale.classList.toggle("hidden");
     });
 
 
@@ -55,7 +58,7 @@ window.onload = function() {
 
 
     /* Faccio collassare gli elementi del NAV-TREE quando clicco su un elemento padre */
-    coll = document.querySelectorAll(".tree .tree-node");
+    var coll = document.querySelectorAll(".tree .tree-node");
     console.log( coll );
 
     for(let i = 0; i < coll.length; i++){

@@ -36,6 +36,15 @@
 ]]></description>
       </item>
 
+      <item>
+       <title>SOLO MAGISTRALE</title>
+       <author>Alessandro</author>
+       <pubDate>Tue, 25 May 2021 11:02:00 </pubDate>
+       <enclosure url="" type="application/pdf" />
+       <description>
+<![CDATA[Questo è un messaggio di prova per testare il toggle tra notifiche della triennale e notifiche della magistrale. <br/>Test html <b>bold</b> <a href="#nogo">a</a> <ul><li>Item 1</li><li>Item 2</li><li>Item 3</li></ul>
+]]></description>
+      </item>
       
   </channel>
 </rss>
