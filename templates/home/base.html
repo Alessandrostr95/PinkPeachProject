@@ -127,40 +127,47 @@
 
                   <li> <img src="../icons/icons8-number-1-90.png" height="20em" class="tree-node" /> primo-anno
                     <ul class="hidden">
-                      <li> <img src="../icons/icons8-study-100.png" height="20em" /> <a href="#nogo">matematica discreta</a> </li>
-                      <li> <img src="../icons/icons8-study-100.png" height="20em" /> <a href="#nogo">analisi matematica</a> </li>
-                      <li> <img src="../icons/icons8-study-100.png" height="20em" /> <a href="#nogo">logica e reti logiche</a> </li>
-                      <li> <img src="../icons/icons8-study-100.png" height="20em" /> <a href="#nogo">fisica</a> </li>
+                      {% for corso in tree['triennale']['corsi'][1] %}
+                      <li>
+                        <img src="../icons/icons8-study-100.png" height="20em" /> 
+                        <a href="{{ corso['link'] }}">{{ corso['nome'] }}</a>
+                      </li>
+                      {% endfor %}
                     </ul>
                   </li>
 
                   <li> <img src="../icons/icons8-number-2-90.png" height="20em" class="tree-node" /> secondo-anno
                     <ul class="hidden" >
-                      <li> <img src="../icons/icons8-study-100.png" height="20em" /> <a href="#nogo">algoritmi e strutture dati</a> </li>
-                      <li> <img src="../icons/icons8-study-100.png" height="20em" /> <a href="#nogo">sistemi operativi e reti</a> </li>
-                      <li> <img src="../icons/icons8-study-100.png" height="20em" /> <a href="#nogo">fondamenti di informatica</a> </li>
-                      <li> <img src="../icons/icons8-study-100.png" height="20em" /> <a href="#nogo">calcolo delle probabilità</a> </li>
+                      {% for corso in tree['triennale']['corsi'][2] %}
+                      <li>
+                        <img src="../icons/icons8-study-100.png" height="20em" /> 
+                        <a href="{{ corso['link'] }}">{{ corso['nome'] }}</a>
+                      </li>
+                      {% endfor %}
                     </ul>
                   </li>
 
                   <li> <img src="../icons/icons8-number-3-90.png" height="20em" class="tree-node" /> terzo-anno
                     <ul class="hidden" >
-                      <li> <img src="../icons/icons8-study-100.png" height="20em" /> <a href="#nogo">algoritmi e strutture dati 2</a> </li>
-                      <li> <img src="../icons/icons8-study-100.png" height="20em" /> <a href="#nogo">intelligenza artificiale</a> </li>
-                      <li> <img src="../icons/icons8-study-100.png" height="20em" /> <a href="#nogo">calcolo numerico</a> </li>
-                      <li> <img src="../icons/icons8-study-100.png" height="20em" /> <a href="#nogo">ingegneria del software</a> </li>
+                      {% for corso in tree['triennale']['corsi'][3] %}
+                      <li>
+                        <img src="../icons/icons8-study-100.png" height="20em" /> 
+                        <a href="{{ corso['link'] }}">{{ corso['nome'] }}</a>
+                      </li>
+                      {% endfor %}
                     </ul>
                   </li>
                 </ul>
                 </li>
 
-                <li> <img src="../icons/icons8-graduation-cap-48.png" height="20em" class="tree-node" /> <a href="#nogo">Docenti</a>
+                <li> <img src="../icons/icons8-graduation-cap-48.png" height="20em" class="tree-node" /> <a href="./triennale/20-21/docenti.html">Docenti</a>
                   <ul class="hidden" >
-                    <li> <img src="../icons/icons8-user-48.png" height="20em" /> <a href="#nogo">Francesco Pasquale</a> </li>
-                    <li> <img src="../icons/icons8-user-48.png" height="20em" /> <a href="#nogo">Luciano Gualà</a> </li>
-                    <li> <img src="../icons/icons8-user-48.png" height="20em" /> <a href="#nogo">Andrea Clementi</a> </li>
-                    <li> <img src="../icons/icons8-user-48.png" height="20em" /> <a href="#nogo">Benedetto Intrigila</a> </li>
-                    <li> <img src="../icons/icons8-user-48.png" height="20em" /> <a href="#nogo">Miriam Di Ianni</a> </li>
+                    {% for docente in tree['triennale']['docenti'] %}
+                    <li>
+                      <img src="../icons/icons8-user-48.png" height="20em" /> 
+                      <a href="{{ './triennale/20-21/docenti.html#' + docente['id-name'] }}">{{ docente['nome'] }}</a>
+                    </li>
+                    {% endfor %}
                   </ul>
                 </li>
 
@@ -172,6 +179,7 @@
           </ul>
         </div>
 
+        {% block nav_tree_magistrale scoped %}{% endblock %}
         <div id="nav-tree-magistrale" class="tree hidden">
           <p>Magistrale</p>
           <ul>
@@ -195,31 +203,36 @@
 
                   <li> <img src="../icons/icons8-number-1-90.png" height="20em" class="tree-node" /> primo-anno
                     <ul class="hidden">
-                      <li> <img src="../icons/icons8-study-100.png" height="20em" /> <a href="#nogo">Algoritmi distribuiti e reti complesse</a> </li>
-                      <li> <img src="../icons/icons8-study-100.png" height="20em" /> <a href="#nogo">Analisi di reti</a> </li>
-                      <li> <img src="../icons/icons8-study-100.png" height="20em" /> <a href="#nogo">Bioinformatica</a> </li>
-                      <li> <img src="../icons/icons8-study-100.png" height="20em" /> <a href="#nogo">Teoria della sicurezza e crittografia</a> </li>
+                      {% for corso in tree['magistrale']['corsi'][1] %}
+                      <li>
+                        <img src="../icons/icons8-study-100.png" height="20em" /> 
+                        <a href="{{ corso['link'] }}">{{ corso['nome'] }}</a>
+                      </li>
+                      {% endfor %}
                     </ul>
                   </li>
 
                   <li> <img src="../icons/icons8-number-2-90.png" height="20em" class="tree-node" /> secondo-anno
                     <ul class="hidden" >
-                      <li> <img src="../icons/icons8-study-100.png" height="20em" /> <a href="#nogo">Information retrieval</a> </li>
-                      <li> <img src="../icons/icons8-study-100.png" height="20em" /> <a href="#nogo">Intelligenza artificiale 2</a> </li>
-                      <li> <img src="../icons/icons8-study-100.png" height="20em" /> <a href="#nogo">Machine learning</a> </li>
-                      <li> <img src="../icons/icons8-study-100.png" height="20em" /> <a href="#nogo">Natural language processing</a> </li>
+                      {% for corso in tree['magistrale']['corsi'][2] %}
+                      <li>
+                        <img src="../icons/icons8-study-100.png" height="20em" /> 
+                        <a href="{{ corso['link'] }}">{{ corso['nome'] }}</a>
+                      </li>
+                      {% endfor %}
                     </ul>
                   </li>
                 </ul>
                 </li>
 
-                <li> <img src="../icons/icons8-graduation-cap-48.png" height="20em" class="tree-node" /> <a href="#nogo">Docenti</a>
+                <li> <img src="../icons/icons8-graduation-cap-48.png" height="20em" class="tree-node" /> <a href="./magistrale/20-21/docenti.html">Docenti</a>
                   <ul class="hidden" >
-                    <li> <img src="../icons/icons8-user-48.png" height="20em" /> <a href="#nogo">Basili Roberto</a> </li>
-                    <li> <img src="../icons/icons8-user-48.png" height="20em" /> <a href="#nogo">Luciano Gualà</a> </li>
-                    <li> <img src="../icons/icons8-user-48.png" height="20em" /> <a href="#nogo">Andrea Clementi</a> </li>
-                    <li> <img src="../icons/icons8-user-48.png" height="20em" /> <a href="#nogo">Benedetto Intrigila</a> </li>
-                    <li> <img src="../icons/icons8-user-48.png" height="20em" /> <a href="#nogo">Miriam Di Ianni</a> </li>
+                    {% for docente in tree['magistrale']['docenti'] %}
+                    <li>
+                      <img src="../icons/icons8-user-48.png" height="20em" /> 
+                      <a href="{{ './magistrale/20-21/docenti.html#' + docente['id-name'] }}">{{ docente['nome'] }}</a>
+                    </li>
+                    {% endfor %}
                   </ul>
                 </li>
 

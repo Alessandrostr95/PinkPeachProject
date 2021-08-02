@@ -4,7 +4,7 @@
 <!-- auto-generated card -->
 <div class="col">
     <div id="{{ teacher['id-name'] }}" class="card shadow-lg h-100">
-        <img class="card-img-top" src="{{ '../professors-photo/' + teacher['img-name'] }}" alt="Card image cap" onerror="this.onerror=null; this.src='../professors-photo/default.jpg'">
+        <img class="card-img-top" src="{{ '../../../professors-photo/' + teacher['img-name'] }}" alt="Card image cap" onerror="this.onerror=null; this.src='../../../professors-photo/default.jpg'">
         <div class="card-body">
             <h5 class="card-title">{{ teacher['nome'] }}</h5>
             <h6 class="card-subtitle mb-2 text-muted">{{ teacher['qualifica'] }}</h6>
@@ -17,19 +17,19 @@
                 </div>
 
                 {% if teacher['mail'] != None %}
-                    <img src="../icons/icons8-messaggio-80.png" alt="" height="20em" /> {{ teacher['mail'] }}<br>
+                    <img src="../../../icons/icons8-messaggio-80.png" alt="" height="20em" /> {{ teacher['mail'] }}<br>
                 {% endif %}
 
                 {% if teacher['homepage'] != None %}
-                <img src="../icons/icons8-dominio-100.png" alt="" height="20em" /> <a href="{{ teacher['homepage']  }}">here</a></br>
+                <img src="../../../icons/icons8-dominio-100.png" alt="" height="20em" /> <a href="{{ teacher['homepage']  }}">here</a></br>
                 {% endif %}
 
                 {% if teacher['studio'] != None %}
-                <img src="../icons/icons8-porta-80.png" alt="" height="20em" />  {{ teacher['studio'] }}<br>
+                <img src="../../../icons/icons8-porta-80.png" alt="" height="20em" />  {{ teacher['studio'] }}<br>
                 {% endif %}
 
                 {% if teacher['telefono'] != None %}
-                <img src="../icons/icons8-telefono-96.png" alt="" height="20em" /> {{ teacher['telefono'] }}
+                <img src="../../../icons/icons8-telefono-96.png" alt="" height="20em" /> {{ teacher['telefono'] }}
                 {% endif %}
             </p>
         </div>

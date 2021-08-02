@@ -101,7 +101,9 @@ if __name__ == "__main__":
         DATA_ROOT + "magistrale/20-21/docenti/docenti.csv"
         ]
 
-    result_file = SITE_ROOT + "home/docenti.html"
+    cdl = "triennale"   # cambiare questo per pagina docenti magistrale
+
+    result_file = SITE_ROOT + f"home/{cdl}/20-21/docenti.html"
 
     template_dir = TEMPLATES_ROOT + "docenti/"
     template_file = "card.html"
