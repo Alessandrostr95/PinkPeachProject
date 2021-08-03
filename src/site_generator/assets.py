@@ -21,25 +21,30 @@ ASSETS_ROOT = os.environ['ASSETS_ROOT']
 # -- here empty string means SITE_ROOT
 FILE_ASSET_MAP = {
     # -- svg
-    "logo_TV.svg": "home/",
+    "logo_TV.svg": ["home/"],
     # -- css
-    "news-style.css": "home/",
-    "style.css": "home/",
-    "table-style.css": "home/",
+    "css/style.css": ["home/"],
+    "css/news-style.css": ["home/"],
+    "css/table-style.css": ["home/"],
+    "css/tree-style.css": ["home/"],
     # -- js
-    "script.js": "home/"
+    "js/script.js": ["home/"],
+    "js/docenti.js": ["home/magistrale/20-21/", "home/triennale/20-21/"]
 }
 
 DIR_ASSET_MAP = {
-    "icons": ""
+    "icons": "",
+    "professors-photo": ""
 }
 
 if __name__ == "__main__":
     # -- copy assets file
     for f in FILE_ASSET_MAP:
-        src = ASSETS_ROOT + f
-        dst = SITE_ROOT + FILE_ASSET_MAP[f] + f
-        copyfile(src, dst)
+        for path in FILE_ASSET_MAP[f]:
+            src = ASSETS_ROOT + f
+            basename_f = os.path.basename(f)
+            dst = SITE_ROOT + path + basename_f
+            copyfile(src, dst)
         
     # -- copy assets dir
     for d in DIR_ASSET_MAP:
