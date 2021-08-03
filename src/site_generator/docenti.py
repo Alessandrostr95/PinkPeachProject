@@ -92,24 +92,22 @@ def img_name(x, extension=".jpg"):
     """
     return id_name(x) + extension
 
-if __name__ == "__main__":
+# -----------------------
 
-    csv_file = [
-        DATA_ROOT + "triennale/20-21/docenti/docenti.csv",
-        DATA_ROOT + "magistrale/20-21/docenti/docenti.csv"
-        ]
-
-    cdl = "triennale"   # cambiare questo per pagina docenti magistrale
+def write_docenti(cdl):
+    csv_file = {
+        "triennale": DATA_ROOT + "triennale/20-21/docenti/docenti.csv",
+        "magistrale": DATA_ROOT + "magistrale/20-21/docenti/docenti.csv"
+    }
 
     result_file = SITE_ROOT + f"home/{cdl}/20-21/docenti.html"
 
     template_dir = TEMPLATES_ROOT + "docenti/"
     template_file = "card.html"
 
+    data = import_teachers( csv_file[cdl] )
 
-    data = import_teachers( csv_file[0] )
-
-    pprint( data )
+    # pprint( data )
     
     env = Environment( loader=FileSystemLoader( template_dir ) )
     template = env.get_template( template_file )
@@ -119,4 +117,8 @@ if __name__ == "__main__":
 
     # to save the results
     with open(result_file, "w") as fh:
-        fh.write( output_from_parsed_template )
+        fh.write( output_from_parsed_template )    
+
+if __name__ == "__main__":
+    write_docenti("triennale")
+    write_docenti("magistrale")
