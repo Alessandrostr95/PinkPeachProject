@@ -15,9 +15,14 @@ main() {
     # -- create new version    
     mkdir $SITE_ROOT
     mkdir $SITE_ROOT/home
-
-    python3 src/site_generator/news.py
+    mkdir $SITE_ROOT/home/triennale
+    mkdir $SITE_ROOT/home/triennale/20-21
+    mkdir $SITE_ROOT/home/magistrale
+    mkdir $SITE_ROOT/home/magistrale/20-21
+    
+    python3 src/site_generator/home.py
     python3 src/site_generator/orari.py
+    python3 src/site_generator/docenti.py
     python3 src/site_generator/assets.py
 }
 
