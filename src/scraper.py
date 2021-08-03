@@ -138,7 +138,7 @@ class UniScraper(object):
         if scholar_year:
             return datetime.datetime.now().year - int("20" + scholar_year.split("-")[1])
         else:
-            return "0" # -- for "current year"
+            return "0"  # -- for "current year"
 
     # ---------------------------
 
@@ -773,4 +773,5 @@ if __name__ == "__main__":
     # bachelor_scraper.get_all_data("20-21")
 
     master_scraper = UniScraper(Degree.MASTER, create_dir=True)
-    master_scraper.get_all_data("20-21")    
+    master_scraper.get_teachers_list()
+    # master_scraper.get_all_data("20-21")
