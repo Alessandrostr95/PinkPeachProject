@@ -3,11 +3,16 @@ import csv
 import os
 from pprint import pprint
 
-
 SITE_ROOT = os.environ['SITE_ROOT'] if "SITE_ROOT" in os.environ else "../../site/"
 TEMPLATES_ROOT = os.environ['TEMPLATES_ROOT'] if "TEMPLATES_ROOT" in os.environ else "../../templates/"
 DATA_ROOT = os.environ['DATA_ROOT'] if "DATA_ROOT" in os.environ else "../../data/"
 SRC_ROOT = os.environ['SRC_ROOT'] if "SRC_ROOT" in os.environ else "../../src/"
+
+# -- imported from ../scraper.py
+import sys
+sys.path.append(SRC_ROOT)
+
+from scraper import get_current_school_year
 
 def import_courses( triennale=True ):
     """
@@ -96,11 +101,11 @@ def img_name(x, extension=".jpg"):
 
 def write_docenti(cdl):
     csv_file = {
-        "triennale": DATA_ROOT + "triennale/20-21/docenti/docenti.csv",
-        "magistrale": DATA_ROOT + "magistrale/20-21/docenti/docenti.csv"
+        "triennale": f"{DATA_ROOT}/triennale/{get_current_school_year()}/docenti/docenti.csv",
+        "magistrale": f"{DATA_ROOT}/magistrale/{get_current_school_year()}/docenti/docenti.csv"
     }
 
-    result_file = SITE_ROOT + f"home/{cdl}/20-21/docenti.html"
+    result_file = SITE_ROOT + f"home/{cdl}/{get_current_school_year()}/docenti.html"
 
     template_dir = TEMPLATES_ROOT + "docenti/"
     template_file = "card.html"
@@ -117,7 +122,7 @@ def write_docenti(cdl):
 
     # to save the results
     with open(result_file, "w") as fh:
-        fh.write( output_from_parsed_template )    
+        fh.write( output_from_parsed_template )
 
 if __name__ == "__main__":
     write_docenti("triennale")
