@@ -3,10 +3,10 @@ import csv
 import os
 from pprint import pprint
 
-SITE_ROOT = os.environ['SITE_ROOT']
-SRC_ROOT = os.environ['SRC_ROOT']
-DATA_ROOT = os.environ['DATA_ROOT']
-TEMPLATES_ROOT = os.environ['TEMPLATES_ROOT']
+SITE_ROOT = os.environ['SITE_ROOT'] if "SITE_ROOT" in os.environ else "../../site/"
+TEMPLATES_ROOT = os.environ['TEMPLATES_ROOT'] if "TEMPLATES_ROOT" in os.environ else "../../templates/"
+DATA_ROOT = os.environ['DATA_ROOT'] if "DATA_ROOT" in os.environ else "../../data/"
+SRC_ROOT = os.environ['SRC_ROOT'] if "SRC_ROOT" in os.environ else "../../src/"
 
 def import_csv(f_name, degree="Triennale"):
     """
