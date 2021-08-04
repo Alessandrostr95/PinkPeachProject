@@ -105,7 +105,7 @@ def write_docenti(cdl):
         "magistrale": f"{DATA_ROOT}/magistrale/{get_current_school_year()}/docenti/docenti.csv"
     }
 
-    result_file = SITE_ROOT + f"home/{cdl}/{get_current_school_year()}/docenti.html"
+    result_file = SITE_ROOT + f"{cdl}/{get_current_school_year()}/docenti.html"
 
     template_dir = TEMPLATES_ROOT + "docenti/"
     template_file = "card.html"

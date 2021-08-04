@@ -50,7 +50,7 @@ function write() {
         i++;
         setTimeout(write, speed + Math.random() * 25);
     } else {
-        s.innerHTML += ' <img src="../../../icons/icons8-graduation-cap-48.png" height="30em" />';
+        s.innerHTML += ' <img src="../../assets/icons/icons8-graduation-cap-48.png" height="30em" />';
     }
 
 }

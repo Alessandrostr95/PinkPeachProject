@@ -4,17 +4,17 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="style.css" />
-    <link rel="stylesheet" href="table-style.css" />
-    <link rel="stylesheet" href="news-style.css" />
-    <link rel="stylesheet" href="tree-style.css">
+    <link rel="stylesheet" href="../assets/css/style.css" />
+    <link rel="stylesheet" href="../assets/css/table-style.css" />
+    <link rel="stylesheet" href="../assets/css/news-style.css" />
+    <link rel="stylesheet" href="../assets/css/tree-style.css">
     <link
       href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
       rel="stylesheet"
       integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
       crossorigin="anonymous"
     />
-    <script src="script.js"></script>
+    <script src="../assets/js/home.js"></script>
     <title>Informatica Tor Vergata</title>
   </head>
   <body>
@@ -32,7 +32,7 @@
       <div class="container-fluid">
         <a class="navbar-brand" href="http://web.uniroma2.it/" target="_blank">
           <img
-            src="./logo_TV.svg"
+            src="../assets/logo_TV.svg"
             alt="logo tor vergata"
             height="60px"
             class="d-inline-block align-text-top"
@@ -110,9 +110,9 @@
             <li> <span class="tree-node">Site</span>
               <ul>
 
-                <li> <img src="../icons/icons8-folder-48.png" height="20em" class="tree-node" /> Home <span class="comment">- Current</span></li>
+                <li> <img src="../assets/icons/icons8-folder-48.png" height="20em" class="tree-node" /> Home <span class="comment">- Current</span></li>
 
-                <li> <img src="../icons/icons8-calendar-80.png" height="20em" class="tree-node"/> <a href="#nogo">Orari</a> 
+                <li> <img src="../assets/icons/icons8-calendar-80.png" height="20em" class="tree-node"/> <a href="#nogo">Orari</a> 
                   <ul class="hidden" >
 
                     <li> primo-anno </li>
@@ -122,36 +122,36 @@
                   </ul>
                 </li>
 
-                <li> <img src="../icons/icons8-book-80.png" height="20em" class="tree-node"/> <a href="#nogo">Corsi</a>
+                <li> <img src="../assets/icons/icons8-book-80.png" height="20em" class="tree-node"/> <a href="#nogo">Corsi</a>
                 <ul>
 
-                  <li> <img src="../icons/icons8-number-1-90.png" height="20em" class="tree-node" /> primo-anno
+                  <li> <img src="../assets/icons/icons8-number-1-90.png" height="20em" class="tree-node" /> primo-anno
                     <ul class="hidden">
                       {% for corso in tree['triennale']['corsi'][1] %}
                       <li>
-                        <img src="../icons/icons8-study-100.png" height="20em" /> 
+                        <img src="../assets/icons/icons8-study-100.png" height="20em" /> 
                         <a href="{{ corso['link'] }}">{{ corso['nome'] }}</a>
                       </li>
                       {% endfor %}
                     </ul>
                   </li>
 
-                  <li> <img src="../icons/icons8-number-2-90.png" height="20em" class="tree-node" /> secondo-anno
+                  <li> <img src="../assets/icons/icons8-number-2-90.png" height="20em" class="tree-node" /> secondo-anno
                     <ul class="hidden" >
                       {% for corso in tree['triennale']['corsi'][2] %}
                       <li>
-                        <img src="../icons/icons8-study-100.png" height="20em" /> 
+                        <img src="../assets/icons/icons8-study-100.png" height="20em" /> 
                         <a href="{{ corso['link'] }}">{{ corso['nome'] }}</a>
                       </li>
                       {% endfor %}
                     </ul>
                   </li>
 
-                  <li> <img src="../icons/icons8-number-3-90.png" height="20em" class="tree-node" /> terzo-anno
+                  <li> <img src="../assets/icons/icons8-number-3-90.png" height="20em" class="tree-node" /> terzo-anno
                     <ul class="hidden" >
                       {% for corso in tree['triennale']['corsi'][3] %}
                       <li>
-                        <img src="../icons/icons8-study-100.png" height="20em" /> 
+                        <img src="../assets/icons/icons8-study-100.png" height="20em" /> 
                         <a href="{{ corso['link'] }}">{{ corso['nome'] }}</a>
                       </li>
                       {% endfor %}
@@ -160,18 +160,18 @@
                 </ul>
                 </li>
 
-                <li> <img src="../icons/icons8-graduation-cap-48.png" height="20em" class="tree-node" /> <a href="./triennale/20-21/docenti.html">Docenti</a>
+                <li> <img src="../assets/icons/icons8-graduation-cap-48.png" height="20em" class="tree-node" /> <a href="../triennale/20-21/docenti.html">Docenti</a>
                   <ul class="hidden" >
                     {% for docente in tree['triennale']['docenti'] %}
                     <li>
-                      <img src="../icons/icons8-user-48.png" height="20em" /> 
-                      <a href="{{ './triennale/20-21/docenti.html#' + docente['id-name'] }}">{{ docente['nome'] }}</a>
+                      <img src="../assets/icons/icons8-user-48.png" height="20em" /> 
+                      <a href="{{ '../triennale/20-21/docenti.html#' + docente['id-name'] }}">{{ docente['nome'] }}</a>
                     </li>
                     {% endfor %}
                   </ul>
                 </li>
 
-                <li> <img src="../icons/icons8-pencil-48.png" height="20em" class="tree-node" /> <a href="#nogo">Esami</a> </li>
+                <li> <img src="../assets/icons/icons8-pencil-48.png" height="20em" class="tree-node" /> <a href="#nogo">Esami</a> </li>
 
               </ul>
             </li>
@@ -187,9 +187,9 @@
             <li> <span class="tree-node">Site</span>
               <ul>
 
-                <li> <img src="../icons/icons8-folder-48.png" height="20em" class="tree-node" /> Home <span class="comment">- Current</span></li>
+                <li> <img src="../assets/icons/icons8-folder-48.png" height="20em" class="tree-node" /> Home <span class="comment">- Current</span></li>
 
-                <li> <img src="../icons/icons8-calendar-80.png" height="20em" class="tree-node"/> <a href="#nogo">Orari</a> 
+                <li> <img src="../assets/icons/icons8-calendar-80.png" height="20em" class="tree-node"/> <a href="#nogo">Orari</a> 
                   <ul class="hidden" >
 
                     <li> primo-anno </li>
@@ -198,25 +198,25 @@
                   </ul>
                 </li>
 
-                <li> <img src="../icons/icons8-book-80.png" height="20em" class="tree-node"/> <a href="#nogo">Corsi</a>
+                <li> <img src="../assets/icons/icons8-book-80.png" height="20em" class="tree-node"/> <a href="#nogo">Corsi</a>
                 <ul>
 
-                  <li> <img src="../icons/icons8-number-1-90.png" height="20em" class="tree-node" /> primo-anno
+                  <li> <img src="../assets/icons/icons8-number-1-90.png" height="20em" class="tree-node" /> primo-anno
                     <ul class="hidden">
                       {% for corso in tree['magistrale']['corsi'][1] %}
                       <li>
-                        <img src="../icons/icons8-study-100.png" height="20em" /> 
+                        <img src="../assets/icons/icons8-study-100.png" height="20em" /> 
                         <a href="{{ corso['link'] }}">{{ corso['nome'] }}</a>
                       </li>
                       {% endfor %}
                     </ul>
                   </li>
 
-                  <li> <img src="../icons/icons8-number-2-90.png" height="20em" class="tree-node" /> secondo-anno
+                  <li> <img src="../assets/icons/icons8-number-2-90.png" height="20em" class="tree-node" /> secondo-anno
                     <ul class="hidden" >
                       {% for corso in tree['magistrale']['corsi'][2] %}
                       <li>
-                        <img src="../icons/icons8-study-100.png" height="20em" /> 
+                        <img src="../assets/icons/icons8-study-100.png" height="20em" /> 
                         <a href="{{ corso['link'] }}">{{ corso['nome'] }}</a>
                       </li>
                       {% endfor %}
@@ -225,18 +225,18 @@
                 </ul>
                 </li>
 
-                <li> <img src="../icons/icons8-graduation-cap-48.png" height="20em" class="tree-node" /> <a href="./magistrale/20-21/docenti.html">Docenti</a>
+                <li> <img src="../assets/icons/icons8-graduation-cap-48.png" height="20em" class="tree-node" /> <a href="../magistrale/20-21/docenti.html">Docenti</a>
                   <ul class="hidden" >
                     {% for docente in tree['magistrale']['docenti'] %}
                     <li>
-                      <img src="../icons/icons8-user-48.png" height="20em" /> 
-                      <a href="{{ './magistrale/20-21/docenti.html#' + docente['id-name'] }}">{{ docente['nome'] }}</a>
+                      <img src="../assets/icons/icons8-user-48.png" height="20em" /> 
+                      <a href="{{ '../magistrale/20-21/docenti.html#' + docente['id-name'] }}">{{ docente['nome'] }}</a>
                     </li>
                     {% endfor %}
                   </ul>
                 </li>
 
-                <li> <img src="../icons/icons8-pencil-48.png" height="20em" class="tree-node" /> <a href="#nogo">Esami</a> </li>
+                <li> <img src="../assets/icons/icons8-pencil-48.png" height="20em" class="tree-node" /> <a href="#nogo">Esami</a> </li>
 
               </ul>
             </li>
@@ -277,13 +277,13 @@
     <footer>
       <div id="gitIcon">
         <a href="https://github.com/Alessandrostr95/PinkPeachProject">
-          <img src="../icons/icons8-github-96.png" alt="git" width="28px" />
+          <img src="../assets/icons/icons8-github-96.png" alt="git" width="28px" />
         </a>
       </div>
       <div id="sitoUfficialeIcon">
         <a href="http://www.informatica.uniroma2.it/">
           <img
-            src="../icons/icons8-toilet-paper-80.png"
+            src="../assets/icons/icons8-toilet-paper-80.png"
             alt="sito-informatica"
             width="28px"
           />

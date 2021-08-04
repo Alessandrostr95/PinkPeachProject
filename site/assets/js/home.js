@@ -109,7 +109,7 @@ function write(k) {
             i++;
             setTimeout(() => write(1), speed + Math.random() * 25);
         } else {
-            s.innerHTML += '<img src="../icons/icons8-pixel-heart-96.png" height="25em" />';
+            s.innerHTML += '<img src="../assets/icons/icons8-pixel-heart-96.png" height="25em" />';
         }
     }
 }
