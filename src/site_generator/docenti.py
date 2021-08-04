@@ -57,10 +57,26 @@ def import_teachers(f_name, triennale=True ):
                 return corso['link']
         return "#nogo"
 
+    def get_teachings(teachings):
+        """
+        Prende in input una sequenza di materie di insegnamento separate da
+        '-' e ritorna una lista di oggetti JSON, ciascuno dei quali
+        contiene il nome dell'insegnamento e il link dell'insegnamento.
+        """
+        res = []
+        for teaching in teachings.split("-"):
+            res.append({
+                'nome': teaching,
+                'link-corso': get_link(teaching)
+            })
+        
+        return res
+
+
     for d in lines:
         data.append({
             'homepage': get( d['homepage'] ),
-            'insegnamento': get( d['insegnamento'] ),
+            'insegnamenti': get_teachings( d['insegnamenti'] ),
             'mail': get( d['mail'] ),
             'nome': get( d['nome'] ),
             'qualifica': get( d['qualifica'] ),
@@ -68,7 +84,6 @@ def import_teachers(f_name, triennale=True ):
             'telefono': get( d['telefono'] ),
             'img-name': img_name(d['nome']),
             'id-name': id_name(d['nome']),
-            'link-corso': get_link( d['insegnamento'] )
         })
 
     return data
@@ -127,3 +142,7 @@ def write_docenti(cdl):
 if __name__ == "__main__":
     write_docenti("triennale")
     write_docenti("magistrale")
+
+
+
+

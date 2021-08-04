@@ -450,7 +450,7 @@ class UniScraper(object):
         file_path = f"{self.DATA_ROOT}/{scholar_year}/{self.directories['basic_dirs']['teachers']}/{self.directories['basic_dirs']['teachers']}.csv"
         with open(file_path, "w+") as out:
             # -- first row with metadata
-            out.write("nome,qualifica,studio,telefono,mail,homepage,insegnamento\n")
+            out.write("nome,qualifica,studio,telefono,mail,homepage,insegnamenti\n")
             
             soup = BeautifulSoup(r.text, 'html.parser')
             table = soup.find("table")
@@ -467,11 +467,11 @@ class UniScraper(object):
                 mail = cols[4].a.img['title'].strip() if cols[4].find("a") else ""
                 homepage = cols[5].a['href'].strip() if cols[5].find("a") else ""
                 # cv = ""
-                insegnamento = ""
+                insegnamenti = ""
                 for ins in cols[7].find_all("a"):
-                    insegnamento += ins.decode_contents().strip() + "-"
-                insegnamento = insegnamento[:-1]
-                out.write(f"{nome},{qualifica},{studio},{telefono},{mail},{homepage},{insegnamento}\n")
+                    insegnamenti += ins.decode_contents().strip() + "-"
+                insegnamenti = insegnamenti[:-1]
+                out.write(f"{nome},{qualifica},{studio},{telefono},{mail},{homepage},{insegnamenti}\n")
 
     # ---------------------------
 
@@ -773,7 +773,7 @@ class UniScraper(object):
 
 if __name__ == "__main__":
     bachelor_scraper = UniScraper(Degree.BACHELOR)
-    # bachelor_scraper.get_teachers_list()
+    bachelor_scraper.get_teachers_list()
     # bachelor_scraper.get_all_data("20-21")
 
     master_scraper = UniScraper(Degree.MASTER)

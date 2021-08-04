@@ -10,9 +10,13 @@
             <h6 class="card-subtitle mb-2 text-muted">{{ teacher['qualifica'] }}</h6>
             <p class="card-text">
                 <div class="tree">
-                    Teaching:
-                    <ul>
-                        <li><a href="{{ teacher['link-corso'] }}">{{ teacher['insegnamento'] }}</a></li>
+                  Teaching:
+                  <ul>
+		    {% for insegnamento in teacher['insegnamenti'] %}
+                    <li>
+		      <a href="{{ insegnamento['link-corso'] }}">{{ insegnamento['nome'] }}</a>
+		    </li>
+		    {% endfor %}
                     </ul>
                 </div>
 
