@@ -467,7 +467,10 @@ class UniScraper(object):
                 mail = cols[4].a.img['title'].strip() if cols[4].find("a") else ""
                 homepage = cols[5].a['href'].strip() if cols[5].find("a") else ""
                 # cv = ""
-                insegnamento = cols[7].a.decode_contents().strip() if cols[7].find("a") else ""
+                insegnamento = ""
+                for ins in cols[7].find_all("a"):
+                    insegnamento += ins.decode_contents().strip() + "-"
+                insegnamento = insegnamento[:-1]
                 out.write(f"{nome},{qualifica},{studio},{telefono},{mail},{homepage},{insegnamento}\n")
 
     # ---------------------------
@@ -769,9 +772,10 @@ class UniScraper(object):
 # ----------------------------
 
 if __name__ == "__main__":
-    # bachelor_scraper = UniScraper(Degree.BACHELOR, create_dir=True)
+    bachelor_scraper = UniScraper(Degree.BACHELOR)
+    # bachelor_scraper.get_teachers_list()
     # bachelor_scraper.get_all_data("20-21")
 
-    master_scraper = UniScraper(Degree.MASTER, create_dir=True)
+    master_scraper = UniScraper(Degree.MASTER)
     master_scraper.get_teachers_list()
     # master_scraper.get_all_data("20-21")
