@@ -15,86 +15,16 @@
             </tr>
         </thead>
         <tbody>
+            {% for h in range( H|length ) %}
             <tr>
-                <th scope="row">09:00</th>
-                <td>{{ orari[i]['lunedì'][9] }}</td>
-                <td>{{ orari[i]['martedì'][9] }}</td>
-                <td>{{ orari[i]['mercoledì'][9] }}</td>
-                <td>{{ orari[i]['giovedì'][9] }}</td>
-                <td>{{ orari[i]['venerdì'][9] }}</td>
+                <th scope="row">{{ H[h] }}</th>
+                <td><a href="{{ orari[i]['lunedì'][h+9]['link'] }}">{{ orari[i]['lunedì'][h+9]['entry'] }}</a></td>
+                <td><a href="{{ orari[i]['martedì'][h+9]['link'] }}">{{ orari[i]['martedì'][h+9]['entry'] }}</a></td>
+                <td><a href="{{ orari[i]['mercoledì'][h+9]['link'] }}">{{ orari[i]['mercoledì'][h+9]['entry'] }}</a></td>
+                <td><a href="{{ orari[i]['giovedì'][h+9]['link'] }}">{{ orari[i]['giovedì'][h+9]['entry'] }}</a></td>
+                <td><a href="{{ orari[i]['venerdì'][h+9]['link'] }}">{{ orari[i]['venerdì'][h+9]['entry'] }}</a></td>
             </tr>
-            <tr>
-                <th scope="row">10:00</th>
-                <td>{{ orari[i]['lunedì'][10] }}</td>
-                <td>{{ orari[i]['martedì'][10] }}</td>
-                <td>{{ orari[i]['mercoledì'][10] }}</td>
-                <td>{{ orari[i]['giovedì'][10] }}</td>
-                <td>{{ orari[i]['venerdì'][10] }}</td>
-            </tr>
-            <tr>
-                <th scope="row">11:00</th>
-                <td>{{ orari[i]['lunedì'][11] }}</td>
-                <td>{{ orari[i]['martedì'][11] }}</td>
-                <td>{{ orari[i]['mercoledì'][11] }}</td>
-                <td>{{ orari[i]['giovedì'][11] }}</td>
-                <td>{{ orari[i]['venerdì'][11] }}</td>
-            </tr>
-            <tr>
-                <th scope="row">12:00</th>
-                <td>{{ orari[i]['lunedì'][12] }}</td>
-                <td>{{ orari[i]['martedì'][12] }}</td>
-                <td>{{ orari[i]['mercoledì'][12] }}</td>
-                <td>{{ orari[i]['giovedì'][12] }}</td>
-                <td>{{ orari[i]['venerdì'][12] }}</td>
-            </tr>
-            <tr>
-                <th scope="row">13:00</th>
-                <td>{{ orari[i]['lunedì'][13] }}</td>
-                <td>{{ orari[i]['martedì'][13] }}</td>
-                <td>{{ orari[i]['mercoledì'][13] }}</td>
-                <td>{{ orari[i]['giovedì'][13] }}</td>
-                <td>{{ orari[i]['venerdì'][13] }}</td>
-            </tr>
-            <tr>
-                <th scope="row">14:00</th>
-                <td>{{ orari[i]['lunedì'][14] }}</td>
-                <td>{{ orari[i]['martedì'][14] }}</td>
-                <td>{{ orari[i]['mercoledì'][14] }}</td>
-                <td>{{ orari[i]['giovedì'][14] }}</td>
-                <td>{{ orari[i]['venerdì'][14] }}</td>
-            </tr>
-            <tr>
-                <th scope="row">15:00</th>
-                <td>{{ orari[i]['lunedì'][15] }}</td>
-                <td>{{ orari[i]['martedì'][15] }}</td>
-                <td>{{ orari[i]['mercoledì'][15] }}</td>
-                <td>{{ orari[i]['giovedì'][15] }}</td>
-                <td>{{ orari[i]['venerdì'][15] }}</td>
-            </tr>
-            <tr>
-                <th scope="row">16:00</th>
-                <td>{{ orari[i]['lunedì'][16] }}</td>
-                <td>{{ orari[i]['martedì'][16] }}</td>
-                <td>{{ orari[i]['mercoledì'][16] }}</td>
-                <td>{{ orari[i]['giovedì'][16] }}</td>
-                <td>{{ orari[i]['venerdì'][16] }}</td>
-            </tr>
-            <tr>
-                <th scope="row">17:00</th>
-                <td>{{ orari[i]['lunedì'][17] }}</td>
-                <td>{{ orari[i]['martedì'][17] }}</td>
-                <td>{{ orari[i]['mercoledì'][17] }}</td>
-                <td>{{ orari[i]['giovedì'][17] }}</td>
-                <td>{{ orari[i]['venerdì'][17] }}</td>
-            </tr>
-            <tr>
-                <th scope="row">18:00</th>
-                <td>{{ orari[i]['lunedì'][18] }}</td>
-                <td>{{ orari[i]['martedì'][18] }}</td>
-                <td>{{ orari[i]['mercoledì'][18] }}</td>
-                <td>{{ orari[i]['giovedì'][18] }}</td>
-                <td>{{ orari[i]['venerdì'][18] }}</td>
-            </tr>
+            {% endfor %}
         </tbody>
     </table>
 </div>

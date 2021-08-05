@@ -35,8 +35,17 @@ tbody td {
 }
 
 tbody td:hover {
-    color: honeydew;
-    font-weight: bold;
+    color: honeydew !important;
+    font-weight: bold !important;
+}
+
+tbody td a {
+	text-decoration: none;
+	color: inherit;
+}
+
+tbody td a:hover {
+	color: inherit;
 }
 
 tbody td:hover::before {

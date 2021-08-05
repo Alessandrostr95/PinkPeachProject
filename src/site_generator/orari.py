@@ -16,6 +16,20 @@ from scraper import get_current_school_year
 
 ###################################
 
+def import_courses( triennale=True ):
+    """
+        Funzione che importa i dati dei corsi
+    """
+    if triennale:
+        f_name = DATA_ROOT + f"triennale/{get_current_school_year()}/corsi/corsi.csv"
+    else:
+        f_name = DATA_ROOT + f"magistrale/{get_current_school_year()}/corsi/corsi.csv"
+    
+    f = open( f_name )
+    sem = csv.DictReader(f)
+
+    return[line for line in sem]
+
 def import_csv(f_name, triennale=True):
     """
         Funzione che legge il csv degli orari ottenuto con lo script di Leonardo
@@ -38,14 +52,27 @@ def import_csv(f_name, triennale=True):
             'venerdì': {}
         }
     
+    info_corsi = import_courses( triennale )
+
+    def get_link( nome_corso ):
+        for corso in info_corsi:
+            if nome_corso.lower() == corso['insegnamento'].lower():
+                return corso['codice'] + ".html"
+        return "#nogo"
+    
+    
     days = ['lunedì', 'martedì', 'mercoledì', 'giovedì', 'venerdì']
     
     for line in lines:
         anno = int(line["anno"])
         ora = int(line["ora"].split(":")[0])
+        #ora = line["ora"]
         for d in days:
             materia = line[d].strip().replace("(","<br />(")
-            data[anno][d][ora] = materia if materia != "X" else ""
+            data[anno][d][ora] = {
+                "entry": materia if materia != "X" else "",
+                "link": get_link( line[d].strip().split("(")[0] )  # cambiare questo per inserire il link alla pagina del corso
+                }
     
     return data
 
@@ -68,7 +95,10 @@ def write_orari(triennale=True):
     
     env = Environment( loader=FileSystemLoader( template_dir ) )
     template = env.get_template( template_file )
-    output_from_parsed_template = template.render( orari=data )
+    output_from_parsed_template = template.render(
+        orari=data,
+        H=["09:00", "10:00", "11:00", "12:00", "13:00", "14:00", "15:00", "16:00", "17:00", "18:00"]
+        )
     
     # print( output_from_parsed_template )
 
