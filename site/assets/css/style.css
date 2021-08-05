@@ -196,10 +196,6 @@ header h1:nth-child(3) {
 }
 
 /* main */
-main {
-  min-height: 1000px;
-}
-
 #welcome-message {
   min-height: 8em;
 }
@@ -255,6 +251,7 @@ footer div {
 
 /* about page */
 #about p {
+    text-align: justify;
     font-size: 22px;
 }
 
