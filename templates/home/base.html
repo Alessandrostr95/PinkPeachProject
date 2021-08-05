@@ -112,12 +112,12 @@
 
                 <li> <img src="../assets/icons/icons8-folder-48.png" height="20em" class="tree-node" /> Home <span class="comment">- Current</span></li>
 
-                <li> <img src="../assets/icons/icons8-calendar-80.png" height="20em" class="tree-node"/> <a href="#nogo">Orari</a> 
+                <li> <img src="../assets/icons/icons8-calendar-80.png" height="20em" class="tree-node"/> <a href="../triennale/{{ year }}/orario.html">Orari</a> 
                   <ul class="hidden" >
-
-                    <li> primo-anno </li>
-                    <li> secondo-anno </li>
-                    <li> terzo-anno </li>
+                    <!-- TODO fare in modo che porti direttamente alla tabella desidderata -->
+                    <li> <a href="../triennale/{{ year }}/orario.html#year1">primo-anno</a> </li>
+                    <li> <a href="../triennale/{{ year }}/orario.html#year2">secondo-anno</a> </li>
+                    <li> <a href="../triennale/{{ year }}/orario.html#year3">terzo-anno</a> </li>
 
                   </ul>
                 </li>
@@ -160,12 +160,12 @@
                 </ul>
                 </li>
 
-                <li> <img src="../assets/icons/icons8-graduation-cap-48.png" height="20em" class="tree-node" /> <a href="../triennale/20-21/docenti.html">Docenti</a>
+                <li> <img src="../assets/icons/icons8-graduation-cap-48.png" height="20em" class="tree-node" /> <a href="../triennale/{{ year }}/docenti.html">Docenti</a>
                   <ul class="hidden" >
                     {% for docente in tree['triennale']['docenti'] %}
                     <li>
                       <img src="../assets/icons/icons8-user-48.png" height="20em" /> 
-                      <a href="{{ '../triennale/20-21/docenti.html#' + docente['id-name'] }}">{{ docente['nome'] }}</a>
+                      <a href="../triennale/{{ year }}/docenti.html#{{ docente['id-name'] }}">{{ docente['nome'] }}</a>
                     </li>
                     {% endfor %}
                   </ul>
@@ -179,7 +179,6 @@
           </ul>
         </div>
 
-        {% block nav_tree_magistrale scoped %}{% endblock %}
         <div id="nav-tree-magistrale" class="tree hidden">
           <p>Magistrale</p>
           <ul>
@@ -189,11 +188,11 @@
 
                 <li> <img src="../assets/icons/icons8-folder-48.png" height="20em" class="tree-node" /> Home <span class="comment">- Current</span></li>
 
-                <li> <img src="../assets/icons/icons8-calendar-80.png" height="20em" class="tree-node"/> <a href="#nogo">Orari</a> 
+                <li> <img src="../assets/icons/icons8-calendar-80.png" height="20em" class="tree-node"/> <a href="../magistrale/{{ year }}/orario.html">Orari</a> 
                   <ul class="hidden" >
 
-                    <li> primo-anno </li>
-                    <li> secondo-anno </li>
+                    <li> <a href="../magistrale/{{ year }}/orario.html#year1">primo-anno</a> </li>
+                    <li> <a href="../magistrale/{{ year }}/orario.html#year2">secondo-anno</a> </li>
 
                   </ul>
                 </li>
@@ -225,12 +224,12 @@
                 </ul>
                 </li>
 
-                <li> <img src="../assets/icons/icons8-graduation-cap-48.png" height="20em" class="tree-node" /> <a href="../magistrale/20-21/docenti.html">Docenti</a>
+                <li> <img src="../assets/icons/icons8-graduation-cap-48.png" height="20em" class="tree-node" /> <a href="../magistrale/{{ year }}/docenti.html">Docenti</a>
                   <ul class="hidden" >
                     {% for docente in tree['magistrale']['docenti'] %}
                     <li>
                       <img src="../assets/icons/icons8-user-48.png" height="20em" /> 
-                      <a href="{{ '../magistrale/20-21/docenti.html#' + docente['id-name'] }}">{{ docente['nome'] }}</a>
+                      <a href="../magistrale/{{ year }}/docenti.html#{{ docente['id-name'] }}">{{ docente['nome'] }}</a>
                     </li>
                     {% endfor %}
                   </ul>

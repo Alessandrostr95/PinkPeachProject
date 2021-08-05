@@ -20,7 +20,7 @@ main() {
     mkdir $SITE_ROOT/magistrale
     mkdir $SITE_ROOT/magistrale/20-21
 
-    cp -r $ASSETS_ROOT $SITE_ROOT
+    # cp -r $ASSETS_ROOT $SITE_ROOT
     
     python3 src/site_generator/home.py
     python3 src/site_generator/orari.py

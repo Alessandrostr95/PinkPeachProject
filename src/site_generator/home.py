@@ -9,6 +9,12 @@ TEMPLATES_ROOT = os.environ['TEMPLATES_ROOT'] if "TEMPLATES_ROOT" in os.environ 
 DATA_ROOT = os.environ['DATA_ROOT'] if "DATA_ROOT" in os.environ else "../../data/"
 SRC_ROOT = os.environ['SRC_ROOT'] if "SRC_ROOT" in os.environ else "../../src/"
 
+# -- imported from ../scraper.py
+import sys
+sys.path.append(SRC_ROOT)
+
+from scraper import get_current_school_year
+
 def import_news(f_name):
     data = feedparser.parse(f_name)['entries']
 
@@ -101,7 +107,7 @@ if __name__ == "__main__":
 
     env = Environment( loader=FileSystemLoader( template_dir ) )
     template = env.get_template( template_file )
-    output_from_parsed_template = template.render( items=items, tree=tree_data )
+    output_from_parsed_template = template.render( items=items, tree=tree_data, year=get_current_school_year() )
     
     print( output_from_parsed_template )
     

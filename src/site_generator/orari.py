@@ -8,13 +8,21 @@ TEMPLATES_ROOT = os.environ['TEMPLATES_ROOT'] if "TEMPLATES_ROOT" in os.environ 
 DATA_ROOT = os.environ['DATA_ROOT'] if "DATA_ROOT" in os.environ else "../../data/"
 SRC_ROOT = os.environ['SRC_ROOT'] if "SRC_ROOT" in os.environ else "../../src/"
 
-def import_csv(f_name, degree="Triennale"):
+# -- imported from ../scraper.py
+import sys
+sys.path.append(SRC_ROOT)
+
+from scraper import get_current_school_year
+
+###################################
+
+def import_csv(f_name, triennale=True):
     """
         Funzione che legge il csv degli orari ottenuto con lo script di Leonardo
         e ritorna un dizionario con una struttura piu' JSON oriented
     """
 
-    years = [1, 2, 3] if degree == "Triennale" else [1, 2]
+    years = [1, 2, 3] if triennale else [1, 2]
 
     f = open( f_name )
     sem = csv.DictReader(f)
@@ -41,29 +49,48 @@ def import_csv(f_name, degree="Triennale"):
     
     return data
 
+################################
 
-if __name__ == "__main__":
-    csv_file = [DATA_ROOT + "triennale/20-21/orario/sem2.csv",
-                DATA_ROOT + "magistrale/20-21/orario/sem2.csv"]
+def write_orari(triennale=True):
 
-    result_file = SITE_ROOT + "home/orario.html"
+    cdl = "triennale" if triennale else "magistrale"
 
-    template_dir = TEMPLATES_ROOT + "orario"
+    csv_file = DATA_ROOT + f"{cdl}/{get_current_school_year()}/orario/sem2.csv"
+
+    result_file = SITE_ROOT + f"{cdl}/{get_current_school_year()}/orario.html"
+
+    template_dir = TEMPLATES_ROOT + "orario/"
     template_file = "table.html"
 
-
-    triennale = import_csv( csv_file[0] )
-    magistrale = import_csv( csv_file[1], degree="Master" )
+    data = import_csv(csv_file, triennale)
     
-    pprint( triennale )
-    pprint( magistrale )
+    #pprint( data )
     
     env = Environment( loader=FileSystemLoader( template_dir ) )
     template = env.get_template( template_file )
-    output_from_parsed_template = template.render( bachelor=triennale, master=magistrale )
+    output_from_parsed_template = template.render( orari=data )
     
-    print( output_from_parsed_template )
+    # print( output_from_parsed_template )
 
     # to save the results
     with open(result_file, "w") as fh:
         fh.write( output_from_parsed_template )
+
+if __name__ == "__main__":
+    write_orari(triennale=True)
+    write_orari(triennale=False)
+
+#⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⡀⠠⠤⠀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+#⠀⠀⠀⠀⣀⢤⡒⠉⠁⠀⠒⢂⡀⠀⠀⠀⠈⠉⣒⠤⣀⠀⠀⠀⠀
+#⠀⠀⣠⠾⠅⠈⠀⠙⠀⠀⠀⠈⠀⠀⢀⣀⣓⡀⠉⠀⠬⠕⢄⠀⠀
+#⠀⣰⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡤⠶⢦⡀⠑⠀⠀⠀⠀⠈⢧⠀
+#⠀⡇⠀⠀⠀⠀⠀⢤⣀⣀⣀⣀⡀⢀⣀⣀⠙⠀⠀⠀⠀⠀⠀⢸⡄
+#⠀⢹⡀⠀⠀⠀⠀⡜⠁⠀⠀⠙⡴⠁⠀⠀⠱⡄⠀⠀⠀⠀⠀⣸⠀
+#⠀⠀⠱⢄⡀⠀⢰⣁⣒⣒⣂⣰⣃⣀⣒⣒⣂⢣⠀⠀⠀⢀⡴⠁⠀
+#⠀⠀⠀⠀⠙⠲⢼⡀⠀⠙⠀⢠⡇⠀⠛⠀⠀⣌⣀⡤⠖⠉⠀⠀⠀
+#⠀⠀⠀⠀⠀⠀⢸⡗⢄⣀⡠⠊⠈⢦⣀⣀⠔⡏⠀⠀⠀⠀⠀⠀⠀
+#⠀⠀⠀⠀⠀⠀⠈⡇⠀⢰⠁⠀⠀⠀⢣⠀⠀⣷⠀⠀⠀⠀⠀⠀⠀
+#⠀⠀⠀⠀⣠⠔⠊⠉⠁⡏⠀⠀⠀⠀⠘⡆⠤⠿⣄⣀⠀⠀⠀⠀⠀
+#⠀⠀⠀⠀⣧⠸⠒⣚⡩⡇⠀⠀⠀⠀⠀⣏⣙⠒⢴⠈⡇⠀⠀⠀⠀
+#⠀⠀⠀⠀⠈⠋⠉⠀⠀⢳⡀⠀⠀⠀⣸⠁⠈⠉⠓⠚⠁⠀⠀⠀⠀
+#⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠓⠛⠛

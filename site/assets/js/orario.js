@@ -1,8 +1,5 @@
-const triennale = "triennale";
-const magistrale = "magistrale"
-
 window.onload = function() {
-
+    
     /*
      * When the user scrolls down, hide the navbar. 
      * When the user scrolls up, show the navbar.
@@ -33,7 +30,7 @@ window.onload = function() {
  */
 
 const text2write = [
-    "Lista dei docenti"
+    "Orario lezioni"
 ];
 const speed = 25;
 var i = 0;
@@ -50,7 +47,7 @@ function write() {
         i++;
         setTimeout(write, speed + Math.random() * 25);
     } else {
-        s.innerHTML += ' <img src="../../../icons/icons8-graduation-cap-48.png" height="30em" />';
+        s.innerHTML += ' <img src="../../assets/icons/icons8-calendar-80.png" height="30em" />';
     }
 
 }
