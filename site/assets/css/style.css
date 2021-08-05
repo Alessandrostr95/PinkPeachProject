@@ -252,3 +252,14 @@ footer div {
 .hidden {
   display: none;
 }
+
+/* about page */
+#about p {
+    font-size: 22px;
+}
+
+#about p#about-center-text {
+    text-align:center;
+    font-size: 30px;
+    font-weight:bold;
+}
