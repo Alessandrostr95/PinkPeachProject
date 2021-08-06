@@ -9,6 +9,15 @@ TEMPLATES_ROOT = os.environ['TEMPLATES_ROOT'] if "TEMPLATES_ROOT" in os.environ 
 DATA_ROOT = os.environ['DATA_ROOT'] if "DATA_ROOT" in os.environ else "../../data/"
 SRC_ROOT = os.environ['SRC_ROOT'] if "SRC_ROOT" in os.environ else "../../src/"
 
+# Utilizzato da modify_contributors_with_custom_data() per cambiare le
+# informazioni scaricate da github con dati a piacere.
+CUSTOM_DATA = {
+    "LeonardoE95": {
+        "login": "Leonardo Tamiano",
+        "html_url": "https://leonardotamiano.xyz",
+    }
+}
+
 def download_github_avatars(contributors):
     for user in contributors:
         img = requests.get( user['avatar_url'] )
@@ -24,7 +33,7 @@ def download_github_contrib_data():
 def write_github_contrib_data( contributors ):
     data = []
 
-    for user in contributors:
+    for user in contributors:        
         data.append({
             'username': user['login'],
             'img_url': f"{SITE_ROOT}assets/contributors/{user['login']}.jpg",
@@ -36,6 +45,18 @@ def write_github_contrib_data( contributors ):
     
     with open(f"{SITE_ROOT}assets/js/contributors-data.json", "w") as f:
         f.write( json.dumps(data, indent=True) )
+
+def modify_contributors_with_custom_data ( contributors ):
+    """Funzione che modifica i dati scaricati da github per cambiare
+    link/username ed eventuale immagine di profilo."""
+
+    for user in contributors:
+        user['login.bkp'] = user['login'] # -- save in case of changes
+        if user['login.bkp'] in CUSTOM_DATA:
+            for field in CUSTOM_DATA[user['login.bkp']]:
+                user[field] = CUSTOM_DATA[user['login.bkp']][field]
+
+# -----------------------------------------
 
 def write_contributors( contributors ):
     result_file = SITE_ROOT + "home/informazioni.html"
@@ -56,5 +77,6 @@ def write_contributors( contributors ):
 if __name__ == '__main__':
     contributors = download_github_contrib_data()
     download_github_avatars( contributors )
+    modify_contributors_with_custom_data( contributors )
     # write_github_contrib_data( contributors ) questo al momento non server
     write_contributors( contributors )
