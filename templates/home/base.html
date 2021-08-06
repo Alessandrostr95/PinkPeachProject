@@ -93,181 +93,180 @@
 
     <!-- main -->
     <main class="container">
-    <div class="row">
+      <div id="home-template">
+        <!-- welcome message -->
+        <p id="welcome-message">
+          <span class="auto-write-text">> </span>
+        </p>
 
-      <!-- welcome message -->
-      <p id="welcome-message" class="col-12 col-md-6 col-lg-12">
-        <span class="auto-write-text">> </span>
-      </p>
+        <!-- NAV TREEE -->
+        <section id="nav-tree-block">
 
-      <!-- NAV TREEE -->
-      <section class="col col-md-6 col-lg-4">
+          <div id="nav-tree-triennale" class="tree">
+            <p>Triennale</p>
+            <ul>
 
-        <div id="nav-tree-triennale" class="tree">
-          <p>Triennale</p>
-          <ul>
-
-            <li> <span class="tree-node">Site</span>
-              <ul>
-
-                <li> <img src="../assets/icons/icons8-folder-48.png" height="20em" class="tree-node" /> Home <span class="comment">- Current</span></li>
-
-                <li> <img src="../assets/icons/icons8-calendar-80.png" height="20em" class="tree-node"/> <a href="../triennale/{{ year }}/orario.html">Orari</a> 
-                  <ul class="hidden" >
-                    <!-- TODO fare in modo che porti direttamente alla tabella desidderata -->
-                    <li> <a href="../triennale/{{ year }}/orario.html#year1">primo-anno</a> </li>
-                    <li> <a href="../triennale/{{ year }}/orario.html#year2">secondo-anno</a> </li>
-                    <li> <a href="../triennale/{{ year }}/orario.html#year3">terzo-anno</a> </li>
-
-                  </ul>
-                </li>
-
-                <li> <img src="../assets/icons/icons8-book-80.png" height="20em" class="tree-node"/> <a href="#nogo">Corsi</a>
+              <li> <span class="tree-node">Site</span>
                 <ul>
 
-                  <li> <img src="../assets/icons/icons8-number-1-90.png" height="20em" class="tree-node" /> primo-anno
-                    <ul class="hidden">
-                      {% for corso in tree['triennale']['corsi'][1] %}
-                      <li>
-                        <img src="../assets/icons/icons8-study-100.png" height="20em" /> 
-                        <a href="{{ corso['link'] }}">{{ corso['nome'] }}</a>
-                      </li>
-                      {% endfor %}
-                    </ul>
-                  </li>
+                  <li> <img src="../assets/icons/icons8-folder-48.png" height="20em" class="tree-node" /> Home <span class="comment">- Current</span></li>
 
-                  <li> <img src="../assets/icons/icons8-number-2-90.png" height="20em" class="tree-node" /> secondo-anno
+                  <li> <img src="../assets/icons/icons8-calendar-80.png" height="20em" class="tree-node"/> <a href="../triennale/{{ year }}/orario.html">Orari</a> 
                     <ul class="hidden" >
-                      {% for corso in tree['triennale']['corsi'][2] %}
-                      <li>
-                        <img src="../assets/icons/icons8-study-100.png" height="20em" /> 
-                        <a href="{{ corso['link'] }}">{{ corso['nome'] }}</a>
-                      </li>
-                      {% endfor %}
+                      <!-- TODO fare in modo che porti direttamente alla tabella desidderata -->
+                      <li> <a href="../triennale/{{ year }}/orario.html#year1">primo-anno</a> </li>
+                      <li> <a href="../triennale/{{ year }}/orario.html#year2">secondo-anno</a> </li>
+                      <li> <a href="../triennale/{{ year }}/orario.html#year3">terzo-anno</a> </li>
+
                     </ul>
                   </li>
 
-                  <li> <img src="../assets/icons/icons8-number-3-90.png" height="20em" class="tree-node" /> terzo-anno
-                    <ul class="hidden" >
-                      {% for corso in tree['triennale']['corsi'][3] %}
-                      <li>
-                        <img src="../assets/icons/icons8-study-100.png" height="20em" /> 
-                        <a href="{{ corso['link'] }}">{{ corso['nome'] }}</a>
-                      </li>
-                      {% endfor %}
-                    </ul>
-                  </li>
-                </ul>
-                </li>
+                  <li> <img src="../assets/icons/icons8-book-80.png" height="20em" class="tree-node"/> <a href="#nogo">Corsi</a>
+                  <ul>
 
-                <li> <img src="../assets/icons/icons8-graduation-cap-48.png" height="20em" class="tree-node" /> <a href="../triennale/{{ year }}/docenti.html">Docenti</a>
-                  <ul class="hidden" >
-                    {% for docente in tree['triennale']['docenti'] %}
-                    <li>
-                      <img src="../assets/icons/icons8-user-48.png" height="20em" /> 
-                      <a href="../triennale/{{ year }}/docenti.html#{{ docente['id-name'] }}">{{ docente['nome'] }}</a>
+                    <li> <img src="../assets/icons/icons8-number-1-90.png" height="20em" class="tree-node" /> primo-anno
+                      <ul class="hidden">
+                        {% for corso in tree['triennale']['corsi'][1] %}
+                        <li>
+                          <img src="../assets/icons/icons8-study-100.png" height="20em" /> 
+                          <a href="{{ corso['link'] }}">{{ corso['nome'] }}</a>
+                        </li>
+                        {% endfor %}
+                      </ul>
                     </li>
-                    {% endfor %}
+
+                    <li> <img src="../assets/icons/icons8-number-2-90.png" height="20em" class="tree-node" /> secondo-anno
+                      <ul class="hidden" >
+                        {% for corso in tree['triennale']['corsi'][2] %}
+                        <li>
+                          <img src="../assets/icons/icons8-study-100.png" height="20em" /> 
+                          <a href="{{ corso['link'] }}">{{ corso['nome'] }}</a>
+                        </li>
+                        {% endfor %}
+                      </ul>
+                    </li>
+
+                    <li> <img src="../assets/icons/icons8-number-3-90.png" height="20em" class="tree-node" /> terzo-anno
+                      <ul class="hidden" >
+                        {% for corso in tree['triennale']['corsi'][3] %}
+                        <li>
+                          <img src="../assets/icons/icons8-study-100.png" height="20em" /> 
+                          <a href="{{ corso['link'] }}">{{ corso['nome'] }}</a>
+                        </li>
+                        {% endfor %}
+                      </ul>
+                    </li>
                   </ul>
-                </li>
+                  </li>
 
-                <li> <img src="../assets/icons/icons8-pencil-48.png" height="20em" class="tree-node" /> <a href="#nogo">Esami</a> </li>
+                  <li> <img src="../assets/icons/icons8-graduation-cap-48.png" height="20em" class="tree-node" /> <a href="../triennale/{{ year }}/docenti.html">Docenti</a>
+                    <ul class="hidden" >
+                      {% for docente in tree['triennale']['docenti'] %}
+                      <li>
+                        <img src="../assets/icons/icons8-user-48.png" height="20em" /> 
+                        <a href="../triennale/{{ year }}/docenti.html#{{ docente['id-name'] }}">{{ docente['nome'] }}</a>
+                      </li>
+                      {% endfor %}
+                    </ul>
+                  </li>
 
-              </ul>
-            </li>
+                  <li> <img src="../assets/icons/icons8-pencil-48.png" height="20em" class="tree-node" /> <a href="#nogo">Esami</a> </li>
 
-          </ul>
-        </div>
+                </ul>
+              </li>
 
-        <div id="nav-tree-magistrale" class="tree hidden">
-          <p>Magistrale</p>
-          <ul>
+            </ul>
+          </div>
 
-            <li> <span class="tree-node">Site</span>
-              <ul>
+          <div id="nav-tree-magistrale" class="tree hidden">
+            <p>Magistrale</p>
+            <ul>
 
-                <li> <img src="../assets/icons/icons8-folder-48.png" height="20em" class="tree-node" /> Home <span class="comment">- Current</span></li>
-
-                <li> <img src="../assets/icons/icons8-calendar-80.png" height="20em" class="tree-node"/> <a href="../magistrale/{{ year }}/orario.html">Orari</a> 
-                  <ul class="hidden" >
-
-                    <li> <a href="../magistrale/{{ year }}/orario.html#year1">primo-anno</a> </li>
-                    <li> <a href="../magistrale/{{ year }}/orario.html#year2">secondo-anno</a> </li>
-
-                  </ul>
-                </li>
-
-                <li> <img src="../assets/icons/icons8-book-80.png" height="20em" class="tree-node"/> <a href="#nogo">Corsi</a>
+              <li> <span class="tree-node">Site</span>
                 <ul>
 
-                  <li> <img src="../assets/icons/icons8-number-1-90.png" height="20em" class="tree-node" /> primo-anno
-                    <ul class="hidden">
-                      {% for corso in tree['magistrale']['corsi'][1] %}
-                      <li>
-                        <img src="../assets/icons/icons8-study-100.png" height="20em" /> 
-                        <a href="{{ corso['link'] }}">{{ corso['nome'] }}</a>
-                      </li>
-                      {% endfor %}
-                    </ul>
-                  </li>
+                  <li> <img src="../assets/icons/icons8-folder-48.png" height="20em" class="tree-node" /> Home <span class="comment">- Current</span></li>
 
-                  <li> <img src="../assets/icons/icons8-number-2-90.png" height="20em" class="tree-node" /> secondo-anno
+                  <li> <img src="../assets/icons/icons8-calendar-80.png" height="20em" class="tree-node"/> <a href="../magistrale/{{ year }}/orario.html">Orari</a> 
                     <ul class="hidden" >
-                      {% for corso in tree['magistrale']['corsi'][2] %}
+
+                      <li> <a href="../magistrale/{{ year }}/orario.html#year1">primo-anno</a> </li>
+                      <li> <a href="../magistrale/{{ year }}/orario.html#year2">secondo-anno</a> </li>
+
+                    </ul>
+                  </li>
+
+                  <li> <img src="../assets/icons/icons8-book-80.png" height="20em" class="tree-node"/> <a href="#nogo">Corsi</a>
+                  <ul>
+
+                    <li> <img src="../assets/icons/icons8-number-1-90.png" height="20em" class="tree-node" /> primo-anno
+                      <ul class="hidden">
+                        {% for corso in tree['magistrale']['corsi'][1] %}
+                        <li>
+                          <img src="../assets/icons/icons8-study-100.png" height="20em" /> 
+                          <a href="{{ corso['link'] }}">{{ corso['nome'] }}</a>
+                        </li>
+                        {% endfor %}
+                      </ul>
+                    </li>
+
+                    <li> <img src="../assets/icons/icons8-number-2-90.png" height="20em" class="tree-node" /> secondo-anno
+                      <ul class="hidden" >
+                        {% for corso in tree['magistrale']['corsi'][2] %}
+                        <li>
+                          <img src="../assets/icons/icons8-study-100.png" height="20em" /> 
+                          <a href="{{ corso['link'] }}">{{ corso['nome'] }}</a>
+                        </li>
+                        {% endfor %}
+                      </ul>
+                    </li>
+                  </ul>
+                  </li>
+
+                  <li> <img src="../assets/icons/icons8-graduation-cap-48.png" height="20em" class="tree-node" /> <a href="../magistrale/{{ year }}/docenti.html">Docenti</a>
+                    <ul class="hidden" >
+                      {% for docente in tree['magistrale']['docenti'] %}
                       <li>
-                        <img src="../assets/icons/icons8-study-100.png" height="20em" /> 
-                        <a href="{{ corso['link'] }}">{{ corso['nome'] }}</a>
+                        <img src="../assets/icons/icons8-user-48.png" height="20em" /> 
+                        <a href="../magistrale/{{ year }}/docenti.html#{{ docente['id-name'] }}">{{ docente['nome'] }}</a>
                       </li>
                       {% endfor %}
                     </ul>
                   </li>
+
+                  <li> <img src="../assets/icons/icons8-pencil-48.png" height="20em" class="tree-node" /> <a href="#nogo">Esami</a> </li>
+
                 </ul>
-                </li>
+              </li>
 
-                <li> <img src="../assets/icons/icons8-graduation-cap-48.png" height="20em" class="tree-node" /> <a href="../magistrale/{{ year }}/docenti.html">Docenti</a>
-                  <ul class="hidden" >
-                    {% for docente in tree['magistrale']['docenti'] %}
-                    <li>
-                      <img src="../assets/icons/icons8-user-48.png" height="20em" /> 
-                      <a href="../magistrale/{{ year }}/docenti.html#{{ docente['id-name'] }}">{{ docente['nome'] }}</a>
-                    </li>
-                    {% endfor %}
-                  </ul>
-                </li>
+            </ul>
+          </div>
 
-                <li> <img src="../assets/icons/icons8-pencil-48.png" height="20em" class="tree-node" /> <a href="#nogo">Esami</a> </li>
+        </section>
 
-              </ul>
-            </li>
-
-          </ul>
-        </div>
-
-      </section>
-
-      <!-- ANNUNCI -->
-      <section class="news col-12 col-lg-8">
-      <p class="h1 text-center">News</p>
-      
-      <!-- TRIENNALE -->
-      <div id="news-triennale" class="buffer container border border-3">
-      <div class="row row-cols-1 row-cols-md-2">
-        {% for item in items['triennale'] %}
-          {% block news_triennale scoped %}{% endblock %}
-        {% endfor %}
-      </div> 
-      </div>
-
-      <!-- MAGISTRALE -->
-      <div id="news-magistrale" class="buffer container border border-3 hidden">
-      <div class="row row-cols-1 row-cols-md-2">
-          {% for item in items['magistrale'] %}
-            {% block news_magistrale scoped %}{% endblock %}
+        <!-- ANNUNCI -->
+        <section id="news-block" class="news">
+        <p class="h1 text-center">News</p>
+        
+        <!-- TRIENNALE -->
+        <div id="news-triennale" class="buffer container border border-3">
+        <div class="row row-cols-1 row-cols-lg-2">
+          {% for item in items['triennale'] %}
+            {% block news_triennale scoped %}{% endblock %}
           {% endfor %}
-      </div> 
+        </div> 
+        </div>
+
+        <!-- MAGISTRALE -->
+        <div id="news-magistrale" class="buffer container border border-3 hidden">
+        <div class="row row-cols-1 row-cols-lg-2">
+            {% for item in items['magistrale'] %}
+              {% block news_magistrale scoped %}{% endblock %}
+            {% endfor %}
+        </div> 
+        </div>
+        </section>
       </div>
-      </section>
-    </div>
     </main>
 
     <hr />

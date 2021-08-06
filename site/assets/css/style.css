@@ -196,26 +196,56 @@ header h1:nth-child(3) {
 }
 
 /* main */
+#home-template {
+  display: grid;
+  grid-template-columns: repeat(7, 7fr);
+  grid-template-areas: 
+  "w w w w w w w"
+  "t t t t t t t"
+  "n n n n n n n"
+  ;
+  gap: 5px;
+  align-items: start;
+}
+
 #welcome-message {
   min-height: 8em;
+  grid-area: w;
+}
+
+#nav-tree-block {
+  grid-area: t;
+}
+
+#news-block {
+  grid-area: n;
 }
 
 @media screen and (min-width: 576px) {
-  #welcome-message {
-    min-height: 4em;
+  #home-template {
+    grid-template-rows: 8em auto;
+    grid-template-areas:
+    "t t t w w w w"
+    "t t t n n n n"
+    ;
   }
 }
 
 @media screen and (min-width: 768px) {
-  #welcome-message {
-    padding: 30px;
-  }
+
 }
 
 @media screen and (min-width: 992px) {
-  #welcome-message {
-    padding-top: 0;
-    padding-bottom: 0;
+  #home-template {
+    grid-template-rows: 4em auto;
+      grid-template-areas: 
+      "w w w w w w w"
+      "t t t n n n n"
+      ;
+      gap: 10px
+  }
+  #welcome-message  {
+    min-height: 4em;
   }
 }
 
