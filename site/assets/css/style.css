@@ -276,7 +276,7 @@ footer div {
 
 /* altre classi */
 .hidden {
-  display: none;
+  display: none !important;
 }
 
 /* about page */
