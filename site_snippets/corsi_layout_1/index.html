@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
+      crossorigin="anonymous"
+    />
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+      crossorigin="anonymous"
+    ></script>
+    <link rel="stylesheet" href="style.css" />
+    <title>Document</title>
+  </head>
+
+  <body class="container p-5">
+    <div class="row">
+      <ul
+        class="nav nav-pills nav-justified flex-row flex-sm-column col-12 col-sm-4"
+        id="pills-tab"
+        role="tablist"
+      >
+        <li class="nav-item" role="presentation">
+          <button
+            class="nav-link active"
+            id="btn-comunicazioni"
+            data-bs-toggle="pill"
+            data-bs-target="#comunicazioni"
+            type="button"
+            role="tab"
+            aria-controls="comunicazioni"
+            aria-selected="true"
+          >
+            Comunicazioni
+          </button>
+        </li>
+        <li class="nav-item" role="presentation">
+          <button
+            class="nav-link flex-sm-fill text-sm-center"
+            id="btn-lezioni"
+            data-bs-toggle="pill"
+            data-bs-target="#lezioni"
+            type="button"
+            role="tab"
+            aria-controls="lezioni"
+            aria-selected="false"
+          >
+            Lezioni
+          </button>
+        </li>
+        <li class="nav-item" role="presentation">
+          <button
+            class="nav-link flex-sm-fill text-sm-center"
+            id="btn-materiale"
+            data-bs-toggle="pill"
+            data-bs-target="#materiale"
+            type="button"
+            role="tab"
+            aria-controls="materiale"
+            aria-selected="false"
+          >
+            Materiale
+          </button>
+        </li>
+        <li class="nav-item" role="presentation">
+            <button
+              class="nav-link flex-sm-fill text-sm-center"
+              id="btn-programma"
+              data-bs-toggle="pill"
+              data-bs-target="#programma"
+              type="button"
+              role="tab"
+              aria-controls="programma"
+              aria-selected="false"
+            >
+                Programma
+            </button>
+          </li>
+      </ul>
+
+      <div class="tab-content col-12 col-sm-8 order-first order-sm-last border border-dark" style="height: 60vh" id="pills-tabContent">
+        
+        <div class="tab-pane fade show active" id="comunicazioni" role="tabpanel" aria-labelledby="btn-comunicazioni">
+          <p class="h2">Comunicazioni</p>
+          <ul>
+              <li>Comunicazione</li>
+              <li>Comunicazione</li>
+              <li>Comunicazione</li>
+          </ul>
+        </div>
+
+        <div class="tab-pane fade" id="lezioni" role="tabpanel" aria-labelledby="btn-lezioni">
+            <p class="h2">Lezioni</p>
+            <ul>
+                <li>Lezione</li>
+                <li>Lezione</li>
+                <li>Lezione</li>
+            </ul>
+        </div>
+
+        <div class="tab-pane fade" id="materiale" role="tabpanel" aria-labelledby="btn-materiale">
+            Materiale ...
+        </div>
+
+        <div class="tab-pane fade" id="programma" role="tabpanel" aria-labelledby="btn-programma">
+            <p class="h2">Programma</p>
+            <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis, asperiores iusto! Mollitia numquam blanditiis ex facere aut tenetur accusantium ullam adipisci labore a ea error, tempora doloribus possimus nostrum perspiciatis debitis suscipit ratione voluptatibus earum. Veniam nisi id natus sapiente, voluptate iusto iste odit sunt numquam similique. Animi non a porro eius blanditiis vero? Nulla ipsa provident quaerat quae cumque velit nostrum exercitationem quisquam ullam incidunt voluptatem, mollitia quidem voluptate animi. Sit, veritatis est ipsum veniam saepe iure facere molestiae ad labore sequi accusantium a! Id, sed unde placeat doloribus harum odio impedit numquam, sapiente commodi nulla atque eius soluta!
+            </p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

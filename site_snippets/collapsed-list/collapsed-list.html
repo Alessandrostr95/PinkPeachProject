@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      .comunicazione-header {
+        color: lightblue;
+        font-weight: bold;
+        font-size: medium;
+        background-color: blue;
+        cursor: pointer;
+        padding: 10px;
+        width: 100%;
+        display: flex;
+        flex-wrap: nowrap;
+        font-family: "Roboto Mono", monospace;
+      }
+
+      .comunicazione-header p {
+        width: 50%;
+      }
+
+      .comunicazione-header p:last-child {
+        text-align: right;
+      }
+
+      .active,
+      .comunicazione-header:hover {
+        background-color: darkblue;
+      }
+
+      .content {
+        background-color: whitesmoke;
+        width: 100%;
+        padding: 0px 10px;
+        max-height: 0;
+        overflow: hidden;
+        transition: max-height 0.2s ease-in-out;
+      }
+    </style>
+  </head>
+  <body>
+    <section>
+      <h3>Comunicazioni</h3>
+
+      <div class="comunicazione">
+        <div class="comunicazione-header">
+          <p>ADRC: VERBALIZZAZIONE ET AL</p>
+          <p>25-02-2021 09:45</p>
+        </div>
+        <div class="content">
+          <p>
+            GLI STUDENTI DEL CORSO DI ADRC INTERESSATI ALLA VERBALIZZAZIONE
+            DEGLI ESAMI ED AL\u00a0 RICONOSCIMENTO DI CFU EXTRA, SONO PREGATI DI
+            SEGUIRE LE INFORMAZIONI DATE NEL CANALE GENERALE DI ADRC DELLA
+            PIATTAFORMA TEAMS
+          </p>
+        </div>
+      </div>
+
+      <div class="comunicazione">
+        <div class="comunicazione-header">
+          <p>ADRC ON LINE</p>
+          <p>28-09-2020 12:13</p>
+        </div>
+        <div class="content">
+          <p>
+            A causa della nota pandemia COVID-19, le lezioni del corso avranno 
+            luogo in modalit\u00e0 on line, secondo l'orario ufficiale disponibile 
+            sul sito del corso di laurea:\n\nLUNEDI et GIOVEDI\u00a0 dalle 14:30 
+            alle 16:30.\n\nIL corso si svolgera' sulla piattaforma TEAM. 
+            Nel Team\n\nCLEMENTI-8065531-ALGORITMI_DISTRIBUITI_E_RETI_COMPLESSE\n\ntroverete 
+            tutte le informazioni e gli appuntamenti relativi al corso. 
+            E' fortemente consigliato partecipare attivamente a tutti gli eventi 
+            on-line del corso.
+            \n\n\nPer iscriversi al suddetto TEAM specifico,\u00a0*dopo*\u00a0aver verificato 
+            l'attivazione ed il funzionamento delle proprie credenziali sulla 
+            suddetta piattaforma (rivolgendosi eventualmente\u00a0ed\u00a0esclusivamente\u00a0ai 
+            contatti utili per\u00a0 questa procedura), in caso di problemi\u00a0specifici\u00a0con 
+            il team di ADRC, lo studente interessato \u00e8 pregato di inviare una email ai 
+            docenti del corso ADRC specificando nel soggetto \"ADRC Team\".
+          </p>
+        </div>
+      </div>
+
+    
+      </div>
+    </section>
+
+    <script>
+      var btns = document.querySelectorAll(".comunicazione-header");
+      btns.forEach((btn) => {
+        btn.addEventListener("click", function () {
+          this.classList.toggle("active");
+          let con = this.nextElementSibling;
+          if (con.style.maxHeight) {
+            con.style.maxHeight = null;
+          } else {
+            con.style.maxHeight = con.scrollHeight + "px";
+          }
+        });
+      });
+    </script>
+  </body>
+</html>

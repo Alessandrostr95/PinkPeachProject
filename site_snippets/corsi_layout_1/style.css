@@ -1,0 +1,12 @@
+#pills-tab {
+    padding: 0 !important;
+}
+@media screen and (min-width: 576px) {
+    #pills-tab {
+        height: fit-content !important;
+    }
+}
+
+#pills-tabContent {
+    overflow-y: scroll !important;
+}
