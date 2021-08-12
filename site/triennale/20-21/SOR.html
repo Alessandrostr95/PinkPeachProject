@@ -1,0 +1,1285 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="../../assets/css/style.css" />
+    <link rel="stylesheet" href="../../assets/css/courses-style.css" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
+      crossorigin="anonymous"
+    />
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+      crossorigin="anonymous"
+    ></script>
+    <script src="../../assets/js/corsi.js"></script>
+    <title>Informatica Tor Vergata</title>
+  </head>
+
+  <body>
+    <!-- MENU -->
+    <nav
+      id="barraMenu"
+      class="
+        navbar
+        sticky-top
+        navbar-expand-md navbar-light
+        bg-light
+        ombra-menu
+      "
+    >
+      <div class="container-fluid">
+        <a class="navbar-brand" href="../../home/index.html">
+          <img
+            src="../../assets/logo_TV.svg"
+            alt="logo tor vergata"
+            height="60px"
+            class="d-inline-block align-text-top"
+          />
+          <div class="d-inline-block align-text-top">
+            Università degli studi <br />
+            di Roma Tor Vergata
+          </div>
+        </a>
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#navbarTogglerDemo02"
+          aria-controls="navbarTogglerDemo02"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div
+          class="collapse navbar-collapse justify-content-end"
+          id="navbarTogglerDemo02"
+        >
+          <ul class="navbar-nav">
+            <li class="nav-item">
+              <a class="nav-link" href="./orario.html">Orari</a>
+            </li>
+
+            <li class="nav-item">
+              <a class="nav-link" href="#">Corsi</a>
+            </li>
+
+            <li class="nav-item">
+              <a class="nav-link" href="./docenti.html">Docenti</a>
+            </li>
+
+            <li class="nav-item">
+              <a class="nav-link" href="#">Esami</a>
+            </li>
+            <div class="underbar"></div>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <!-- MAIN -->
+    <main class="mt-5">
+      <div class="row">
+        <!-- INFO -->
+        <div
+          id="INFO"
+          class="border col-12 col-lg-3 order-first accordion-flush m-0 p-0"
+        >
+          <p class="h3 text-center m-2">
+            Sistemi operativi e reti
+          </p>
+          <p class="h5 text-muted text-center m-2">- SOR -</p>
+
+          <div class="accordion m-0" id="accordionPanelsStayOpenExample">
+            <div class="accordion-item">
+              <h2 class="accordion-header" id="btn-panel-info">
+                <button
+                  class="accordion-button"
+                  type="button"
+                  data-bs-toggle="collapse"
+                  data-bs-target="#panel-info"
+                  aria-expanded="true"
+                  aria-controls="panel-info"
+                >
+                  <strong>INFO</strong>
+                </button>
+              </h2>
+              <div
+                id="panel-info"
+                class="accordion-collapse collapse show"
+                aria-labelledby="btn-panel-info"
+              >
+                <div class="accordion-body">
+                  <dl>
+                    <dt>Docente</dt>
+                    
+                    <dd>
+                      <a href="./docenti.html#frasca-pietro">
+                        Pietro Frasca
+                      </a>
+                    </dd>
+                    
+
+                    <dt>A.A.</dt>
+                    <dd>2020-2021</dd>
+
+                    <dt>CFU</dt>
+                    <dd>12</dd>
+
+                    <dt>Settore</dt>
+                    <dd>INF/01</dd>
+
+                    <dt>Anno</dt>
+                    <dd>2°</dd>
+
+                    <dt>Semestre</dt>
+                    <dd>1-2</dd>
+
+                    <dt>Propedeuticità</dt>
+                    <dd>Architettura dei sistemi di elaborazione. Programmazione dei calcolatori con laboratorio.</dd>
+                    
+                    
+                    <dt>Ricevimento</dt>
+                    <dd>Il docente è a disposizione per il "ricevimento studenti" al termine delle lezioni, su MS Teams, alle ore 11:00 del martedì e giovedì, o per appuntamento da concordare via email (pietro.frasca@uniroma2.it).</dd>
+                    
+                  </dl>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="row col-12 col-lg-9 p-0 m-0">
+          <!-- BUTTONS -->
+          <ul
+            class="
+              nav nav-pills nav-justified
+              flex-row flex-sm-column flex-lg-row
+              col-12 col-sm-4 col-lg-12
+              order-last order-sm-first
+              p-0
+              m-0
+            "
+            id="pills-tab"
+            role="tablist"
+          >
+            <li class="nav-item" role="presentation">
+              <button
+                class="nav-link flex-sm-fill text-sm-center active"
+                id="btn-comunicazioni"
+                data-bs-toggle="pill"
+                data-bs-target="#comunicazioni"
+                type="button"
+                role="tab"
+                aria-controls="comunicazioni"
+                aria-selected="true"
+              >
+                Comunicazioni
+              </button>
+            </li>
+            <li class="nav-item" role="presentation">
+              <button
+                class="nav-link flex-sm-fill text-sm-center"
+                id="btn-lezioni"
+                data-bs-toggle="pill"
+                data-bs-target="#lezioni"
+                type="button"
+                role="tab"
+                aria-controls="lezioni"
+                aria-selected="false"
+              >
+                Lezioni
+              </button>
+            </li>
+            <li class="nav-item" role="presentation">
+              <button
+                class="nav-link flex-sm-fill text-sm-center"
+                id="btn-materiale"
+                data-bs-toggle="pill"
+                data-bs-target="#materiale"
+                type="button"
+                role="tab"
+                aria-controls="materiale"
+                aria-selected="false"
+              >
+                Materiale
+              </button>
+            </li>
+            <li class="nav-item" role="presentation">
+              <button
+                class="nav-link flex-sm-fill text-sm-center"
+                id="btn-programma"
+                data-bs-toggle="pill"
+                data-bs-target="#programma"
+                type="button"
+                role="tab"
+                aria-controls="programma"
+                aria-selected="false"
+              >
+                Programma
+              </button>
+            </li>
+            <li class="nav-item" role="presentation">
+              <button
+                class="nav-link flex-sm-fill text-sm-center"
+                id="btn-testi"
+                data-bs-toggle="pill"
+                data-bs-target="#testi"
+                type="button"
+                role="tab"
+                aria-controls="testi"
+                aria-selected="true"
+              >
+                Testi
+              </button>
+            </li>
+          </ul>
+
+          <!-- CONTENTS -->
+          <div
+            class="tab-content col-12 col-sm-8 col-lg-12 border p-0 m-0"
+            id="pills-tabContent"
+          >
+            <!-- SEZIONE COMUNICAZIONI -->
+            <div
+              class="tab-pane fade show active"
+              id="comunicazioni"
+              role="tabpanel"
+              aria-labelledby="btn-comunicazioni"
+            >
+              <p class="text-center m-2">
+                <span class="auto-write-text h4">> Comunicazioni</span>
+              </p>
+
+              <ul class="list-group list-group-flush">
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">Date esami Appello 2 A.A. 2020-2021</div>
+                    <div class="badge bg-primary text-wrap">
+                      03-07-2021 11:52
+                    </div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    Si comunica che gli studenti prenotati per l'esama di SOR, appello 2 della sessione estiva A.A. 2020/2021, svolgeranno l'esame via MS Teams nell'ordine temporale mostrato nella seguente tabella:
+
+Martedì 6/07/2021 10:00
+1
+MASTRACCI
+EDOARDO
+217123
+2
+PERNA
+FABRIZIO
+286652
+3
+DAMIANI
+ANDREA
+243550
+4
+PIERAZZI
+ADRIEN
+251786
+5
+FEDERICI
+IACOPO
+262346
+6
+DE MENNA
+DANIELE
+245514
+7
+MONTUORI
+LORENZA
+281251
+8
+LAURETTI
+NICHOLAS
+270856
+venerdì 9/07/2021 10:00
+9
+MATTIOLI
+SIMONE
+282422
+10
+DI STEFANO
+MATTEO
+258651
+11
+PORCEDDU
+MARTINO
+269103
+12
+MUSCEDERE
+DAVID
+259171
+13
+CIOTTI
+GIORGIO
+233262
+14
+CATENACCI
+ALESSANDRO
+229310
+15
+ZHOU
+JONATHAN
+256529
+16
+TAMBURRINI
+SAMUELE
+283622
+
+Le modalità d'esame sono descritte nella precedente comunicazione del 14-01-2021 12:48.
+                  </p>
+                </li>
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">Date esami Appello 1 A.A. 2020-2021</div>
+                    <div class="badge bg-primary text-wrap">
+                      21-06-2021 11:01
+                    </div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    Si comunica che gli studenti prenotati per l'esama di SOR, appello 1 della sessione estiva A.A. 2020/2021, svolgeranno l'esame via MS Teams nell'ordine temporale mostrato nella seguente tabella:
+
+Martedì 22/06/2021 10:0
+
+1
+TONIATTI
+DAVIDE
+285077
+2
+CALORE
+DARIO
+284371
+3
+DI STEFANO
+MATTEO
+258651
+4
+GALGANO
+ELEONORA
+284291
+5
+PRO
+VALERIO
+280714
+6
+DAMIANI
+ANDREA
+243550
+7
+DEGAN DI DIECO
+MATTEO
+245325
+8
+DE MITRI
+ANGELO
+254580
+9
+MONTUORI
+LORENZA
+281251
+
+
+Venerdì 25/06/2021 10:00
+
+10
+BLANGIARDO
+ANDREA
+260709
+11
+MATTIOLI
+SIMONE
+282422
+12
+ALEXA
+ADRIAN
+283395
+13
+COLAVECCHI
+LORENZO
+267722
+14
+CIOTTI
+GIORGIO
+233262
+15
+SCARAMELLA
+CHIARA
+229605
+16
+MAIELLO
+MATTEO
+253533
+17
+FEDERICI
+IACOPO
+262346
+18
+DE MENNA
+DANIELE
+245514
+
+Le modalità d'esame sono descritte nella precedente comunicazione del 14-01-2021 12:48.
+                  </p>
+                </li>
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">Date esami Appello 6 A.A. 2019-2020 ed Esonero 2 A.A. 2020-2021</div>
+                    <div class="badge bg-primary text-wrap">
+                      15-02-2021 14:56
+                    </div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    Si comunica che gli studenti prenotati per l'esama di SOR, appello 6 della sessione invernale A.A. 2019/2020 e per l'esonero 2 A.A. 2020/2021, svolgeranno l'esame via MS Teams nell' l'ordine temporale mostrato nella seguente tabella:
+
+APPELLO 6 - A.A: 2019/2020
+Martedì 16/02/2021 10:00
+
+Cognome
+Nome
+Matricola
+1
+DI STEFANO
+MATTEO
+258651
+2
+PARENTE
+ORLANDO
+227408
+3
+LAURETTI
+NICHOLAS
+270856
+4
+PIERAZZI
+ADRIEN
+251786
+5
+PALOMBA
+GIULIA
+244630
+6
+VELLUCCI
+SAVERIO
+252861
+
+ESONERO 2 - A.A. 2020/2021
+Martedì 16/02/20201 10:00
+
+Cognome
+Nome
+Matricola
+1
+PESCE
+EMANUELE
+281010
+2
+MAZZARINI
+TIZIANO
+273384
+3
+BLANGIARDO
+ANDREA
+260709
+4
+TONIATTI
+DAVIDE
+285077
+
+ESONERO 2 - A.A. 2020/2021Martedì 23/02/20201 10:00
+
+5
+AHARDANE
+AMINE
+285619
+6
+CIOTTI
+GIORGIO
+233262
+7
+MASTRACCI
+EDOARDO
+217123
+8
+SALERNO
+DAMIANO
+179840
+9
+DORIA
+DANIELE
+204666
+10
+MAIELLO
+MATTEO
+253533
+11
+SCARAMELLA
+CHIARA
+229605
+12
+ALEXA
+ADRIAN
+283395
+13
+APPETITO
+ALESSANDRO
+273387
+14
+CARETTA
+ALBERTO
+227975
+                  </p>
+                </li>
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">Date e modalità d'esame per gli appelli della sessione invernale e per l'esonero</div>
+                    <div class="badge bg-primary text-wrap">
+                      14-01-2021 12:48
+                    </div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    Per sostenere l'esame dell'appello invernale a.a. 2019/2020 o l'esonero a.a. 2010/2021 lo studente deve seguire i seguenti passi:
+
+1) prenotarsi su Delphi come di consueto;
+
+2) registrarsi al Teams di Sistemi operativi e reti (se ancora non registrato);
+
+3) partecipare alla riunione Teams alla data e all'ora di svolgimento dell'esame.
+
+Gli appelli d'esame della sessione invernale e l'esonero si svolgeranno via MS Teams sotto forma di colloquio logicamente diviso in due parti. La prima parte del colloquio sarà basata su argomenti tipici di una prova scritta. In particolare, lo studente dovrà scrivere e/o spiegare il codice di un'applicazione multi processo e/o multi thread, essere in grado di descrivere un progetto di rete intranet con relativo schema hardware e piano d'indirizzamento, rispondere ad altre domande poste sotto forma di problemi. Se lo studente supera la prima parte del colloquio, rispondendo in modo soddisfacente, passerà immediatamente a svolgere la seconda parte del colloquio che riguarda argomenti, tipici di una prova orale.
+
+Si ricorda che nella sezione Materiale didattico del corso SOR sono disponibili:
+
+Raccolta di testi d'esame di Sistemi operativi e reti.
+Raccolta di esempi di system call. La raccolta contiene esempi di base sull'uso delle chiamate di sistema descritte durante il corso e molte soluzioni di problemi d'esame (programmi multiprocesso e multithread).
+
+Sia l'esame completo a.a. 2019/2020 che l'esonero a.a. 2020/2021 di sistemi operativi e reti si svolgeranno in due appelli mutualmente esclusivi. Pertanto, uno studente può partecipare, a scelta, solo a uno dei due appelli. Le date sono le seguenti:
+
+Appello 1
+26/01/2021 ore 10:00 e 1/02/2021 ore 1:00
+
+Appello 2
+16/02/2021 ore 10:00 e 23/02/2021 ore 10:00
+
+NOTA Lo studente che intende sostenere l'esonero in uno dei due appelli deve prenotarsi via Delphi e non più inviando una email al docente, come avveniva negli anni precedenti.
+                  </p>
+                </li>
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">Inizio e orario lezioni di Sitemi operativi e reti</div>
+                    <div class="badge bg-primary text-wrap">
+                      02-10-2020 12:12
+                    </div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    Le lezioni di Sistemi operativi e reti a.a. 2020/2021 inizieranno martedì 6 ottobre 2020 alle ore 9:00, online su MS Teams.
+Le lezioni si svolgeranno secondo l'orario pubblicato: martedì e giovedì dalle 9:00 alle 11:00.
+                  </p>
+                </li>
+                
+              </ul>
+            </div>
+
+            <!-- SEZIONE LEZIONI -->
+            <div
+              class="tab-pane fade"
+              id="lezioni"
+              role="tabpanel"
+              aria-labelledby="btn-lezioni"
+            >
+              <p class="text-center m-2">
+                <span class="auto-write-text h4">> Lezioni</span>
+              </p>
+
+              <ul class="list-group list-group-flush">
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">48</div>
+                    <div class="badge bg-primary text-wrap">
+                      27-05-2021
+                    </div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    Reti wireless. Collegamenti wireless e caratteristiche di rete. Wi-Fi 802.11. Canali e associazioni.  Scansione attiva e passiva. Il protocollo CSMA/CA. Host nascosti: RTS e CTS. Frame IEEE 802.11. Utilizzo di IEEE 802.11 per collegamenti punto-punto. Esempio di progettazione LAN. (NOTA: lezione svolta a distanza con MS Teams)
+                  </p>
+                </li>
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">47</div>
+                    <div class="badge bg-primary text-wrap">
+                      25-05-2021
+                    </div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    Ethernet. Struttura del frame Ethernet. CSMA/CD di Ethernet. Efficienza di Ethernet. Tecnologie Ethernet. Hub. Switch dello strato di collegamento. Confronto tra switch e router. Lan virtuali (VLAN). (NOTA: lezione svolta a distanza con MS Teams)
+                  </p>
+                </li>
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">46</div>
+                    <div class="badge bg-primary text-wrap">
+                      20-05-2021
+                    </div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    Protocolli di accesso multiplo. Protocolli a suddivisione di canale. Protocolli di accesso casuale. CSMA e CSMA/CD. Protocolli a turno. Reti LAN. Indirizzi LAN. ARP. Invio di datagram a nodi interni alla LAN. Invio di datagram a nodi esterni alla LAN. (NOTA: lezione svolta a distanza con MS Teams)
+                  </p>
+                </li>
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">45</div>
+                    <div class="badge bg-primary text-wrap">
+                      18-05-2021
+                    </div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    Lo strato di collegamento. Servizi offerti dallo strato di collegamento. Adattatori (schede di rete). Tecniche di rilevazione e correzione degli errori. Controllo di parità. Controllo di parità a due dimensioni. Somma di controllo. Controllo a ridondanza ciclica. Esempio di calcolo CRC. (NOTA: lezione svolta a distanza con MS Teams)
+                  </p>
+                </li>
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">44</div>
+                    <div class="badge bg-primary text-wrap">
+                      13-05-2021
+                    </div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    Esempi di uso del BGP nelle reti stub e nelle reti stub multi homed. I-BGP. Instradamento multicast. Gruppi multicasta. IGMP. Algoritmi di instradamento multicast (solo conclusioni). Esempio di applicazione multicast in Java. (NOTA: lezione svolta a distanza con MS Teams)
+                  </p>
+                </li>
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">43</div>
+                    <div class="badge bg-primary text-wrap">
+                      11-05-2021
+                    </div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    Instradamento in Internet. Instradamento intra-sistema. RIP. OSPF. Instradamento inter-sistema. BGP. Reti stub e reti stub multi homed. Funzionamento del BGP. I messaggi BGP.  (NOTA: lezione svolta a distanza con MS Teams)
+                  </p>
+                </li>
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">42</div>
+                    <div class="badge bg-primary text-wrap">
+                      06-05-2021
+                    </div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    IPv6. Formato del datagram IPv6. Passaggio da IPv4 a IPv6. Metodo dual-stack. Metodo del tunneling. ICMP. ICMP per IPv6. Algoritmi di instradamento. Algoritmi di instradamento LS. Algoritmi di instradamento DV. Confronto tra LS e DV. (NOTA: lezione svolta a distanza con MS Teams)
+                  </p>
+                </li>
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">41</div>
+                    <div class="badge bg-primary text-wrap">
+                      04-05-2021
+                    </div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    Indirizzamento per classe. Indirizzamento CIDR. Assegnazione di indirizzi IP. Configurazione delle interfacce di rete di host e router. DHCP. Traduzione degli indirizzi di rete (NAT). UPnP (Universal Plug and Play). (NOTA: lezione svolta a distanza con MS Teams)
+                  </p>
+                </li>
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">40</div>
+                    <div class="badge bg-primary text-wrap">
+                      29-04-2021
+                    </div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    Livello di rete. Reti a circuito virtuale. Reti datagram. Il protocollo IP. Formato dei datagram IPv4. Frammentazione del datagram IPv4. Indirizzamento IPv4. (NOTA: lezione svolta a distanza con MS Teams)
+                  </p>
+                </li>
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">39</div>
+                    <div class="badge bg-primary text-wrap">
+                      27-04-2021
+                    </div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    Trasferimento affidabile dei dati. Alcuni tipici scenari. Raddoppio dell'intervallo di timeout. Ritrasmissione rapida. Controllo del flusso. Controllo della congestione TCP. AIMD. Partenza lenta. Reazione a eventi di timeout. Prevenzione della congestione. Calcolo semplificato del throughput TCP. (NOTA: lezione svolta a distanza con MS Teams)
+                  </p>
+                </li>
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">38</div>
+                    <div class="badge bg-primary text-wrap">
+                      22-04-2021
+                    </div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    Trasporto orientato alla connessione: TCP. Struttura del segmento TCP. Numeri di sequenza e numeri di riscontro.  Esempio di numeri di sequenza e di riscontro. Stima del tempo di andata e ritorno (RTT) e timeout. Calcolo del timeout per le ritrasmissioni. Instaurazione della connessione TCP. (NOTA: lezione svolta a distanza con MS Teams)
+                  </p>
+                </li>
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">37</div>
+                    <div class="badge bg-primary text-wrap">
+                      20-04-2021
+                    </div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    Programmazione delle socket con UDP. Esempio di applicazione C/S con UDP. Lo strato di trasporto. Multiplexing e demultiplexing nell'UDP e nel TCP. ll protocollo UDP. Struttura del segmento UDP. Checksum di UDP. (NOTA: lezione svolta a distanza con MS Teams)
+                  </p>
+                </li>
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">36</div>
+                    <div class="badge bg-primary text-wrap">
+                      15-04-2021
+                    </div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    Confronto tra le architetture C/S e P2P. Programmazione delle socket. Programmazione delle socket con TCP. Esempio di applicazione C/S TCP in Java. (NOTA: lezione svolta a distanza con MS Teams)
+                  </p>
+                </li>
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">35</div>
+                    <div class="badge bg-primary text-wrap">
+                      13-04-2021
+                    </div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    Video Internet. Streaming HTTP e DASH. Applicazioni P2P. P2P con database centralizzato e distruito. Inondazione di richieste. Tabelle hash distribuite (DHT). DHT circolare. BitTorrent (sola lettura). (NOTA: lezione svolta a distanza con MS Teams)
+                  </p>
+                </li>
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">34</div>
+                    <div class="badge bg-primary text-wrap">
+                      08-04-2021
+                    </div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    Record DNS. Messaggi DNS. Distribuzione di contenuti. Server proxy. Esempio d'uso di server proxy. Reti per la distribuzione di contenuti (CDN).  (NOTA: lezione svolta a distanza con MS Teams)
+                  </p>
+                </li>
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">33</div>
+                    <div class="badge bg-primary text-wrap">
+                      06-04-2021
+                    </div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    Protocolli di accesso alla posta. POP3. IMAP. Posta elettronica con HTTP. DNS. Servizi forniti dal DNS. Funzionamento del DNS. DNS: database distribuiti e gerarchici. Cache DNS. (NOTA: lezione svolta a distanza con MS Teams)
+                  </p>
+                </li>
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">32</div>
+                    <div class="badge bg-primary text-wrap">
+                      01-04-2021
+                    </div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    Il protocollo FTP. Modalità attiva e passiva. Comandi FTP. Posta elettronica. SMTP. Formati dei messaggi di posta e MIME. Estensioni MIME per dati non ascii. Esempi di messaggi con intestazioni MIMe. Esempi di messaggi multipart/mixed. Il messaggio ricevuto. (NOTA: lezione svolta a distanza con MS Teams)
+                  </p>
+                </li>
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">31</div>
+                    <div class="badge bg-primary text-wrap">
+                      30-03-2021
+                    </div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    Get condizionale. Interazione utente-server: autorizzazione e cookie. Connessione non persistente e persistente. Connessioni non persistenti in parallelismo  e in serie. Connessione persistente senza parallelismo e con parallelismo. (NOTA: lezione svolta a distanza con MS Teams)
+                  </p>
+                </li>
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">30</div>
+                    <div class="badge bg-primary text-wrap">
+                      25-03-2021
+                    </div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    Applicazioni di rete. Web. Il protocollo HTTP. Formato del messaggio di richiesta HTTP. Formato del messaggio di risposta HTTP. (NOTA: lezione svolta a distanza con MS Teams)
+                  </p>
+                </li>
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">29</div>
+                    <div class="badge bg-primary text-wrap">
+                      23-03-2021
+                    </div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    I Livelli di Internet e i servizi che forniscono. Livello di applicazione. Architetture e protocolli dello strato di applicazione Indirizzamento dei processi. Processi di comunicazione nella rete. Servizi formiti dai protocolli di trasporto alle applicazioni. Requisiti di servizio delle applicazioni. Servizi forniti dai protocolli di trasporto. (NOTA: lezione svolta a distanza con MS Teams)
+                  </p>
+                </li>
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">28</div>
+                    <div class="badge bg-primary text-wrap">
+                      18-03-2021
+                    </div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    Gli ISP e le reti dorsali di Internet. Ritardi e perdite nelle reti a commutazione di pacchetto. Tipi di ritardo: trasmissione, propagazione, elaborazione, coda. Ritardo totale. Ritardo da host a host. Ritardi e percorsi in Internet. Traceroute e tracert. Perdita di pacchetti. Intensità del traffico. Gli strati di Internet  e i servizi che forniscono. Lo stack protocollare di Internet e il modello ISO OSI. (NOTA: lezione svolta a distanza con MS Teams)
+                  </p>
+                </li>
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">27</div>
+                    <div class="badge bg-primary text-wrap">
+                      16-03-2021
+                    </div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    Mezzi trasmissivi. Doppini in rame. Cavi coassiali. Fibre ottiche. Canali radio terrestri. Canali radio satellitari. Accesso alla rete Internet. Accesso residenziale, aziendale e wireless. (NOTA: lezione svolta a distanza con MS Teams)
+                  </p>
+                </li>
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">26</div>
+                    <div class="badge bg-primary text-wrap">
+                      11-03-2021
+                    </div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    La sezione interna della rete (nucleo). Commutazione di circuito. Multiplazione (multiplexing) nelle reti a commutazione di circuito. FDM e TDM. Commutazione di pacchetto. Confronto tra commutazione di circuito e commutazione di pacchetto. Frammentazione del messaggio. Reti a commutazione di pacchetto datagram.(NOTA: lezione svolta a distanza con MS Teams)
+                  </p>
+                </li>
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">25</div>
+                    <div class="badge bg-primary text-wrap">
+                      09-03-2021
+                    </div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    Internet. Descrizione dei servizi. Definizione di protocollo di rete. Applicazioni client/server. Servizi senza connessione e orientati alla connessione.
+                  </p>
+                </li>
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">24</div>
+                    <div class="badge bg-primary text-wrap">
+                      12-01-2021
+                    </div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    Allocazione dei dispositivi e tecniche di spooling. Livello dipendente dai dispositivi (driver). Controller di un dispositivo. Funzionamento del dispositivo. Comunicazione tra processo e dispositivo. Gestione di un dispositivo mediante controllo di programma. Gestione di un dispositivo mediante interruzione. Descrittore di un dispositivo. La struttura dati del descrittore di dispositivo. Gestione di un dispositivo con DMA. Driver di un dispositivo. Flusso di controllo durante un trasferimento.
+                  </p>
+                </li>
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">23</div>
+                    <div class="badge bg-primary text-wrap">
+                      07-01-2021
+                    </div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    Protezione di file e directory. Protezione in Unix. Gestione dell’I/O. Classificazione dei dispositivi. Struttura logica del sottosistema di I/O. Livello indipendente dai dispositivi. Bufferizzazione. Gestione degli errori e delle eccezioni.
+                  </p>
+                </li>
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">22</div>
+                    <div class="badge bg-primary text-wrap">
+                      22-12-2020
+                    </div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    Organizzazione fisica del file system Unix. Strutture dati del kernel per l’accesso ai file. System call per i file: open, close, read, write, lseek. Esempi di SC dei file.
+                  </p>
+                </li>
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">21</div>
+                    <div class="badge bg-primary text-wrap">
+                      17-12-2020
+                    </div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    Il livello organizzazione fisica. Tecniche di allocazione dei file. Allocazione contigua, a lista concatenata, a indice. Il livello dispositivo virtuale. Il file system nei sistemi Unix-like. Struttura logica del file system.
+                  </p>
+                </li>
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">20</div>
+                    <div class="badge bg-primary text-wrap">
+                      15-12-2020
+                    </div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    Scheduling del disco. Algoritmi FCFS, SSFT e SCAN. Tecnologia dischi RAID.  Il file system. La struttura logica del file system. File e directory. Gestione della struttura logica del file system. l livello di accesso al file system. Strutture dati e operazioni di accesso ai fileMetodi di accesso. Accesso sequenziale. Accesso diretto. Accesso a indice.
+                  </p>
+                </li>
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">19</div>
+                    <div class="badge bg-primary text-wrap">
+                      10-12-2020
+                    </div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    Memoria segmentata e paginata. Gestione degli spazi virtuali. Paginazione a più livelli. Algoritmi di sostituzione delle pagine. Algoritmo seconda scelta. Gestione della memoria nei sistemi Unix. Gestione della memoria secondaria. Dischi e SSD. Organizzazione fisica dei dischi. Criteri di ordinamento dei dati su disco e politiche di scheduling. Esempio memorizzazione di dati su disco.
+                  </p>
+                </li>
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">18</div>
+                    <div class="badge bg-primary text-wrap">
+                      03-12-2020
+                    </div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    Memoria paginata. Memoria virtuale. Segmentazione su richiesta. Paginazione su richiesta. Rimpiazzamento delle pagine.
+                  </p>
+                </li>
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">17</div>
+                    <div class="badge bg-primary text-wrap">
+                      01-12-2020
+                    </div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    Protezione e condivisione di informazioni con spazio virtuale unico. Partizioni multiple. Memoria segmentata. Memoria paginata.
+                  </p>
+                </li>
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">16</div>
+                    <div class="badge bg-primary text-wrap">
+                      26-11-2020
+                    </div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    Gestione della memoria. Creazione di un file eseguibile. Organizzazione dello spazio virtuale. Spazio viruale unico (lineare). Rilocazione statica e dinamica. Organizzazione  dello spazio virtuale con modello di memoria segmentato. Memoria partizionata. Partizioni fisse. Partizioni variabili. Tecniche di allocazione mediante free list. Best-fit, First-fit e Worst-fit.
+                  </p>
+                </li>
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">15</div>
+                    <div class="badge bg-primary text-wrap">
+                      24-11-2020
+                    </div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    Blocco critico (stallo). Rappresentazioni dello stato di allocazione delle risorse. Modelli basati su grafo. Modelli basati su matrici. Esempio di situazione di stallo. Condizioni per lo stallo. Metodi per il trattamento dello stallo. Prevenzione statica. Prevenzione dinamica. Algoritmo del banchiere. Esempio. Rilevamento dei blocchi critici. Esempio di soluzione al problema dei cinque filosofi.
+                  </p>
+                </li>
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">14</div>
+                    <div class="badge bg-primary text-wrap">
+                      19-11-2020
+                    </div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    Algoritmi di scheduling real-time. Rate Nonotonic. Sheduling nei sistemi multiprocessore. Affinità del processore. Scheduling in UNIX.
+                  </p>
+                </li>
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">13</div>
+                    <div class="badge bg-primary text-wrap">
+                      17-11-2020
+                    </div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    Principali algoritmi di scheduling. Shortest job first (SJF). Shortest Next Process First (SNPF). Shortest Remaining Time First (SRTF). Round Robin. Algoritmi di scheduling basati sulle priorità. Algoritmi di scheduling a code multiple. Algoritmi di scheduling real-time. Scheduling in UNIX. Blocco critico (stallo). Rappresentazioni dello stato di allocazione delle risorse. Modelli basati su grafo. Algoritmi di scheduling basati sulle priorità. Algoritmi di scheduling a code multiple.
+                  </p>
+                </li>
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">12</div>
+                    <div class="badge bg-primary text-wrap">
+                      12-11-2020
+                    </div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    Esempio di sincronizzazione tra thread: soluzione modello produttore-consumatore con variabili condition. Scheduling della CPU. Scheduling a breve, medio e lungo termine. Comportamento dei processi. Parametri di scheduling.
+                  </p>
+                </li>
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">11</div>
+                    <div class="badge bg-primary text-wrap">
+                      10-11-2020
+                    </div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    Sincronizzazione tra thread in POSIX. Mutex. Semafori. Variabili condition. Esempi.
+                  </p>
+                </li>
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">10</div>
+                    <div class="badge bg-primary text-wrap">
+                      05-11-2020
+                    </div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    Comunicazione e sincronizzazione tra processi/thread. Soluzione al problema della comunicazione con semafori. Soluzione al problema della comunicazione con buffer di capacità 1 e N. Interazione tra processi. Sincronizzazione con segnali. System call per l'uso dei segnali. Invio di segnali tra processi. Esempi.
+                  </p>
+                </li>
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">9</div>
+                    <div class="badge bg-primary text-wrap">
+                      03-11-2020
+                    </div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    I thread nello standard POSIX: la libreria pthreads. Creazione di thread. Terminazione di thread. Unione (join) di thread. Struttura di un'applicazione multithread. Esempi di un'applicazione multithread. Sincronizzazione tra processi/thread. Cooperazione e competizione tra processi/thread. Modello a memoria comune. Modello ad ambiente locale. Problema della mutua esclusione. Soluzioni al problema della mutua esclusione. Soluzione della mutua esclusione con strumenti basati su istruzioni tipo TSL. Le funzioni lock() e unlock(). Semafori. Soluzione al problema della mutua esclusione con semafori.
+                  </p>
+                </li>
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">8</div>
+                    <div class="badge bg-primary text-wrap">
+                      29-10-2020
+                    </div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    Comunicazione tra processi con pipe. Esempio d'uso di pipe. Comunicazione con pipe con nome. Esempio d'uso di pipe con nome. Thread. Thread a livello utente. Modello da molti a uno. Thread a livello kernel. Modello da uno a uno. Modello da molti a molti.
+                  </p>
+                </li>
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">7</div>
+                    <div class="badge bg-primary text-wrap">
+                      27-10-2020
+                    </div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    Scambio di messaggi (message passing). Comunicazione diretta e indiretta. Le funzioni send() e receive(). Comunicazione e sincronizzazione con send() e receive(). Code di messaggi. Code di messaggi POSIX. Esempi comunicazione tra processi con code di messaggi POSIX.
+                  </p>
+                </li>
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">6</div>
+                    <div class="badge bg-primary text-wrap">
+                      22-10-2020
+                    </div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    Comunicazione tra processi. Memoria condivisa. Modello produttore-consumatore. Esempio di comunicazioni tra processi non sincronizzati. Memoria condivisa in POSIX.  Esempi applicativi.
+                  </p>
+                </li>
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">5</div>
+                    <div class="badge bg-primary text-wrap">
+                      20-10-2020
+                    </div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    Operazioni sui processi. Creazione e terminazione dei processi.  Creazione dei processi in POSIX. Fork. Esempio Fork. Sostituzione del codice. Famiglia di funzioni exec(). Esempio con execl(). Terminazione di processi. Le funzioni exit(), wait() e waitpid(). Esempi.
+                  </p>
+                </li>
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">4</div>
+                    <div class="badge bg-primary text-wrap">
+                      15-10-2020
+                    </div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    Principali componenti del sistema operativo. Gestione dei processi. Concetto di processo. Stati di un processo. Transizioni di stato di un processo. Descrittore del processo (PCB). Code di processi. Scheduler. Cambio di contesto.
+                  </p>
+                </li>
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">3</div>
+                    <div class="badge bg-primary text-wrap">
+                      13-10-2020
+                    </div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    Operazioni del sistema operativo. Funzionamento dual-mode. Timer. Ambienti di elaborazione. Computing tradizionale e mobile. Sistemi paralleli e distribuiti. Client-server e peer-to-peer. Cloud. Struttura e organizzazione software dei sistemi operativi. Struttura monolitica. Struttura stratificata. Struttura a microkernel. Struttura modulare. Struttura ibrida.
+                  </p>
+                </li>
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">2</div>
+                    <div class="badge bg-primary text-wrap">
+                      08-10-2020
+                    </div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    Sistemi a singolo processore. Sistemi multiprocessore. Cluster. Struttura del sistema operativo. Sistemi operativi batch multiprogrammati. Sistemi operativi time sharing. Sistemi in tempo reale. Sistemi embedded real-time. Sistemi operativi per personal computer.
+                  </p>
+                </li>
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">1</div>
+                    <div class="badge bg-primary text-wrap">
+                      06-10-2020
+                    </div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    Presentazione del corso. Introduzione sui sistemi operativi. Funzionamento di un computer. Struttura della memoria. Struttura di I/O.
+                  </p>
+                </li>
+                
+              </ul>
+            </div>
+
+            <!-- SEZIONE MATERIALE -->
+            <div
+              class="tab-pane fade"
+              id="materiale"
+              role="tabpanel"
+              aria-labelledby="btn-materiale"
+            >
+              <p class="text-center m-2">
+                <span class="auto-write-text h4">> Materiale</span>
+              </p>
+            </div>
+
+            <!-- SEZIONE PROGRAMMA -->
+            <div
+              class="tab-pane fade"
+              id="programma"
+              role="tabpanel"
+              aria-labelledby="btn-programma"
+            >
+              <div>
+                <p class="text-center m-2">
+                  <span class="auto-write-text h4">> Programma</span>
+                </p>
+                
+                <p class="px-3">
+                  Parte I: Sistemi operativi(I semestre)
+Introduzione ai sistemi operativi.
+Classificazione dei sistemi operativi.
+Principali modelli strutturali.
+Gestione dei processi.
+Thread.
+Sincronizzazione dei processi.
+Gestione della memoria.
+Gestione dell' I/O.
+Gestione del file system.
+I sistemi operativi Unix e Linux.
+Casi di studio: Unix e Linux
+Parte II: Reti di calcolatori (II semestre)
+Reti di calcolatori e Internet.
+Strato di applicazione.
+Strato di trasporto.
+Strato di rete e instradamento.
+Strato di collegamento e reti di area locale.
+Reti wireless
+                </p>
+                
+              </div>
+            </div>
+
+            <!-- SEZIONE TESTI RIFERIMENTO -->
+            <div
+              class="tab-pane fade"
+              id="testi"
+              role="tabpanel"
+              aria-labelledby="btn-testi"
+            >
+              <p class="text-center m-2">
+                <span class="auto-write-text h4">> Testi di riferimento</span>
+              </p>
+              
+              <p class="px-3">
+                Testi di riferimento
+Sistemi Operativi, X ed., A. Silberschatz, P. Galvin, G. Gagne. Pearson. Reti di Calcolatori e Internet, VII ed. - Un approccio top-down - J.F. Kurose, K.W. Ross - Pearson - Addison Wesley. Altri libri consigliati
+Sistemi operativi, II ed. - P. Ancilotti, M. Boari, A. Ciampolini, G. Lipari - McGraw-Hill I moderni Sistemi Operativi, IV ed., A. S. Tanenbaum. Pearson - Prentice Hall. Sistemi operativi, D. M. Dhamdhere, McGraw-Hill. Reti di Calcolatori e Internet, B. A. Forouzan, McGraw-Hill.
+              </p>
+              
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </main>
+
+    <hr />
+    <!-- footer -->
+    <footer>
+      <div id="gitIcon">
+        <a href="https://github.com/Alessandrostr95/PinkPeachProject">
+          <img
+            src="../../assets/icons/icons8-github-96.png"
+            alt="git"
+            width="28px"
+          />
+        </a>
+      </div>
+      <div id="sitoUfficialeIcon">
+        <a href="http://www.informatica.uniroma2.it/">
+          <img
+            src="../../assets/icons/icons8-toilet-paper-80.png"
+            alt="sito-informatica"
+            width="28px"
+          />
+        </a>
+      </div>
+    </footer>
+  </body>
+</html>

@@ -1,0 +1,675 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="../../assets/css/style.css" />
+    <link rel="stylesheet" href="../../assets/css/courses-style.css" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
+      crossorigin="anonymous"
+    />
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+      crossorigin="anonymous"
+    ></script>
+    <script src="../../assets/js/corsi.js"></script>
+    <title>Informatica Tor Vergata</title>
+  </head>
+
+  <body>
+    <!-- MENU -->
+    <nav
+      id="barraMenu"
+      class="
+        navbar
+        sticky-top
+        navbar-expand-md navbar-light
+        bg-light
+        ombra-menu
+      "
+    >
+      <div class="container-fluid">
+        <a class="navbar-brand" href="../../home/index.html">
+          <img
+            src="../../assets/logo_TV.svg"
+            alt="logo tor vergata"
+            height="60px"
+            class="d-inline-block align-text-top"
+          />
+          <div class="d-inline-block align-text-top">
+            Università degli studi <br />
+            di Roma Tor Vergata
+          </div>
+        </a>
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#navbarTogglerDemo02"
+          aria-controls="navbarTogglerDemo02"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div
+          class="collapse navbar-collapse justify-content-end"
+          id="navbarTogglerDemo02"
+        >
+          <ul class="navbar-nav">
+            <li class="nav-item">
+              <a class="nav-link" href="./orario.html">Orari</a>
+            </li>
+
+            <li class="nav-item">
+              <a class="nav-link" href="#">Corsi</a>
+            </li>
+
+            <li class="nav-item">
+              <a class="nav-link" href="./docenti.html">Docenti</a>
+            </li>
+
+            <li class="nav-item">
+              <a class="nav-link" href="#">Esami</a>
+            </li>
+            <div class="underbar"></div>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <!-- MAIN -->
+    <main class="mt-5">
+      <div class="row">
+        <!-- INFO -->
+        <div
+          id="INFO"
+          class="border col-12 col-lg-3 order-first accordion-flush m-0 p-0"
+        >
+          <p class="h3 text-center m-2">
+            Algoritmi e strutture dati
+          </p>
+          <p class="h5 text-muted text-center m-2">- ASD -</p>
+
+          <div class="accordion m-0" id="accordionPanelsStayOpenExample">
+            <div class="accordion-item">
+              <h2 class="accordion-header" id="btn-panel-info">
+                <button
+                  class="accordion-button"
+                  type="button"
+                  data-bs-toggle="collapse"
+                  data-bs-target="#panel-info"
+                  aria-expanded="true"
+                  aria-controls="panel-info"
+                >
+                  <strong>INFO</strong>
+                </button>
+              </h2>
+              <div
+                id="panel-info"
+                class="accordion-collapse collapse show"
+                aria-labelledby="btn-panel-info"
+              >
+                <div class="accordion-body">
+                  <dl>
+                    <dt>Docente</dt>
+                    
+                    <dd>
+                      <a href="./docenti.html#clementi-andrea">
+                        Andrea Clementi
+                      </a>
+                    </dd>
+                    
+                    <dd>
+                      <a href="./docenti.html#guala-luciano">
+                        Luciano Guala'
+                      </a>
+                    </dd>
+                    
+
+                    <dt>A.A.</dt>
+                    <dd>2020-2021</dd>
+
+                    <dt>CFU</dt>
+                    <dd>12</dd>
+
+                    <dt>Settore</dt>
+                    <dd>INF/01</dd>
+
+                    <dt>Anno</dt>
+                    <dd>2°</dd>
+
+                    <dt>Semestre</dt>
+                    <dd>1-2</dd>
+
+                    <dt>Propedeuticità</dt>
+                    <dd>Analisi Matematica. Matematica discreta. Programmazione dei calcolatori con laboratorio.</dd>
+                    
+                    
+                    <dt>Ricevimento</dt>
+                    <dd>In questo semestre il ricevimento sarà svolto online. Mandatemi una email per prendere appuntamento.</dd>
+                    
+                  </dl>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="row col-12 col-lg-9 p-0 m-0">
+          <!-- BUTTONS -->
+          <ul
+            class="
+              nav nav-pills nav-justified
+              flex-row flex-sm-column flex-lg-row
+              col-12 col-sm-4 col-lg-12
+              order-last order-sm-first
+              p-0
+              m-0
+            "
+            id="pills-tab"
+            role="tablist"
+          >
+            <li class="nav-item" role="presentation">
+              <button
+                class="nav-link flex-sm-fill text-sm-center active"
+                id="btn-comunicazioni"
+                data-bs-toggle="pill"
+                data-bs-target="#comunicazioni"
+                type="button"
+                role="tab"
+                aria-controls="comunicazioni"
+                aria-selected="true"
+              >
+                Comunicazioni
+              </button>
+            </li>
+            <li class="nav-item" role="presentation">
+              <button
+                class="nav-link flex-sm-fill text-sm-center"
+                id="btn-lezioni"
+                data-bs-toggle="pill"
+                data-bs-target="#lezioni"
+                type="button"
+                role="tab"
+                aria-controls="lezioni"
+                aria-selected="false"
+              >
+                Lezioni
+              </button>
+            </li>
+            <li class="nav-item" role="presentation">
+              <button
+                class="nav-link flex-sm-fill text-sm-center"
+                id="btn-materiale"
+                data-bs-toggle="pill"
+                data-bs-target="#materiale"
+                type="button"
+                role="tab"
+                aria-controls="materiale"
+                aria-selected="false"
+              >
+                Materiale
+              </button>
+            </li>
+            <li class="nav-item" role="presentation">
+              <button
+                class="nav-link flex-sm-fill text-sm-center"
+                id="btn-programma"
+                data-bs-toggle="pill"
+                data-bs-target="#programma"
+                type="button"
+                role="tab"
+                aria-controls="programma"
+                aria-selected="false"
+              >
+                Programma
+              </button>
+            </li>
+            <li class="nav-item" role="presentation">
+              <button
+                class="nav-link flex-sm-fill text-sm-center"
+                id="btn-testi"
+                data-bs-toggle="pill"
+                data-bs-target="#testi"
+                type="button"
+                role="tab"
+                aria-controls="testi"
+                aria-selected="true"
+              >
+                Testi
+              </button>
+            </li>
+          </ul>
+
+          <!-- CONTENTS -->
+          <div
+            class="tab-content col-12 col-sm-8 col-lg-12 border p-0 m-0"
+            id="pills-tabContent"
+          >
+            <!-- SEZIONE COMUNICAZIONI -->
+            <div
+              class="tab-pane fade show active"
+              id="comunicazioni"
+              role="tabpanel"
+              aria-labelledby="btn-comunicazioni"
+            >
+              <p class="text-center m-2">
+                <span class="auto-write-text h4">> Comunicazioni</span>
+              </p>
+
+              <ul class="list-group list-group-flush">
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">Appelli sessione autunnale a.a. 2019/20 e prova parziale a.a. 2020/21</div>
+                    <div class="badge bg-primary text-wrap">
+                      15-01-2021 23:11
+                    </div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    Per gli studenti che intendono sostenere l'esame di ASD relativo all'a.a. 2019/20, gli appelli di febbraio sono da considerarsi esclusivi. Ognuno dei due moduli può essere sostenuto in uno solo dei due appelli.
+Chi vuole sostenere solo il modulo 1 e tenere il voto per tutto l'a.a. 2020/21 deve presentarsi alla prova parziale.
+
+La prova parziale è fissata per il 24/02/2021 alle ore 9 (in coincidenza con il secondo appello).
+
+Modalità d'esame:
+In tutti gli appelli l'esame consisterà in una prova a risposta multipla seguita in caso di esito positivo da una prova orale. Le prove orali in modalità remota (online) si svolgeranno lo stesso giorno dello scritto ed eventualmente nei giorni subito successivi.
+                  </p>
+                </li>
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">Modalità di svolgimento del corso.</div>
+                    <div class="badge bg-primary text-wrap">
+                      02-10-2020 13:52
+                    </div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    Quest'anno le lezioni del primo semestre si svolgeranno online sulla piattaforma MS TEAMS. Il team di questo corso è:
+
+GUALA'-8067331-ALGORITMI_E_STRUTTURE_DATI
+
+Per partecipare alla classe virtuale e quindi alle lezioni è necessario richiedere la partecipazione al team.
+Se qualcuno riscontra problemi nell'iscrizione mi scriva all'indizzo guala@mat.uniroma2.it.
+                  </p>
+                </li>
+                
+              </ul>
+            </div>
+
+            <!-- SEZIONE LEZIONI -->
+            <div
+              class="tab-pane fade"
+              id="lezioni"
+              role="tabpanel"
+              aria-labelledby="btn-lezioni"
+            >
+              <p class="text-center m-2">
+                <span class="auto-write-text h4">> Lezioni</span>
+              </p>
+
+              <ul class="list-group list-group-flush">
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">23</div>
+                    <div class="badge bg-primary text-wrap">
+                      14-01-2021
+                    </div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    Correzione Problem Set 2.
+                  </p>
+                </li>
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">22</div>
+                    <div class="badge bg-primary text-wrap">
+                      12-01-2021
+                    </div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    Correzione Problem Set 1.
+                  </p>
+                </li>
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">21</div>
+                    <div class="badge bg-primary text-wrap">
+                      17-12-2020
+                    </div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    Cammini minimi in grafi pesati. Il problema del calcolo dei cammini minimi a singola sorgente. Un algoritmo veloce quando il grafo ha pesi non negativi: l'algoritmo di Dijkstra.
+                  </p>
+                </li>
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">20</div>
+                    <div class="badge bg-primary text-wrap">
+                      15-12-2020
+                    </div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    Usi meno scontati della visita DFS. Catalogare per tipo gli archi del grafo. Individuare un ciclo in grafi diretti. Grafi diretti aciclici (DAG) e ordinamento topologico. Usare la visita DFS per trovare un ordinamento topologico di un DAG. Componenti fortemente connesse: un algoritmo lineare per calcolarle.
+                  </p>
+                </li>
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">19</div>
+                    <div class="badge bg-primary text-wrap">
+                      10-12-2020
+                    </div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    Strutture dati per rappresentare un grafo. Matrice di adiacenza e Liste di adiacenza. Visite di un grafo. Visita in ampiezza (BFS): cammini minimi da una sorgente. Visita in profondità (DFS): uscire da un labirinto.
+                  </p>
+                </li>
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">18</div>
+                    <div class="badge bg-primary text-wrap">
+                      03-12-2020
+                    </div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    I Grafi (diretti, non diretti, pesati). Nozioni preliminari. Cammini, distanze, diametro. Alberi. Grafi Euleriani. I grafi come linguaggio potente per descrivere scenari e problemi. Esempi di scenari/problematiche descrivibili come grafi/problemi su grafi (reti stradali/di trasporto, reti sociali, reti “delle dipendenze”).
+                  </p>
+                </li>
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">17</div>
+                    <div class="badge bg-primary text-wrap">
+                      01-12-2020
+                    </div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    Il problema della Coda con priorità. d-Heap, Heap Binomiali, (cenni sugli) Heap di Fibonacci e complessità ammortizzata.
+                  </p>
+                </li>
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">16</div>
+                    <div class="badge bg-primary text-wrap">
+                      26-11-2020
+                    </div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    Esercitazione. Progettare un algoritmo che, dato un vettore ordinato A[1:n] di n bit, trova il numero k di zero presenti in A. Algoritmo con complessità O(log n). Un miglior algoritmo con tempo O(log k) (Es. 8). Progettare un algoritmo con complessità lineare che, dato un vettore A[1:n] di n bit, trova l’indice k tale che il numero di zeri in A[1:k] è uguale al numero di uni in A[k+1:n] (Es. 9).
+                  </p>
+                </li>
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">15</div>
+                    <div class="badge bg-primary text-wrap">
+                      24-11-2020
+                    </div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    Il problema del Dizionario: secondo episodio. Alberi AVL: definizione ed esempi. Dimostrazione della delimitazione superiore dell’altezza di un albero AVL (che usa la nozione di albero di Fibonacci). Operazioni sugli alberi AVL: search, insert, delete.
+                  </p>
+                </li>
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">14</div>
+                    <div class="badge bg-primary text-wrap">
+                      19-11-2020
+                    </div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    Il problema del Dizionario. Alberi binari di ricerca. Definizione. Visita in ordine simmetrico di un BST. Ricerca, inserimento, cancellazione (ricerca del massimo, del minimo, del predecessore e del successore di un nodo).
+                  </p>
+                </li>
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">13</div>
+                    <div class="badge bg-primary text-wrap">
+                      17-11-2020
+                    </div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    Esercitazione sulle visite di alberi. Progettazione di un algoritmo che, preso un albero con valori e colori (rosso e nero), trova il valore del cammino rosso di tipo nodo-radice di valore massimo (Es 5). Altro esercizio: progettare un algoritmo che,  preso un albero e in intero h, restituisce il numero di nodi dell'albero di profondità almeno h (Es 6). Altro esercizio: preso un albero binario con valori, calcola il numero di nodi per cui la somma dei valori degli antenati è uguale alla somma dei valori dei discendenti (Es. 7).
+                  </p>
+                </li>
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">12</div>
+                    <div class="badge bg-primary text-wrap">
+                      12-11-2020
+                    </div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    Strutture dati elementari: rappresentazioni indicizzate e rappresentazioni collegate. Implementazione di un dizionario con array ordinato/non ordinato e lista ordinata/non ordinata. Rappresentazioni di alberi. Algoritmi di visita di un albero: profondità versione iterativa, profondità versione ricorsiva (preordine, postordine, ordine simmetrico), ampiezza. Algoritmo per calcolare l’altezza di un albero.
+                  </p>
+                </li>
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">11</div>
+                    <div class="badge bg-primary text-wrap">
+                      10-11-2020
+                    </div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    Esercitazione. Primo esercizio: dato un array di n numeri unimodale, progettare un algoritmo con complessità o(n) che trova il massimo e uno con complessità o(n log n) che lo ordina (Es. 3). Secondo esercizio: dato un vettore A di n numeri, progettare un algoritmo che in tempo O(n) trova due indici i e j con i<j che massimizzano A[j]-A[i] (Es. 4).
+                  </p>
+                </li>
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">10</div>
+                    <div class="badge bg-primary text-wrap">
+                      05-11-2020
+                    </div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    Esercitazione. Esercizio: dimostrare o confutare una relazione asintotica (Es. 1). Esercizio di progettazione di un algoritmo che, dato un vettore ordinato A di n interi distinti e un valore x, trova (se esistono) due elementi di A che sommano a x. Soluzione banale con complessità quadratica, soluzione di complessità O(n log n) e soluzione con tempo O(n) (Es. 2).
+                  </p>
+                </li>
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">9</div>
+                    <div class="badge bg-primary text-wrap">
+                      03-11-2020
+                    </div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    Ancora algoritmi di ordinamento non basati su confronti. Una variante dell’IntegerSort per ordinare n record con chiavi intere: BucketSort. Un algoritmo veloce per ordinare interi “grandi”: il RadixSort. Discussione del seguente esercizio: dato un array di n interi compresi fra 1 e k, costruire in tempo O(n+k) un oracolo (struttura dati) che sia in grado di rispondere in tempo costante a domande del tipo "quanti interi nell'array sono compresi fra a e b?"(Esercizio e soluzioni a fine delle slide sull'IntegerSort).
+                  </p>
+                </li>
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">8</div>
+                    <div class="badge bg-primary text-wrap">
+                      29-10-2020
+                    </div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    Delimitazioni superiori e inferiori di algoritmi e problemi. Un lower bound alla complessità temporale necessaria per ordinare n elementi (per una classe di algoritmi ragionevoli, quelli basati su confronti). Un algoritmo veloce per ordinare interi “piccoli”: IntegerSort.
+                  </p>
+                </li>
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">7</div>
+                    <div class="badge bg-primary text-wrap">
+                      27-10-2020
+                    </div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    Progettare algoritmi efficienti attraverso la progettazione di strutture dati efficienti. Un esempio: l'HeapSort - che ordina in loco n elementi in tempo O(n log n) nel caso peggiore.
+                  </p>
+                </li>
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">6</div>
+                    <div class="badge bg-primary text-wrap">
+                      22-10-2020
+                    </div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    Il Problema dell’ordinamento. Un algoritmo semplice ma inefficiente: il Selection Sort. Un algoritmo migliore: il MergeSort. Un altro algoritmo che usa la tecnica divide et impera: il QuickSort: analisi del caso peggiore, migliore, e intuizioni sul caso medio. Discussione versione randomizzata del QuickSort e differenza fra complessità nel caso medio e tempo atteso di un algoritmo randomizzato.
+                  </p>
+                </li>
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">5</div>
+                    <div class="badge bg-primary text-wrap">
+                      20-10-2020
+                    </div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    Ancora sulle equazioni di ricorrenza. Metodo della sostituzione. Teorema Fondamentale delle Ricorrenze (Master). Semplici esempi. Quando non si può applicare. Metodo del cambiamento di variabile.
+                  </p>
+                </li>
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">4</div>
+                    <div class="badge bg-primary text-wrap">
+                      15-10-2020
+                    </div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    Analisi della complessità nel caso medio: un esempio. Il problema della ricerca di un elemento in un insieme: ricerca sequenziale e ricerca binaria. Equazioni di ricorrenza. Metodo dell’iterazione. Metodo che usa l’albero della ricorsione.
+                  </p>
+                </li>
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">3</div>
+                    <div class="badge bg-primary text-wrap">
+                      13-10-2020
+                    </div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    Modello di calcolo RAM. Costi uniformi e logaritmici. Complessità caso peggiore, migliore, medio. Notazioni asintotiche: O-grande, Omega-grande, Theta. O-piccolo, Omega-piccolo. Definizioni e semplici esempi. Proprietà. Usare la notazione asintotica nelle analisi della complessità computazionale degli algoritmi.
+                  </p>
+                </li>
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">2</div>
+                    <div class="badge bg-primary text-wrap">
+                      08-10-2020
+                    </div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    Il problema del calcolo dell’n-esimo numero di Fibonacci. Un algoritmo numerico e un algoritmo ricorsivo. Analisi della complessità temporale dell’algoritmo ricorsivo. Un algoritmo iterativo di complessità temporale O(n) e di complessità spaziale O(n) (Fibonacci3). Portare la memoria a O(1): Fibonacci4. Introduzione informale alla notazione asintotica. Algoritmo con complessità O(log n) per il calcolo dell’n-simo numero di Fibonacci. Discussione della complessità spaziale degli algoritmi ricorsivi Fibonacci2 e Fibonacci6.
+                  </p>
+                </li>
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">1</div>
+                    <div class="badge bg-primary text-wrap">
+                      06-10-2020
+                    </div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    Introduzione al corso. Motivazioni e concetti fondamentali. Un primo esempio: il problema di trovare una moneta falsa (più pesante) fra n monete usando una bilancia a due piatti.
+                  </p>
+                </li>
+                
+              </ul>
+            </div>
+
+            <!-- SEZIONE MATERIALE -->
+            <div
+              class="tab-pane fade"
+              id="materiale"
+              role="tabpanel"
+              aria-labelledby="btn-materiale"
+            >
+              <p class="text-center m-2">
+                <span class="auto-write-text h4">> Materiale</span>
+              </p>
+            </div>
+
+            <!-- SEZIONE PROGRAMMA -->
+            <div
+              class="tab-pane fade"
+              id="programma"
+              role="tabpanel"
+              aria-labelledby="btn-programma"
+            >
+              <div>
+                <p class="text-center m-2">
+                  <span class="auto-write-text h4">> Programma</span>
+                </p>
+                
+                <p class="px-3">
+                  http://www.mat.uniroma2.it/~guala/ASDL_2020.htm
+                </p>
+                
+              </div>
+            </div>
+
+            <!-- SEZIONE TESTI RIFERIMENTO -->
+            <div
+              class="tab-pane fade"
+              id="testi"
+              role="tabpanel"
+              aria-labelledby="btn-testi"
+            >
+              <p class="text-center m-2">
+                <span class="auto-write-text h4">> Testi di riferimento</span>
+              </p>
+              
+              <p class="px-3">
+                http://www.mat.uniroma2.it/~guala/ASDL_2020.htm
+              </p>
+              
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </main>
+
+    <hr />
+    <!-- footer -->
+    <footer>
+      <div id="gitIcon">
+        <a href="https://github.com/Alessandrostr95/PinkPeachProject">
+          <img
+            src="../../assets/icons/icons8-github-96.png"
+            alt="git"
+            width="28px"
+          />
+        </a>
+      </div>
+      <div id="sitoUfficialeIcon">
+        <a href="http://www.informatica.uniroma2.it/">
+          <img
+            src="../../assets/icons/icons8-toilet-paper-80.png"
+            alt="sito-informatica"
+            width="28px"
+          />
+        </a>
+      </div>
+    </footer>
+  </body>
+</html>
