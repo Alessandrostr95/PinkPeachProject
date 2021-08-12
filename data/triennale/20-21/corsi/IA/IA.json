@@ -1,6 +1,11 @@
 {
   "nomeCorso": "Intelligenza artificiale 1",
-  "docente": "Roberto Basili",
+  "docente": [
+    {
+      "first_name": "Roberto",
+      "second_name": "Basili"
+    }
+  ],
   "annoAccademico": "2020-2021",
   "crediti": "6",
   "settore": "ING-INF/05",
@@ -11,19 +16,19 @@
     {
       "titolo": "Home Page e Data Inizio Lezioni",
       "data": "27-09-2020 00:55",
-      "contenuto": "Le lezioni avranno inizio a partire da Martedi' 6 Ottobre 2020, alle ore 9:00.\nLa modalit\u00e0 didattica sar\u00e0 on-line, con la possibilit\u00e0 di fruire di ricevimenti on-line.\n\nLa pagina Web del Corso \u00e8 al sito: http://sag.art.uniroma2.it/didattica/basili/IA_20_21/"
+      "contenuto": "<p>Le lezioni avranno inizio a partire da Martedi' 6 Ottobre 2020, alle ore 9:00.</p>\n<p>La modalit\u00e0 didattica sar\u00e0 on-line, con la possibilit\u00e0 di fruire di ricevimenti on-line.</p>\n<p>\u00a0</p>\n<p>La pagina Web del Corso \u00e8 al sito: <a href=\"http://sag.art.uniroma2.it/didattica/basili/IA_20_21/\" target=\"_blank\" title=\"Home Page Corso di IA1 \">http://sag.art.uniroma2.it/didattica/basili/IA_20_21/ </a></p>"
     }
   ],
   "lezioni": [
     {
       "id": "0",
       "data": "null",
-      "contenuto": "Le lezioni avranno inizio a partire da Martedi' 6 Ottobre 2020, alle ore 9:00.\nLa modalit\u00e0 didattica sar\u00e0 on-line, con la possibilit\u00e0 di fruire di ricevimenti on-line.\n\nCalendario delle lezioni del Corso:\nMARTEDI', h. 9:00-11:00 (MS Teams)\nVENERDI', h. 9:00-11:00 (MS Teams)"
+      "contenuto": "<p>Le lezioni avranno inizio a partire da Martedi' 6 Ottobre 2020, alle ore 9:00.</p>\n<p>La modalit\u00e0 didattica sar\u00e0 on-line, con la possibilit\u00e0 di fruire di ricevimenti on-line.</p>\n<p>\u00a0</p>\n<p>\n<ul>\n<li><strong>Calendario delle lezioni del Corso:</strong>\n<ul>\n<li><strong>MARTEDI', h. 9:00-11:00 </strong> (<strong>MS Teams</strong>)</li>\n<li><strong>VENERDI', h. 9:00-11:00 </strong> (<strong>MS Teams</strong>)</li>\n</ul>\n</li>\n</ul>\n</p>\n<p>\u00a0</p>"
     }
   ],
   "materiale": [],
-  "programma": "null",
-  "testiRiferimento": "null",
-  "ricevimento": "null",
-  "modalit\u00e0Esame": "null"
+  "programma": "<table><tr><td>null</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>null</td></tr></table>",
+  "ricevimento": "<table><tr><td>null</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
 }

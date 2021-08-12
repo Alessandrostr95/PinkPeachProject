@@ -1,6 +1,11 @@
 {
   "nomeCorso": "Programmazione Web",
-  "docente": "Pierpaolo Loreti",
+  "docente": [
+    {
+      "first_name": "Pierpaolo",
+      "second_name": "Loreti"
+    }
+  ],
   "annoAccademico": "2020-2021",
   "crediti": "6",
   "settore": "ING-INF/05",
@@ -12,12 +17,12 @@
     {
       "id": "0",
       "data": "null",
-      "contenuto": "https://teams.microsoft.com/l/team/19%3a90ceebcc4e7e4f1c97073492e91bf64e%40thread.tacv2/conversations?groupId=edccf5b7-7046-4949-bc59-20eb0ed35a54&tenantId=24c5be2a-d764-40c5-9975-82d08ae47d0e"
+      "contenuto": "<table align=\"center\" border=\"0\" cellpadding=\"1\" cellspacing=\"0\" style=\"margin: 0px auto; padding: 0px; font-family: 'Trebuchet MS', Verdana, Arial, sans-serif;\">\n<tbody style=\"margin: 0px; padding: 0px;\">\n<tr style=\"margin: 0px; padding: 0px;\">\n<td class=\"rigapari\" colspan=\"2\" style=\"margin: 0px; padding: 5px; border: thin solid #4a837c; background-image: initial !important; background-position: initial !important; background-size: initial !important; background-repeat: initial !important; background-attachment: initial !important; background-origin: initial !important; background-clip: initial !important; color: #005b5b !important;\">https://teams.microsoft.com/l/team/19%3a90ceebcc4e7e4f1c97073492e91bf64e%40thread.tacv2/conversations?groupId=edccf5b7-7046-4949-bc59-20eb0ed35a54&amp;tenantId=24c5be2a-d764-40c5-9975-82d08ae47d0e</td>\n</tr>\n</tbody>\n</table>\n<p>\u00a0</p>"
     }
   ],
   "materiale": [],
-  "programma": "null",
-  "testiRiferimento": "null",
-  "ricevimento": "null",
-  "modalit\u00e0Esame": "Appello Sessione estiva\n24 Giugno, ore 11.00 - 13.00\n20 Luglio, ore 10.00 - 12.00"
+  "programma": "<table><tr><td>null</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>null</td></tr></table>",
+  "ricevimento": "<table><tr><td>null</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td><p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Appello Sessione estiva\u00a0</span></p>\n<ul style=\"margin-top: 0; margin-bottom: 0; padding-inline-start: 48px;\">\n<li dir=\"ltr\" style=\"list-style-type: disc; font-size: 12pt; font-family: Calibri, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre;\">\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">24 Giugno, ore 11.00 - 13.00</span></p>\n</li>\n<li dir=\"ltr\" style=\"list-style-type: disc; font-size: 12pt; font-family: Calibri, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre;\">\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">20 Luglio, ore 10.00 - 12.00</span></p>\n</li>\n</ul>\n<p><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"font-size: 12pt; font-family: Calibri, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">\u00a0</span></span></p></td></tr></table>"
 }

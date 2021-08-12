@@ -1,6 +1,11 @@
 {
   "nomeCorso": "Calcolo delle probabilit\u00e0 e statistica",
-  "docente": "Claudio Macci",
+  "docente": [
+    {
+      "first_name": "Claudio",
+      "second_name": "Macci"
+    }
+  ],
   "annoAccademico": "2020-2021",
   "crediti": "6",
   "settore": "MAT/06",
@@ -11,13 +16,13 @@
     {
       "titolo": "",
       "data": "29-09-2020 10:05",
-      "contenuto": "Tutte le informazioni del corso sono disponibili qui:\nhttp://www.mat.uniroma2.it/~macci/didattica-corsoST.htm"
+      "contenuto": "<p>Tutte le informazioni del corso sono disponibili qui:</p>\n<p>http://www.mat.uniroma2.it/~macci/didattica-corsoST.htm</p>"
     }
   ],
   "lezioni": [],
   "materiale": [],
-  "programma": "null",
-  "testiRiferimento": "null",
-  "ricevimento": "null",
-  "modalit\u00e0Esame": "null"
+  "programma": "<table><tr><td>null</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>null</td></tr></table>",
+  "ricevimento": "<table><tr><td>null</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
 }

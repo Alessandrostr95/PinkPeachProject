@@ -20,6 +20,8 @@ from enum import Enum
 
 DATA_DIR = "../data/"
 
+# Used to allow to folders in both italian/english depending on how
+# the scraper is instantiated.
 IT_DIR_NAMES = {
     "basic_dirs": {
         "courses": "corsi",
@@ -48,6 +50,92 @@ ENG_DIR_NAMES = {
         "bachelor": "bachelor",
         "master": "master",
     }
+}
+
+# Used to differentiate between first_name and last_name in case of
+# multiple words names.
+TEACHERS_NAME = {
+    "D'Ambrogio Andrea": {
+        "first_name": "Andrea",
+        "second_name": "D'Ambrogio",
+    },
+
+    "Andrea D'Ambrogio": {
+        "first_name": "Andrea",
+        "second_name": "D'Ambrogio",
+    },    
+    
+    # --------------
+    
+    "Di Ianni Miriam": {
+        "first_name": "Miriam",
+        "second_name": "Di Ianni",
+    },
+
+    "Miriam Di Ianni": {
+        "first_name": "Miriam",
+        "second_name": "Di Ianni",
+    },    
+
+    # --------------
+
+    "Zanzotto Fabio Massimo": {
+        "first_name": "Fabio Massimo",
+        "second_name": "Zanzotto",
+    },
+
+    "Fabio Massimo Zanzotto": {
+        "first_name": "Fabio Massimo",
+        "second_name": "Zanzotto",
+    },    
+
+    # --------------
+    
+    "De Canditiis Daniela": {
+        "first_name": "Daniela",
+        "second_name": "De Canditiis",
+    },
+
+    "Daniela De Canditiis": {
+        "first_name": "Daniela",
+        "second_name": "De Canditiis",
+    },    
+
+    # --------------
+    
+    "Di Fiore Carmine": {
+        "first_name": "Carmine",
+        "second_name": "Di Fiore",
+    },
+
+    "Carmine Di Fiore": {
+        "first_name": "Carmine",
+        "second_name": "Di Fiore",
+    },    
+
+    # --------------
+
+    "Salsano Stefano Domenico": {
+        "first_name": "Stefano Domenico",
+        "second_name": "Salsano ",
+    },
+
+    "Stefano Domenico Salsano": {
+        "first_name": "Stefano Domenico",
+        "second_name": "Salsano ",
+    },    
+
+    # --------------
+    
+    "Scalia Tomba Giampaolo": {
+        "first_name": "Giampaolo",
+        "second_name": "Scalia Tomba",
+    },
+
+    "Giampaolo Scalia Tomba": {
+        "first_name": "Gimpaolo",
+        "second_name": "Scalia Tomba",
+    }    
 }
 
 # ----- Utils functions -----
@@ -264,11 +352,16 @@ class UniScraper(object):
 
     # ---------------------------
     
-    def get_course_data(self, course_code, scholar_year=None):
-        """
-        Downloads all the data regarding the course identified by the
-        {courseCode} value. If the year is not supplied the current
-        scholar year will be used instead.
+    def get_course_data(self, course_code, scholar_year=None, download=False):
+        """Downloads all the data regarding the course identified by the
+        {courseCode} value. 
+
+        If the year is not supplied the current scholar year will be used instead. 
+
+        When download is set to True, all the material will be
+        downloaded in the proper folder. If instead it is set to
+        False, only the links will be downloaded.
+
         """
         os_param = self.__os_param(scholar_year)
         URL_PARAMS = f"/f0?fid=220&srv=0&os={os_param}&id={course_code}"
@@ -303,24 +396,49 @@ class UniScraper(object):
         nome_corso = soup.find("title").decode_contents().strip()
         docente = soup.find("span", {"id": "docNome"}).decode_contents().strip()
         output["nomeCorso"] = nome_corso
-        output["docente"] = docente
+        output["docente"] = self.__extract_course_teacher_name(docente)
         
         output = self.__get_course_basic_info(output, basic_info_table)
         output = self.__get_course_communication(output, communications_table)
         output = self.__get_course_lectures(output, lectures_table)
         output = self.__get_course_materials(output, materials_table)
+
+        if download:
+            self.__download_course_materials(course_code, scholar_year, output["materiale"])
         
-        self.__download_course_materials(course_code, scholar_year, output["materiale"])
-        
-        output["programma"] = self.__extract_all_text_from_soup(programma_table)
-        output["testiRiferimento"] = self.__extract_all_text_from_soup(testi_table)
-        output["ricevimento"] = self.__extract_all_text_from_soup(ricevimento_table)
-        output["modalitàEsame"] = self.__extract_all_text_from_soup(esame_table)    
-        
+        output["programma"] = str(programma_table)
+        output["testiRiferimento"] = str(testi_table)
+        output["ricevimento"] = str(ricevimento_table)
+        output["modalitàEsame"] = str(esame_table)
+
         # -- write output json
         file_path = f"{self.DATA_ROOT}/{scholar_year}/{self.directories['basic_dirs']['courses']}/{course_code}/{course_code}.json"
         with open(file_path, "w+") as out:
             json.dump(output, out, indent=2)
+
+    # ---------
+
+    def __extract_course_teacher_name(self, text):
+        names = text.split(",")
+        res = []
+
+        for name in names:
+            name = name.strip()
+            
+            res_name = {}
+            name_words = name.replace("'", " ").split()
+            if len(name_words) == 2:
+                # -- traditional name
+                res_name["first_name"] = name_words[0]
+                res_name["second_name"] = name_words[1]
+            else:
+                # -- special name, use dict
+                res_name["first_name"] = TEACHERS_NAME[name]["first_name"]
+                res_name["second_name"] = TEACHERS_NAME[name]["second_name"]
+
+            res.append(res_name)
+                    
+        return res
 
     # ---------
 
@@ -363,14 +481,18 @@ class UniScraper(object):
             communication = {}
             communication["titolo"] = row.find("h3").decode_contents().strip()
             communication["data"] = row.find("span", {"id": "data"}).decode_contents().strip()
-            communication["contenuto"] = self.__extract_all_text_from_soup(row)
+            communication["contenuto"] = row.td.decode_contents().strip()
             # -- remove repeated title+data
-            i = communication["contenuto"].find(communication["data"]) + len(communication["data"])
+            i = communication["contenuto"].find("<br/>") + len("<br/>")
             communication["contenuto"] = communication["contenuto"][i:]
             comms.append(communication)
+            
         output["comunicazioni"] = comms
         return output
 
+
+    # <tr><td><span id="lezId">6</span> </td> <td> <span id="data">23-10-2020</span><br/>
+    
     def __get_course_lectures(self, output, lectures_table):
         lecture_rows = lectures_table.find_all("tr", recursive=False)
         lects = []
@@ -378,9 +500,9 @@ class UniScraper(object):
             lecture = {}
             lecture["id"] = row.find("span", {"id": "lezId"}).decode_contents().strip()
             lecture["data"] = row.find("span", {"id": "data"}).decode_contents().strip()
-            lecture["contenuto"] = self.__extract_all_text_from_soup(row)
+            lecture["contenuto"] = row.find_all("td")[1].decode_contents().strip()
             # -- remove repeated id+data
-            i = lecture["contenuto"].find(lecture["data"]) + len(lecture["data"])
+            i = lecture["contenuto"].find("<br/>") + len("<br/>")
             lecture["contenuto"] = lecture["contenuto"][i:]
             lects.append(lecture)
         output["lezioni"] = lects
@@ -773,9 +895,10 @@ class UniScraper(object):
 
 if __name__ == "__main__":
     bachelor_scraper = UniScraper(Degree.BACHELOR)
-    bachelor_scraper.get_teachers_list()
-    # bachelor_scraper.get_all_data("20-21")
+    # bachelor_scraper.get_course_data("AE", download=True)
+    # bachelor_scraper.get_teachers_list()
+    bachelor_scraper.get_all_data("20-21")
 
     master_scraper = UniScraper(Degree.MASTER)
-    master_scraper.get_teachers_list()
+    # master_scraper.get_teachers_list()
     # master_scraper.get_all_data("20-21")

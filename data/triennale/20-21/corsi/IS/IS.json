@@ -1,6 +1,15 @@
 {
   "nomeCorso": "Ingegneria del software",
-  "docente": "Benedetto Intrigila, Andrea D'Ambrogio",
+  "docente": [
+    {
+      "first_name": "Benedetto",
+      "second_name": "Intrigila"
+    },
+    {
+      "first_name": "Andrea",
+      "second_name": "D'Ambrogio"
+    }
+  ],
   "annoAccademico": "2020-2021",
   "crediti": "12",
   "settore": "INF/01",
@@ -10,8 +19,8 @@
   "comunicazioni": [],
   "lezioni": [],
   "materiale": [],
-  "programma": "ProgrammaPrima Parte:Il ciclo di vita del softwareGestione dei requisiti software (Principalmente).Design (Cenni).Sviluppo (Cenni).Verifica e validazione (Cenni).Il linguaggio di modellazione UML e il suo uso nell'analisi dei requisiti.",
-  "testiRiferimento": "I. Sommerville\u00a0Software Engineering 7\u00a0(o edizioni successive)\u00a0(come integrazione sar\u00e0 usato anche:\u00a0CRAIG LARMAN:\u00a0Applicare UML e i pattern. Analisi e progettazione orientata agli oggetti.)\u00a0Per UML:\u00a0L. Baresi, L. Lavazza, M. Pianciamore\u00a0Dall'idea al codice con UML 2\u00a0Addison Wesley\n\nNOTA BENE. Molto materiale didattico verr\u00e0 fornito direttamente ai gruppi.\n\nTool di Modellazione UML: Visual Paradigm\n\nAs an academic partner of Visual Paradigm, Visual Paradigm is providing us with their UML tools, database design tools and agile tools for educational use.",
-  "ricevimento": "Per appuntamento. Mandare una mail a benedetto.intrigila AT uniroma2.it",
-  "modalit\u00e0Esame": "null"
+  "programma": "<table><tr><td><p><span style=\"font-family: verdana, arial, helvetica, sans-serif; font-size: 11px; text-align: justify;\">Programma\u00a0</span><br style=\"font-family: verdana, arial, helvetica, sans-serif; font-size: 11px; text-align: justify;\"><span style=\"font-family: verdana, arial, helvetica, sans-serif; font-size: 11px; text-align: justify;\">Prima Parte:\u00a0</span><br style=\"font-family: verdana, arial, helvetica, sans-serif; font-size: 11px; text-align: justify;\"><span style=\"font-family: verdana, arial, helvetica, sans-serif; font-size: 11px; text-align: justify;\">Il ciclo di vita del software\u00a0</span><br style=\"font-family: verdana, arial, helvetica, sans-serif; font-size: 11px; text-align: justify;\"><span style=\"font-family: verdana, arial, helvetica, sans-serif; font-size: 11px; text-align: justify;\">Gestione dei requisiti software (Principalmente).\u00a0</span><br style=\"font-family: verdana, arial, helvetica, sans-serif; font-size: 11px; text-align: justify;\"><span style=\"font-family: verdana, arial, helvetica, sans-serif; font-size: 11px; text-align: justify;\">Design (Cenni).\u00a0</span><br style=\"font-family: verdana, arial, helvetica, sans-serif; font-size: 11px; text-align: justify;\"><span style=\"font-family: verdana, arial, helvetica, sans-serif; font-size: 11px; text-align: justify;\">Sviluppo (Cenni).\u00a0</span><br style=\"font-family: verdana, arial, helvetica, sans-serif; font-size: 11px; text-align: justify;\"/><span style=\"font-family: verdana, arial, helvetica, sans-serif; font-size: 11px; text-align: justify;\">Verifica e validazione (Cenni).\u00a0</span><br style=\"font-family: verdana, arial, helvetica, sans-serif; font-size: 11px; text-align: justify;\"/><span style=\"font-family: verdana, arial, helvetica, sans-serif; font-size: 11px; text-align: justify;\">Il linguaggio di modellazione UML e il suo uso nell'analisi dei requisiti.</span></br></br></br></br></br></p></td></tr></table>",
+  "testiRiferimento": "<table><tr><td><p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">I. Sommerville\u00a0<br>Software Engineering 7\u00a0<br/>(o edizioni successive)\u00a0<br/><br/>(come integrazione sar\u00e0 usato anche:\u00a0<br/>CRAIG LARMAN:\u00a0<br/>Applicare UML e i pattern. Analisi e progettazione orientata agli oggetti.)\u00a0<br/><br/>Per UML:\u00a0<br/>L. Baresi, L. Lavazza, M. Pianciamore\u00a0<br/>Dall'idea al codice con UML 2\u00a0<br/>Addison Wesley</br></p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">NOTA BENE. Molto materiale didattico verr\u00e0 fornito direttamente ai gruppi.</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Tool di Modellazione UML: Visual Paradigm</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">As an <a href=\"https://www.visual-paradigm.com/partner/academic/\" target=\"_blank\">academic partner</a> of <a href=\"https://www.visual-paradigm.com/\" target=\"_blank\">Visual Paradigm</a>, Visual Paradigm is providing us with their <a href=\"https://www.visual-paradigm.com/features/uml-and-sysml-tools/\" target=\"_blank\">UML tools</a>, <a href=\"https://www.visual-paradigm.com/features/database-design-with-erd-tools/\" target=\"_blank\">database design tools</a> and <a href=\"https://www.visual-paradigm.com/features/agile-development-tools/#user-story-map\" target=\"_blank\">agile tools</a> for educational use.</p></td></tr></table>",
+  "ricevimento": "<table><tr><td><p>Per appuntamento. Mandare una mail a benedetto.intrigila AT uniroma2.it</p></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
 }

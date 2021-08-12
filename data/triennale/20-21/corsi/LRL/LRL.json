@@ -1,6 +1,11 @@
 {
   "nomeCorso": "Logica e reti logiche",
-  "docente": "Francesco Pasquale",
+  "docente": [
+    {
+      "first_name": "Francesco",
+      "second_name": "Pasquale"
+    }
+  ],
   "annoAccademico": "2020-2021",
   "crediti": "6",
   "settore": "INF/01",
@@ -17,8 +22,8 @@
       "dimensione": "0 KB"
     }
   ],
-  "programma": "Prima Parte (Logica)Richiami di matematica: teoria degli insiemi elementare, algebra Booleana, relazioni e funzioni, principio di induzione.Logica proposizionale: connettivi logici, tabelle di verit\u00e0, variabili, formule, tableaux. Sistemi assiomatici. Correttezza e completezza.Logica del primo ordine: quantificatori, relazioni, propriet\u00e0 e predicati, formule della logica del primo ordine. Tableaux del primo ordine.Cenni al fenomeno dell'incompletezza.Seconda Parte (Reti Logiche)Sistemi numerici e rappresentazione dei numeri: binaria, esadecimale, base64. Le operazioni aritmetiche. Rappresentazione delle informazioni: le codifiche ASCII e Unicode; lo standard IEEE754per i numeri in virgola mobile.\nFunzioni Booleane e forme canoniche. Mappe di Karnaugh. Porte logiche e circuiti logici.Circuiti combinatori: codificatori e decodificatori, multiplexer, sommatori e sottrattori.Circuiti sequenziali: Latch e Flip-Flop.\nCenni ai linguaggi per la descrizione dell'hardware (HDLs).\nAutomi a stati finiti.",
-  "testiRiferimento": "Raymond M. Smullyan[1]\u00a0 A Beginner's Guide to Mathematical Logic\u00a0\u00a0\u00a0\u00a0\u00a0 Dover Publications, 2014\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Sarah L. Harris and David Money Harris[2]\u00a0 Sistemi digitali e architettura dei calcolatori\u00a0\u00a0\u00a0\u00a0\u00a0 Zanichelli, 2017",
-  "ricevimento": "Durante il periodo delle lezioni (Marzo - Giugno 2021):Marted\u00ec 15:30 - 18:30 oppure su appuntamento.Al di fuori del periodo delle lezioni:Su appuntamento.",
-  "modalit\u00e0Esame": "L'esame consiste in una prova scritta e in un colloquio orale.Durante il corso gli studenti potranno svolgere due test intermedi. Chi riceve una valutazione positiva a entrambi i test \u00e8 esonerato dalla prova scritta e ammesso a sostenere direttamente il colloquio orale."
+  "programma": "<table><tr><td><p><strong>Prima Parte (Logica)</strong><br><br>Richiami di matematica: teoria degli insiemi elementare, algebra Booleana, relazioni e funzioni, principio di induzione.<br>Logica proposizionale: connettivi logici, tabelle di verit\u00e0, variabili, formule, <em>tableaux</em>. Sistemi assiomatici. Correttezza e completezza.<br>Logica del primo ordine: quantificatori, relazioni, propriet\u00e0 e predicati, formule della logica del primo ordine. <em>Tableaux</em> del primo ordine.<br/>Cenni al fenomeno dell'incompletezza.<br/><br/><br/><strong>Seconda Parte (Reti Logiche)</strong><br/><br/>Sistemi numerici e rappresentazione dei numeri: binaria, esadecimale, base64. Le operazioni aritmetiche. Rappresentazione delle informazioni: le codifiche <em>ASCII</em> e <em>Unicode;</em> lo standard <em>IEEE754 </em>per i numeri in virgola mobile.</br></br></br></br></p>\n<p>Funzioni Booleane e forme canoniche. Mappe di Karnaugh. Porte logiche e circuiti logici.<br/>Circuiti combinatori: codificatori e decodificatori, <em>multiplexer</em>, sommatori e sottrattori.<br/>Circuiti sequenziali: <em>Latch</em> e <em>Flip-Flop</em>.</p>\n<p>Cenni ai linguaggi per la descrizione dell'hardware (<em>HDLs</em>).</p>\n<p>Automi a stati finiti.</p></td></tr></table>",
+  "testiRiferimento": "<table><tr><td><p>\u00a0\u00a0\u00a0\u00a0\u00a0 Raymond M. Smullyan<br>[1]\u00a0 <strong>A Beginner's Guide to Mathematical Logic</strong><br/>\u00a0\u00a0\u00a0\u00a0\u00a0 Dover Publications, 2014<br/>\u00a0<br/>\u00a0\u00a0\u00a0\u00a0\u00a0 Sarah L. Harris and David Money Harris<br/>[2]\u00a0 <strong>Sistemi digitali e architettura dei calcolatori</strong><br/>\u00a0\u00a0\u00a0\u00a0\u00a0 Zanichelli, 2017</br></p></td></tr></table>",
+  "ricevimento": "<table><tr><td><p>Durante il periodo delle lezioni (Marzo - Giugno 2021):<br>Marted\u00ec 15:30 - 18:30 oppure su appuntamento.<br/><br/>Al di fuori del periodo delle lezioni:<br/>Su appuntamento.</br></p></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td><p>L'esame consiste in una prova scritta e in un colloquio orale.<br><br/>Durante il corso gli studenti potranno svolgere due test intermedi. Chi riceve una valutazione positiva a entrambi i test \u00e8 esonerato dalla prova scritta e ammesso a sostenere direttamente il colloquio orale.</br></p></td></tr></table>"
 }

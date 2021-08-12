@@ -1,6 +1,11 @@
 {
   "nomeCorso": "Programmazione dei calcolatori con laboratorio",
-  "docente": "Gianluca Rossi",
+  "docente": [
+    {
+      "first_name": "Gianluca",
+      "second_name": "Rossi"
+    }
+  ],
   "annoAccademico": "2020-2021",
   "crediti": "12",
   "settore": "INF/01",
@@ -12,12 +17,12 @@
     {
       "id": "0",
       "data": "null",
-      "contenuto": "Tutte le informazioni sono disponibili qui\n\nhttp://www.gianlucarossi.net/programmazione-dei-calcolatori/"
+      "contenuto": "<p>Tutte le informazioni sono disponibili qui</p>\n<p>\u00a0</p>\n<p><a href=\"http://www.gianlucarossi.net/programmazione-dei-calcolatori/\" target=\"_blank\">http://www.gianlucarossi.net/programmazione-dei-calcolatori/</a></p>"
     }
   ],
   "materiale": [],
-  "programma": "Tutte le informazioni sono disponibili qui\n\nhttp://www.gianlucarossi.net/programmazione-dei-calcolatori/",
-  "testiRiferimento": "Tutte le informazioni sono disponibili qui\n\nhttp://www.gianlucarossi.net/programmazione-dei-calcolatori/",
-  "ricevimento": "Tutte le informazioni sono disponibili qui\n\nhttp://www.gianlucarossi.net/programmazione-dei-calcolatori/",
-  "modalit\u00e0Esame": "Tutte le informazioni sono disponibili qui\n\nhttp://www.gianlucarossi.net/programmazione-dei-calcolatori/"
+  "programma": "<table><tr><td><p>Tutte le informazioni sono disponibili qui</p>\n<p>\u00a0</p>\n<p><a href=\"http://www.gianlucarossi.net/programmazione-dei-calcolatori/\" target=\"_blank\">http://www.gianlucarossi.net/programmazione-dei-calcolatori/</a></p></td></tr></table>",
+  "testiRiferimento": "<table><tr><td><p>Tutte le informazioni sono disponibili qui</p>\n<p>\u00a0</p>\n<p><a href=\"http://www.gianlucarossi.net/programmazione-dei-calcolatori/\" target=\"_blank\">http://www.gianlucarossi.net/programmazione-dei-calcolatori/</a></p></td></tr></table>",
+  "ricevimento": "<table><tr><td><p>Tutte le informazioni sono disponibili qui</p>\n<p>\u00a0</p>\n<p><a href=\"http://www.gianlucarossi.net/programmazione-dei-calcolatori/\" target=\"_blank\">http://www.gianlucarossi.net/programmazione-dei-calcolatori/</a></p></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td><p>Tutte le informazioni sono disponibili qui</p>\n<p>\u00a0</p>\n<p><a href=\"http://www.gianlucarossi.net/programmazione-dei-calcolatori/\" target=\"_blank\">http://www.gianlucarossi.net/programmazione-dei-calcolatori/</a></p></td></tr></table>"
 }

@@ -1,6 +1,15 @@
 {
   "nomeCorso": "Linguaggi e metodologie di programmazione",
-  "docente": "Fabio Massimo Zanzotto, Armando Stellato",
+  "docente": [
+    {
+      "first_name": "Fabio Massimo",
+      "second_name": "Zanzotto"
+    },
+    {
+      "first_name": "Armando",
+      "second_name": "Stellato"
+    }
+  ],
   "annoAccademico": "2020-2021",
   "crediti": "12",
   "settore": "ING-INF/05",
@@ -10,8 +19,8 @@
   "comunicazioni": [],
   "lezioni": [],
   "materiale": [],
-  "programma": "Tutto ci\u00f2 che concerne il corso di Linguaggi e metodologie di programmazione pu\u00f2 essere trovato alla pagina:\n\nhttp://art.uniroma2.it/teaching/lmp",
-  "testiRiferimento": "null",
-  "ricevimento": "null",
-  "modalit\u00e0Esame": "null"
+  "programma": "<table><tr><td><p style=\"margin: 0in; font-family: verdana; font-size: 8.25pt; color: black;\">Tutto ci\u00f2 che concerne il corso di Linguaggi e metodologie di programmazione pu\u00f2 essere trovato alla pagina:</p>\n<p style=\"margin: 0in; font-family: Calibri; font-size: 11.0pt;\">\u00a0</p>\n<p style=\"margin: 0in;\"><a href=\"http://art.uniroma2.it/teaching/lmp\">http://art.uniroma2.it/teaching/lmp</a></p>\n<p style=\"margin: 0in;\">\u00a0</p>\n<p style=\"margin: 0in;\">\u00a0</p>\n<p style=\"margin: 0in;\">\u00a0</p></td></tr></table>",
+  "testiRiferimento": "<table><tr><td>null</td></tr></table>",
+  "ricevimento": "<table><tr><td>null</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
 }

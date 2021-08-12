@@ -1,6 +1,11 @@
 {
   "nomeCorso": "Algoritmi e strutture dati 2",
-  "docente": "Francesco Pasquale",
+  "docente": [
+    {
+      "first_name": "Francesco",
+      "second_name": "Pasquale"
+    }
+  ],
   "annoAccademico": "2020-2021",
   "crediti": "6",
   "settore": "INF/01",
@@ -11,134 +16,134 @@
     {
       "titolo": "Informazioni",
       "data": "22-09-2020 20:17",
-      "contenuto": "In accordo con le decisioni del Consiglio del Corso di Laurea, per l'AA 2020/21 il corso verr\u00e0 erogato in modalit\u00e0 on-line. Durante il corso valuteremo la possibilit\u00e0 di svolgere alcune attivit\u00e0 (in particolare le esercitazioni) in presenza, in base alla disponibilit\u00e0 delle aule e alle opinioni/preferenze degli studenti frequentanti.\n\nGli studenti interessati a partecipare alle lezioni sono invitati a iscriversi al corso tramite il Delphi. Questo non \u00e8 n\u00e9 obbligatorio n\u00e9 vincolante (potete seguire il corso anche senza registrarvi e potete abbandonarlo in ogni momento anche se vi siete registrati), ma \u00e8 utile a me per avere l'elenco degli indirizzi email degli studenti interessati, nel caso avessi necessit\u00e0 di inviare comunicazioni urgenti relative al corso.\n\nIo non uso Microsoft Teams per la gestione dei corsi e personalmente disapprovo l'utilizzo in ambito accademico di qualunque piattaforma basata su software proprietario. Tutto il materiale relativo a questo corso sar\u00e0 reso disponibile sulla pagina web del corso https://www.mat.uniroma2.it/~pasquale/dida/aa2021/asd2/Le lezioni si svolgeranno di norma qui:\nhttps://tvalgoteam.site/asd2\n(si tratta di un'istanza di Jitsi installata su un pc che si trova nel mio ufficio). Chi volesse fare delle prove indipendenti con questo sistema di videoconferenza pu\u00f2 usare il server messo a disposizione dagli sviluppatori di jitsi qui, oppure uno dei numerosi server italiani messi a disposizione da volontari in questo periodo di emergenza, di cui trovate un elenco qui (o, volendo, pu\u00f2 anche installarsi un proprio server: istruzioni dettagliate si trovano qui).\n\nPer qualunque altra informazione non esitate a contattarmi per email.\n\nF.P."
+      "contenuto": "<p>In accordo con le decisioni del Consiglio del Corso di Laurea, per l'AA 2020/21 il corso verr\u00e0 erogato in modalit\u00e0 on-line. Durante il corso valuteremo la possibilit\u00e0 di svolgere alcune attivit\u00e0 (in particolare le esercitazioni) in presenza, in base alla disponibilit\u00e0 delle aule e alle opinioni/preferenze degli studenti frequentanti.</p>\n<p>\u00a0</p>\n<p class=\"margin\">Gli studenti interessati a partecipare alle lezioni sono invitati a iscriversi al corso tramite il <a href=\"https://delphi.uniroma2.it/\" target=\"_blank\">Delphi</a>. Questo non \u00e8 n\u00e9 obbligatorio n\u00e9 vincolante (potete seguire il corso anche senza registrarvi e potete abbandonarlo in ogni momento anche se vi siete registrati), ma \u00e8 utile a me per avere l'elenco degli indirizzi email degli studenti interessati, nel caso avessi necessit\u00e0 di inviare comunicazioni urgenti relative al corso.</p>\n<p class=\"margin\">\u00a0</p>\n<p class=\"margin\">Io non uso Microsoft Teams per la gestione dei corsi e personalmente disapprovo l'utilizzo in ambito accademico di qualunque piattaforma basata su software proprietario. Tutto il materiale relativo a questo corso sar\u00e0 reso disponibile sulla pagina web del corso <br> <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa2021/asd2/\" target=\"_blank\">https://www.mat.uniroma2.it/~pasquale/dida/aa2021/asd2/</a><br> Le lezioni si svolgeranno di norma qui:</br></br></p>\n<p class=\"margin\"><a href=\"https://tvalgoteam.site/asd2\" target=\"_blank\">https://tvalgoteam.site/asd2</a></p>\n<p class=\"margin\">(si tratta di un'istanza di <a href=\"https://jitsi.org/\" target=\"_blank\">Jitsi</a> installata su un pc che si trova nel mio ufficio). Chi volesse fare delle prove indipendenti con questo sistema di videoconferenza pu\u00f2 usare il server messo a disposizione dagli sviluppatori di jitsi <a href=\"https://meet.jit.si/\" target=\"_blank\">qui</a>, oppure uno dei numerosi server italiani messi a disposizione da volontari in questo periodo di emergenza, di cui trovate un elenco <a href=\"https://iorestoacasa.work/server.html\" target=\"_blank\">qui</a> (o, volendo, pu\u00f2 anche installarsi un proprio server: istruzioni dettagliate si trovano <a href=\"https://jitsi.github.io/handbook/docs/devops-guide/devops-guide-start\" target=\"_blank\">qui</a>).</p>\n<p class=\"margin\">\u00a0</p>\n<p class=\"margin\">Per qualunque altra informazione non esitate a contattarmi per email.</p>\n<p class=\"margin\">\u00a0</p>\n<p class=\"margin\"><em>F.P.</em></p>"
     }
   ],
   "lezioni": [
     {
       "id": "25",
       "data": "18-01-2021",
-      "contenuto": "Esercitazione. Fine corso."
+      "contenuto": "<p><a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa2021/asd2/esercitazione210118.pdf\" target=\"_blank\">Esercitazione</a>. Fine corso.</p>"
     },
     {
       "id": "24",
       "data": "15-01-2021",
-      "contenuto": "L'evoluzione del mining e della hash-rate della rete bitcoin. I fork di Bitcoin e gli Altcoin. Le transazioni. La rete Bitcoin testnet. Esempi. ([3]: Cap. 2 e 3). Lavagna. Esercizi."
+      "contenuto": "<p>L'evoluzione del mining e della <em>hash-rate</em> della rete bitcoin. I <em>fork</em> di Bitcoin e gli Altcoin. Le transazioni. La rete Bitcoin <em>testnet</em>. Esempi. ([3]: Cap. 2 e 3). <br> <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa2021/asd2/lavagna_210115.pdf\" target=\"_blank\">Lavagna</a>. <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa2021/asd2/es20.pdf\" target=\"_blank\">Esercizi</a>.</br></p>"
     },
     {
       "id": "23",
       "data": "11-01-2021",
-      "contenuto": "Le firme digitali e il loro utilizzo in Bitcoin. La rete P2P dei full node. La Proof of Work per validare le transazioni e la Blockchain come registro distribuito. ([3]: Cap. 1 e 2). Lavagna. Esercizi."
+      "contenuto": "<p>Le firme digitali e il loro utilizzo in Bitcoin. La rete <em>P2P</em> dei <em>full node</em>. La <em>Proof of Work</em> per validare le transazioni e la <em>Blockchain</em> come registro distribuito. ([3]: Cap. 1 e 2). <br> <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa2021/asd2/lavagna_210111.pdf\" target=\"_blank\">Lavagna</a>. <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa2021/asd2/es19.pdf\" target=\"_blank\">Esercizi</a>.</br></p>"
     },
     {
       "id": "22",
       "data": "08-01-2021",
-      "contenuto": "Introduzione alle Cryptocurrencies: le funzioni hash crittografiche e le loro propriet\u00e0. Collision resistance e il paradosso dei compleanni. Cenni alla costruzione di Merkle-Damg\u00e5rd. ([3]: Cap. 1 e [2]: Cap 5.1). Lavagna. Esercizi."
+      "contenuto": "<p>Introduzione alle <a href=\"https://en.wikipedia.org/wiki/Cryptocurrency\" target=\"_blank\">Cryptocurrencies</a>: le <a href=\"https://en.wikipedia.org/wiki/Cryptographic_hash_function\" target=\"_blank\">funzioni hash crittografiche</a> e le loro propriet\u00e0. <a href=\"https://en.wikipedia.org/wiki/Collision_resistance\" target=\"_blank\"><em>Collision resistance</em></a> e il <a href=\"https://en.wikipedia.org/wiki/Birthday_problem\" target=\"_blank\">paradosso dei compleanni</a>. Cenni alla costruzione di <a href=\"https://en.wikipedia.org/wiki/Merkle%E2%80%93Damg%C3%A5rd_construction\" target=\"_blank\">Merkle-Damg\u00e5rd</a>. ([3]: Cap. 1 e [2]: Cap 5.1). <br> <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa2021/asd2/lavagna_210108.pdf\" target=\"_blank\">Lavagna</a>. <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa2021/asd2/es18.pdf\" target=\"_blank\">Esercizi</a>.</br></p>"
     },
     {
       "id": "21",
       "data": "21-12-2020",
-      "contenuto": "Esercitazione."
+      "contenuto": "<p><a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa2021/asd2/esercitazione201221.pdf\" target=\"_blank\">Esercitazione</a>.</p>"
     },
     {
       "id": "20",
       "data": "18-12-2020",
-      "contenuto": "Metodi Monte Carlo per la stima di parametri. Campionamento casuale (sampling) e conteggio, cenni alla classe #P. Esempio: Un FPRAS (Fully Polynomial-time Randomized Approximation Scheme) per il problema del conteggio delle assegnazioni che soddisfano una formula in DNF. ([2]: Cap. 11.1, 11.2). Lavagna. Esercizi."
+      "contenuto": "<p><a href=\"https://en.wikipedia.org/wiki/Monte_Carlo_method\" target=\"_blank\">Metodi Monte Carlo</a> per la stima di parametri. Campionamento casuale (<em>sampling</em>) e conteggio, cenni alla classe <a href=\"https://en.wikipedia.org/wiki/Sharp-P\" target=\"_blank\"><em>#P</em></a>. Esempio: Un <em>FPRAS</em> (<em>Fully Polynomial-time Randomized Approximation Scheme</em>) per il problema del conteggio delle assegnazioni che soddisfano una formula in DNF. ([2]: Cap. 11.1, 11.2). <br> <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa2021/asd2/lavagna_201218.pdf\" target=\"_blank\">Lavagna</a>. <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa2021/asd2/es17.pdf\" target=\"_blank\">Esercizi</a>.</br></p>"
     },
     {
       "id": "19",
       "data": "14-12-2020",
-      "contenuto": "Il Metodo Probabilistico: il conteggio di base e il metodo del valore atteso. Cenni alla tecnica di derandomizzazione tramite medie condizionate ([2]: Cap. 6.1, 6.2, 6.3).Lavagna. Esercizi."
+      "contenuto": "<p>Il <em>Metodo Probabilistico</em>: il conteggio di base e il metodo del valore atteso. Cenni alla tecnica di <em>derandomizzazione</em> tramite medie condizionate ([2]: Cap. 6.1, 6.2, 6.3).<br> <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa2021/asd2/lavagna_201214.pdf\" target=\"_blank\">Lavagna</a>. <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa2021/asd2/es16.pdf\" target=\"_blank\">Esercizi</a>.</br></p>"
     },
     {
       "id": "18",
       "data": "11-12-2020",
-      "contenuto": "[Guest Lecture by Isabella Ziccardi]: Pseudorandomness e pseudorandom generators, i primi tentativi: middle-square e linear congruential. Periodo massimo e potency. Cenni alle implicazioni dell'esistenza dei pseudorandom generator in teoria della complessit\u00e0. Cenni ai Cryptographically-secure pseudo random generators.Lavagna. Note. Esercizi."
+      "contenuto": "<p>[<em>Guest Lecture</em> by Isabella Ziccardi]: <a href=\"https://en.wikipedia.org/wiki/Pseudorandomness\" target=\"_blank\">Pseudorandomness</a> e <a href=\"https://en.wikipedia.org/wiki/Pseudorandom_number_generator\" target=\"_blank\">pseudorandom generators</a>, i primi tentativi: <a href=\"https://en.wikipedia.org/wiki/Middle-square_method\" target=\"_blank\">middle-square</a> e <a href=\"https://en.wikipedia.org/wiki/Linear_congruential_generator\" target=\"_blank\">linear congruential</a>. Periodo massimo e <em>potency</em>. Cenni alle implicazioni dell'esistenza dei <em>pseudorandom generator</em> in teoria della complessit\u00e0. Cenni ai <a href=\"https://en.wikipedia.org/wiki/Cryptographically_secure_pseudorandom_number_generator\" target=\"_blank\">Cryptographically-secure pseudo random generators</a>.<br> <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa2021/asd2/lavagna_201211.pdf\" target=\"_blank\">Lavagna</a>. <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa2021/asd2/note-pseudorandomness.pdf\" target=\"_blank\">Note</a>. <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa2021/asd2/es15.pdf\" target=\"_blank\">Esercizi</a>.</br></p>"
     },
     {
       "id": "17",
       "data": "04-12-2020",
-      "contenuto": "Stime del discostamento di una variabile aleatoria dal suo valore atteso. La disuguaglianza di Markov. La varianza di una variabile aleatoria e la disuguaglianza di Chebyshev. Somme di variabili aleatorie indipendenti e le disuguaglianze di Chernoff ([2]: Cap. 3.1, 3.2, 3.3, 4.1, 4.2).Lavagna. Esercizi."
+      "contenuto": "<p>Stime del discostamento di una variabile aleatoria dal suo valore atteso. La <a href=\"https://en.wikipedia.org/wiki/Markov's_inequality\" target=\"_blank\">disuguaglianza di Markov</a>. La <a href=\"https://en.wikipedia.org/wiki/Variance\" target=\"_blank\">varianza</a> di una variabile aleatoria e la <a href=\"https://en.wikipedia.org/wiki/Chebyshev%27s_inequality\" target=\"_blank\">disuguaglianza di Chebyshev</a>. Somme di variabili aleatorie indipendenti e le <a href=\"https://en.wikipedia.org/wiki/Chernoff_bound\" target=\"_blank\">disuguaglianze di Chernoff</a> ([2]: Cap. 3.1, 3.2, 3.3, 4.1, 4.2).<br> <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa2021/asd2/lavagna_201204.pdf\" target=\"_blank\">Lavagna</a>. <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa2021/asd2/es14.pdf\" target=\"_blank\">Esercizi</a>.</br></p>"
     },
     {
       "id": "16",
       "data": "30-11-2020",
-      "contenuto": "Test di primalit\u00e0 probabilistici polinomiali. Il test di Fermat. Richiami di teoria elementare dei numeri: numeri di Carmichael, radici non-banali dell'unit\u00e0, cenni al Teorema dei numeri primi. Il test di Miller-Rabin. ([1]: Cap. 1.3. Per approfondire si veda [5]: Cap. 13.8).Lavagna. Codice. Esercizi."
+      "contenuto": "<p>Test di primalit\u00e0 probabilistici polinomiali. Il <a href=\"https://en.wikipedia.org/wiki/Fermat_primality_test\" target=\"_blank\">test di Fermat</a>. Richiami di teoria elementare dei numeri: <a href=\"https://en.wikipedia.org/wiki/Carmichael_number\" target=\"_blank\">numeri di Carmichael</a>, radici non-banali dell'unit\u00e0, cenni al <a href=\"https://en.wikipedia.org/wiki/Prime_number_theorem\" target=\"_blank\">Teorema dei numeri primi</a>. Il <a href=\"https://en.wikipedia.org/wiki/Miller%E2%80%93Rabin_primality_test\" target=\"_blank\">test di Miller-Rabin</a>. ([1]: Cap. 1.3. Per approfondire si veda [5]: Cap. 13.8).<br> <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa2021/asd2/lavagna_201130.pdf\" target=\"_blank\">Lavagna</a>. <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa2021/asd2/asd2_primality.zip\" target=\"_blank\">Codice</a>. <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa2021/asd2/es13.pdf\" target=\"_blank\">Esercizi</a>.</br></p>"
     },
     {
       "id": "15",
       "data": "27-11-2020",
-      "contenuto": "Esercitazione."
+      "contenuto": "<p><a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa2021/asd2/esercitazione201127.pdf\" target=\"_blank\">Esercitazione</a>.</p>"
     },
     {
       "id": "14",
       "data": "23-11-2020",
-      "contenuto": "Valore atteso di una variabile aleatoria e linearit\u00e0. Esempi: Analisi di un semplice algoritmo 2-apx in valore atteso per Max-Cut. Analisi del numero atteso di confronti dell'algoritmo Random Quick Sort. ([2]: Cap. 2.5). Lavagna. Esercizi."
+      "contenuto": "<p>Valore atteso di una variabile aleatoria e linearit\u00e0. Esempi: Analisi di un semplice algoritmo <em>2-apx</em> in valore atteso per <em>Max-Cut</em>. Analisi del numero atteso di confronti dell'algoritmo <em>Random <a href=\"https://en.wikipedia.org/wiki/Quicksort\" target=\"_blank\">Quick Sort</a></em>. ([2]: Cap. 2.5). <br> <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa2021/asd2/lavagna_201123.pdf\" target=\"_blank\">Lavagna</a>. <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa2021/asd2/es12.pdf\" target=\"_blank\">Esercizi</a>.</br></p>"
     },
     {
       "id": "13",
       "data": "20-11-2020",
-      "contenuto": "Introduzione agli algoritmi probabilistici. Esempio: un algoritmo probabilistico per verificare il prodotto di matrici. Variabili aleatorie e valore atteso: la distribuzione geometrica. ([2]: Cap. 1.3, 2.4. Per un ripasso di probabilit\u00e0 dicreta si vedano, per esempio, i primi due capitoli in [2]). Lavagna. Esercizi."
+      "contenuto": "<p>Introduzione agli <a href=\"https://en.wikipedia.org/wiki/Randomized_algorithm\" target=\"_blank\">algoritmi probabilistici</a>. Esempio: un algoritmo probabilistico per verificare il prodotto di matrici. Variabili aleatorie e valore atteso: la distribuzione geometrica. ([2]: Cap. 1.3, 2.4. Per un ripasso di probabilit\u00e0 dicreta si vedano, per esempio, i primi due capitoli in [2]). <br> <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa2021/asd2/lavagna_201120.pdf\" target=\"_blank\">Lavagna</a>. <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa2021/asd2/es11.pdf\" target=\"_blank\">Esercizi</a>.</br></p>"
     },
     {
       "id": "12",
       "data": "16-11-2020",
-      "contenuto": "I problemi computazionalmente difficili come risorsa: I fondamenti della crittografia a chiave pubblica, il protocollo di Diffie-Hellman per la generazione di una chiave condivisa e il sistema di cifratura RSA. Cenni a One-time pad, cifrari a blocchi, AES. ([1]: Cap. 1.2 e 1.4).Lavagna. Esercizi."
+      "contenuto": "<p>I problemi computazionalmente difficili come risorsa: I fondamenti della crittografia a chiave pubblica, il protocollo di <a href=\"https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange\" target=\"_blank\">Diffie-Hellman</a> per la generazione di una chiave condivisa e il sistema di cifratura <a href=\"https://en.wikipedia.org/wiki/RSA_(cryptosystem)\" target=\"_blank\">RSA</a>. Cenni a <a href=\"https://en.wikipedia.org/wiki/One-time_pad\" target=\"_blank\">One-time pad</a>, <a href=\"https://en.wikipedia.org/wiki/Block_cipher\" target=\"_blank\">cifrari a blocchi</a>, <a href=\"https://en.wikipedia.org/wiki/Advanced_Encryption_Standard\" target=\"_blank\">AES</a>. ([1]: Cap. 1.2 e 1.4).<br> <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa2021/asd2/lavagna_201116.pdf\" target=\"_blank\">Lavagna</a>. <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa2021/asd2/es10.pdf\" target=\"_blank\">Esercizi</a>.</br></p>"
     },
     {
       "id": "11",
       "data": "13-11-2020",
-      "contenuto": "Euristiche di ricerca locale. Ricerca locale con fattore di approssimazione garantito. Esempio: Un algoritmo approssimante per Max-Cut. Cenni a Gradient descent e Simulated annealing. ([1]: Cap. 9.3, e [4]: Cap. 12.4).Lavagna. Esercizi."
+      "contenuto": "<p><a href=\"https://en.wikipedia.org/wiki/Heuristic_(computer_science)\" target=\"_blank\">Euristiche</a> di ricerca locale. Ricerca locale con fattore di approssimazione garantito. Esempio: Un algoritmo approssimante per <em>Max-Cut</em>. Cenni a <a href=\"https://en.wikipedia.org/wiki/Gradient_descent\" target=\"_blank\">Gradient descent</a> e <a href=\"https://en.wikipedia.org/wiki/Simulated_annealing\" target=\"_blank\">Simulated annealing</a>. ([1]: Cap. 9.3, e [4]: Cap. 12.4).<br> <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa2021/asd2/lavagna_201113.pdf\" target=\"_blank\">Lavagna</a>. <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa2021/asd2/es09.pdf\" target=\"_blank\">Esercizi</a>.</br></p>"
     },
     {
       "id": "10",
       "data": "09-11-2020",
-      "contenuto": "Esercitazione."
+      "contenuto": "<p><a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa2021/asd2/esercitazione201109.pdf\" target=\"_blank\">Esercitazione</a>.</p>"
     },
     {
       "id": "9",
       "data": "06-11-2020",
-      "contenuto": "Affrontare i problemi computazionalmente difficili: 2. Algoritmi Approssimanti. Esempio: un algoritmo 2-approssimante per il problema k-clustering. Approssimazioni arbitrariamente buone. Esempio: un FPTAS (Fully Polynomial-Time Approximation Scheme) per il problema Knapsack ([1]: Cap. 9.2, [4]: Cap. 11.8). Lavagna. Esercizi."
+      "contenuto": "<p>Affrontare i problemi computazionalmente difficili: 2. <a href=\"https://en.wikipedia.org/wiki/Approximation_algorithm\" target=\"_blank\">Algoritmi Approssimanti</a>. Esempio: un algoritmo <em>2</em>-approssimante per il problema <em>k-clustering</em>. Approssimazioni arbitrariamente buone. Esempio: un <a href=\"https://en.wikipedia.org/wiki/Polynomial-time_approximation_scheme\" target=\"_blank\">FPTAS</a> (<em>Fully Polynomial-Time Approximation Scheme</em>) per il problema <em>Knapsack</em> ([1]: Cap. 9.2, [4]: Cap. 11.8). <br> <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa2021/asd2/lavagna_201106.pdf\" target=\"_blank\">Lavagna</a>. <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa2021/asd2/es08.pdf\" target=\"_blank\">Esercizi</a>.</br></p>"
     },
     {
       "id": "8",
       "data": "02-11-2020",
-      "contenuto": "Problemi computazionalmente difficili e come affrontarli: 1. Ricerca esaustiva intelligente. Le tecniche: Backtracking e Branch-and-bound. Esempi: Un algoritmo per SAT e un algoritmo per TSP ([1]: Cap. 9.1).Lavagna. Esercizi."
+      "contenuto": "<p>Problemi computazionalmente difficili e come affrontarli: 1. Ricerca esaustiva intelligente. Le tecniche: <a href=\"https://en.wikipedia.org/wiki/Backtracking\" target=\"_blank\">Backtracking</a> e <a href=\"https://en.wikipedia.org/wiki/Branch_and_bound\" target=\"_blank\">Branch-and-bound</a>. Esempi: Un algoritmo per <em>SAT</em> e un algoritmo per <em>TSP</em> ([1]: Cap. 9.1).<br> <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa2021/asd2/lavagna_201102.pdf\" target=\"_blank\">Lavagna</a>. <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa2021/asd2/es07.pdf\" target=\"_blank\">Esercizi</a>.</br></p>"
     },
     {
       "id": "7",
       "data": "26-10-2020",
-      "contenuto": "Ottimalit\u00e0 e running time dell'algoritmo di Ford e Fulkerson. La variante con capacity scaling per rendere l'algoritmo polinomiale. ([4]: Cap. 7.2 e 7.3). Lavagna. Esercizi."
+      "contenuto": "<p>Ottimalit\u00e0 e <em>running time</em> dell'algoritmo di Ford e Fulkerson. La variante con <em>capacity scaling</em> per rendere l'algoritmo polinomiale. ([4]: Cap. 7.2 e 7.3). <br> <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa2021/asd2/lavagna_201026.pdf\" target=\"_blank\">Lavagna</a>. <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa2021/asd2/es06.pdf\" target=\"_blank\">Esercizi</a>.</br></p>"
     },
     {
       "id": "6",
       "data": "23-10-2020",
-      "contenuto": "Reti di flusso e \"grafo residuo\". L'algoritmo di Ford e Fulkerson per il problema Max-Flow: correttezza e terminazione. ([1]: Cap. 7.2. Si veda anche [4]: Cap. 7.1 e 7.2).Lavagna. Esercizi."
+      "contenuto": "<p>Reti di flusso e \"grafo residuo\". L'<a href=\"https://en.wikipedia.org/wiki/Ford%E2%80%93Fulkerson_algorithm\" target=\"_blank\">algoritmo di Ford e Fulkerson</a> per il problema <em>Max-Flow</em>: correttezza e terminazione. ([1]: Cap. 7.2. Si veda anche [4]: Cap. 7.1 e 7.2).<br> <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa2021/asd2/lavagna_201023.pdf\" target=\"_blank\">Lavagna</a>. <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa2021/asd2/es05.pdf\" target=\"_blank\">Esercizi</a>.</br></p>"
     },
     {
       "id": "5",
       "data": "19-10-2020",
-      "contenuto": "Esercitazione."
+      "contenuto": "<p><a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa2021/asd2/esercitazione201019.pdf\" target=\"_blank\">Esercitazione</a>.</p>"
     },
     {
       "id": "4",
       "data": "16-10-2020",
-      "contenuto": "La tecnica della Riduzione. Esempi: Un algoritmo lineare per 2-SAT ottenuto tramite riduzione al problema di scomporre un grafo diretto in componenti fortemente connesse e DAG delle componenti. Richiami su grafi diretti, DAGs e topological sorting. Introduzione al problema Max Flow ([1]: Esercizio 3.28 e inizio Cap. 7.2).Lavagna. Esercizi."
+      "contenuto": "<p>La tecnica della <em>Riduzione</em>. Esempi: Un algoritmo lineare per <a href=\"https://en.wikipedia.org/wiki/2-satisfiability\" target=\"_blank\">2-SAT</a> ottenuto tramite riduzione al problema di scomporre un grafo diretto in componenti fortemente connesse e <em>DAG</em> delle componenti. Richiami su grafi diretti, <em>DAGs</em> e <em>topological sorting</em>. Introduzione al problema <em><a href=\"https://en.wikipedia.org/wiki/Maximum_flow_problem\" target=\"_blank\">Max Flow</a></em> ([1]: Esercizio 3.28 e inizio Cap. 7.2).<br> <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa2021/asd2/lavagna_201016.pdf\" target=\"_blank\">Lavagna</a>. <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa2021/asd2/es04.pdf\" target=\"_blank\">Esercizi</a>.</br></p>"
     },
     {
       "id": "3",
       "data": "12-10-2020",
-      "contenuto": "La tecnica della Programmazione Dinamica. Esempi: Un algoritmo per Chain matrix multiplication e un algoritmo per Independent set su alberi. ([1]: Cap. 6.5, 6.7. Per un ripasso sulla tecnica della Programmazione Dinamica si veda il Capitolo 6 in [4]).Lavagna. Esercizi."
+      "contenuto": "<p>La tecnica della <em>Programmazione Dinamica</em>. Esempi: Un algoritmo per <em>Chain matrix multiplication</em> e un algoritmo per <em>Independent set</em> su alberi. ([1]: Cap. 6.5, 6.7. Per un ripasso sulla tecnica della Programmazione Dinamica si veda il Capitolo 6 in [4]).<br> <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa2021/asd2/lavagna_201012.pdf\" target=\"_blank\">Lavagna</a>. <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa2021/asd2/es03.pdf\" target=\"_blank\">Esercizi</a>.</br></p>"
     },
     {
       "id": "2",
       "data": "09-10-2020",
-      "contenuto": "La tecnica Divide et Impera. Esempio: l'algoritmo di Karatsuba per moltiplicare due interi. Cenni all'algoritmo di Strassen per la moltiplicazione di matrici. Richiami sulle relazioni di ricorrenza e sul Teorema Master. ([1]: Cap. 1.1, 2.1, 2.2, 2.5. Per un ripasso sulla tecnica Divide et Impera si veda il Capitolo 5 in [4]).Lavagna. Esercizi."
+      "contenuto": "<p>La tecnica <em>Divide et Impera</em>. Esempio: l'<a href=\"https://en.wikipedia.org/wiki/Karatsuba_algorithm\" target=\"_blank\">algoritmo di Karatsuba</a> per moltiplicare due interi. Cenni all'<a href=\"https://en.wikipedia.org/wiki/Strassen_algorithm\" target=\"_blank\">algoritmo di Strassen</a> per la moltiplicazione di matrici. Richiami sulle relazioni di ricorrenza e sul <a href=\"https://en.wikipedia.org/wiki/Master_theorem_(analysis_of_algorithms)\" target=\"_blank\">Teorema <em>Master</em></a>. ([1]: Cap. 1.1, 2.1, 2.2, 2.5. Per un ripasso sulla tecnica Divide et Impera si veda il Capitolo 5 in [4]).<br> <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa2021/asd2/lavagna_201009.pdf\" target=\"_blank\">Lavagna</a>. <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa2021/asd2/es02.pdf\" target=\"_blank\">Esercizi</a>.</br></p>"
     },
     {
       "id": "1",
       "data": "05-10-2020",
-      "contenuto": "Introduzione al corso, descrizione del programma di massima. La tecnica Greedy. Esempio: Un algoritmo greedy per decidere la soddisfacibilit\u00e0 delle formule di Horn ([1]: Cap. 5.3. Per un ripasso sulla tecnica greedy si veda il Capitolo 4 in [4]).Lavagna. Esercizi."
+      "contenuto": "<p>Introduzione al corso, descrizione del programma di massima. La tecnica <em>Greedy</em>. Esempio: Un algoritmo greedy per decidere la soddisfacibilit\u00e0 delle formule di Horn ([1]: Cap. 5.3. Per un ripasso sulla tecnica greedy si veda il Capitolo 4 in [4]).<br> <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa2021/asd2/lavagna_201005.pdf\" target=\"_blank\">Lavagna</a>. <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa2021/asd2/es01.pdf\" target=\"_blank\">Esercizi</a>.</br></p>"
     }
   ],
   "materiale": [
@@ -149,8 +154,8 @@
       "dimensione": "0 KB"
     }
   ],
-  "programma": "Progettare algoritmi efficienti. Riepilogo delle tecniche pi\u00f9 efficaci per progettare algoritmi efficienti: Greedy, Divide-et-Impera, Programmazione Dinamica, Riduzioni. Il problema Max-Flow e l'algoritmo di Ford e Fulkerson. Linear programming e duality.\nProblemi computazionalmente difficili. Richiami di NP-completezza da un punto di vista algoritmico. Le tecniche per affrontare i problemi computazionalmente difficili: ricerca esaustiva intelligente, algoritmi approssimanti, euristiche. I problemi computazionalmente difficili come risorsa: il protocollo di Diffie-Hellman, il sistema RSA e i fondamenti della crittografia a chiave pubblica. La matematica dietro le scene: Teoria dei numeri.\nAlgoritmi probabilistici. Il ruolo della randomness negli algoritmi. Quando scegliere a caso semplifica l'implementazione: Test di primalit\u00e0 di Miller-Rabin. Quando scegliere a caso rende gli algoritmi pi\u00f9 efficienti: Packet Routing. Quando poter scegliere a caso \u00e8 indispensabile: Protocolli interattivi e zero-knowledge proofs. Le tecniche per analizzare gli algoritmi probabilistici, la concentrazione della misura. Metodi Monte Carlo. Cenni alla classe #P. Campionamento e conteggio approssimato. Catene di Markov a stati finiti e tempo discreto. Cenni a FPRAS (Fully Polynomial-time Radomized Approximation Scheme) e ai metodi MCMC (Markov Chain Monte Carlo).\nCryptocurrencies.Le idee algoritmiche che hanno dato vita a Bitcoin. Gli ingredienti: reti Peer-to-Peer, funzioni hash crittografiche e firme digitali. La Blockchain e il problema del consenso distribuito. Transazioni, blocchi, alberi di Merkle.",
-  "testiRiferimento": "Testi di riferimento\n[1] S. Dasgupta, C. Papadimitriou, and U. Vazirani. Algorithms. McGraw-Hill, 2006. [2] M. Mitzenmacher and E. Upfal. Probability and Computing (2nd edition). Cambridge University Press, 2017.[3] A. Narayanan, J. Bonneau, E. Felten, A. Miller, and S. Goldfeder. Bitcoin and Cryptocurrency Technologies. Princeton University Press, 2016.\n\n\nTesti di supporto\n[4] J. Kleinberg and E. Tardos. Algorithm Design. Addison-Wesley, 2005.[5] T.H. Cormen, C.E. Leiserson, R.L. Rivest, C. Stein. Introduction to Algorithms. The MIT press, 2001.[6] T. Roughgarden. Algorithms Illuminated: Part 4: Algorithms for NP-Hard Problems. Soundlikeyourself Publishing LLC, 2020.",
-  "ricevimento": "Durante il periodo delle lezioni (Ottobre 2020 - Gennaio 2021):Luned\u00ec 15:30 - 17:30 oppure su appuntamento.Al di fuori del periodo delle lezioni:Su appuntamento.",
-  "modalit\u00e0Esame": "L'esame consiste in una prova scritta e in un colloquio orale. Durante il corso gli studenti potranno svolgere due test intermedi sotto forma di homework. Chi ottiene una valutazione positiva a entrambi gli homework \u00e8 esonerato dalla prova scritta."
+  "programma": "<table><tr><td><ol>\n<li><span style=\"text-decoration: underline;\">Progettare algoritmi efficienti.</span> Riepilogo delle tecniche pi\u00f9 efficaci per progettare algoritmi efficienti: <em>Greedy</em>, <em>Divide-et-Impera</em>, Programmazione Dinamica, Riduzioni. Il problema <em>Max-Flow</em> e l'algoritmo di Ford e Fulkerson. <em>Linear programming</em> e <em>duality</em>.</li>\n<li><span style=\"text-decoration: underline;\">Problemi computazionalmente difficili.</span> Richiami di <em>NP</em>-completezza da un punto di vista algoritmico. Le tecniche per affrontare i problemi computazionalmente difficili: ricerca esaustiva intelligente, algoritmi approssimanti, euristiche. I problemi computazionalmente difficili come risorsa: il protocollo di Diffie-Hellman, il sistema <em>RSA</em> e i fondamenti della crittografia a chiave pubblica. La matematica dietro le scene: Teoria dei numeri.</li>\n<li><span style=\"text-decoration: underline;\">Algoritmi probabilistici.</span> Il ruolo della <em>randomness</em> negli algoritmi. Quando scegliere a caso semplifica l'implementazione: Test di primalit\u00e0 di Miller-Rabin. Quando scegliere a caso rende gli algoritmi pi\u00f9 efficienti: <em>Packet Routing</em>. Quando poter scegliere a caso \u00e8 indispensabile: Protocolli interattivi e <em>zero-knowledge proofs</em>. Le tecniche per analizzare gli algoritmi probabilistici, la concentrazione della misura. Metodi Monte Carlo. Cenni alla classe #P. Campionamento e conteggio approssimato. Catene di Markov a stati finiti e tempo discreto. Cenni a <em>FPRAS</em> (<em>Fully Polynomial-time Radomized Approximation Scheme</em>) e ai metodi <em>MCMC</em> (<em>Markov Chain Monte Carlo</em>).</li>\n<li><span style=\"text-decoration: underline;\"><em>Cryptocurrencies</em></span>.Le idee algoritmiche che hanno dato vita a <em>Bitcoin</em>. Gli ingredienti: reti <em>Peer-to-Peer</em>, funzioni <em>hash</em> crittografiche e firme digitali. La <em>Blockchain</em> e il problema del consenso distribuito. Transazioni, blocchi, alberi di Merkle.</li>\n</ol></td></tr></table>",
+  "testiRiferimento": "<table><tr><td><p><strong>Testi di riferimento</strong></p>\n<p>[1] S. Dasgupta, C. Papadimitriou, and U. Vazirani. <em>Algorithms</em>. McGraw-Hill, 2006. <br> [2] M. Mitzenmacher and E. Upfal. <em>Probability and Computing</em> (2nd edition). Cambridge University Press, 2017.<br> [3] A. Narayanan, J. Bonneau, E. Felten, A. Miller, and S. Goldfeder. <em>Bitcoin and Cryptocurrency Technologies</em>. Princeton University Press, 2016.</br></br></p>\n<p>\u00a0</p>\n<p>\u00a0</p>\n<p><strong>Testi di supporto</strong></p>\n<p>[4] J. Kleinberg and E. Tardos. <em>Algorithm Design</em>. Addison-Wesley, 2005.<br> [5] T.H. Cormen, C.E. Leiserson, R.L. Rivest, C. Stein. <em>Introduction to Algorithms</em>. The MIT press, 2001.<br> [6] T. Roughgarden. <em>Algorithms Illuminated: Part 4: Algorithms for NP-Hard Problems</em>. Soundlikeyourself Publishing LLC, 2020.</br></br></p></td></tr></table>",
+  "ricevimento": "<table><tr><td><p>Durante il periodo delle lezioni (Ottobre 2020 - Gennaio 2021):<br>Luned\u00ec 15:30 - 17:30 oppure su appuntamento.<br><br>Al di fuori del periodo delle lezioni:<br>Su appuntamento.</br></br></br></br></p></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td><p>L'esame consiste in una prova scritta e in un colloquio orale. <br><br> Durante il corso gli studenti potranno svolgere due test intermedi sotto forma di <em>homework</em>. Chi ottiene una valutazione positiva a entrambi gli <em>homework</em> \u00e8 esonerato dalla prova scritta.</br></br></p></td></tr></table>"
 }

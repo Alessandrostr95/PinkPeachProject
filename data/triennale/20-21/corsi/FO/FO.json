@@ -1,6 +1,15 @@
 {
   "nomeCorso": "Fondamenti di informatica",
-  "docente": "Giorgio Gambosi, Miriam Di Ianni",
+  "docente": [
+    {
+      "first_name": "Giorgio",
+      "second_name": "Gambosi"
+    },
+    {
+      "first_name": "Miriam",
+      "second_name": "Di Ianni"
+    }
+  ],
   "annoAccademico": "2020-2021",
   "crediti": "12",
   "settore": "INF/01",
@@ -11,139 +20,139 @@
     {
       "titolo": "",
       "data": "24-02-2021 18:07",
-      "contenuto": "Modulo 2, link alla classe TEAMS:\nhttps://teams.microsoft.com/l/team/19%3a0b3414d9c7d8412b85094df2aba3bea5%40thread.tacv2/conversations?groupId=8c5ebc48-995b-4621-86eb-6285394d1706&tenantId=24c5be2a-d764-40c5-9975-82d08ae47d0e"
+      "contenuto": "<p>Modulo 2, link alla classe TEAMS:</p>\n<p>https://teams.microsoft.com/l/team/19%3a0b3414d9c7d8412b85094df2aba3bea5%40thread.tacv2/conversations?groupId=8c5ebc48-995b-4621-86eb-6285394d1706&amp;tenantId=24c5be2a-d764-40c5-9975-82d08ae47d0e</p><hr/>"
     },
     {
       "titolo": "Sito modulo 1",
       "data": "24-02-2021 18:06",
-      "contenuto": "Tutte le informazioni, le comunicazioni e i materiali relativi al modulo 1 del corso sono disponibili a questo indirizzo\u00a0(si suggerisce di aprire il link in un nuovo pannello o una nuova finestra)\n\nModulo 2, link alla classe TEAMS:\nhttps://teams.microsoft.com/l/team/19%3a0b3414d9c7d8412b85094df2aba3bea5%40thread.tacv2/conversations?groupId=8c5ebc48-995b-4621-86eb-6285394d1706&tenantId=24c5be2a-d764-40c5-9975-82d08ae47d0e"
+      "contenuto": "<p>Tutte le informazioni, le comunicazioni e i materiali relativi al modulo 1 del corso sono disponibili a <a href=\"https://tvml.github.io/fo2021\"> questo indirizzo</a>\u00a0(si suggerisce di aprire il link in un nuovo pannello o una nuova finestra)</p>\n<p>\u00a0</p>\n<p>Modulo 2, link alla classe TEAMS:</p>\n<p>https://teams.microsoft.com/l/team/19%3a0b3414d9c7d8412b85094df2aba3bea5%40thread.tacv2/conversations?groupId=8c5ebc48-995b-4621-86eb-6285394d1706&amp;tenantId=24c5be2a-d764-40c5-9975-82d08ae47d0e</p>"
     }
   ],
   "lezioni": [
     {
       "id": "25",
       "data": "01-06-2021",
-      "contenuto": "Modulo 2. Lezione aperta alle domande degli studenti"
+      "contenuto": "<p>Modulo 2. Lezione aperta alle domande degli studenti</p>"
     },
     {
       "id": "24",
       "data": "28-05-2021",
-      "contenuto": "Modulo 2. Il ruolo delle costanti nella complessit\u00e0 dei problemi. Il problema Partizione e i problemi numerici: algoritmi pseudo-polinomiali e NP-completezza in senso debole. NP-completezza in senso forte e il problema TSP. Esercitazione"
+      "contenuto": "<p>Modulo 2. Il ruolo delle costanti nella complessit\u00e0 dei problemi. Il problema Partizione e i problemi numerici: algoritmi pseudo-polinomiali e NP-completezza in senso debole. NP-completezza in senso forte e il problema TSP. Esercitazione</p>"
     },
     {
       "id": "23",
       "data": "26-05-2021",
-      "contenuto": "Modulo 2. Esercitazione sulle dimostrazioni di NP-completezza: dal problema Ciclo Hamiltoniano ai problemi Percorso Hamiltoniamo, Long Path e Commesso Viaggiatore; dal problema 3-colorabilit\u00e0 ai problemi k-colorabilit\u00e0 (con k costante) e colorabilit\u00e0"
+      "contenuto": "<p>Modulo 2. Esercitazione sulle dimostrazioni di NP-completezza: dal problema Ciclo Hamiltoniano ai problemi Percorso Hamiltoniamo, Long Path e Commesso Viaggiatore; dal problema 3-colorabilit\u00e0 ai problemi k-colorabilit\u00e0 (con k costante) e colorabilit\u00e0</p>"
     },
     {
       "id": "22",
       "data": "25-05-2021",
-      "contenuto": "Modulo 2. Esercitazione sulle dimostrazioni di NP-completezza: i problemi Vertex Cover, Independent Set, Clique, Dominating set"
+      "contenuto": "<p>Modulo 2. Esercitazione sulle dimostrazioni di NP-completezza: i problemi Vertex Cover, Independent Set, Clique, Dominating set</p>"
     },
     {
       "id": "21",
       "data": "19-05-2021",
-      "contenuto": "Modulo 2. Il ruolo del teorema di Cook-Levin nella congettura fondamentale della Teoria della Complessit\u00e0 Computazionale. Dimostrazioni di NP-completezza. Esercizio: NP-completezza di 3SAT. Teorema di Ladner (solo enunciato) e struttura di NP. Struttura di NP e coNP"
+      "contenuto": "<p>Modulo 2. Il ruolo del teorema di Cook-Levin nella congettura fondamentale della Teoria della Complessit\u00e0 Computazionale. Dimostrazioni di NP-completezza. Esercizio: NP-completezza di 3SAT. Teorema di Ladner (solo enunciato) e struttura di NP. Struttura di NP e coNP</p>"
     },
     {
       "id": "20",
       "data": "18-05-2021",
-      "contenuto": "Modulo 2. Il teorema di Cook-Levin"
+      "contenuto": "<p>Modulo 2. Il teorema di Cook-Levin</p>"
     },
     {
       "id": "19",
       "data": "12-05-2021",
-      "contenuto": "Modulo 2. Caratterizzazione alternativa della classe NP."
+      "contenuto": "<p>Modulo 2. Caratterizzazione alternativa della classe NP.</p>"
     },
     {
       "id": "18",
       "data": "11-05-2021",
-      "contenuto": "Modulo 2. Introduzione alla classe NP: algortmi non deterministici; esempi di problemi in NP e algoritmi non deterministici che li decidono (in tempo polinomiale): 3SAT, CLIQUE, LONG PATH."
+      "contenuto": "<p>Modulo 2. Introduzione alla classe NP: algortmi non deterministici; esempi di problemi in NP e algoritmi non deterministici che li decidono (in tempo polinomiale): 3SAT, CLIQUE, LONG PATH.</p>"
     },
     {
       "id": "17",
       "data": "05-05-2021",
-      "contenuto": "Modulo 2. Dalla complessit\u00e0 di linguaggi alla complessit\u00e0 di problemi di decisione: linguaggio associato a un problema decisionale, linguaggio delle istanze, linguaggio complemento e linguaggio associato al problema complemento. Relazione fra complessit\u00e0 del linguaggio associato a un problema e complessit\u00e0 del linguaggio delle istanze"
+      "contenuto": "<p>Modulo 2. Dalla complessit\u00e0 di linguaggi alla complessit\u00e0 di problemi di decisione: linguaggio associato a un problema decisionale, linguaggio delle istanze, linguaggio complemento e linguaggio associato al problema complemento. Relazione fra complessit\u00e0 del linguaggio associato a un problema e complessit\u00e0 del linguaggio delle istanze</p>"
     },
     {
       "id": "16",
       "data": "04-05-2021",
-      "contenuto": "Modulo 2. Problemi: istanze, soluzioni possibili, soluzioni effettive. Tipi di problemi: ricerca, enumerazione, ottimizzazione, decisione. Formalizzazione di problemi di decisione. Codifica dell'insieme delle istanze: codifiche ragionevoli e irragionevoli."
+      "contenuto": "<p>Modulo 2. Problemi: istanze, soluzioni possibili, soluzioni effettive. Tipi di problemi: ricerca, enumerazione, ottimizzazione, decisione. Formalizzazione di problemi di decisione. Codifica dell'insieme delle istanze: codifiche ragionevoli e irragionevoli.</p>"
     },
     {
       "id": "15",
       "data": "30-04-2021",
-      "contenuto": "Modulo 2. Classi complemento: coP, coNP, coPSPACE, coEXPTIME, coNEXPTIME. Equivalenza delle classi deterministiche con le corrispondenti classi complemento. La classe coNP e la seconda Congettura della Teoria della Complessit\u00e0 Computazionale. Chiusura di coNP rispetto alla riducibilit\u00e0 polinomiale. Linguaggi coNP-completi."
+      "contenuto": "<p>Modulo 2. Classi complemento: coP, coNP, coPSPACE, coEXPTIME, coNEXPTIME. Equivalenza delle classi deterministiche con le corrispondenti classi complemento. La classe coNP e la seconda Congettura della Teoria della Complessit\u00e0 Computazionale. Chiusura di coNP rispetto alla riducibilit\u00e0 polinomiale. Linguaggi coNP-completi.</p>"
     },
     {
       "id": "14",
       "data": "28-04-2021",
-      "contenuto": "Modulo 2. Riducibilit\u00e0 polinomiale. Chiusura di una classe rispetto a una riducibilit\u00e0. Completezza di un problema per una classe rispetto a una riducibilit\u00e0. Problemi NP-completi. Congettura fondamentale della Teoria della Complessit\u00e0 Computazionale."
+      "contenuto": "<p>Modulo 2. Riducibilit\u00e0 polinomiale. Chiusura di una classe rispetto a una riducibilit\u00e0. Completezza di un problema per una classe rispetto a una riducibilit\u00e0. Problemi NP-completi. Congettura fondamentale della Teoria della Complessit\u00e0 Computazionale.</p>"
     },
     {
       "id": "13",
       "data": "21-04-2021",
-      "contenuto": "Modulo 2. Le classi P, NP, PSPACE, NPSPACE, EXPTIME, NEXPTIME e relazioni di inclusione (improprie). P contenuto strettamente in EXPTIME (con dimostrazione). PSPACE = NPSPACE (solo enunciato)."
+      "contenuto": "<p>Modulo 2. Le classi P, NP, PSPACE, NPSPACE, EXPTIME, NEXPTIME e relazioni di inclusione (improprie). P contenuto strettamente in EXPTIME (con dimostrazione). PSPACE = NPSPACE (solo enunciato).</p>"
     },
     {
       "id": "12",
       "data": "20-04-2021",
-      "contenuto": "Modulo 2. Funzioni time-constructible e space-constructible. Teoremi di gerarchia. Delimitazione temporale alla decisione di linguaggi appartenenti a NTIME[f(n)] quando f \u00e8 una funzione time-constructible. Inclusione di NTIME[f(n)] in DTIME[2^{O(f(n))}] quando f \u00e8 una funzione time-constructible."
+      "contenuto": "<p>Modulo 2. Funzioni time-constructible e space-constructible. Teoremi di gerarchia. Delimitazione temporale alla decisione di linguaggi appartenenti a NTIME[f(n)] quando f \u00e8 una funzione time-constructible. Inclusione di NTIME[f(n)] in DTIME[2^{O(f(n))}] quando f \u00e8 una funzione time-constructible.</p>"
     },
     {
       "id": "11",
       "data": "14-04-2021",
-      "contenuto": "Modulo 2. Classi di complessit\u00e0: DTIME[f(n)], DSPACE[f(n)], NTIME[f(n)], NSPACE[f(n)] e loro complementi. Relazioni fra classi deterministiche e relazioni fra classi non determistiche. Inclusione delle classi deterministiche nelle corrispondenti classi non deterministiche. Ruolo della funzione limite e Gap Theorem (solo enunciato)."
+      "contenuto": "<p>Modulo 2. Classi di complessit\u00e0: DTIME[f(n)], DSPACE[f(n)], NTIME[f(n)], NSPACE[f(n)] e loro complementi. Relazioni fra classi deterministiche e relazioni fra classi non determistiche. Inclusione delle classi deterministiche nelle corrispondenti classi non deterministiche. Ruolo della funzione limite e Gap Theorem (solo enunciato).</p>"
     },
     {
       "id": "10",
       "data": "07-04-2021",
-      "contenuto": "Modulo 2. Misure di complessit\u00e0: assiomi di Blum, funzioni dtime, dspace, ntime e nspace. Relazioni fra spazio e tempo deterministici e fra spazio e tempo non deterministici. Decidibilit\u00e0 dei linguaggi accettati in tempo/spazio non deterministico. Correlazione polinomiale dei modelli di calcolo."
+      "contenuto": "<p>Modulo 2. Misure di complessit\u00e0: assiomi di Blum, funzioni dtime, dspace, ntime e nspace. Relazioni fra spazio e tempo deterministici e fra spazio e tempo non deterministici. Decidibilit\u00e0 dei linguaggi accettati in tempo/spazio non deterministico. Correlazione polinomiale dei modelli di calcolo.</p>"
     },
     {
       "id": "9",
       "data": "06-04-2021",
-      "contenuto": "Modulo 2. Riduzioni many-to-one fra linguaggi: definizioni e ruolo della riducibilit\u00e0 ai fini della dimostrazione della decidibilit\u00e0/accettabilit\u00e0 o della non decidibilit\u00e0/non accettabilit\u00e0 dei linguaggi. Introduzione alla teoria della Complessit\u00e0 Computazionale"
+      "contenuto": "<p>Modulo 2. Riduzioni many-to-one fra linguaggi: definizioni e ruolo della riducibilit\u00e0 ai fini della dimostrazione della decidibilit\u00e0/accettabilit\u00e0 o della non decidibilit\u00e0/non accettabilit\u00e0 dei linguaggi. Introduzione alla teoria della Complessit\u00e0 Computazionale</p>"
     },
     {
       "id": "8",
       "data": "31-03-2021",
-      "contenuto": "Modulo 2. L'Halting Problem: accettabilit\u00e0 e indecidibilit\u00e0."
+      "contenuto": "<p>Modulo 2. L'Halting Problem: accettabilit\u00e0 e indecidibilit\u00e0.</p>"
     },
     {
       "id": "7",
       "data": "30-03-2021",
-      "contenuto": "Modulo 2. Modelli di calcolo e la tesi di Church-Turing. Il linguaggio PascalMinimo e sua equivalenza con la Macchina di Turing. Un programma in PascalMinimo che simula la macchina di Turing Universale ed uno che simula una macchina non deterministica."
+      "contenuto": "<p>Modulo 2. Modelli di calcolo e la tesi di Church-Turing. Il linguaggio PascalMinimo e sua equivalenza con la Macchina di Turing. Un programma in PascalMinimo che simula la macchina di Turing Universale ed uno che simula una macchina non deterministica.</p>"
     },
     {
       "id": "6",
       "data": "24-03-2021",
-      "contenuto": "Modulo 2. Linguaggi, linguaggi accettabili, linguaggi decidibili. Funzioni, funzioni totali, funzioni calcolabili. Relazione fra accettabilit\u00e0/decidibilit\u00e0 di linguaggi e calcolabilit\u00e0 di funzioni."
+      "contenuto": "<p>Modulo 2. Linguaggi, linguaggi accettabili, linguaggi decidibili. Funzioni, funzioni totali, funzioni calcolabili. Relazione fra accettabilit\u00e0/decidibilit\u00e0 di linguaggi e calcolabilit\u00e0 di funzioni.</p>"
     },
     {
       "id": "5",
       "data": "23-03-2021",
-      "contenuto": "Modulo 2. La macchina di Turing universale."
+      "contenuto": "<p>Modulo 2. La macchina di Turing universale.</p>"
     },
     {
       "id": "4",
       "data": "17-03-2021",
-      "contenuto": "Modulo 2. Struttura dell'insieme delle quintuple. Insieme non totale. Macchine deterministiche e non deterministiche. Interpretazione del non determinismo. Equivalenza dei modelli deterministico e non deterministico."
+      "contenuto": "<p>Modulo 2. Struttura dell'insieme delle quintuple. Insieme non totale. Macchine deterministiche e non deterministiche. Interpretazione del non determinismo. Equivalenza dei modelli deterministico e non deterministico.</p>"
     },
     {
       "id": "3",
       "data": "16-03-2021",
-      "contenuto": "Modulo 2. Modelli di macchine di Turing: ad un nastro, a k nastri a testine indipendenti, a k nastri a testine solidali, operanti su alfabeto generico o binario. Equivalenza dei modelli introdotti."
+      "contenuto": "<p>Modulo 2. Modelli di macchine di Turing: ad un nastro, a k nastri a testine indipendenti, a k nastri a testine solidali, operanti su alfabeto generico o binario. Equivalenza dei modelli introdotti.</p>"
     },
     {
       "id": "2",
       "data": "10-03-2021",
-      "contenuto": "Modulo 2. Definizione formale di macchina di Turing. Esempi di macchine di Turing. Alfabeti e parole. Stati globali, transizioni, computazioni (deterministiche) di macchine di Turing. Macchine di tipo trasduttore e riconoscitore."
+      "contenuto": "<p>Modulo 2. Definizione formale di macchina di Turing. Esempi di macchine di Turing. Alfabeti e parole. Stati globali, transizioni, computazioni (deterministiche) di macchine di Turing. Macchine di tipo trasduttore e riconoscitore.</p>"
     },
     {
       "id": "1",
       "data": "09-03-2021",
-      "contenuto": "Modulo 2. Introduzione al corso: problemi istanze, procedimenti risolutivi. Analisi di Turing del processo di calcolo. Introduzione informale alla Macchina di Turing: una macchina a tre nastri per eseguire la somma di due numeri naturali."
+      "contenuto": "<p>Modulo 2. Introduzione al corso: problemi istanze, procedimenti risolutivi. Analisi di Turing del processo di calcolo. Introduzione informale alla Macchina di Turing: una macchina a tre nastri per eseguire la somma di due numeri naturali.</p>"
     }
   ],
   "materiale": [
@@ -232,8 +241,8 @@
       "dimensione": "165 KB"
     }
   ],
-  "programma": "Secondo modulo\n\nParte 1, calcolabilit\u00e0:\n\n- Ancora sulle Macchine di Turing: trasduttori e riconoscitori, Macchine ad un nastro e a k nastri, Macchine\u00a0 deterministiche e non deterministiche. Macchina di Turing universale.\u00a0- Linguaggi e funzioni. Linguaggi e linguaggi complemento. Accettabilit\u00e0 e decidibilit\u00e0 di linguaggi. Calcolabilit\u00e0 di funzioni. La tesi di Church-Turing e modello di calcolo equivalenti alla macchina di Turing.\n\n- Cardinalit\u00e0 di insiemi. Insiemi numerabili e non numerabili. Diagonalizzazione.- Linguaggi non decidibili.\n\n- Riducibilit\u00e0 tra linguaggi\n\nParte 2, complessit\u00e0:\n\n- Misure di complessit\u00e0: DTIME, DSPACE, NTIME, NSPACE.\u00a0- Classi di linguaggi. Gap theorem e funzioni time-constructible.\u00a0Teoremi di compressione e di accelerazione.\u00a0Definizione delle classi di complessit\u00e0 spaziale e temporale: P, NP, PSPACE, NPSPACE, EXP, coNP. Inclusione, inclusione propria, coincidenza. Completezza.\n\n- Problemi e codifiche. Problemi decisionali e loro complemento.\u00a0- La classe P. Riducibilit\u00e0 polinomiale e chiusura di P rispetto alla riducibilit\u00e0 polinomiale. Problemi in P: 2-SAT, 2-COLORABILITA'. Funzioni in FP: trasformazione di una funzione booleana in forma congiuntiva normale.\u00a0- La classe NP. Linguaggi NP-completi e Teorema di Cook. Chiusura rispetto alla riduzione polinomiale. Esempi di dimostrazioni di NP-completezza: 3-SAT, Vertex Cover, 3-Colorability, Colorability, Independent Set, Clique, Hamiltonian Circuit/Path, Longest Path, Commesso Viaggiatore. Problemi NP-intermedi: il teorema di Ladner.\n- Algoritmi pseudo-polinomiali, problemi numerici e NP-completezza in senso forte; il problema PARTIZIONE.",
-  "testiRiferimento": "Modulo 2\n\nDispense a cura del docente, disponibili in questa pagina e lucidi delle lezioni disponibili sulla piattaforma TEAMS (materiale sufficiente ai fini della preparazione all'esame).\nPer consultazione, gli studenti possono far riferimento a: G. Ausiello, F. D'Amore, G. Gambosi, L. Laura \"Linguaggi, Modelli, Complessit\u00e0\" nuova edizione. Franco Angeli, 2014. ISBN 978-88-917-0553-2.\nPer gli studenti interessati a un'introduzione informale e divulgativa agli argomenti del corso: M. Di Ianni \"Il sentiero dei problemi impossibili\". Franco Angeli, 2020. ISBN: 978-88-351-0611-1.",
-  "ricevimento": "Modulo 2: da richiedere a mezzo posta elettronica.",
-  "modalit\u00e0Esame": "Per partecipare ad una seduta di esame del modulo 2 \u00e8 necessario:\n\n1) iscriversi alla classe Teamd dedicata agli appelli del modulo 2 al link\nhttps://teams.microsoft.com/l/team/19%3aS10v2xQJok9KEEUyI5095KT_jvVzLe79Xk9rJF0tvNM1%40thread.tacv2/conversations?groupId=0883ce68-645d-4c7c-ad91-5d676d0394de&tenantId=24c5be2a-d764-40c5-9975-82d08ae47d0e\n(si consiglia agli studenti di farlo appena letta la presente comunicazione)\n\n2) iscriversi sul portale delphi all'esame di Fondamenti di Informatica\n\n3) riempire il modulo relativo all'appello presente nella classe Teams Esami Fondamenti di Informatica - modulo 2.\n\nLa non osservanza di uno o pi\u00f9 dei punti sopra indicati comporta la non ammissione alle prove dell'appello.\n\nModalit\u00e0 di esame.\nCiascun appello di esame consiste in un pre-test e di una prova orale.\n\nIl pre-test, che consiste in un test a risposte multiple, \u00e8 volto a verificare le conoscenze di base del candidato al fine di ammetterlo o meno a sostenere la prova orale. Esso non ha acluna influenza sul voto finale. Il pre-test viene erogato in modalit\u00e0 telematica: il giorno fissato per la prova scritta dell'appello, all'ora indicata (solitamente, le 10 del mattino) lo studente si collega alla classe Teams Esami Fondamenti di Informatica - modulo 2: viene svolto appello e verifica dei documenti da parte del docente e viene erogato il pre-test. Al termine del pre-test viene fissato il calendario delle prove orali.\n\nLe prove orali possono essere svolte in presenza (in accordo alle normative vigenti alla data dell'appello) o in modalit\u00e0 telematica (sempre su Teams, alla classe Esami Fondamenti di Informatica - modulo 2) secondo le preferenze che lo studente avr\u00e0 indicato nel modulo di cui al punto 3. Nessuna giustificazione \u00e8 richiesta dal docente circa la preferenza di sostenere la prova orale in modalit\u00e0 telematica. Gli studenti che decidono di sostenere la prova orale in modalit\u00e0 telematica possono decidere se sostenerla: lo stesso giorno della prova scritta, oppure in uno dei giorni compresi fra la data della prova scritta e la data della prova orale (secondo le indicazioni del del docente), oppure al termine delle prove orali in presenza (sempre concordando la data con il docente)."
+  "programma": "<table><tr><td><p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"><span style=\"text-decoration: underline;\"><strong>Secondo modulo</strong></span></p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"><strong>Parte 1, calcolabilit\u00e0:</strong></p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Ancora sulle Macchine di Turing: trasduttori e riconoscitori, Macchine ad un nastro e a k nastri, Macchine\u00a0 deterministiche e non deterministiche. Macchina di Turing universale.\u00a0<br>- Linguaggi e funzioni. Linguaggi e linguaggi complemento. Accettabilit\u00e0 e decidibilit\u00e0 di linguaggi. Calcolabilit\u00e0 di funzioni. La tesi di Church-Turing e modello di calcolo equivalenti alla macchina di Turing.</br></p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Cardinalit\u00e0 di insiemi. Insiemi numerabili e non numerabili. Diagonalizzazione.<br>- Linguaggi non decidibili.\u00a0</br></p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Riducibilit\u00e0 tra linguaggi</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"><strong>Parte 2, complessit\u00e0:</strong></p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Misure di complessit\u00e0: DTIME, DSPACE, NTIME, NSPACE.\u00a0<br>- Classi di linguaggi. Gap theorem e funzioni time-constructible.\u00a0Teoremi di compressione e di accelerazione.\u00a0Definizione delle classi di complessit\u00e0 spaziale e temporale: P, NP, PSPACE, NPSPACE, EXP, coNP. Inclusione, inclusione propria, coincidenza. Completezza.</br></p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Problemi e codifiche. Problemi decisionali e loro complemento.\u00a0<br>- La classe P. Riducibilit\u00e0 polinomiale e chiusura di P rispetto alla riducibilit\u00e0 polinomiale. Problemi in P: 2-SAT, 2-COLORABILITA'. Funzioni in FP: trasformazione di una funzione booleana in forma congiuntiva normale.\u00a0<br>- La classe NP. Linguaggi NP-completi e Teorema di Cook. Chiusura rispetto alla riduzione polinomiale. Esempi di dimostrazioni di NP-completezza: 3-SAT, Vertex Cover, 3-Colorability, Colorability, Independent Set, Clique, Hamiltonian Circuit/Path, Longest Path, Commesso Viaggiatore. Problemi NP-intermedi: il teorema di Ladner.</br></br></p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Algoritmi pseudo-polinomiali, problemi numerici e NP-completezza in senso forte; il problema PARTIZIONE.</p>\n<p>\u00a0</p></td></tr></table>",
+  "testiRiferimento": "<table><tr><td><p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"><strong>Modulo 2</strong></p>\n<p>\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Dispense a cura del docente, disponibili in questa pagina e lucidi delle lezioni disponibili sulla piattaforma TEAMS (materiale sufficiente ai fini della preparazione all'esame).</p>\n<p>Per consultazione, gli studenti possono far riferimento a: G. Ausiello, F. D'Amore, G. Gambosi, L. Laura \"Linguaggi, Modelli, Complessit\u00e0\" nuova edizione. Franco Angeli, 2014. ISBN 978-88-917-0553-2.</p>\n<p>Per gli studenti interessati a un'introduzione informale e divulgativa agli argomenti del corso: M. Di Ianni \"Il sentiero dei problemi impossibili\". Franco Angeli, 2020. ISBN: 978-88-351-0611-1.</p></td></tr></table>",
+  "ricevimento": "<table><tr><td><p>Modulo 2: da richiedere a mezzo posta elettronica.</p>\n<p>\u00a0</p></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td><p>Per partecipare ad una seduta di esame del <strong>modulo 2</strong> \u00e8 necessario:</p>\n<p>\u00a0</p>\n<p><span style=\"background-color: #ffff00;\"><strong>1) iscriversi alla classe Teamd dedicata agli appelli del modulo 2 al link</strong></span></p>\n<p><span style=\"background-color: #ffff00;\"><strong>https://teams.microsoft.com/l/team/19%3aS10v2xQJok9KEEUyI5095KT_jvVzLe79Xk9rJF0tvNM1%40thread.tacv2/conversations?groupId=0883ce68-645d-4c7c-ad91-5d676d0394de&amp;tenantId=24c5be2a-d764-40c5-9975-82d08ae47d0e</strong></span></p>\n<p>(si consiglia agli studenti di farlo appena letta la presente comunicazione)</p>\n<p>\u00a0</p>\n<p>2) iscriversi sul portale delphi all'esame di Fondamenti di Informatica</p>\n<p>\u00a0</p>\n<p>3) riempire il modulo relativo all'appello presente nella classe Teams <strong>Esami Fondamenti di Informatica - modulo 2.</strong></p>\n<p>\u00a0</p>\n<p><span style=\"text-decoration: underline;\"><strong>La non osservanza di uno o pi\u00f9 dei punti sopra indicati comporta la non ammissione alle prove dell'appello.</strong></span></p>\n<p>\u00a0</p>\n<p><strong>Modalit\u00e0 di esame.</strong></p>\n<p>Ciascun appello di esame consiste in un pre-test e di una prova orale.</p>\n<p>\u00a0</p>\n<p>Il pre-test, che consiste in un test a risposte multiple, \u00e8 volto a verificare le conoscenze di base del candidato al fine di ammetterlo o meno a sostenere la prova orale. Esso non ha acluna influenza sul voto finale. Il pre-test viene erogato in modalit\u00e0 telematica: il giorno fissato per la prova scritta dell'appello, all'ora indicata (solitamente, le 10 del mattino) lo studente si collega alla classe Teams <strong>Esami Fondamenti di Informatica - modulo 2</strong>: viene svolto appello e verifica dei documenti da parte del docente e viene erogato il pre-test. Al termine del pre-test viene fissato il calendario delle prove orali.</p>\n<p>\u00a0</p>\n<p>Le prove orali possono essere svolte in presenza (in accordo alle normative vigenti alla data dell'appello) o in modalit\u00e0 telematica (sempre su Teams, alla classe <strong>Esami Fondamenti di Informatica - modulo 2</strong>) secondo le preferenze che lo studente avr\u00e0 indicato nel modulo di cui al punto 3. Nessuna giustificazione \u00e8 richiesta dal docente circa la preferenza di sostenere la prova orale in modalit\u00e0 telematica. Gli studenti che decidono di sostenere la prova orale in modalit\u00e0 telematica possono decidere se sostenerla: lo stesso giorno della prova scritta, oppure in uno dei giorni compresi fra la data della prova scritta e la data della prova orale (secondo le indicazioni del del docente), oppure al termine delle prove orali in presenza (sempre concordando la data con il docente).</p></td></tr></table>"
 }
