@@ -87,7 +87,6 @@
     <!-- MAIN -->
     <main class="mt-5">
       <div class="row">
-
         <!-- INFO -->
         <div
           id="INFO"
@@ -100,27 +99,31 @@
 
           <div class="accordion m-0" id="accordionPanelsStayOpenExample">
             <div class="accordion-item">
-              <h2 class="accordion-header" id="panelsStayOpen-headingTwo">
+              <h2 class="accordion-header" id="btn-panel-info">
                 <button
-                  class="accordion-button collapsed"
+                  class="accordion-button"
                   type="button"
                   data-bs-toggle="collapse"
-                  data-bs-target="#panelsStayOpen-collapseTwo"
-                  aria-expanded="false"
-                  aria-controls="panelsStayOpen-collapseTwo"
+                  data-bs-target="#panel-info"
+                  aria-expanded="true"
+                  aria-controls="panel-info"
                 >
                   <strong>INFO</strong>
                 </button>
               </h2>
               <div
-                id="panelsStayOpen-collapseTwo"
-                class="accordion-collapse collapse"
-                aria-labelledby="panelsStayOpen-headingTwo"
+                id="panel-info"
+                class="accordion-collapse collapse show"
+                aria-labelledby="btn-panel-info"
               >
                 <div class="accordion-body">
                   <dl>
                     <dt>Docente</dt>
-                    <dd><a href="./docenti.html#simonetta-alessandro">Alessandro Simonetta</a></dd>
+                    <dd>
+                      <a href="./docenti.html#simonetta-alessandro"
+                        >Alessandro Simonetta</a
+                      >
+                    </dd>
 
                     <dt>A.A.</dt>
                     <dd>2020-2021</dd>
@@ -149,365 +152,406 @@
           </div>
         </div>
 
-        <!-- BUTTONS -->
-        <ul
-          class="
-            nav nav-pills nav-justified
-            flex-row flex-sm-column
-            col-12 col-sm-4 col-lg-2
-            order-2 order-sm-1 order-lg-2
-          "
-          id="pills-tab"
-          role="tablist"
-        >
-          <li class="nav-item" role="presentation">
-            <button
-              class="nav-link flex-sm-fill text-sm-center active"
-              id="btn-comunicazioni"
-              data-bs-toggle="pill"
-              data-bs-target="#comunicazioni"
-              type="button"
-              role="tab"
-              aria-controls="comunicazioni"
-              aria-selected="true"
-            >
-              Comunicazioni
-            </button>
-          </li>
-          <li class="nav-item" role="presentation">
-            <button
-              class="nav-link flex-sm-fill text-sm-center"
-              id="btn-lezioni"
-              data-bs-toggle="pill"
-              data-bs-target="#lezioni"
-              type="button"
-              role="tab"
-              aria-controls="lezioni"
-              aria-selected="false"
-            >
-              Lezioni
-            </button>
-          </li>
-          <li class="nav-item" role="presentation">
-            <button
-              class="nav-link flex-sm-fill text-sm-center"
-              id="btn-materiale"
-              data-bs-toggle="pill"
-              data-bs-target="#materiale"
-              type="button"
-              role="tab"
-              aria-controls="materiale"
-              aria-selected="false"
-            >
-              Materiale
-            </button>
-          </li>
-          <li class="nav-item" role="presentation">
-            <button
-              class="nav-link flex-sm-fill text-sm-center"
-              id="btn-programma"
-              data-bs-toggle="pill"
-              data-bs-target="#programma"
-              type="button"
-              role="tab"
-              aria-controls="programma"
-              aria-selected="false"
-            >
-              Programma
-            </button>
-          </li>
-        </ul>
-
-        <!-- CONTENTS -->
-        <div
-          class="
-            tab-content
-            col-12 col-sm-8 col-lg-7
-            order-1 order-sm-2 order-lg-1
-            border
-            p-0
-          "
-          id="pills-tabContent"
-        >
-          <!-- SEZIONE COMUNICAZIONI -->
-          <div
-            class="tab-pane fade show active"
-            id="comunicazioni"
-            role="tabpanel"
-            aria-labelledby="btn-comunicazioni"
+        <div class="row col-12 col-lg-9 p-0 m-0">
+          <!-- BUTTONS -->
+          <ul
+            class="
+              nav nav-pills nav-justified
+              flex-row flex-sm-column flex-lg-row
+              col-12 col-sm-4 col-lg-12
+              order-last order-sm-first
+              p-0
+              m-0
+            "
+            id="pills-tab"
+            role="tablist"
           >
-            <p class="text-center m-2">
-              <span class="auto-write-text h4">> Comunicazioni</span>
-            </p>
+            <li class="nav-item" role="presentation">
+              <button
+                class="nav-link flex-sm-fill text-sm-center active"
+                id="btn-comunicazioni"
+                data-bs-toggle="pill"
+                data-bs-target="#comunicazioni"
+                type="button"
+                role="tab"
+                aria-controls="comunicazioni"
+                aria-selected="true"
+              >
+                Comunicazioni
+              </button>
+            </li>
+            <li class="nav-item" role="presentation">
+              <button
+                class="nav-link flex-sm-fill text-sm-center"
+                id="btn-lezioni"
+                data-bs-toggle="pill"
+                data-bs-target="#lezioni"
+                type="button"
+                role="tab"
+                aria-controls="lezioni"
+                aria-selected="false"
+              >
+                Lezioni
+              </button>
+            </li>
+            <li class="nav-item" role="presentation">
+              <button
+                class="nav-link flex-sm-fill text-sm-center"
+                id="btn-materiale"
+                data-bs-toggle="pill"
+                data-bs-target="#materiale"
+                type="button"
+                role="tab"
+                aria-controls="materiale"
+                aria-selected="false"
+              >
+                Materiale
+              </button>
+            </li>
+            <li class="nav-item" role="presentation">
+              <button
+                class="nav-link flex-sm-fill text-sm-center"
+                id="btn-programma"
+                data-bs-toggle="pill"
+                data-bs-target="#programma"
+                type="button"
+                role="tab"
+                aria-controls="programma"
+                aria-selected="false"
+              >
+                Programma
+              </button>
+            </li>
+            <li class="nav-item" role="presentation">
+              <button
+                class="nav-link flex-sm-fill text-sm-center"
+                id="btn-testi"
+                data-bs-toggle="pill"
+                data-bs-target="#testi"
+                type="button"
+                role="tab"
+                aria-controls="testi"
+                aria-selected="true"
+              >
+                Testi
+              </button>
+            </li>
+          </ul>
 
-            <ul class="list-group list-group-flush">
-              <li class="list-group-item">
-                <div class="text-center">
-                  <div class="fw-bold">* ** LIBRO DISPONIBILE ** *</div>
-                  <div class="badge bg-primary text-wrap">19-02-2021 11:38</div>
-                </div>
-                <p class="justify text-break mt-2">
-                  Presso la Libreria Universitalia \u00e8 disponibile il
-                  libro\ndi esercitazione per l'esame di Architettura dei
-                  Sistemi di Elaborazione: \"Introduzione alla programmazione su
-                  ARM\"\n\nIl prezzo per i miei studenti \u00e8 di 10 euro se
-                  acquistato presso la libreria, mentre se spedito 15 euro
-                  inserendo il codice coupon ARM2020.\n\nAttenzione se non si
-                  inserisce il codice di sconto lo si acquista a prezzo pieno
-                  (15+5 euro).\n\nIl testo pu\u00f2 essere acquistato con 18App
-                  ma il costo in questo caso \u00e8 il prezzo di copertina (15
-                  euro).\n\nhttps://www.universitaliasrl.it/editore-universitalia/2492-introduzione-alla-programmazione-su-arm-9788832934267.html\n\n\nUniversitalia\nVia
-                  di Passo Lombardo, 421 - 00133 Roma\nlun - ven9-18,30orario
-                  continuato\nsab9 - 12-30\nTel. 06 20.26.342
-                </p>
-              </li>
-
-              <li class="list-group-item">
-                <div class="text-center">
-                  <div class="fw-bold">APPELLO 22 FEB</div>
-                  <div class="badge bg-primary text-wrap">19-02-2021 09:36</div>
-                </div>
-                <p class="justify text-break mt-2">
-                  Si comunica agli studenti che l'appello si svolger\u00e0 alle
-                  ore 16:30 quindi \u00e8 imporntate essere presenti in aula
-                  virtuale almeno alle 16:15.\nRicordo la disponibilit\u00e0 di
-                  una postazione di lavoro isolata e con luminosit\u00e0
-                  adeguata al riconoscimento dello studente.\nDurante la fase di
-                  riconoscimento \u00e8 necessario disporre del libretto
-                  universitario.\nL'orale avver\u00e0 alla conclusione dello
-                  scritto.
-                </p>
-              </li>
-
-              <li class="list-group-item">
-                <div class="text-center">
-                  <div class="fw-bold">
-                    ***** A V V I S O ***** I M P O R T A N T E *******
-                  </div>
-                  <div class="badge bg-primary text-wrap">06-11-2020 12:16</div>
-                </div>
-                <p class="justify text-break mt-2">
-                  Possono iscriversi all'appello di ARCHITETTURA DEI SISTEMI DI
-                  ELABORAZIONE esclusivamente gli studenti che si trovano in
-                  almeno una delle seguenti condizioni:\n1) hanno avuto un
-                  punteggio >=95 all'esame di maturit\u00e0;\n2) hanno superato
-                  il TEST di INGRESSO;\n3) hanno superato uno tra i seguenti
-                  esami:\n- Matematica discreta\n- Analisi Matematica\n-
-                  Geometria e algebra.\nIn caso contrario, non sar\u00e0
-                  possibile iscriversi ad alcuna prova.\nL'iscrizione
-                  all'appello da parte del candidato corrisponde all'assunzione
-                  di responsabilit\u00e0 di trovarsi in una delle condizioni
-                  sovra elencate (1, 2 o 3) e nella consapevolezza delle
-                  responsabilit\u00e0 penali cui egli pu\u00f2 andare incontro
-                  in caso di dichiarazioni false, ai sensi e per gli effetti
-                  degli articoli 46, 47 e 76 del D.P.R. 28 dicembre 2000 n. 445.
-                  Oltre a conseguenze di natura amministrativa relativamente al
-                  percorso di studi.
-                </p>
-              </li>
-
-              <li class="list-group-item">
-                <div class="text-center">
-                  <div class="fw-bold">
-                    TEAMS dedicato a Introduzione alla Programmazione su ARM
-                  </div>
-                  <div class="badge bg-primary text-wrap">17-10-2020 19:03</div>
-                </div>
-                <p class="justify text-break mt-2">
-                  Per rendere la didattica pi\u00f9 proficua, anche in relazione
-                  alla preparazione che emerge dai questionari, ho intenzione di
-                  lanciare due sfide ai miei studenti che hanno acquistato una
-                  copia del libro di esercizi.\n\nLe gare avverranno
-                  su:\nhttps://teams.microsoft.com/l/team/19%3a896dc33462c549b9b67a15273877333f%40thread.tacv2/conversations?groupId=7a872b12-1f11-40ad-8fb7-0db2b9655617&tenantId=24c5be2a-d764-40c5-9975-82d08ae47d0e\n\nGARE:\n\n1)
-                  TROVA L'ERRORE: la prima sfida \u00e8 dedicata a chi
-                  trover\u00e0 pi\u00f9 errori nel libro e
-                  verificati/certificati dal sottoscritto; lo studente con
-                  pi\u00f9 errori rilevati ricever\u00e0 un bonus in punti per
-                  l'esame finale;\n\n2) TROVA L'AMBIENTE: la seconda sfida
-                  riguarda una competizione sull'ambiente pi\u00f9 semplice e
-                  user-friendly rispetto a quelli indicati nel libro di esercizi
-                  e su questa pagina web. Lo studente che trover\u00e0 un
-                  ambiente alternativo e pienamente funzionante con tutti gli
-                  esempi del libro sar\u00e0 premiato.\n\nLa premiazione
-                  avverr\u00e0 sul gruppo team e consentir\u00e0 di acquisire
-                  punteggio utile ai fini della valutazione dell'esame.
-                </p>
-              </li>
-            </ul>
-          </div>
-
-          <!-- SEZIONE LEZIONI -->
+          <!-- CONTENTS -->
           <div
-            class="tab-pane fade"
-            id="lezioni"
-            role="tabpanel"
-            aria-labelledby="btn-lezioni"
+            class="tab-content col-12 col-sm-8 col-lg-12 border p-0 m-0"
+            id="pills-tabContent"
           >
-            <p class="text-center m-2">
-              <span class="auto-write-text h4">> Lezioni</span>
-            </p>
+            <!-- SEZIONE COMUNICAZIONI -->
+            <div
+              class="tab-pane fade show active"
+              id="comunicazioni"
+              role="tabpanel"
+              aria-labelledby="btn-comunicazioni"
+            >
+              <p class="text-center m-2">
+                <span class="auto-write-text h4">> Comunicazioni</span>
+              </p>
 
-            <ul class="list-group list-group-flush">
-              <li class="list-group-item">
-                <div class="text-center">
-                  <div class="badge bg-success text-wrap">05-10-2020</div>
-                </div>
-                <p class="justify text-break mt-2">
-                  PRESENTAZIONE DEL CORSO\u00a0- Orario del corso\u00a0-
-                  Iscrizione al corso: scheda informativa\u00a0- Sito web di
-                  riferimento\u00a0- Materiale didattico\u00a0- Programma di
-                  esame\u00a0- Modalit\u00e0 di esame\u00a0- Nozioni utili per
-                  il corso\u00a0- Modalit\u00e0 di svolgimento della
-                  lezione\u00a0- Modalit\u00e0 di studio\u00a0- In caso di
-                  assenza\u00a0- Andamenti e trend\u00a0- Questioni aperte e
-                  domande
+              <ul class="list-group list-group-flush">
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">* ** LIBRO DISPONIBILE ** *</div>
+                    <div class="badge bg-primary text-wrap">
+                      19-02-2021 11:38
+                    </div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    Presso la Libreria Universitalia \u00e8 disponibile il
+                    libro\ndi esercitazione per l'esame di Architettura dei
+                    Sistemi di Elaborazione: \"Introduzione alla programmazione
+                    su ARM\"\n\nIl prezzo per i miei studenti \u00e8 di 10 euro
+                    se acquistato presso la libreria, mentre se spedito 15 euro
+                    inserendo il codice coupon ARM2020.\n\nAttenzione se non si
+                    inserisce il codice di sconto lo si acquista a prezzo pieno
+                    (15+5 euro).\n\nIl testo pu\u00f2 essere acquistato con
+                    18App ma il costo in questo caso \u00e8 il prezzo di
+                    copertina (15
+                    euro).\n\nhttps://www.universitaliasrl.it/editore-universitalia/2492-introduzione-alla-programmazione-su-arm-9788832934267.html\n\n\nUniversitalia\nVia
+                    di Passo Lombardo, 421 - 00133 Roma\nlun - ven9-18,30orario
+                    continuato\nsab9 - 12-30\nTel. 06 20.26.342
+                  </p>
+                </li>
+
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">APPELLO 22 FEB</div>
+                    <div class="badge bg-primary text-wrap">
+                      19-02-2021 09:36
+                    </div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    Si comunica agli studenti che l'appello si svolger\u00e0
+                    alle ore 16:30 quindi \u00e8 imporntate essere presenti in
+                    aula virtuale almeno alle 16:15.\nRicordo la
+                    disponibilit\u00e0 di una postazione di lavoro isolata e con
+                    luminosit\u00e0 adeguata al riconoscimento dello
+                    studente.\nDurante la fase di riconoscimento \u00e8
+                    necessario disporre del libretto universitario.\nL'orale
+                    avver\u00e0 alla conclusione dello scritto.
+                  </p>
+                </li>
+
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">
+                      ***** A V V I S O ***** I M P O R T A N T E *******
+                    </div>
+                    <div class="badge bg-primary text-wrap">
+                      06-11-2020 12:16
+                    </div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    Possono iscriversi all'appello di ARCHITETTURA DEI SISTEMI
+                    DI ELABORAZIONE esclusivamente gli studenti che si trovano
+                    in almeno una delle seguenti condizioni:\n1) hanno avuto un
+                    punteggio >=95 all'esame di maturit\u00e0;\n2) hanno
+                    superato il TEST di INGRESSO;\n3) hanno superato uno tra i
+                    seguenti esami:\n- Matematica discreta\n- Analisi
+                    Matematica\n- Geometria e algebra.\nIn caso contrario, non
+                    sar\u00e0 possibile iscriversi ad alcuna
+                    prova.\nL'iscrizione all'appello da parte del candidato
+                    corrisponde all'assunzione di responsabilit\u00e0 di
+                    trovarsi in una delle condizioni sovra elencate (1, 2 o 3) e
+                    nella consapevolezza delle responsabilit\u00e0 penali cui
+                    egli pu\u00f2 andare incontro in caso di dichiarazioni
+                    false, ai sensi e per gli effetti degli articoli 46, 47 e 76
+                    del D.P.R. 28 dicembre 2000 n. 445. Oltre a conseguenze di
+                    natura amministrativa relativamente al percorso di studi.
+                  </p>
+                </li>
+
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">
+                      TEAMS dedicato a Introduzione alla Programmazione su ARM
+                    </div>
+                    <div class="badge bg-primary text-wrap">
+                      17-10-2020 19:03
+                    </div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    Per rendere la didattica pi\u00f9 proficua, anche in
+                    relazione alla preparazione che emerge dai questionari, ho
+                    intenzione di lanciare due sfide ai miei studenti che hanno
+                    acquistato una copia del libro di esercizi.\n\nLe gare
+                    avverranno
+                    su:\nhttps://teams.microsoft.com/l/team/19%3a896dc33462c549b9b67a15273877333f%40thread.tacv2/conversations?groupId=7a872b12-1f11-40ad-8fb7-0db2b9655617&tenantId=24c5be2a-d764-40c5-9975-82d08ae47d0e\n\nGARE:\n\n1)
+                    TROVA L'ERRORE: la prima sfida \u00e8 dedicata a chi
+                    trover\u00e0 pi\u00f9 errori nel libro e
+                    verificati/certificati dal sottoscritto; lo studente con
+                    pi\u00f9 errori rilevati ricever\u00e0 un bonus in punti per
+                    l'esame finale;\n\n2) TROVA L'AMBIENTE: la seconda sfida
+                    riguarda una competizione sull'ambiente pi\u00f9 semplice e
+                    user-friendly rispetto a quelli indicati nel libro di
+                    esercizi e su questa pagina web. Lo studente che
+                    trover\u00e0 un ambiente alternativo e pienamente
+                    funzionante con tutti gli esempi del libro sar\u00e0
+                    premiato.\n\nLa premiazione avverr\u00e0 sul gruppo team e
+                    consentir\u00e0 di acquisire punteggio utile ai fini della
+                    valutazione dell'esame.
+                  </p>
+                </li>
+              </ul>
+            </div>
+
+            <!-- SEZIONE LEZIONI -->
+            <div
+              class="tab-pane fade"
+              id="lezioni"
+              role="tabpanel"
+              aria-labelledby="btn-lezioni"
+            >
+              <p class="text-center m-2">
+                <span class="auto-write-text h4">> Lezioni</span>
+              </p>
+
+              <ul class="list-group list-group-flush">
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="badge bg-success text-wrap">05-10-2020</div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    PRESENTAZIONE DEL CORSO\u00a0- Orario del corso\u00a0-
+                    Iscrizione al corso: scheda informativa\u00a0- Sito web di
+                    riferimento\u00a0- Materiale didattico\u00a0- Programma di
+                    esame\u00a0- Modalit\u00e0 di esame\u00a0- Nozioni utili per
+                    il corso\u00a0- Modalit\u00e0 di svolgimento della
+                    lezione\u00a0- Modalit\u00e0 di studio\u00a0- In caso di
+                    assenza\u00a0- Andamenti e trend\u00a0- Questioni aperte e
+                    domande
+                  </p>
+                </li>
+
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="badge bg-success text-wrap">09-10-2020</div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    ARCHITETTURA DEI CALCOLATORI\u00a0INTRODUZIONE (ADC
+                    Cap.1)\u00a0- Dominio digitale e analogico\n- Sistemi di
+                    numerazione- Approccio strutturale- Linguaggi, livelli e
+                    macchine virtuali- Pietre miliari nell architettura dei
+                    computer- Tipologie di computer- Storia della famiglia
+                    Intel- Unit\u00e0 metriche
+                  </p>
+                </li>
+
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="badge bg-success text-wrap">12-10-2020</div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    ARCHITETTURA DEI CALCOLATORI (ADC CAP.2)PROCESSORI-
+                    Organizzazione della CPU.- Esecuzione istruzione.- RISC
+                    contro CISC.- Principi di progettazione dei calcolatori.-
+                    Parallelismo a livello di istruzione.- Parallelismo a
+                    livello di processore.MEMORIA PRINCIPALE- Bit.- Sistemi di
+                    numerazione.- Indirizzi di memoria.- Ordinamento dei byte.-
+                    Codici di correzione di errore.- Memoria cache.
+                  </p>
+                </li>
+
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="badge bg-success text-wrap">16-10-2020</div>
+                  </div>
+                  <p class="justify text-break mt-2">
+                    ARCHITETTURA DEI CALCOLATORI (ADC CAP.2)\nMEMORIA
+                    SECONDARIA\n- Gerarchie di memorie\n- Dischi magnetici\n-
+                    Floppy disk\n- Dischi IDE\n- Dischi SCSI\n- RAID\n- Dischi a
+                    stato solido\n- CD-ROM\n- CD-Registrabili\n-
+                    CD-Riscrivibili\n- DVD\n\nDISPOSITIVI DI INPUT/OUTPUT (ADC
+                    CAP.2)\n- Il bus\n- Direct Memory Access\n- Tastiere\n-
+                    Monitor LCD\n- RAM della scheda video (VRAM)\n- Dispositivi
+                    di puntamento\n- Stampanti\n- Apparati di
+                    Telecomunicazioni\n- Codifica dei caratteri
+                  </p>
+                </li>
+              </ul>
+            </div>
+
+            <!-- SEZIONE MATERIALE -->
+            <div
+              class="tab-pane fade"
+              id="materiale"
+              role="tabpanel"
+              aria-labelledby="btn-materiale"
+            >
+              <p class="text-center m-2">
+                <span class="auto-write-text h4">> Materiale</span>
+              </p>
+            </div>
+
+            <!-- SEZIONE PROGRAMMA -->
+            <div
+              class="tab-pane fade"
+              id="programma"
+              role="tabpanel"
+              aria-labelledby="btn-programma"
+            >
+              <div>
+                <p class="text-center m-2">
+                  <span class="auto-write-text h4">> Programma</span>
                 </p>
-              </li>
-
-              <li class="list-group-item">
-                <div class="text-center">
-                  <div class="badge bg-success text-wrap">09-10-2020</div>
-                </div>
-                <p class="justify text-break mt-2">
-                  ARCHITETTURA DEI CALCOLATORI\u00a0INTRODUZIONE (ADC
-                  Cap.1)\u00a0- Dominio digitale e analogico\n- Sistemi di
-                  numerazione- Approccio strutturale- Linguaggi, livelli e
-                  macchine virtuali- Pietre miliari nell architettura dei
-                  computer- Tipologie di computer- Storia della famiglia Intel-
-                  Unit\u00e0 metriche
-                </p>
-              </li>
-
-              <li class="list-group-item">
-                <div class="text-center">
-                  <div class="badge bg-success text-wrap">12-10-2020</div>
-                </div>
-                <p class="justify text-break mt-2">
-                  ARCHITETTURA DEI CALCOLATORI (ADC CAP.2)PROCESSORI-
-                  Organizzazione della CPU.- Esecuzione istruzione.- RISC contro
-                  CISC.- Principi di progettazione dei calcolatori.-
-                  Parallelismo a livello di istruzione.- Parallelismo a livello
-                  di processore.MEMORIA PRINCIPALE- Bit.- Sistemi di
-                  numerazione.- Indirizzi di memoria.- Ordinamento dei byte.-
-                  Codici di correzione di errore.- Memoria cache.
-                </p>
-              </li>
-
-              <li class="list-group-item">
-                <div class="text-center">
-                  <div class="badge bg-success text-wrap">16-10-2020</div>
-                </div>
-                <p class="justify text-break mt-2">
-                  ARCHITETTURA DEI CALCOLATORI (ADC CAP.2)\nMEMORIA
+                <p class="px-3">
+                  \u2022 INTRODUZIONE SULLE ARCHITETTURE (Cap 1 \u2013
+                  Architettura dei calcolatori)\no Dominio digitale e
+                  analogico\no Linguaggi, livelli e macchine virtuali\no
+                  Evoluzione delle architetture di computer\no Approccio
+                  strutturale\no Pietre miliari nell\u2019architettura dei
+                  computer\no Tipologie di computer\no Unit\u00e0
+                  metriche\n\n\u2022 PROCESSORI E MEMORIA PRINCIPALE (Cap 2
+                  \u2013 Architettura dei calcolatori)\no PROCESSORI\n-
+                  Organizzazione della CPU\n- Esecuzione dell\u2019istruzione\n-
+                  RISC contro CISC\n- Principi di progettazione dei
+                  calcolatori\n- Parallelismo a livello di istruzione\n-
+                  Parallelismo a livello di processore\n\no MEMORIA
+                  PRINCIPALE\n- Bit\n- Sistemi di numerazione\n- Indirizzi di
+                  memoria\n- Ordinamento dei byte\n- Codici di correzione di
+                  errore\n- Memoria cache\n- Memoria principale\n\no MEMORIA
                   SECONDARIA\n- Gerarchie di memorie\n- Dischi magnetici\n-
                   Floppy disk\n- Dischi IDE\n- Dischi SCSI\n- RAID\n- Dischi a
                   stato solido\n- CD-ROM\n- CD-Registrabili\n-
-                  CD-Riscrivibili\n- DVD\n\nDISPOSITIVI DI INPUT/OUTPUT (ADC
-                  CAP.2)\n- Il bus\n- Direct Memory Access\n- Tastiere\n-
-                  Monitor LCD\n- RAM della scheda video (VRAM)\n- Dispositivi di
-                  puntamento\n- Stampanti\n- Apparati di Telecomunicazioni\n-
-                  Codifica dei caratteri
+                  CD-Riscrivibili\n- DVD\n\no INPUT/OUTPUT\n- Il bus\n- Direct
+                  Memory Access (DMA)\n- Tastiere\n- Monitor LCD\n- RAM della
+                  scheda video (VRAM)\n- Dispositivi di puntamento\n-
+                  Stampanti\n- Apparati di Telecomunicazioni\n- Codifica dei
+                  caratteri\n\n\u2022 LIVELLO LOGICO DIGITALE (Cap 3 \u2013
+                  Architettura dei calcolatori)\no Algebra di Boole\no
+                  Trasformazioni nel dominio di Boole\no Circuiti logici
+                  digitali elementari\no Circuiti Integrati\no CIRCUITI
+                  COMBINATORI\n- Multiplexer\n- Decoder\n- Comparatori\n-
+                  Programmable Logic Arrays (PLA)\n- Shifter\n- Adder\n-
+                  Arithmetic Logic Units (ALU)\no Clock\no MEMORIA\n-
+                  Flip-flop\n- Registri\n- Organizzazione della Memoria\n-
+                  Buffer\n- Chip di memoria\n- Random Access Memory\n- Memorie
+                  Non-volatili (ROM, PROM, EPROM, EEPROM)\no Chip di CPU\no
+                  BUS\n- Ampiezza del bus\n- clock del bus\n- Bus
+                  sincroni/asincroni\n- Arbitraggio del bus\n- Interrupt
+                  handling\no ESEMPI DI CPU\n- Intel Pentium 4\n- Intel Core
+                  i7\n- UltraSPARC III\n- Intel 8051\no ESEMPI DI BUS\n- Bus
+                  ISA\n- Bus PCI\n- PCI Express\n- USB\no INTERFACCE\n-
+                  Interfacce di I/O\n- Interfacce PIO\n- Decodifica
+                  dell\u2019indirizzo\n\n\u2022 IL LIVELLO DI MICROARCHITETTURA
+                  (Cap 4 \u2013 Architettura dei calcolatori)\no Un esempio di
+                  microarchitettura\n- Il modello di esecuzione\n- Data path (o
+                  percorso dati)\n- Formato delle microinstruzioni\n-
+                  Microarchitettura Mic-1\no Esempio di ISA: IJVM\n- Lo stack\n-
+                  Il modello della memoria\n- Insieme delle istruzioni\n\n\u2022
+                  IL LIVELLO DI MACROARCHITETTURA (Cap 5 \u2013 Architettura dei
+                  calcolatori)\no Overview del livello ISA\no Tipi di dati\no
+                  Formati di istruzioni\no Modalit\u00e0 di indirizzamento\no
+                  Tipi di istruzioni\no Controllo del flusso\no Architetture
+                  Intel IA-32 e IA64\n\n\u2022IL LIVELLO DEL LINGUAGGIO
+                  ASSEMBLATIVO (Cap 7 \u2013 Architettura dei calcolatori)\no
+                  Introduzione al linguaggio assemblativo\no Le
+                  macroistruzioni\no Il processo di assemblaggio\no Linker e
+                  loader\n\n\u2022 INTRODUZIONE AI SISTEMI OPERATIVI (Cap 1
+                  \u2013 I moderni sistemi operativi)\no Che cos\u2019\u00e8 un
+                  sistema operativo?\no Storia dei sistemi operativi\no
+                  Panoramica dei SO\no Concetti di base dei SO\no Le chiamate di
+                  sistema\no Struttura di un sistema operativo\no Introduzione
+                  al linguaggio C\n\n\u2022 PROCESSI E THREAD (Cap 2 \u2013 I
+                  moderni sistemi operativi)\no PROCESSI\no THREAD\no
+                  COMUNICAZIONI TRA PROCESSI\no SCHEDULING\n\n\u2022 GESTIONE
+                  DELLA MEMORIA (Cap 3 \u2013 I moderni sistemi operativi)\no
+                  NESSUNA ASTRAZIONE DI MEMORIA.\no LO SPAZIO DI
+                  INDIRIZAMENTO\no MEMORIA VIRTUALE\no ALGORITMI DI SOSTITUZIONE
+                  DELLE PAGINE\no PROBLEMATICHE DI PROGETTAZIONE DEI SISTEMI DI
+                  PAGING\no ASPETTI REALIZZATIVI\no SEGMENTAZIONE\n\n\u2022 FILE
+                  SYSTEM (Cap 4 \u2013 I moderni sistemi operativi)\no FILE\no
+                  DIRECTORY\no REALIZZAZIONE DEL FILE SYSTEM\no REALIZZAZIONE
+                  DEL FILE SYSTEM\n\n\u2022 INPUT/OUTPUT (Cap 5 \u2013 I moderni
+                  sistemi operativi)\no PRINCIPI HARDWARE\no PRINCIPI DEL
+                  SOFTWARE\no LIVELLI SOFTWARE\no DISCHI\no CLOCK\n\n\u2022
+                  ARCHITETTURE PER IL CALCOLO PARALLELO (Cap 8 \u2013 I moderni
+                  sistemi operativi e Cap 8 \u2013 I moderni sistemi
+                  operativi)\no INTRODUZIONE\no PARALLELISMO NEL CHIP\no
+                  COPROCESSORI\no MULTIPROCESSORI\no MULTICOMPUTER\no
+                  VIRTUALIZZAZIONE
                 </p>
-              </li>
-            </ul>
-          </div>
+              </div>
+            </div>
 
-          <!-- SEZIONE MATERIALE -->
-          <div
-            class="tab-pane fade"
-            id="materiale"
-            role="tabpanel"
-            aria-labelledby="btn-materiale"
-          >
-            <p class="text-center m-2">
-              <span class="auto-write-text h4">> Materiale</span>
-            </p>
-          </div>
-
-          <!-- SEZIONE PROGRAMMA -->
-          <div
-            class="tab-pane fade"
-            id="programma"
-            role="tabpanel"
-            aria-labelledby="btn-programma"
-          >
-            <div>
+            <!-- SEZIONE TESTI RIFERIMENTO -->
+            <div
+              class="tab-pane fade"
+              id="testi"
+              role="tabpanel"
+              aria-labelledby="btn-testi"
+            >
               <p class="text-center m-2">
-                <span class="auto-write-text h4">> Programma</span>
-              </p>
-              <p class="px-3">
-                \u2022 INTRODUZIONE SULLE ARCHITETTURE (Cap 1 \u2013
-                Architettura dei calcolatori)\no Dominio digitale e analogico\no
-                Linguaggi, livelli e macchine virtuali\no Evoluzione delle
-                architetture di computer\no Approccio strutturale\no Pietre
-                miliari nell\u2019architettura dei computer\no Tipologie di
-                computer\no Unit\u00e0 metriche\n\n\u2022 PROCESSORI E MEMORIA
-                PRINCIPALE (Cap 2 \u2013 Architettura dei calcolatori)\no
-                PROCESSORI\n- Organizzazione della CPU\n- Esecuzione
-                dell\u2019istruzione\n- RISC contro CISC\n- Principi di
-                progettazione dei calcolatori\n- Parallelismo a livello di
-                istruzione\n- Parallelismo a livello di processore\n\no MEMORIA
-                PRINCIPALE\n- Bit\n- Sistemi di numerazione\n- Indirizzi di
-                memoria\n- Ordinamento dei byte\n- Codici di correzione di
-                errore\n- Memoria cache\n- Memoria principale\n\no MEMORIA
-                SECONDARIA\n- Gerarchie di memorie\n- Dischi magnetici\n- Floppy
-                disk\n- Dischi IDE\n- Dischi SCSI\n- RAID\n- Dischi a stato
-                solido\n- CD-ROM\n- CD-Registrabili\n- CD-Riscrivibili\n-
-                DVD\n\no INPUT/OUTPUT\n- Il bus\n- Direct Memory Access (DMA)\n-
-                Tastiere\n- Monitor LCD\n- RAM della scheda video (VRAM)\n-
-                Dispositivi di puntamento\n- Stampanti\n- Apparati di
-                Telecomunicazioni\n- Codifica dei caratteri\n\n\u2022 LIVELLO
-                LOGICO DIGITALE (Cap 3 \u2013 Architettura dei calcolatori)\no
-                Algebra di Boole\no Trasformazioni nel dominio di Boole\no
-                Circuiti logici digitali elementari\no Circuiti Integrati\no
-                CIRCUITI COMBINATORI\n- Multiplexer\n- Decoder\n- Comparatori\n-
-                Programmable Logic Arrays (PLA)\n- Shifter\n- Adder\n-
-                Arithmetic Logic Units (ALU)\no Clock\no MEMORIA\n- Flip-flop\n-
-                Registri\n- Organizzazione della Memoria\n- Buffer\n- Chip di
-                memoria\n- Random Access Memory\n- Memorie Non-volatili (ROM,
-                PROM, EPROM, EEPROM)\no Chip di CPU\no BUS\n- Ampiezza del
-                bus\n- clock del bus\n- Bus sincroni/asincroni\n- Arbitraggio
-                del bus\n- Interrupt handling\no ESEMPI DI CPU\n- Intel Pentium
-                4\n- Intel Core i7\n- UltraSPARC III\n- Intel 8051\no ESEMPI DI
-                BUS\n- Bus ISA\n- Bus PCI\n- PCI Express\n- USB\no INTERFACCE\n-
-                Interfacce di I/O\n- Interfacce PIO\n- Decodifica
-                dell\u2019indirizzo\n\n\u2022 IL LIVELLO DI MICROARCHITETTURA
-                (Cap 4 \u2013 Architettura dei calcolatori)\no Un esempio di
-                microarchitettura\n- Il modello di esecuzione\n- Data path (o
-                percorso dati)\n- Formato delle microinstruzioni\n-
-                Microarchitettura Mic-1\no Esempio di ISA: IJVM\n- Lo stack\n-
-                Il modello della memoria\n- Insieme delle istruzioni\n\n\u2022
-                IL LIVELLO DI MACROARCHITETTURA (Cap 5 \u2013 Architettura dei
-                calcolatori)\no Overview del livello ISA\no Tipi di dati\no
-                Formati di istruzioni\no Modalit\u00e0 di indirizzamento\no Tipi
-                di istruzioni\no Controllo del flusso\no Architetture Intel
-                IA-32 e IA64\n\n\u2022IL LIVELLO DEL LINGUAGGIO ASSEMBLATIVO
-                (Cap 7 \u2013 Architettura dei calcolatori)\no Introduzione al
-                linguaggio assemblativo\no Le macroistruzioni\no Il processo di
-                assemblaggio\no Linker e loader\n\n\u2022 INTRODUZIONE AI
-                SISTEMI OPERATIVI (Cap 1 \u2013 I moderni sistemi operativi)\no
-                Che cos\u2019\u00e8 un sistema operativo?\no Storia dei sistemi
-                operativi\no Panoramica dei SO\no Concetti di base dei SO\no Le
-                chiamate di sistema\no Struttura di un sistema operativo\no
-                Introduzione al linguaggio C\n\n\u2022 PROCESSI E THREAD (Cap 2
-                \u2013 I moderni sistemi operativi)\no PROCESSI\no THREAD\no
-                COMUNICAZIONI TRA PROCESSI\no SCHEDULING\n\n\u2022 GESTIONE
-                DELLA MEMORIA (Cap 3 \u2013 I moderni sistemi operativi)\no
-                NESSUNA ASTRAZIONE DI MEMORIA.\no LO SPAZIO DI INDIRIZAMENTO\no
-                MEMORIA VIRTUALE\no ALGORITMI DI SOSTITUZIONE DELLE PAGINE\no
-                PROBLEMATICHE DI PROGETTAZIONE DEI SISTEMI DI PAGING\no ASPETTI
-                REALIZZATIVI\no SEGMENTAZIONE\n\n\u2022 FILE SYSTEM (Cap 4
-                \u2013 I moderni sistemi operativi)\no FILE\no DIRECTORY\no
-                REALIZZAZIONE DEL FILE SYSTEM\no REALIZZAZIONE DEL FILE
-                SYSTEM\n\n\u2022 INPUT/OUTPUT (Cap 5 \u2013 I moderni sistemi
-                operativi)\no PRINCIPI HARDWARE\no PRINCIPI DEL SOFTWARE\no
-                LIVELLI SOFTWARE\no DISCHI\no CLOCK\n\n\u2022 ARCHITETTURE PER
-                IL CALCOLO PARALLELO (Cap 8 \u2013 I moderni sistemi operativi e
-                Cap 8 \u2013 I moderni sistemi operativi)\no INTRODUZIONE\no
-                PARALLELISMO NEL CHIP\no COPROCESSORI\no MULTIPROCESSORI\no
-                MULTICOMPUTER\no VIRTUALIZZAZIONE
+                <span class="auto-write-text h4">> Testi di riferimento</span>
               </p>
             </div>
+
           </div>
         </div>
       </div>

@@ -11,7 +11,7 @@ main {
   #INFO {
     /*overflow-y: auto;*/
     overflow-y: scroll !important;
-    max-height: 80vh;
+    max-height: 87.5vh; /*da sistemare assolutamente*/
   }
 }
 
