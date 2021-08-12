@@ -1,0 +1,42 @@
+main {
+  width: 90%;
+  margin: auto;
+}
+
+@media screen and (min-width: 992px) {
+  main {
+    width: 95%;
+  }
+
+  #INFO {
+    overflow-y: scroll !important;
+    max-height: 80vh;
+  }
+}
+
+#pills-tab {
+  padding: 0 !important;
+}
+@media screen and (min-width: 576px) {
+  #pills-tab {
+    height: fit-content !important;
+  }
+}
+
+#pills-tabContent {
+  overflow-y: scroll !important;
+  height: 80vh;
+}
+
+.justify {
+  text-align: justify;
+}
+
+li.nav-item button.nav-link {
+  color: #198754 !important;
+}
+
+li.nav-item button.nav-link.active {
+  background-color: #198754 !important;
+  color: white !important;
+}
