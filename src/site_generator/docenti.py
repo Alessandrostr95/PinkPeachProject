@@ -43,6 +43,8 @@ def import_teachers(f_name, triennale=True ):
             - id-name -> nome del professore nel formato 'cognome-nome'
             - link-corso -> link del corso
     """
+    cdl = "triennale" if triennale else "magistrale"
+
     f = open( f_name )
     sem = csv.DictReader(f)
     lines = [line for line in sem]
@@ -54,8 +56,9 @@ def import_teachers(f_name, triennale=True ):
     def get_link( nome_corso ):
         for corso in info_corsi:
             if nome_corso.lower() == corso['insegnamento'].lower():
-                return corso['link']
-        return "#nogo"
+                # return corso['link']
+                return f"{corso['codice']}.html"
+        return corso['link']
 
     def get_teachings(teachings):
         """
@@ -114,7 +117,9 @@ def img_name(x, extension=".jpg"):
 
 # -----------------------
 
-def write_docenti(cdl):
+def write_docenti(triennale=True):
+    cdl = "triennale" if triennale else "magistrale"
+
     csv_file = {
         "triennale": f"{DATA_ROOT}/triennale/{get_current_school_year()}/docenti/docenti.csv",
         "magistrale": f"{DATA_ROOT}/magistrale/{get_current_school_year()}/docenti/docenti.csv"
@@ -125,7 +130,7 @@ def write_docenti(cdl):
     template_dir = TEMPLATES_ROOT + "docenti/"
     template_file = "card.html"
 
-    data = import_teachers( csv_file[cdl] )
+    data = import_teachers( csv_file[cdl], triennale )
 
     # pprint( data )
     
@@ -140,9 +145,5 @@ def write_docenti(cdl):
         fh.write( output_from_parsed_template )
 
 if __name__ == "__main__":
-    write_docenti("triennale")
-    write_docenti("magistrale")
-
-
-
-
+    write_docenti()
+    write_docenti(False)

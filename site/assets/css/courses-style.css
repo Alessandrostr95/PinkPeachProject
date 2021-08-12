@@ -9,6 +9,7 @@ main {
   }
 
   #INFO {
+    /*overflow-y: auto;*/
     overflow-y: scroll !important;
     max-height: 80vh;
   }

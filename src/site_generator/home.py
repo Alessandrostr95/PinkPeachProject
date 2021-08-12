@@ -42,8 +42,8 @@ def create_tree_data(triennale=True):
     """
     cdl = "triennale" if triennale else "magistrale"
     paths = {
-        'corsi': DATA_ROOT + f"{cdl}/20-21/corsi/corsi.csv",
-        'docenti': DATA_ROOT + f"{cdl}/20-21/docenti/docenti.csv"
+        'corsi': DATA_ROOT + f"{cdl}/{get_current_school_year()}/corsi/corsi.csv",
+        'docenti': DATA_ROOT + f"{cdl}/{get_current_school_year()}/docenti/docenti.csv"
     }
 
     tabella_corsi = [line for line in csv.DictReader(open(paths['corsi']))]
@@ -63,7 +63,8 @@ def create_tree_data(triennale=True):
             'codice': corso['codice'],
             'docente': corso['docente'],
             'nome': corso['insegnamento'],
-            'link': corso['link']   # inserire link pagina del corso
+            #'link': corso['link']   # inserire link pagina del corso
+            'link': SITE_ROOT + f"{cdl}/{get_current_school_year()}/{corso['codice']}.html"
         })
     
     # pprint( corsi )
