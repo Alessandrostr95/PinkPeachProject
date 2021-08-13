@@ -23,8 +23,10 @@ main() {
     # cp -r $ASSETS_ROOT $SITE_ROOT
     
     python3 src/site_generator/home.py
+    python3 src/site_generator/contributors.py
     python3 src/site_generator/orari.py
     python3 src/site_generator/docenti.py
+    python3 src/site_generator/corsi.py
     # python3 src/site_generator/assets.py
 }
 
