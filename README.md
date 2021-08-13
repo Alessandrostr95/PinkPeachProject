@@ -1,4 +1,5 @@
 
+<img title="" src="https://raw.githubusercontent.com/Alessandrostr95/PinkPeachProject/main/site/assets/logo.svg" alt="" width="120" data-align="inline" data-align="center">
 
 # PPP - The Pink Peach Project
 
