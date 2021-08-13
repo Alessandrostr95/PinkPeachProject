@@ -258,6 +258,7 @@
                 <span class="auto-write-text h4">> Comunicazioni</span>
               </p>
 
+              {% if data['comunicazioni']|length > 0 %}
               <ul class="list-group list-group-flush">
                 {% for com in data['comunicazioni'] %}
                 <li class="list-group-item">
@@ -273,6 +274,11 @@
                 </li>
                 {% endfor %}
               </ul>
+              {% else %}
+              <p class="h4 text-center m-2 text-muted">
+                Il docente non ha caricato nessun contenuto :(
+              </p>
+              {% endif %}
             </div>
 
             <!-- SEZIONE LEZIONI -->
@@ -286,6 +292,7 @@
                 <span class="auto-write-text h4">> Lezioni</span>
               </p>
 
+              {% if data['lezioni']|length > 0 %}
               <ul class="list-group list-group-flush">
                 {% for lez in data['lezioni'] %}
                 <li class="list-group-item">
@@ -301,6 +308,11 @@
                 </li>
                 {% endfor %}
               </ul>
+              {% else %}
+              <p class="h4 text-center m-2 text-muted">
+                Il docente non ha caricato nessun contenuto :(
+              </p>
+              {% endif %}
             </div>
 
             <!-- SEZIONE MATERIALE -->

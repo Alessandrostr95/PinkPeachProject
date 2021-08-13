@@ -2,8 +2,15 @@ const triennale = "triennale";
 const magistrale = "magistrale"
 
 var currentState = triennale;
+var currentYear = "20-21"
 
 window.onload = function() {
+    /* setto i link della barra del menu */
+    document.querySelector("#link-orari").href = `../${currentState}/${currentYear}/orario.html`;
+    document.querySelector("#link-corsi").href = `../${currentState}/${currentYear}/corsi.html`;
+    document.querySelector("#link-docenti").href = `../${currentState}/${currentYear}/docenti.html`;
+    document.querySelector("#link-esami").href = `../${currentState}/${currentYear}/esami.html`;
+
     const slideBar = document.querySelector("#slide-bar");
     const triennale = document.querySelector("#triennale");
     const magistrale = document.querySelector("#magistrale");
@@ -25,13 +32,23 @@ window.onload = function() {
         slideBar.classList.toggle("right");
         triennale.classList.toggle("toggled");
         magistrale.classList.toggle("toggled");
-        currentState = currentState === triennale ? magistrale : triennale;
-        //calendarioTriennale.classList.toggle("hidden");
-        //calendarioMagistrale.classList.toggle("hidden");
+
+        /* switch dello stato interno */
+        currentState = currentState == "triennale" ? "magistrale" : "triennale";
+
+        /* switch nel nav-tree */
         navTreeTriennale.classList.toggle("hidden");
         navTreeMagistrale.classList.toggle("hidden");
+
+        /* switch delle news */
         newsTriennale.classList.toggle("hidden");
         newsMagistrale.classList.toggle("hidden");
+
+        /* cambio i link della barra del menu */
+        document.querySelector("#link-orari").href = `../${currentState}/${currentYear}/orario.html`;
+        document.querySelector("#link-corsi").href = `../${currentState}/${currentYear}/corsi.html`;
+        document.querySelector("#link-docenti").href = `../${currentState}/${currentYear}/docenti.html`;
+        document.querySelector("#link-esami").href = `../${currentState}/${currentYear}/esami.html`;
     });
 
 

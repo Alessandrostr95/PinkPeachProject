@@ -105,6 +105,10 @@ versione vecchia quando gli elementi erano:
   left: 185px;
   width: 43px;
 }
+#barraMenu li:nth-of-type(5):hover ~ .underbar {
+  left: 244px;
+  width: 29px;
+}
 
 /* HEADER */
 
