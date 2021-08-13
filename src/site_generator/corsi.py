@@ -32,11 +32,11 @@ def get_course_data(path, short_name):
         jo = json.load(f)
 
         docenti = [{
-            "name": name,
+            "name": name['first_name'] + " " + name['second_name'],
             "id_name": get_id_name(name)
-        } for name in get_lista_nomi_docenti( jo['docente'] )]
+        } for name in jo['docente']]
 
-        #pprint(docenti)
+        # pprint(docenti)
 
         return {
             'nome':             get(jo["nomeCorso"]),
@@ -66,31 +66,16 @@ def get(s:str):
     else:
         return None
 
-
-def get_lista_nomi_docenti(s:str) -> str:
+def get_id_name(name):
     """
-        Funzione che data la stringa coi nomi dei docenti
-        nel formato 
-            'Andrea Clementi, Luciano Guala'
-        ritorna una lista coi nomi separati, del tipo
-            ['Andrea Clementi', 'Luciano Guala']
-    """
-    return list(map(lambda x: x.strip(), s.split(",")))
-
-def get_id_name(full_name:str) -> str:
-    """
-        Funzione che data una stringa in formato
-            'Nome Cognome'
+        Funzione che dato un oggetto json della forma 
+             {'first_name': A, 'second_name': B},
         ritorna una stringa in formato
             'cognome-nome'
     """
-    if full_name == "Fabio Massimo Zanzotto": #TODO: sistemare questa cosa
-        return "zanzotto-fabio-massimo"
-    elif full_name == "Miriam Di Ianni":
-        return "di-ianni-miriam"
-    else:
-        nome, cognome = full_name.replace("'", "").lower().split()
-        return f"{cognome}-{nome}"
+    
+    return "-".join(name['second_name'].lower().replace("'", "").split() +
+                    name['first_name'].lower().replace("'", "").split())
 
 ##########################
 
@@ -104,7 +89,8 @@ def write_courses(triennale=True):
     for d in data:
         corso = get_course_data(courses_dir + f"{d['codice']}", d['codice'])
         corsi.append( corso )
-    #pprint( corsi )
+        
+    # pprint( corsi )
 
     template_dir = TEMPLATES_ROOT + "corsi/"
     template_file = "base.html"
@@ -127,3 +113,4 @@ def write_courses(triennale=True):
 
 if __name__ == '__main__':
     write_courses() # NON ESEGUIRE CODICE PER MAGISTRALE, BISOGNA GESTIRE QUEL PROBLEMA DEI NOMI
+    write_courses(triennale=False)
