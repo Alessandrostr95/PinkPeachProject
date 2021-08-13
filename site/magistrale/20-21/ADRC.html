@@ -93,9 +93,9 @@
           class="border col-12 col-lg-3 order-first accordion-flush m-0 p-0"
         >
           <p class="h3 text-center m-2">
-            {{ data['nome'] }}
+            Algoritmi distribuiti e reti complesse
           </p>
-          <p class="h5 text-muted text-center m-2">- {{ data['codice'] }} -</p>
+          <p class="h5 text-muted text-center m-2">- ADRC -</p>
 
           <div class="accordion m-0" id="accordionPanelsStayOpenExample">
             <div class="accordion-item">
@@ -119,36 +119,44 @@
                 <div class="accordion-body">
                   <dl>
                     <dt>Docente</dt>
-                    {% for docente in data['docenti'] %}
+                    
                     <dd>
-                      <a href="./docenti.html#{{ docente['id_name'] }}">
-                        {{ docente['name'] }}
+                      <a href="./docenti.html#clementi-andrea">
+                        Andrea Clementi
                       </a>
                     </dd>
-                    {% endfor %}
+                    
+                    <dd>
+                      <a href="./docenti.html#guala-luciano">
+                        Luciano Guala
+                      </a>
+                    </dd>
+                    
 
                     <dt>A.A.</dt>
-                    <dd>{{ data['anno-accademico'] }}</dd>
+                    <dd>2020-2021</dd>
 
                     <dt>CFU</dt>
-                    <dd>{{ data['crediti'] }}</dd>
+                    <dd>9</dd>
 
                     <dt>Settore</dt>
-                    <dd>{{ data['settore'] }}</dd>
+                    <dd>INF/01</dd>
 
                     <dt>Anno</dt>
-                    <dd>{{ data['anno'] }}°</dd>
+                    <dd>1°</dd>
 
                     <dt>Semestre</dt>
-                    <dd>{{ data['semestre'] }}</dd>
+                    <dd>1</dd>
 
                     <dt>Propedeuticità</dt>
-                    <dd>{{ data['propedeuticità'] }}</dd>
+                    <dd>Nessuna</dd>
                     
-                    {% if data['ricevimento'] != None %}
+                    
                     <dt>Ricevimento</dt>
-                    <dd>{{ data['ricevimento'] }}</dd>
-                    {% endif %}
+                    <dd><table><tr><td><p>per appuntamento, concordato via email con i docenti. Il ricevimento avra' luogo </p>
+<p>attraverso la piattaforma Team. In casi eccezionali e per motivazioni specifiche valutate</p>
+<p>dai docenti, sara' possibile effettuare ricevimenti on-line su altri sistemi (skype, etc etc).</p></td></tr></table></dd>
+                    
                   </dl>
                 </div>
               </div>
@@ -259,19 +267,54 @@
               </p>
 
               <ul class="list-group list-group-flush">
-                {% for com in data['comunicazioni'] %}
+                
                 <li class="list-group-item">
                   <div class="text-center">
-                    <div class="fw-bold">{{ com['titolo'] }}</div>
+                    <div class="fw-bold">ADRC: VERBALIZZAZIONE ET AL</div>
                     <div class="badge bg-primary text-wrap">
-                      {{ com['data'] }}
+                      25-02-2021 09:45
                     </div>
                   </div>
                   <p class="text-break mt-2">
-                    {{ com['contenuto'] }}
+                    <p> GLI STUDENTI DEL CORSO DI ADRC INTERESSATI ALLA VERBALIZZAZIONE DEGLI ESAMI ED AL  RICONOSCIMENTO DI CFU EXTRA, SONO PREGATI DI SEGUIRE LE INFORMAZIONI DATE NEL CANALE GENERALE DI ADRC DELLA PIATTAFORMA TEAMS</p><hr/>
                   </p>
                 </li>
-                {% endfor %}
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">ADRC ON LINE</div>
+                    <div class="badge bg-primary text-wrap">
+                      28-09-2020 12:13
+                    </div>
+                  </div>
+                  <p class="text-break mt-2">
+                    <p>A causa della nota pandemia COVID-19, le lezioni del corso avranno luogo in modalità on line, secondo l'orario ufficiale disponibile sul sito del corso di laurea:</p>
+<p> </p>
+<p>LUNEDI et GIOVEDI  dalle 14:30 alle 16:30. </p>
+<p> </p>
+<p style="text-align: justify;">IL corso si svolgera' sulla piattaforma TEAM. Nel Team</p>
+<p style="text-align: justify;"> </p>
+<p style="text-align: justify;">CLEMENTI-8065531-ALGORITMI_DISTRIBUITI_E_RETI_COMPLESSE</p>
+<p style="text-align: justify;"> </p>
+<p style="text-align: justify;">troverete tutte le informazioni e gli appuntamenti relativi al corso. E' fortemente consigliato partecipare attivamente a tutti gli eventi on-line del corso.</p>
+<p style="text-align: justify;"> </p>
+<p style="text-align: justify;"> </p>
+<p style="text-align: justify;">Per iscriversi al suddetto TEAM specifico, <strong>*dopo*</strong> aver verificato l'attivazione ed il funzionamento delle proprie credenziali sulla suddetta piattaforma (rivolgendosi eventualmente ed <strong>esclusivamente</strong> ai contatti utili per  questa procedura), in caso di problemi <strong>specifici</strong> con il team di ADRC, lo studente interessato è pregato di inviare una email ai docenti del corso ADRC specificando nel soggetto "ADRC Team".</p><hr/>
+                  </p>
+                </li>
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">ADRC ON LINE</div>
+                    <div class="badge bg-primary text-wrap">
+                      28-09-2020 12:02
+                    </div>
+                  </div>
+                  <p class="text-break mt-2">
+                    
+                  </p>
+                </li>
+                
               </ul>
             </div>
 
@@ -287,19 +330,19 @@
               </p>
 
               <ul class="list-group list-group-flush">
-                {% for lez in data['lezioni'] %}
+                
                 <li class="list-group-item">
                   <div class="text-center">
-                    <div class="fw-bold">{{ lez['id'] }}</div>
+                    <div class="fw-bold">0</div>
                     <div class="badge bg-primary text-wrap">
-                      {{ lez['data'] }}
+                      28-09-2020
                     </div>
                   </div>
                   <p class="text-break mt-2">
-                    {{ lez['contenuto'] }}
+                    <p>Quest'anno le lezioni avverranno ONLINE sulla piattaforma teams e saranno li memorizzate nel materiali didattico</p>
                   </p>
                 </li>
-                {% endfor %}
+                
               </ul>
             </div>
 
@@ -313,24 +356,11 @@
               <p class="text-center m-2">
                 <span class="auto-write-text h4">> Materiale</span>
               </p>
-              {% if data['materiale']|length > 0 %}
-              <ul class="list-group list-group-flush">
-              {% for m in data['materiale'] %}
-              <li class="list-group-item">
-                <a href="{{ m['link'] }}" style="text-decoration: none;">
-                  <img src="../../assets/icons/icons8-salva-80.png" alt="save" width="28px">
-                </a>
-                <div class="d-inline-block fw-bold">
-                  {{ m['titolo'] }}
-                </div>
-                <div class="d-inline-block text-muted">- {{ m['dimensione'] }}</div>
-              </li> 
-              {% endfor %}
-              {% else %}
+              
               <p class="h4 text-center m-2 text-muted">
                 Il docente non ha caricato nessun contenuto :(
               </p>
-              {% endif %}
+              
               </ul>
             </div>
 
@@ -345,15 +375,24 @@
                 <p class="text-center m-2">
                   <span class="auto-write-text h4">> Programma</span>
                 </p>
-                {% if data['programma'] != None %}
+                
                 <div class="p-2">
-                  {{ data['programma'] }}
+                  <table><tr><td><p style="font-family: verdana, arial, helvetica, sans-serif; text-align: justify; caret-color: #000000; text-size-adjust: auto;">Il corso ADRC per l'a.a. 2020-21 sarà costituito da due moduli:</p>
+<p style="font-family: verdana, arial, helvetica, sans-serif; text-align: justify; caret-color: #000000; text-size-adjust: auto;"> </p>
+<p style="font-family: verdana, arial, helvetica, sans-serif; text-align: justify; caret-color: #000000; text-size-adjust: auto;">a) <strong>Calcolo Distribuito</strong>  (Prof. Clementi)</p>
+<p style="font-family: verdana, arial, helvetica, sans-serif; text-align: justify; caret-color: #000000; text-size-adjust: auto;">b) <strong>Teoria Algoritmica dei Giochi</strong> (Dr. Gualà)</p>
+<p style="font-family: verdana, arial, helvetica, sans-serif; text-align: justify; caret-color: #000000; text-size-adjust: auto;"> </p>
+<p style="font-family: verdana, arial, helvetica, sans-serif; text-align: justify; caret-color: #000000; text-size-adjust: auto;"> </p>
+<p style="font-family: verdana, arial, helvetica, sans-serif; text-align: justify; caret-color: #000000; text-size-adjust: auto;"><strong> </strong></p>
+<p style="font-family: verdana, arial, helvetica, sans-serif; text-align: justify; caret-color: #000000; text-size-adjust: auto;"> </p>
+<p style="font-family: verdana, arial, helvetica, sans-serif; text-align: justify; caret-color: #000000; text-size-adjust: auto;"><strong>Il modulo (a)</strong></p>
+<p style="font-family: verdana, arial, helvetica, sans-serif; text-align: justify; caret-color: #000000; text-size-adjust: auto;">presenta i principi fondamentali del calcolo distribuito sia da un punto di vista dei modelli di comunicazione/computazione più importanti che per quanto riguarda i metodi algoritmici fondamentali per tali modelli. </p>
+<p style="font-family: verdana, arial, helvetica, sans-serif; text-align: justify; caret-color: #000000; text-size-adjust: auto;">L'obiettivo formativo e' quello di fornire degli strumenti efficienti e rigorosi per il Problem Solving in cui, rispetto ai corsi algoritmici della triennale, per la prima volta le entità computazionali (agenti)  sono molteplici ed interagenti.<br>Questo nuovo paradigma offre ottime  basi per progettare  protocolli efficienti per problemi fondamentali ed estremamente attuali nel mondo dei moderni sistemi distribuiti.<br>Questa parte sarà tenuta del Prof. Clementi e sarà di 6 cfu.<br> <br><strong>Nel modulo (b),</strong> il Dr. Gualà tratterà un altro aspetto fondamentale<br>dei sistemi distribuiti moderni: la presenza di comportamenti egoistici degli agenti di un sistema distribuito. Tale presenza ha portato negli ultimi decenni a sviluppare un'importante teoria:<br>l'Algorithmic Game Theory. Profondamente ispirata dalla famosa Game Theory (Nash Equilbria), questa teoria viene trattata nel corso per affrontare importanti problematiche nel campo dell'ottimizzazione di reti di comunicazione e di altre applicazioni.</br></br></br></br></br></br></p>
+<p style="font-family: verdana, arial, helvetica, sans-serif; text-align: justify; caret-color: #000000; text-size-adjust: auto;"> </p>
+<p style="font-family: verdana, arial, helvetica, sans-serif; text-align: justify; caret-color: #000000; text-size-adjust: auto;"><strong> </strong></p>
+<p style="font-family: verdana, arial, helvetica, sans-serif; text-align: justify; caret-color: #000000; text-size-adjust: auto;">Qui sotto vengono riportati i  programmi generali e preliminari per i 2 moduli. <br> <br><strong>Modulo (a): </strong> <strong>Algoritmi Distribuiti  </strong><br>- Modelli di computazione distribuiti: paradigmi, algoritmi, misure di complessità, comunicazione<br/>- Un processo epidemico: Il  Broadcast e l'Information Spreading<br/>- Il problema del Wake-Up<br/>- Il problema dello Spanning Tree<br/>- Il problema del Leader Election<br/>- Il Modello Wireless: il fenomeno delle collisioni<br/>- Il Broadcast su Wireless Networks: protcolli  deterministici e randomizzati<br/>- Modelli e Processi  Distribuiti avanzati in    Network Science  <br/> <br/><strong>Modulo (b)  Teoria Algoritmica dei Gioghi</strong><br/> <br/>**** - da inserire *****</br></br></br></p></td></tr></table>
                 </div>
-                {% else %}
-                <p class="h4 text-center m-2 text-muted">
-                  Il docente non ha caricato nessun contenuto :(
-                </p>
-                {% endif %}
+                
               </div>
             </div>
 
@@ -367,15 +406,12 @@
               <p class="text-center m-2">
                 <span class="auto-write-text h4">> Testi di riferimento</span>
               </p>
-              {% if data['testi-riferimento'] != None %}
+              
               <div class="p-2">
-                {{ data['testi-riferimento'] }}
+                <table><tr><td><p style="font-family: verdana, arial, helvetica, sans-serif; text-align: justify; caret-color: #000000; text-size-adjust: auto;">N. Santoro: </p>
+<p class="p1" style="font-family: verdana, arial, helvetica, sans-serif; text-align: justify; caret-color: #000000; text-size-adjust: auto;">Design and analysis of Distributed Algorithms +  Slides e Note del Docente disponibili sulla piattaforma Teams</p></td></tr></table>
               </div>
-              {% else %}
-              <p class="h4 text-center m-2 text-muted">
-                Il docente non ha caricato nessun contenuto :(
-              </p>
-              {% endif %}
+              
             </div>
 
           </div>

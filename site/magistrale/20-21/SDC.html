@@ -93,9 +93,9 @@
           class="border col-12 col-lg-3 order-first accordion-flush m-0 p-0"
         >
           <p class="h3 text-center m-2">
-            {{ data['nome'] }}
+            Sistemi distribuiti cooperativi
           </p>
-          <p class="h5 text-muted text-center m-2">- {{ data['codice'] }} -</p>
+          <p class="h5 text-muted text-center m-2">- SDC -</p>
 
           <div class="accordion m-0" id="accordionPanelsStayOpenExample">
             <div class="accordion-item">
@@ -119,36 +119,39 @@
                 <div class="accordion-body">
                   <dl>
                     <dt>Docente</dt>
-                    {% for docente in data['docenti'] %}
+                    
                     <dd>
-                      <a href="./docenti.html#{{ docente['id_name'] }}">
-                        {{ docente['name'] }}
+                      <a href="./docenti.html#talamo-maurizio">
+                        Maurizio Talamo
                       </a>
                     </dd>
-                    {% endfor %}
+                    
+                    <dd>
+                      <a href="./docenti.html#arcieri-franco">
+                        Franco Arcieri
+                      </a>
+                    </dd>
+                    
 
                     <dt>A.A.</dt>
-                    <dd>{{ data['anno-accademico'] }}</dd>
+                    <dd>2020-2021</dd>
 
                     <dt>CFU</dt>
-                    <dd>{{ data['crediti'] }}</dd>
+                    <dd>9</dd>
 
                     <dt>Settore</dt>
-                    <dd>{{ data['settore'] }}</dd>
+                    <dd>INF/01</dd>
 
                     <dt>Anno</dt>
-                    <dd>{{ data['anno'] }}°</dd>
+                    <dd>1°</dd>
 
                     <dt>Semestre</dt>
-                    <dd>{{ data['semestre'] }}</dd>
+                    <dd>2</dd>
 
                     <dt>Propedeuticità</dt>
-                    <dd>{{ data['propedeuticità'] }}</dd>
+                    <dd>Nessuna</dd>
                     
-                    {% if data['ricevimento'] != None %}
-                    <dt>Ricevimento</dt>
-                    <dd>{{ data['ricevimento'] }}</dd>
-                    {% endif %}
+                    
                   </dl>
                 </div>
               </div>
@@ -259,19 +262,20 @@
               </p>
 
               <ul class="list-group list-group-flush">
-                {% for com in data['comunicazioni'] %}
+                
                 <li class="list-group-item">
                   <div class="text-center">
-                    <div class="fw-bold">{{ com['titolo'] }}</div>
+                    <div class="fw-bold"></div>
                     <div class="badge bg-primary text-wrap">
-                      {{ com['data'] }}
+                      04-03-2021 11:35
                     </div>
                   </div>
                   <p class="text-break mt-2">
-                    {{ com['contenuto'] }}
+                    <p>La prima lezione si terrà il giorno 9 marzo 2021:</p>
+<p>Gli studenti sono pregati di iscriversi tramite microsoft team.<br>Il link per partecipare è il seguente:<br>https://teams.microsoft.com/l/meetup-join/19%3ad5956cdd78694839a2c1e3cc31173f82%40thread.tacv2/1614852841109?context=%7b%22Tid%22%3a%2224c5be2a-d764-40c5-9975-82d08ae47d0e%22%2c%22Oid%22%3a%227e318134-23b3-4b1a-b759-bddcfc99194e%22%7d</br></br></p>
                   </p>
                 </li>
-                {% endfor %}
+                
               </ul>
             </div>
 
@@ -287,19 +291,7 @@
               </p>
 
               <ul class="list-group list-group-flush">
-                {% for lez in data['lezioni'] %}
-                <li class="list-group-item">
-                  <div class="text-center">
-                    <div class="fw-bold">{{ lez['id'] }}</div>
-                    <div class="badge bg-primary text-wrap">
-                      {{ lez['data'] }}
-                    </div>
-                  </div>
-                  <p class="text-break mt-2">
-                    {{ lez['contenuto'] }}
-                  </p>
-                </li>
-                {% endfor %}
+                
               </ul>
             </div>
 
@@ -313,24 +305,11 @@
               <p class="text-center m-2">
                 <span class="auto-write-text h4">> Materiale</span>
               </p>
-              {% if data['materiale']|length > 0 %}
-              <ul class="list-group list-group-flush">
-              {% for m in data['materiale'] %}
-              <li class="list-group-item">
-                <a href="{{ m['link'] }}" style="text-decoration: none;">
-                  <img src="../../assets/icons/icons8-salva-80.png" alt="save" width="28px">
-                </a>
-                <div class="d-inline-block fw-bold">
-                  {{ m['titolo'] }}
-                </div>
-                <div class="d-inline-block text-muted">- {{ m['dimensione'] }}</div>
-              </li> 
-              {% endfor %}
-              {% else %}
+              
               <p class="h4 text-center m-2 text-muted">
                 Il docente non ha caricato nessun contenuto :(
               </p>
-              {% endif %}
+              
               </ul>
             </div>
 
@@ -345,15 +324,11 @@
                 <p class="text-center m-2">
                   <span class="auto-write-text h4">> Programma</span>
                 </p>
-                {% if data['programma'] != None %}
-                <div class="p-2">
-                  {{ data['programma'] }}
-                </div>
-                {% else %}
+                
                 <p class="h4 text-center m-2 text-muted">
                   Il docente non ha caricato nessun contenuto :(
                 </p>
-                {% endif %}
+                
               </div>
             </div>
 
@@ -367,15 +342,11 @@
               <p class="text-center m-2">
                 <span class="auto-write-text h4">> Testi di riferimento</span>
               </p>
-              {% if data['testi-riferimento'] != None %}
-              <div class="p-2">
-                {{ data['testi-riferimento'] }}
-              </div>
-              {% else %}
+              
               <p class="h4 text-center m-2 text-muted">
                 Il docente non ha caricato nessun contenuto :(
               </p>
-              {% endif %}
+              
             </div>
 
           </div>

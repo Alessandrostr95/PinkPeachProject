@@ -93,9 +93,9 @@
           class="border col-12 col-lg-3 order-first accordion-flush m-0 p-0"
         >
           <p class="h3 text-center m-2">
-            {{ data['nome'] }}
+            Elementi di analisi numerica
           </p>
-          <p class="h5 text-muted text-center m-2">- {{ data['codice'] }} -</p>
+          <p class="h5 text-muted text-center m-2">- EAN -</p>
 
           <div class="accordion m-0" id="accordionPanelsStayOpenExample">
             <div class="accordion-item">
@@ -119,36 +119,33 @@
                 <div class="accordion-body">
                   <dl>
                     <dt>Docente</dt>
-                    {% for docente in data['docenti'] %}
+                    
                     <dd>
-                      <a href="./docenti.html#{{ docente['id_name'] }}">
-                        {{ docente['name'] }}
+                      <a href="./docenti.html#di-fiore-carmine">
+                        Carmine Di Fiore
                       </a>
                     </dd>
-                    {% endfor %}
+                    
 
                     <dt>A.A.</dt>
-                    <dd>{{ data['anno-accademico'] }}</dd>
+                    <dd>2020-2021</dd>
 
                     <dt>CFU</dt>
-                    <dd>{{ data['crediti'] }}</dd>
+                    <dd>8</dd>
 
                     <dt>Settore</dt>
-                    <dd>{{ data['settore'] }}</dd>
+                    <dd>MAT/08</dd>
 
                     <dt>Anno</dt>
-                    <dd>{{ data['anno'] }}°</dd>
+                    <dd>1°</dd>
 
                     <dt>Semestre</dt>
-                    <dd>{{ data['semestre'] }}</dd>
+                    <dd>1</dd>
 
                     <dt>Propedeuticità</dt>
-                    <dd>{{ data['propedeuticità'] }}</dd>
+                    <dd>Nessuna</dd>
                     
-                    {% if data['ricevimento'] != None %}
-                    <dt>Ricevimento</dt>
-                    <dd>{{ data['ricevimento'] }}</dd>
-                    {% endif %}
+                    
                   </dl>
                 </div>
               </div>
@@ -259,19 +256,7 @@
               </p>
 
               <ul class="list-group list-group-flush">
-                {% for com in data['comunicazioni'] %}
-                <li class="list-group-item">
-                  <div class="text-center">
-                    <div class="fw-bold">{{ com['titolo'] }}</div>
-                    <div class="badge bg-primary text-wrap">
-                      {{ com['data'] }}
-                    </div>
-                  </div>
-                  <p class="text-break mt-2">
-                    {{ com['contenuto'] }}
-                  </p>
-                </li>
-                {% endfor %}
+                
               </ul>
             </div>
 
@@ -287,19 +272,7 @@
               </p>
 
               <ul class="list-group list-group-flush">
-                {% for lez in data['lezioni'] %}
-                <li class="list-group-item">
-                  <div class="text-center">
-                    <div class="fw-bold">{{ lez['id'] }}</div>
-                    <div class="badge bg-primary text-wrap">
-                      {{ lez['data'] }}
-                    </div>
-                  </div>
-                  <p class="text-break mt-2">
-                    {{ lez['contenuto'] }}
-                  </p>
-                </li>
-                {% endfor %}
+                
               </ul>
             </div>
 
@@ -313,24 +286,11 @@
               <p class="text-center m-2">
                 <span class="auto-write-text h4">> Materiale</span>
               </p>
-              {% if data['materiale']|length > 0 %}
-              <ul class="list-group list-group-flush">
-              {% for m in data['materiale'] %}
-              <li class="list-group-item">
-                <a href="{{ m['link'] }}" style="text-decoration: none;">
-                  <img src="../../assets/icons/icons8-salva-80.png" alt="save" width="28px">
-                </a>
-                <div class="d-inline-block fw-bold">
-                  {{ m['titolo'] }}
-                </div>
-                <div class="d-inline-block text-muted">- {{ m['dimensione'] }}</div>
-              </li> 
-              {% endfor %}
-              {% else %}
+              
               <p class="h4 text-center m-2 text-muted">
                 Il docente non ha caricato nessun contenuto :(
               </p>
-              {% endif %}
+              
               </ul>
             </div>
 
@@ -345,15 +305,11 @@
                 <p class="text-center m-2">
                   <span class="auto-write-text h4">> Programma</span>
                 </p>
-                {% if data['programma'] != None %}
-                <div class="p-2">
-                  {{ data['programma'] }}
-                </div>
-                {% else %}
+                
                 <p class="h4 text-center m-2 text-muted">
                   Il docente non ha caricato nessun contenuto :(
                 </p>
-                {% endif %}
+                
               </div>
             </div>
 
@@ -367,15 +323,11 @@
               <p class="text-center m-2">
                 <span class="auto-write-text h4">> Testi di riferimento</span>
               </p>
-              {% if data['testi-riferimento'] != None %}
-              <div class="p-2">
-                {{ data['testi-riferimento'] }}
-              </div>
-              {% else %}
+              
               <p class="h4 text-center m-2 text-muted">
                 Il docente non ha caricato nessun contenuto :(
               </p>
-              {% endif %}
+              
             </div>
 
           </div>

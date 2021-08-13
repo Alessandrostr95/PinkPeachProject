@@ -93,9 +93,9 @@
           class="border col-12 col-lg-3 order-first accordion-flush m-0 p-0"
         >
           <p class="h3 text-center m-2">
-            {{ data['nome'] }}
+            Sicurezza dei sistemi informativi
           </p>
-          <p class="h5 text-muted text-center m-2">- {{ data['codice'] }} -</p>
+          <p class="h5 text-muted text-center m-2">- SSI -</p>
 
           <div class="accordion m-0" id="accordionPanelsStayOpenExample">
             <div class="accordion-item">
@@ -119,36 +119,42 @@
                 <div class="accordion-body">
                   <dl>
                     <dt>Docente</dt>
-                    {% for docente in data['docenti'] %}
+                    
                     <dd>
-                      <a href="./docenti.html#{{ docente['id_name'] }}">
-                        {{ docente['name'] }}
+                      <a href="./docenti.html#talamo-maurizio">
+                        Maurizio Talamo
                       </a>
                     </dd>
-                    {% endfor %}
+                    
+                    <dd>
+                      <a href="./docenti.html#dimitri-andrea">
+                        Andrea Dimitri
+                      </a>
+                    </dd>
+                    
 
                     <dt>A.A.</dt>
-                    <dd>{{ data['anno-accademico'] }}</dd>
+                    <dd>2020-2021</dd>
 
                     <dt>CFU</dt>
-                    <dd>{{ data['crediti'] }}</dd>
+                    <dd>9</dd>
 
                     <dt>Settore</dt>
-                    <dd>{{ data['settore'] }}</dd>
+                    <dd>INF/01</dd>
 
                     <dt>Anno</dt>
-                    <dd>{{ data['anno'] }}°</dd>
+                    <dd>2°</dd>
 
                     <dt>Semestre</dt>
-                    <dd>{{ data['semestre'] }}</dd>
+                    <dd>2</dd>
 
                     <dt>Propedeuticità</dt>
-                    <dd>{{ data['propedeuticità'] }}</dd>
+                    <dd>Nessuna</dd>
                     
-                    {% if data['ricevimento'] != None %}
+                    
                     <dt>Ricevimento</dt>
-                    <dd>{{ data['ricevimento'] }}</dd>
-                    {% endif %}
+                    <dd><table><tr><td><p>I docenti ricevono gli studenti previo appuntamento concordato via mail (da richiedere a andrea.dimitri@uniroma2.it).</p></td></tr></table></dd>
+                    
                   </dl>
                 </div>
               </div>
@@ -259,19 +265,7 @@
               </p>
 
               <ul class="list-group list-group-flush">
-                {% for com in data['comunicazioni'] %}
-                <li class="list-group-item">
-                  <div class="text-center">
-                    <div class="fw-bold">{{ com['titolo'] }}</div>
-                    <div class="badge bg-primary text-wrap">
-                      {{ com['data'] }}
-                    </div>
-                  </div>
-                  <p class="text-break mt-2">
-                    {{ com['contenuto'] }}
-                  </p>
-                </li>
-                {% endfor %}
+                
               </ul>
             </div>
 
@@ -287,19 +281,7 @@
               </p>
 
               <ul class="list-group list-group-flush">
-                {% for lez in data['lezioni'] %}
-                <li class="list-group-item">
-                  <div class="text-center">
-                    <div class="fw-bold">{{ lez['id'] }}</div>
-                    <div class="badge bg-primary text-wrap">
-                      {{ lez['data'] }}
-                    </div>
-                  </div>
-                  <p class="text-break mt-2">
-                    {{ lez['contenuto'] }}
-                  </p>
-                </li>
-                {% endfor %}
+                
               </ul>
             </div>
 
@@ -313,24 +295,20 @@
               <p class="text-center m-2">
                 <span class="auto-write-text h4">> Materiale</span>
               </p>
-              {% if data['materiale']|length > 0 %}
+              
               <ul class="list-group list-group-flush">
-              {% for m in data['materiale'] %}
+              
               <li class="list-group-item">
-                <a href="{{ m['link'] }}" style="text-decoration: none;">
+                <a href="http://www.informatica.uniroma2.it/upload/2020/SSI/PresentazioneCorsoSSI.pdf" style="text-decoration: none;">
                   <img src="../../assets/icons/icons8-salva-80.png" alt="save" width="28px">
                 </a>
                 <div class="d-inline-block fw-bold">
-                  {{ m['titolo'] }}
+                  <span style="text-decoration: underline;">Presentazione del corso.</span>
                 </div>
-                <div class="d-inline-block text-muted">- {{ m['dimensione'] }}</div>
+                <div class="d-inline-block text-muted">- 963 KB</div>
               </li> 
-              {% endfor %}
-              {% else %}
-              <p class="h4 text-center m-2 text-muted">
-                Il docente non ha caricato nessun contenuto :(
-              </p>
-              {% endif %}
+              
+              
               </ul>
             </div>
 
@@ -345,15 +323,35 @@
                 <p class="text-center m-2">
                   <span class="auto-write-text h4">> Programma</span>
                 </p>
-                {% if data['programma'] != None %}
+                
                 <div class="p-2">
-                  {{ data['programma'] }}
+                  <table><tr><td><p><span style="font-family: Verdana, Arial, Helvetica, sans-serif;"><span style="font-size: 10px;">1) La Sicurezza di un sistema gerarchico</span></span></p>
+<p><span style="font-family: Verdana, Arial, Helvetica, sans-serif;"><span style="font-size: 10px;">      1.a   Gli obiettivi del security layer: autenticazione delle parti, confidenzialità e integrità, non ripudiabilità</span></span></p>
+<p><span style="font-family: Verdana, Arial, Helvetica, sans-serif;"><span style="font-size: 10px;">      1.b   Crittografia simmetrica e asimmetrica</span></span></p>
+<p><span style="font-family: Verdana, Arial, Helvetica, sans-serif;"><span style="font-size: 10px;">      1.c   PKI, certificati digitali</span></span></p>
+<p><span style="font-family: Verdana, Arial, Helvetica, sans-serif;"><span style="font-size: 10px;">      1.d   La firma elettronica</span></span></p>
+<p><span style="font-family: Verdana, Arial, Helvetica, sans-serif;"><span style="font-size: 10px;">      1.e   Il protocollo SSL/TLS  </span></span></p>
+<p> </p>
+<p><span style="font-family: Verdana, Arial, Helvetica, sans-serif;"><span style="font-size: 10px;">2) La Sicurezza di un sistema cooperativo</span></span></p>
+<p><span style="font-family: Verdana, Arial, Helvetica, sans-serif;"><span style="font-size: 10px;">      2.a   Formalizzazione di un sistema cooperativo attraverso WFL</span></span></p>
+<p><span style="font-family: Verdana, Arial, Helvetica, sans-serif;"><span style="font-size: 10px;">      2.b   Monitoraggio dei task e delle applicazioni</span></span></p>
+<p><span style="font-family: Verdana, Arial, Helvetica, sans-serif;"><span style="font-size: 10px;">      2.c   Anomaly detection systems e analisi delle reti</span></span></p>
+<p><span style="font-family: Verdana, Arial, Helvetica, sans-serif;"><span style="font-size: 10px;">      2.d   Entropia e monitoraggio dei processi </span></span></p>
+<p> </p>
+<p><span style="font-family: Verdana, Arial, Helvetica, sans-serif;"><span style="font-size: 10px;">3) La Sicurezza di una rete sociale</span></span></p>
+<p><span style="font-family: Verdana, Arial, Helvetica, sans-serif;"><span style="font-size: 10px;">      3.1   Definizione di social network e social network analysis </span></span></p>
+<p><span style="font-family: Verdana, Arial, Helvetica, sans-serif;"><span style="font-size: 10px;">      3.2   Analisi locale e globale di una social network</span></span></p>
+<p><span style="font-family: Verdana, Arial, Helvetica, sans-serif;"><span style="font-size: 10px;">      3.3   La funzione di trust</span></span></p>
+<p><span style="font-family: Verdana, Arial, Helvetica, sans-serif;"><span style="font-size: 10px;">      3.4   Costruzione di un firewall applicativo attraverso la SNA </span></span></p>
+<p> </p>
+<p><span style="font-family: Verdana, Arial, Helvetica, sans-serif;"><span style="font-size: 10px;">4) La Sicurezza di un sistema distribuito</span></span></p>
+<p><span style="font-family: Verdana, Arial, Helvetica, sans-serif;"><span style="font-family: Verdana, Arial, Helvetica, sans-serif;">     4.1  Sistemi non gerarchizzabili e approcci distribuiti ai problemi</span></span></p>
+<p><span style="font-family: Verdana, Arial, Helvetica, sans-serif;"><span style="font-family: Verdana, Arial, Helvetica, sans-serif;">     4.2   Distributed Ledgers Technology e Blockchain theory</span></span></p>
+<p><span style="font-family: Verdana, Arial, Helvetica, sans-serif;"><span style="font-family: Verdana, Arial, Helvetica, sans-serif;">     4.3   Sicurezza nelle DLT</span></span></p>
+<p> </p>
+<p> </p></td></tr></table>
                 </div>
-                {% else %}
-                <p class="h4 text-center m-2 text-muted">
-                  Il docente non ha caricato nessun contenuto :(
-                </p>
-                {% endif %}
+                
               </div>
             </div>
 
@@ -367,15 +365,11 @@
               <p class="text-center m-2">
                 <span class="auto-write-text h4">> Testi di riferimento</span>
               </p>
-              {% if data['testi-riferimento'] != None %}
+              
               <div class="p-2">
-                {{ data['testi-riferimento'] }}
+                <table><tr><td><p>Slide e materiale didattico distribuito dal docente durante le lezioni oppure, su richiesta, via mail.</p></td></tr></table>
               </div>
-              {% else %}
-              <p class="h4 text-center m-2 text-muted">
-                Il docente non ha caricato nessun contenuto :(
-              </p>
-              {% endif %}
+              
             </div>
 
           </div>

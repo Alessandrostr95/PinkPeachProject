@@ -61,7 +61,7 @@ def get(s:str):
     """
         Filtra le stringhe "nulle"
     """
-    if s != 'null' and s != '':
+    if s != 'null' and s != '' and s!="<table><tr><td>null</td></tr></table>":
         return s
     else:
         return None

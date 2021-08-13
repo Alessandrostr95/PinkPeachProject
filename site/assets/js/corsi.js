@@ -9,9 +9,9 @@ window.onload = function() {
 
     window.onscroll = function() {
         var currentScrollPos = window.pageYOffset;
-        var h = barraMenu.style.height;
+        // var h = barraMenu.style.height;
 
-        if (prevScrollpos > currentScrollPos) {
+        if (prevScrollpos > currentScrollPos + 5) {
             barraMenu.style.top = "0";
             barraMenu.classList.add("ombra-menu");
         } else {
