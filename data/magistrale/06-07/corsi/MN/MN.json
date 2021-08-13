@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Metodi numerici per l'ottimizzazione",
+  "docente": [
+    {
+      "first_name": "Stefano",
+      "second_name": "Fanelli"
+    }
+  ],
+  "annoAccademico": "2006-2007",
+  "crediti": "6",
+  "settore": "",
+  "anno": "1",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>Viene di seguito presentata una base di programma da concordare \r\ncon gli studenti frequentanti in funzione dei loro curricula e del \r\ncorrispondente livello di preparazione scientifica.\r\n\r\nUna visione unitaria per i problemi del Calcolo Numerico, della\r\nOttimizzazione e della Scienza del Calcolo: l'approccio del\r\ngradiente. \r\nProblemi di ottimizzazione non vincolata.\r\nAlgoritmi per la ricerca di massimi e minimi locali.\r\nMetodi classici del gradiente: il metodo di discesa piu' ripida ed \r\nil metodo del gradiente coniugato\r\nIl metodo di Newton-Raphson.\r\nMetodi Quasi-Newton: il metodo DFP ed il metodo BFGS. \r\nAlgoritmi per l'ottimizzazione globale.\r\nAttrattori e repulsori terminali.\r\nApplicazioni a problemi di ottimizzazione su rete neuronale MLP.\r\nProblemi sospetti e non sospetti.\r\nProblemi di ottimizzazione vincolata. \r\nProblemi di programmazione convessa e non lineare generale.\r\nCondizioni di Kuhn-Tucker.\r\nAlgoritmi per problemi di programmazione convessa.\r\nIl metodo di Wolfe, il metodo del gradiente ridotto e del\r\ngradiente proiettato.\r\nIl caso lineare: l'algoritmo di Gonzaga-Karmarkar.\r\nIl caso lineare a variabili intere: l'algoritmo dei tagli di\r\nGomory, l'algoritmo asintotico, l'algoritmo di Hu, l'approccio \r\n\"greedy\".\r\n\r\n         \r\n\r\n\r\n \r\n\r\n\r\n\r\n           </td></tr></table>",
+  "testiRiferimento": "<table><tr><td></td></tr></table>",
+  "ricevimento": "<table><tr><td></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

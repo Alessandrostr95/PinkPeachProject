@@ -1,6 +1,11 @@
 {
   "nomeCorso": "Intelligenza artificiale 2",
-  "docente": "Armando Stellato",
+  "docente": [
+    {
+      "first_name": "Armando",
+      "second_name": "Stellato"
+    }
+  ],
   "annoAccademico": "2020-2021",
   "crediti": "6",
   "settore": "ING-INF/05",
@@ -10,8 +15,8 @@
   "comunicazioni": [],
   "lezioni": [],
   "materiale": [],
-  "programma": "Tutto ci\u00f2 che concerne il corso di Intelligenza Artificiale 2 pu\u00f2 essere trovato alla pagina:\n\nhttp://art.uniroma2.it/teaching/lod",
-  "testiRiferimento": "null",
-  "ricevimento": "null",
-  "modalit\u00e0Esame": "null"
+  "programma": "<table><tr><td><p>Tutto ci\u00f2 che concerne il corso di Intelligenza Artificiale 2 pu\u00f2 essere trovato alla pagina:</p>\n<p>\u00a0</p>\n<p><a href=\"http://art.uniroma2.it/teaching/lod\">http://art.uniroma2.it/teaching/lod</a></p>\n<p>\u00a0</p>\n<p>\u00a0</p></td></tr></table>",
+  "testiRiferimento": "<table><tr><td>null</td></tr></table>",
+  "ricevimento": "<table><tr><td>null</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
 }

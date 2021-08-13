@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Metodi di verifica di sistemi",
+  "docente": [
+    {
+      "first_name": "Benedetto",
+      "second_name": "Intrigila"
+    }
+  ],
+  "annoAccademico": "2017-2018",
+  "crediti": "6",
+  "settore": "INF/01",
+  "anno": "2",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td><p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Model checking. Approccio esplicito e simbolico.</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Nella parte avanzata del corso verranno considerati:</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">l'uso del model checking nel planning e/o per i sistemi ibridi.</p></td></tr></table>",
+  "testiRiferimento": "<table><tr><td><p><span style=\"font-family: Verdana, Arial, Helvetica, sans-serif;\"><span style=\"font-size: 12px;\">Systems and Software Verification</span></span></p>\n<p><span style=\"font-family: Verdana, Arial, Helvetica, sans-serif;\"><span style=\"font-size: 12px;\">Model-Checking Techniques and Tools</span></span></p>\n<p><span style=\"font-family: Verdana, Arial, Helvetica, sans-serif;\"><span style=\"font-size: 12px;\">Autori: Berard, B., Bidoit, M., Finkel, A., Laroussinie, F.,\u00a0</span></span></p>\n<p><span style=\"font-family: Verdana, Arial, Helvetica, sans-serif;\"><span style=\"font-size: 12px;\">Petit, A., Petrucci, L., Schnoebelen, P</span></span></p></td></tr></table>",
+  "ricevimento": "<table><tr><td>null</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

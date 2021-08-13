@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Sicurezza dei sistemi informativi",
+  "docente": [
+    {
+      "first_name": "Andrea",
+      "second_name": "Dimitri"
+    }
+  ],
+  "annoAccademico": "2014-2015",
+  "crediti": "9",
+  "settore": "INF/01",
+  "anno": "2",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td><p>0) Richiami di sicurezza informatica: crittografia simmetrica, crittografia asimmetrica, public key infrastructure.</p>\n<p>1) Rappresentazione di Sistemi Cooperativi attraverso insiemi di Workflow graphs.\u00a0</p>\n<p>\u00a0</p>\n<p>2) Individuazione di un sottoinsieme di Tasks e di Users. La nascita della Virtual Organization(VO). Le problematiche di gestione\u00a0della frontiera.</p>\n<p>\u00a0</p>\n<p>3) Definizione analitica del Workflow graph (WFG) di una Virtual Organization. Definizione e studio delle propriet\u00e0 che deve\u00a0avere un WFG.\u00a0</p>\n<p>\u00a0</p>\n<p>4) Sicurezza di un sistema informatico.</p>\n<p>\u00a0</p>\n<p>5) Sistemi di monitoraggio e anomaly detection. Sistemi centrali e sistemi distribuiti.</p>\n<p>\u00a0</p>\n<p>6) Monitoraggio della rete.</p>\n<p>\u00a0</p>\n<p>7) Monitoraggio del file system.</p>\n<p>\u00a0</p>\n<p>8) Monitoraggio di altre tipologie di dati (DB, Hardware systems, etc.).</p>\n<p>\u00a0</p>\n<p>9) Cenni su learning theory e sistemi dinamici di anomaly detection.</p>\n<p>\u00a0</p>\n<p>Materiale didattico:</p>\n<p>dispense a cura del docente.</p></td></tr></table>",
+  "testiRiferimento": "<table><tr><td><p>Per la preparazione all'esame sono disponibili delle dispense da richiedere al</p>\n<p>docente tramite email all'indirizzo</p>\n<p>\u00a0</p>\n<p>andrea.dimitri@uniroma2.it</p></td></tr></table>",
+  "ricevimento": "<table><tr><td><p>Ogni informazione, cos\u00ec come un appuntamento, possono essere richiesti al docente attraverso</p>\n<p>l'invio di una email all'indirizzo</p>\n<p>\u00a0</p>\n<p>andrea.dimitri@uniroma2.it</p></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td><p>L'esame \u00e8 orale.</p></td></tr></table>"
+}

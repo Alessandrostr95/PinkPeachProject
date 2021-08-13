@@ -1,0 +1,630 @@
+{
+  "nomeCorso": "Sistemi operativi e reti",
+  "docente": [
+    {
+      "first_name": "Pietro",
+      "second_name": "Frasca"
+    }
+  ],
+  "annoAccademico": "2019-2020",
+  "crediti": "12",
+  "settore": "INF/01",
+  "anno": "2",
+  "semestre": "1-2",
+  "propedeuticit\u00e0": "Architettura dei sistemi di elaborazione. Programmazione dei calcolatori con laboratorio.",
+  "comunicazioni": [
+    {
+      "titolo": "Ordine temporale esame SOR appello 2 sessione estiva A.A. 2019/2020",
+      "data": "06-07-2020 11:05",
+      "contenuto": "<p>Si comunica che gli studenti prenotati per l'esama di SOR, appello 2 della sessione estiva, svolgeranno l'esame via MS Teams nell' l'ordine temporale mostrato nella seguente tabella:</p>\n<p>\u00a0</p>\n<p style=\"text-align: center;\"><strong>Marted\u00ec 7/07/2020 ore 9:00</strong></p>\n<p>\u00a0</p>\n<div align=\"center\">\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"MsoNormalTable\" style=\"width: 359.15pt; border-collapse: collapse; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 3.5pt 0cm 3.5pt;\" width=\"0\">\n<tbody>\n<tr style=\"mso-yfti-irow: 0; mso-yfti-firstrow: yes; height: 14.4pt;\">\n<td nowrap=\"nowrap\" style=\"width: 48.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 14.4pt;\" valign=\"bottom\" width=\"108\">\n<p align=\"center\" class=\"MsoNormal\" style=\"text-align: center;\">1</p>\n</td>\n<td nowrap=\"nowrap\" style=\"width: 88.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 14.4pt;\" valign=\"top\" width=\"199\">\n<p class=\"MsoNormal\">PRIMICERJ</p>\n</td>\n<td nowrap=\"nowrap\" style=\"width: 76.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 14.4pt;\" valign=\"top\" width=\"172\">\n<p class=\"MsoNormal\">GIULIA</p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 1; height: 14.4pt;\">\n<td nowrap=\"nowrap\" style=\"width: 48.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 14.4pt;\" valign=\"bottom\" width=\"108\">\n<p align=\"center\" class=\"MsoNormal\" style=\"text-align: center;\">2</p>\n</td>\n<td nowrap=\"nowrap\" style=\"width: 88.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 14.4pt;\" valign=\"top\" width=\"199\">\n<p class=\"MsoNormal\">VIGLIANTI</p>\n</td>\n<td nowrap=\"nowrap\" style=\"width: 76.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 14.4pt;\" valign=\"top\" width=\"172\">\n<p class=\"MsoNormal\">GIUSEPPE</p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 2; height: 14.4pt;\">\n<td nowrap=\"nowrap\" style=\"width: 48.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 14.4pt;\" valign=\"bottom\" width=\"108\">\n<p align=\"center\" class=\"MsoNormal\" style=\"text-align: center;\">3</p>\n</td>\n<td nowrap=\"nowrap\" style=\"width: 88.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 14.4pt;\" valign=\"top\" width=\"199\">\n<p class=\"MsoNormal\">HARKOT</p>\n</td>\n<td nowrap=\"nowrap\" style=\"width: 76.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 14.4pt;\" valign=\"top\" width=\"172\">\n<p class=\"MsoNormal\">IHOR</p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 3; height: 14.4pt;\">\n<td nowrap=\"nowrap\" style=\"width: 48.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 14.4pt;\" valign=\"bottom\" width=\"108\">\n<p align=\"center\" class=\"MsoNormal\" style=\"text-align: center;\">4</p>\n</td>\n<td nowrap=\"nowrap\" style=\"width: 88.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 14.4pt;\" valign=\"top\" width=\"199\">\n<p class=\"MsoNormal\">ANZIVINO</p>\n</td>\n<td nowrap=\"nowrap\" style=\"width: 76.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 14.4pt;\" valign=\"top\" width=\"172\">\n<p class=\"MsoNormal\">ANDREA</p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 4; height: 14.4pt;\">\n<td nowrap=\"nowrap\" style=\"width: 48.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 14.4pt;\" valign=\"bottom\" width=\"108\">\n<p align=\"center\" class=\"MsoNormal\" style=\"text-align: center;\">5</p>\n</td>\n<td nowrap=\"nowrap\" style=\"width: 88.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 14.4pt;\" valign=\"top\" width=\"199\">\n<p class=\"MsoNormal\">PAPALINO</p>\n</td>\n<td nowrap=\"nowrap\" style=\"width: 76.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 14.4pt;\" valign=\"top\" width=\"172\">\n<p class=\"MsoNormal\">GABRIELE MARIA</p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 5; height: 14.4pt;\">\n<td nowrap=\"nowrap\" style=\"width: 48.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 14.4pt;\" valign=\"bottom\" width=\"108\">\n<p align=\"center\" class=\"MsoNormal\" style=\"text-align: center;\">6</p>\n</td>\n<td nowrap=\"nowrap\" style=\"width: 88.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 14.4pt;\" valign=\"top\" width=\"199\">\n<p class=\"MsoNormal\">TARCA</p>\n</td>\n<td nowrap=\"nowrap\" style=\"width: 76.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 14.4pt;\" valign=\"top\" width=\"172\">\n<p class=\"MsoNormal\">MARCO</p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 6; height: 14.4pt;\">\n<td nowrap=\"nowrap\" style=\"width: 48.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 14.4pt;\" valign=\"bottom\" width=\"108\">\n<p align=\"center\" class=\"MsoNormal\" style=\"text-align: center;\">7</p>\n</td>\n<td nowrap=\"nowrap\" style=\"width: 88.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 14.4pt;\" valign=\"top\" width=\"199\">\n<p class=\"MsoNormal\">CELLI</p>\n</td>\n<td nowrap=\"nowrap\" style=\"width: 76.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 14.4pt;\" valign=\"top\" width=\"172\">\n<p class=\"MsoNormal\">ARIANNA</p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 7; height: 14.4pt;\">\n<td nowrap=\"nowrap\" style=\"width: 48.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 14.4pt;\" valign=\"bottom\" width=\"108\">\n<p align=\"center\" class=\"MsoNormal\" style=\"text-align: center;\">8</p>\n</td>\n<td nowrap=\"nowrap\" style=\"width: 88.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 14.4pt;\" valign=\"top\" width=\"199\">\n<p class=\"MsoNormal\">MARINELLI</p>\n</td>\n<td nowrap=\"nowrap\" style=\"width: 76.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 14.4pt;\" valign=\"top\" width=\"172\">\n<p class=\"MsoNormal\">MATTEO</p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 8; height: 14.4pt;\">\n<td nowrap=\"nowrap\" style=\"width: 48.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 14.4pt;\" valign=\"bottom\" width=\"108\">\n<p align=\"center\" class=\"MsoNormal\" style=\"text-align: center;\">9</p>\n</td>\n<td nowrap=\"nowrap\" style=\"width: 88.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 14.4pt;\" valign=\"top\" width=\"199\">\n<p class=\"MsoNormal\">LAURETTI</p>\n</td>\n<td nowrap=\"nowrap\" style=\"width: 76.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 14.4pt;\" valign=\"top\" width=\"172\">\n<p class=\"MsoNormal\">NICHOLAS</p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 9; mso-yfti-lastrow: yes; height: 14.4pt;\">\n<td nowrap=\"nowrap\" style=\"width: 48.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 14.4pt;\" valign=\"bottom\" width=\"108\">\n<p align=\"center\" class=\"MsoNormal\" style=\"text-align: center;\">10</p>\n</td>\n<td nowrap=\"nowrap\" style=\"width: 88.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 14.4pt;\" valign=\"top\" width=\"199\">\n<p class=\"MsoNormal\">EIVAZOVA</p>\n</td>\n<td nowrap=\"nowrap\" style=\"width: 76.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 14.4pt;\" valign=\"top\" width=\"172\">\n<p class=\"MsoNormal\">TETIANA</p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n<p>\u00a0</p>\n<p>\u00a0</p>\n<div align=\"center\">\u00a0</div>\n<div align=\"center\" style=\"text-align: center;\"><strong>Venerd\u00ec 10/07/2020 ore 9:00</strong></div>\n<div align=\"center\" style=\"text-align: center;\">\u00a0</div>\n<div align=\"center\" style=\"text-align: center;\">\n<div align=\"center\">\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"MsoNormalTable\" style=\"width: 359.15pt; border-collapse: collapse; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 3.5pt 0cm 3.5pt;\" width=\"0\">\n<tbody>\n<tr style=\"mso-yfti-irow: 0; mso-yfti-firstrow: yes; height: 14.4pt;\">\n<td nowrap=\"nowrap\" style=\"width: 48.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 14.4pt;\" width=\"108\">\n<p align=\"center\" class=\"MsoNormal\" style=\"text-align: center;\"><span style=\"font-size: 11pt; font-family: Calibri, sans-serif;\">11</span></p>\n</td>\n<td nowrap=\"nowrap\" style=\"width: 88.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 14.4pt;\" width=\"199\">\n<p class=\"MsoNormal\">PORCEDDU</p>\n</td>\n<td nowrap=\"nowrap\" style=\"width: 76.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 14.4pt;\" width=\"172\">\n<p class=\"MsoNormal\">MARTINO</p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 1; height: 14.4pt;\">\n<td nowrap=\"nowrap\" style=\"width: 48.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 14.4pt;\" width=\"108\">\n<p align=\"center\" class=\"MsoNormal\" style=\"text-align: center;\"><span style=\"font-size: 11pt; font-family: Calibri, sans-serif;\">12</span></p>\n</td>\n<td nowrap=\"nowrap\" style=\"width: 88.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 14.4pt;\" width=\"199\">\n<p class=\"MsoNormal\">CIRILLO</p>\n</td>\n<td nowrap=\"nowrap\" style=\"width: 76.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 14.4pt;\" width=\"172\">\n<p class=\"MsoNormal\">MICHELE</p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 2; height: 14.4pt;\">\n<td nowrap=\"nowrap\" style=\"width: 48.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 14.4pt;\" width=\"108\">\n<p align=\"center\" class=\"MsoNormal\" style=\"text-align: center;\"><span style=\"font-size: 11pt; font-family: Calibri, sans-serif;\">13</span></p>\n</td>\n<td nowrap=\"nowrap\" style=\"width: 88.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 14.4pt;\" width=\"199\">\n<p class=\"MsoNormal\">ALESSI</p>\n</td>\n<td nowrap=\"nowrap\" style=\"width: 76.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 14.4pt;\" width=\"172\">\n<p class=\"MsoNormal\">DAVIDE</p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 3; height: 14.4pt;\">\n<td nowrap=\"nowrap\" style=\"width: 48.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 14.4pt;\" width=\"108\">\n<p align=\"center\" class=\"MsoNormal\" style=\"text-align: center;\"><span style=\"font-size: 11pt; font-family: Calibri, sans-serif;\">14</span></p>\n</td>\n<td nowrap=\"nowrap\" style=\"width: 88.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 14.4pt;\" width=\"199\">\n<p class=\"MsoNormal\">MILANI</p>\n</td>\n<td nowrap=\"nowrap\" style=\"width: 76.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 14.4pt;\" width=\"172\">\n<p class=\"MsoNormal\">MARIA GRAZIA</p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 4; height: 14.4pt;\">\n<td nowrap=\"nowrap\" style=\"width: 48.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 14.4pt;\" width=\"108\">\n<p align=\"center\" class=\"MsoNormal\" style=\"text-align: center;\"><span style=\"font-size: 11pt; font-family: Calibri, sans-serif;\">15</span></p>\n</td>\n<td nowrap=\"nowrap\" style=\"width: 88.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 14.4pt;\" width=\"199\">\n<p class=\"MsoNormal\">PEPE</p>\n</td>\n<td nowrap=\"nowrap\" style=\"width: 76.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 14.4pt;\" width=\"172\">\n<p class=\"MsoNormal\">FRANCESCO</p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 5; height: 14.4pt;\">\n<td nowrap=\"nowrap\" style=\"width: 48.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 14.4pt;\" width=\"108\">\n<p align=\"center\" class=\"MsoNormal\" style=\"text-align: center;\"><span style=\"font-size: 11pt; font-family: Calibri, sans-serif;\">16</span></p>\n</td>\n<td nowrap=\"nowrap\" style=\"width: 88.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 14.4pt;\" width=\"199\">\n<p class=\"MsoNormal\">IZZO</p>\n</td>\n<td nowrap=\"nowrap\" style=\"width: 76.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 14.4pt;\" width=\"172\">\n<p class=\"MsoNormal\">EMANUELE</p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 6; height: 14.4pt;\">\n<td nowrap=\"nowrap\" style=\"width: 48.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 14.4pt;\" width=\"108\">\n<p align=\"center\" class=\"MsoNormal\" style=\"text-align: center;\"><span style=\"font-size: 11pt; font-family: Calibri, sans-serif;\">17</span></p>\n</td>\n<td nowrap=\"nowrap\" style=\"width: 88.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 14.4pt;\" width=\"199\">\n<p class=\"MsoNormal\">RINALDI</p>\n</td>\n<td nowrap=\"nowrap\" style=\"width: 76.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 14.4pt;\" width=\"172\">\n<p class=\"MsoNormal\">ALESSIO</p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 7; height: 14.4pt;\">\n<td nowrap=\"nowrap\" style=\"width: 48.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 14.4pt;\" width=\"108\">\n<p align=\"center\" class=\"MsoNormal\" style=\"text-align: center;\"><span style=\"font-size: 11pt; font-family: Calibri, sans-serif;\">18</span></p>\n</td>\n<td nowrap=\"nowrap\" style=\"width: 88.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 14.4pt;\" width=\"199\">\n<p class=\"MsoNormal\">LUPI</p>\n</td>\n<td nowrap=\"nowrap\" style=\"width: 76.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 14.4pt;\" width=\"172\">\n<p class=\"MsoNormal\">ALESSANDRO</p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 8; height: 14.4pt;\">\n<td nowrap=\"nowrap\" style=\"width: 48.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 14.4pt;\" width=\"108\">\n<p align=\"center\" class=\"MsoNormal\" style=\"text-align: center;\"><span style=\"font-size: 11pt; font-family: Calibri, sans-serif;\">19</span></p>\n</td>\n<td nowrap=\"nowrap\" style=\"width: 88.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 14.4pt;\" width=\"199\">\n<p class=\"MsoNormal\">VITTORI</p>\n</td>\n<td nowrap=\"nowrap\" style=\"width: 76.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 14.4pt;\" width=\"172\">\n<p class=\"MsoNormal\">MARCO</p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 9; height: 14.4pt;\">\n<td nowrap=\"nowrap\" style=\"width: 48.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 14.4pt;\" width=\"108\">\n<p align=\"center\" class=\"MsoNormal\" style=\"text-align: center;\"><span style=\"font-size: 11pt; font-family: Calibri, sans-serif;\">20</span></p>\n</td>\n<td nowrap=\"nowrap\" style=\"width: 88.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 14.4pt;\" width=\"199\">\n<p class=\"MsoNormal\">CATENACCI</p>\n</td>\n<td nowrap=\"nowrap\" style=\"width: 76.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 14.4pt;\" width=\"172\">\n<p class=\"MsoNormal\">ALESSANDRO</p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 10; mso-yfti-lastrow: yes; height: 14.4pt;\">\n<td nowrap=\"nowrap\" style=\"width: 48.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 14.4pt;\" width=\"108\">\n<p align=\"center\" class=\"MsoNormal\" style=\"text-align: center;\"><span style=\"font-size: 11pt; font-family: Calibri, sans-serif;\">21</span></p>\n</td>\n<td nowrap=\"nowrap\" style=\"width: 88.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 14.4pt;\" width=\"199\">\n<p class=\"MsoNormal\">MURRU</p>\n</td>\n<td nowrap=\"nowrap\" style=\"width: 76.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 14.4pt;\" width=\"172\">\n<p class=\"MsoNormal\">LEONARDO</p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n<p>\u00a0</p><hr/>"
+    },
+    {
+      "titolo": "Modalit\u00e0 d'esame per il corso SOR per gli appelli d'esame della sessione estiva",
+      "data": "25-06-2020 10:33",
+      "contenuto": "<p>Per sostenere l'eame lo studente deve seguire i seguenti passi:</p>\n<p>1) prenotarsi su Delphi come di consueto;</p>\n<p>2) registrarsi al Teams di Sistemi operativi e reti (se ancora non registrato);</p>\n<p>3) partecipare alla riunione Teams alla data e all'ora di svolgimento dell'esame.</p>\n<p>\u00a0</p>\n<p>L'esame si svolger\u00e0 via MS Teams sottoforma di colloquio logicamente diviso in due parti. La prima parte del colloquio sar\u00e0 basata su argomenti tipici di una prova scritta. In particolare, lo studente dovr\u00e0 scrivere e/o spiegare il codice di un'applicazione</p>\n<p>multi processo e/o multi thread, essere in grado di descrivere un progetto di rete intranet con relativo schema hardware e piano d'indirizzamento, rispondere ad altre domande poste sottoforma di problemi. Se lo studente supera la prima parte del colloquio, rispondendo in modo soddisfacente, passer\u00e0 immediatamente a svolgere la seconda parte del colloquio che riguarda\u00a0 argomenti, tipici di una prova orale.</p>\n<p>\u00a0</p>\n<p>Si ricorda che nella sezione<em> Materiale didattico</em> del corso SOR sono disponibili:</p>\n<ul>\n<li>Raccolta di testi d'esame di Sistemi operativi e reti.</li>\n<li>Raccolta di esempi di system call. La raccolta contiene esempi di base sull'uso delle chiamate di sistema descritte durante il corso e molte soluzioni di problemi d'esame (programmi multiprocesso e multithread).\u00a0</li>\n</ul>\n<p>Al termine dell'ultima lezione, che si svolger\u00e0 gioved\u00ec 4 giugno, lo studente potr\u00e0 chiedere eventuali chiarimenti sulla modalit\u00e0 d'esame.</p>\n<p>\u00a0</p>\n<p>Le prove d'esame on line per gli appelli estivi si svolgeranno\u00a0 nei seguenti giorni:</p>\n<p>\u00a0</p>\n<p><em>Appello1\u00a0</em></p>\n<p>\u00a0 \u00a015/06/2020 ore 9:00\u00a0 e 19/06/2020 ore 9:00 colloquio on line</p>\n<p>\u00a0</p>\n<p><em>Appello 2</em></p>\n<p><em>\u00a0 </em>7/07/2020 ore 9:00 e 10/07/2020 ore 9:00 colloquio on line</p><hr/>"
+    },
+    {
+      "titolo": "Ordine temporale esame SOR appello 1 sessione estiva A.A. 2019/2020",
+      "data": "14-06-2020 18:21",
+      "contenuto": "<p>Si comunica che gli studenti prenotati per l'esama di SOR, appello 1 della sessione estiva, svolgeranno l'esame via MS Teams nell' l'ordine temporale mostrato nella seguente tabella:</p>\n<p>\u00a0</p>\n<p><strong>Luned\u00ec 15/06/2020 ore 9:00</strong></p>\n<p>\u00a0</p>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse: collapse; width: 212pt;\" width=\"283\"><colgroup><col style=\"width: 48pt;\" width=\"64\"/> <col style=\"mso-width-source: userset; mso-width-alt: 4152; width: 88pt;\" width=\"117\"/> <col style=\"mso-width-source: userset; mso-width-alt: 3612; width: 76pt;\" width=\"102\"/> </colgroup>\n<tbody>\n<tr style=\"height: 14.4pt;\">\n<td align=\"right\" height=\"19\" style=\"height: 14.4pt; width: 48pt; text-align: center;\" width=\"64\">1</td>\n<td style=\"width: 88pt;\" width=\"117\">PATRIZI</td>\n<td style=\"width: 76pt;\" width=\"102\">ARIANNA</td>\n</tr>\n<tr style=\"height: 14.4pt;\">\n<td align=\"right\" height=\"19\" style=\"height: 14.4pt; text-align: center;\">2</td>\n<td>STELLA</td>\n<td>ANDREA</td>\n</tr>\n<tr style=\"height: 14.4pt;\">\n<td align=\"right\" height=\"19\" style=\"height: 14.4pt; text-align: center;\">3</td>\n<td>SAMRI</td>\n<td>FATIMA</td>\n</tr>\n<tr style=\"height: 14.4pt;\">\n<td align=\"right\" height=\"19\" style=\"height: 14.4pt; text-align: center;\">4</td>\n<td>D'ARIENZO</td>\n<td>DANIELE</td>\n</tr>\n<tr style=\"height: 14.4pt;\">\n<td align=\"right\" height=\"19\" style=\"height: 14.4pt; text-align: center;\">5</td>\n<td>STRAZIOTA</td>\n<td>ALESSANDRO</td>\n</tr>\n<tr style=\"height: 14.4pt;\">\n<td align=\"right\" height=\"19\" style=\"height: 14.4pt; text-align: center;\">6</td>\n<td>MASI</td>\n<td>GIUSEPPE</td>\n</tr>\n<tr style=\"height: 14.4pt;\">\n<td align=\"right\" height=\"19\" style=\"height: 14.4pt; text-align: center;\">7</td>\n<td>PASCARELLA</td>\n<td>VALERIO</td>\n</tr>\n<tr style=\"height: 14.4pt;\">\n<td align=\"right\" height=\"19\" style=\"height: 14.4pt; text-align: center;\">8</td>\n<td>MONACO</td>\n<td>MARCO</td>\n</tr>\n<tr style=\"height: 14.4pt;\">\n<td align=\"right\" height=\"19\" style=\"height: 14.4pt; text-align: center;\">9</td>\n<td>PINSONE</td>\n<td>FRANCESCO</td>\n</tr>\n<tr style=\"height: 14.4pt;\">\n<td align=\"right\" height=\"19\" style=\"height: 14.4pt; text-align: center;\">10</td>\n<td>RAIMONDO</td>\n<td>MARCO</td>\n</tr>\n<tr style=\"height: 14.4pt;\">\n<td align=\"right\" height=\"19\" style=\"height: 14.4pt; text-align: center;\">11</td>\n<td>VENDITTI</td>\n<td>DAVIDE</td>\n</tr>\n</tbody>\n</table>\n<p>\u00a0</p>\n<p>\u00a0</p>\n<p><strong>Venerd\u00ec 19/06/2020 ore 9:00</strong></p>\n<p>\u00a0</p>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse: collapse; width: 212pt;\" width=\"283\"><colgroup><col style=\"width: 48pt;\" width=\"64\"/> <col style=\"mso-width-source: userset; mso-width-alt: 4152; width: 88pt;\" width=\"117\"/> <col style=\"mso-width-source: userset; mso-width-alt: 3612; width: 76pt;\" width=\"102\"/> </colgroup>\n<tbody>\n<tr style=\"height: 14.4pt;\">\n<td class=\"xl65\" height=\"19\" style=\"height: 14.4pt; width: 48pt; text-align: center;\" width=\"64\">12</td>\n<td style=\"width: 88pt;\" width=\"117\">DEL RIO</td>\n<td style=\"width: 76pt;\" width=\"102\">LUCA</td>\n</tr>\n<tr style=\"height: 14.4pt;\">\n<td class=\"xl65\" height=\"19\" style=\"height: 14.4pt; text-align: center;\">13</td>\n<td>FRATARCANGELI</td>\n<td>FILIPPO</td>\n</tr>\n<tr style=\"height: 14.4pt;\">\n<td class=\"xl65\" height=\"19\" style=\"height: 14.4pt; text-align: center;\">14</td>\n<td>GIULIANI</td>\n<td>GABRIELE</td>\n</tr>\n<tr style=\"height: 14.4pt;\">\n<td class=\"xl65\" height=\"19\" style=\"height: 14.4pt; text-align: center;\">15</td>\n<td>LOMBARDOZZI</td>\n<td>GILBERTO</td>\n</tr>\n<tr style=\"height: 14.4pt;\">\n<td class=\"xl65\" height=\"19\" style=\"height: 14.4pt; text-align: center;\">16</td>\n<td>SALVATORI</td>\n<td>LEONARDO</td>\n</tr>\n<tr style=\"height: 14.4pt;\">\n<td class=\"xl65\" height=\"19\" style=\"height: 14.4pt; text-align: center;\">17</td>\n<td>PENNA</td>\n<td>MARCO</td>\n</tr>\n<tr style=\"height: 14.4pt;\">\n<td class=\"xl65\" height=\"19\" style=\"height: 14.4pt; text-align: center;\">18</td>\n<td>IABONI</td>\n<td>EMANUELE</td>\n</tr>\n<tr style=\"height: 14.4pt;\">\n<td class=\"xl65\" height=\"19\" style=\"height: 14.4pt; text-align: center;\">19</td>\n<td>HARKOT</td>\n<td>IHOR</td>\n</tr>\n<tr style=\"height: 14.4pt;\">\n<td class=\"xl65\" height=\"19\" style=\"height: 14.4pt; text-align: center;\">20</td>\n<td>CATENACCI</td>\n<td>ALESSANDRO</td>\n</tr>\n<tr style=\"height: 14.4pt;\">\n<td class=\"xl65\" height=\"19\" style=\"height: 14.4pt; text-align: center;\">21</td>\n<td>IABONI</td>\n<td>FEDERICO</td>\n</tr>\n<tr style=\"height: 14.4pt;\">\n<td class=\"xl65\" height=\"19\" style=\"height: 14.4pt; text-align: center;\">22</td>\n<td>RANALDI</td>\n<td>FEDERICO</td>\n</tr>\n</tbody>\n</table>\n<p>\u00a0</p><hr/>"
+    },
+    {
+      "titolo": "Lezioni di Sistemi operativi reti on line (Microsoft Teams)",
+      "data": "16-03-2020 19:10",
+      "contenuto": "<p>A partire da marted\u00ec 17 marzo le lezioni di Sistemi operativi si svolgeranno a distanza su piattaforma Teams. Le lezioni si svolgeranno con l'orario gi\u00e0 stabilito: il marted\u00ec dalle 11:00 alle 13:00 e il gioved\u00ec dalle 14:00 alle 16:00.</p><hr/>"
+    },
+    {
+      "titolo": "Risultati esame prova scritta appello 6 e esonero 2 (A.A. 2019/2020)",
+      "data": "13-02-2020 16:32",
+      "contenuto": "<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"><a href=\"upload/2019/SOR/Risultati_SOR_AP6_EP2_10-02-2020.pdf\" target=\"_blank\">Risultati</a>\u00a0della prova scritta appello 6 A.A. 2018/2019 e dell'esonero 2\u00a0 A.A. 2019/2020</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"><a href=\"upload/2019/SOR/Esame_SOR_A6-10-02-2020.pdf\">Testo</a>\u00a0della prova scritta appello 6 A.A. 2018/2019 e dell'esonero 2\u00a0 A.A. 2019/2020</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">La prova orale del'appello 6 (A.A. 2018/2019) e dell'esonero 2 (A.A. 2019/2020) di Sistemi operativi e reti si svolger\u00e0 :</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Venerd\u00ec 14\u00a0 febbraio 2020 alle ore 10:00 in aula 3A;</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Potranno sostenere la prova orale gli studenti che hanno conseguito una votazione di almeno 18/30.\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Gli studenti che non hanno superato la prova scritta possono visionare i propri compiti e chiedere spiegazioni durante lo svolgimento della prova orale.</p><hr/>"
+    },
+    {
+      "titolo": "Risultati esame prova scritta appello 5 e esonero 1 (A.A. 2019/2020)",
+      "data": "27-01-2020 17:39",
+      "contenuto": "<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">I Risultati e il testo\u00a0della prova scritta appello 5 A.A. 2018/2019 e dell'esonero 1\u00a0 A.A. 2019/2020 sono pubblicati nella sezione \"Materale didattico\".</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"><a href=\"upload/2018/SOR/Risultati_SOR_A5_EP1_24-01-2020.pdf\" target=\"_blank\"><span style=\"color: black; font-family: verdana, arial, helvetica, sans-serif;\">\u00a0</span></a></p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">La prova orale del'appello 5 (A.A. 2018/2019) e dell'esonero 1 (A.A. 2019/2020) di Sistemi operativi e reti si svolger\u00e0\u00a0marted\u00ec 28/01/2020 alle ore 10:00 in aula 3A.</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p><hr/>"
+    },
+    {
+      "titolo": "Esonero Sistemi operativi e reti A.A. 2019/2020",
+      "data": "08-01-2020 17:16",
+      "contenuto": "<p>L'esonero di sistemi operativi e reti a.a. 2019/2020 si svolger\u00e0 in due appelli mutualmente esclusivi. Pertanto, uno studente pu\u00f2 partecipare, a scelta, solo a uno dei due appelli.</p>\n<p>Le date e le aule\u00a0 delle prove scritte dell'esonero sono le seguenti:</p>\n<p>\u00a0</p>\n<p>- appello 1: 24/01/2020 ore 10:00 aula 4PP2</p>\n<p>- appello 2: 10/02/2020 ore 10:00 aula T4</p>\n<p>\u00a0</p>\n<p>Lo studente che intende sostenere l'esonero in uno dei due appelli deve prenotarsi inviando, entro il 20/01/2020 per il primo appello e entro il 6/02/2020 per il secondo, una e-mail all'indirizzo del docente: Pietro.Frasca@uniroma2.it, indicando come oggetto la frase \"Esonero SOR A.A. 2019/2020\" e indicando nel messaggio soltanto i propri cognome, nome, numero di matricola e l'appello scelto (1 o 2) nel seguente formato:</p>\n<p>\u00a0</p>\n<p>COGNOME NOME MATRICOLA APPELLO</p>\n<p>\u00a0</p>\n<p>\u00a0Esempio:</p>\n<p>\u00a0</p>\n<p>\u00a0FRASCA PIETRO 00101 2</p>\n<p>\u00a0</p>\n<p>Nel riguadro \"modalit\u00e0 d'esame\" sono scritte informazioni dettagliate sullo svolgimento dell'esonero.\u00a0</p>"
+    }
+  ],
+  "lezioni": [
+    {
+      "id": "48",
+      "data": "04-06-2020",
+      "contenuto": "<p>Reti wireless. Collegamenti wireless e caratteristiche di rete.\u00a0Wi-Fi 802.11. Canali e associazioni.\u00a0 Scansione attiva e passiva. Il protocollo CSMA/CA. Host nascosti: RTS e CTS. Frame IEEE 802.11. Utilizzo di IEEE 802.11 per collegamenti punto-punto. Esempio di progettazione LAN.\u00a0<em>(NOTA: lezione svolta a distanza con MS Teams)</em></p>"
+    },
+    {
+      "id": "47",
+      "data": "28-05-2020",
+      "contenuto": "<p>Ethernet. Struttura del frame Ethernet. CSMA/CD di Ethernet. Efficienza di Ethernet. Tecnologie Ethernet. Hub.\u00a0Switch dello strato di collegamento. Confronto tra switch e router. Lan virtuali (VLAN).\u00a0<em>(NOTA: lezione svolta a distanza con MS Teams)</em></p>"
+    },
+    {
+      "id": "46",
+      "data": "26-05-2020",
+      "contenuto": "<p>Protocolli di accesso multiplo. Protocolli a suddivisione di canale. Protocolli di accesso casuale. CSMA e CSMA/CD. Protocolli a turno. Reti LAN. Indirizzi LAN. ARP. Invio di datagram a nodi interni alla LAN.\u00a0Invio di datagram a nodi esterni alla LAN.\u00a0<em>(NOTA: lezione svolta a distanza con MS Teams)</em></p>"
+    },
+    {
+      "id": "45",
+      "data": "21-05-2020",
+      "contenuto": "<p>Lo strato di collegamento. Servizi offerti dallo strato di collegamento. Adattatori (schede di rete). Tecniche di rilevazione e correzione degli errori. Controllo di parit\u00e0. Controllo di parit\u00e0 a due dimensioni. Somma di controllo.\u00a0Controllo a ridondanza ciclica. Esempio di calcolo CRC.\u00a0<em>(NOTA: lezione svolta a distanza con MS Teams)</em></p>"
+    },
+    {
+      "id": "44",
+      "data": "19-05-2020",
+      "contenuto": "<p>Esempi di uso del BGP nelle reti stub e nelle reti stub multi homed. I-BGP. Instradamento multicast. Gruppi multicasta. IGMP.\u00a0Algoritmi di instradamento multicast (solo conclusioni). Esempio di applicazione multicast in Java.\u00a0<em>(NOTA: lezione svolta a distanza con MS Teams)</em></p>"
+    },
+    {
+      "id": "43",
+      "data": "14-05-2020",
+      "contenuto": "<p>Instradamento in Internet. Instradamento intra-sistema. RIP. OSPF. Instradamento inter-sistema. BGP. Reti stub e reti stub multi homed. Funzionamento del BGP. I messaggi BGP.\u00a0\u00a0<em>(NOTA: lezione svolta a distanza con MS Teams)</em></p>"
+    },
+    {
+      "id": "42",
+      "data": "12-05-2020",
+      "contenuto": "<p>IPv6. Formato del datagram IPv6. Passaggio da IPv4 a IPv6. Metodo dual-stack. Metodo del tunneling. ICMP. ICMP per IPv6. Algoritmi di instradamento. Algoritmi di instradamento LS. Algoritmi di instradamento DV. Confronto tra LS e DV.\u00a0</p>"
+    },
+    {
+      "id": "41",
+      "data": "07-05-2020",
+      "contenuto": "<p>Indirizzamento per classe. Indirizzamento CIDR. Assegnazione di indirizzi IP. Configurazione delle interfacce di rete di host e router. DHCP. Traduzione degli indirizzi di rete (NAT). UPnP (Universal Plug and Play).\u00a0<em>(NOTA: lezione svolta a distanza con MS Teams)</em></p>"
+    },
+    {
+      "id": "40",
+      "data": "05-05-2020",
+      "contenuto": "<p>Livello di rete. Reti a circuito virtuale. Reti datagram. Il protocollo IP. Formato dei datagram IPv4. Frammentazione del datagram IPv4. Indirizzamento IPv4.\u00a0<em>(NOTA: lezione svolta a distanza con MS Teams)</em></p>"
+    },
+    {
+      "id": "39",
+      "data": "30-04-2020",
+      "contenuto": "<p>Trasferimento affidabile dei dati. Alcuni tipici scenari. Raddoppio dell'intervallo di timeout. Ritrasmissione rapida. Controllo del flusso. Controllo della congestione TCP. AIMD. Partenza lenta. Reazione a eventi di timeout. Prevenzione della congestione. Calcolo semplificato del throughput TCP.\u00a0<em>(NOTA: lezione svolta a distanza con MS Teams)</em></p>"
+    },
+    {
+      "id": "38",
+      "data": "28-04-2020",
+      "contenuto": "<p>Trasporto orientato alla connessione: TCP. Struttura del segmento TCP. Numeri di sequenza e numeri di riscontro.\u00a0 Esempio di numeri di sequenza e di riscontro. Stima del tempo di andata e ritorno (RTT) e timeout. Calcolo del timeout per le ritrasmissioni. Instaurazione della connessione TCP.\u00a0<em>(NOTA: lezione svolta a distanza con MS Teams)</em></p>"
+    },
+    {
+      "id": "37",
+      "data": "23-04-2020",
+      "contenuto": "<p>Programmazione delle socket con UDP. Esempio di applicazione C/S con UDP. Lo strato di trasporto. Multiplexing e demultiplexing nell'UDP e nel TCP. ll protocollo UDP. Struttura del segmento UDP. Checksum di UDP.\u00a0<em>(NOTA: lezione svolta a distanza con MS Teams)</em></p>"
+    },
+    {
+      "id": "36",
+      "data": "21-04-2020",
+      "contenuto": "<p>Confronto tra le architetture C/S e P2P. Programmazione delle socket. Programmazione delle socket con TCP. Esempio di applicazione C/S TCP in Java.\u00a0<em>(NOTA: lezione svolta a distanza con MS Teams)</em>\u00a0</p>"
+    },
+    {
+      "id": "35",
+      "data": "16-04-2020",
+      "contenuto": "<p>Video Internet. Streaming HTTP e DASH. Applicazioni P2P. P2P con database centralizzato e distruito. Inondazione di richieste. Tabelle hash distribuite (DHT). DHT circolare. BitTorrent (sola lettura).\u00a0<em>(NOTA: lezione svolta a distanza con MS Teams)</em></p>"
+    },
+    {
+      "id": "34",
+      "data": "14-04-2020",
+      "contenuto": "<p>Record DNS. Messaggi DNS. Distribuzione di contenuti. Server proxy. Esempio d'uso di server proxy. Reti per la distribuzione di contenuti (CDN).\u00a0\u00a0<em>(NOTA: lezione svolta a distanza con MS Teams)</em></p>"
+    },
+    {
+      "id": "33",
+      "data": "09-04-2020",
+      "contenuto": "<p>Protocolli di accesso alla posta. POP3. IMAP. Posta elettronica con HTTP. DNS. Servizi forniti dal DNS. Funzionamento del DNS. DNS: database distribuiti e gerarchici. Cache DNS.\u00a0<em>(NOTA: lezione svolta a distanza con MS Teams)</em></p>"
+    },
+    {
+      "id": "32",
+      "data": "07-04-2020",
+      "contenuto": "<p>Il protocollo FTP. Modalit\u00e0 attiva e passiva. Comandi FTP. Posta elettronica. SMTP.\u00a0Formati dei messaggi di posta e MIME. Estensioni MIME per dati non ascii. Esempi di messaggi con intestazioni MIMe. Esempi di messaggi multipart/mixed. Il messaggio ricevuto.\u00a0<em>(NOTA: lezione svolta a distanza con MS Teams)</em></p>"
+    },
+    {
+      "id": "31",
+      "data": "02-04-2020",
+      "contenuto": "<p>Get condizionale.\u00a0Interazione utente-server: autorizzazione e cookie. Connessione non persistente e persistente. Connessioni non persistenti in parallelismo\u00a0 e in serie. Connessione persistente senza parallelismo e con parallelismo.\u00a0<em>(NOTA: lezione svolta a distanza con MS Teams)</em></p>"
+    },
+    {
+      "id": "30",
+      "data": "31-03-2020",
+      "contenuto": "<p>Applicazioni di rete. Web. Il protocollo HTTP. Formato del messaggio di richiesta HTTP. Formato del messaggio di risposta HTTP.\u00a0<em>(NOTA: lezione svolta a distanza con MS Teams)</em></p>"
+    },
+    {
+      "id": "29",
+      "data": "26-03-2020",
+      "contenuto": "<p>I Livelli di Internet e i servizi che forniscono. Livello di applicazione. Architetture e protocolli dello strato di applicazione Indirizzamento dei processi. Processi di comunicazione nella rete. Servizi formiti dai protocolli di trasporto alle applicazioni. Requisiti di servizio delle applicazioni.\u00a0Servizi forniti dai protocolli di trasporto.\u00a0<em>(NOTA: lezione svolta a distanza con MS Teams)</em></p>"
+    },
+    {
+      "id": "28",
+      "data": "24-03-2020",
+      "contenuto": "<p>Gli ISP e le reti dorsali di Internet. Ritardi e perdite nelle reti a commutazione di pacchetto. Tipi di ritardo: trasmissione, propagazione, elaborazione, coda. Ritardo totale. Ritardo da host a host. Ritardi e percorsi in Internet. Traceroute e tracert. Perdita di pacchetti. Intensit\u00e0 del traffico.\u00a0Gli strati di Internet\u00a0 e i servizi che forniscono. Lo stack protocollare di Internet e il modello ISO OSI.\u00a0<em>(NOTA: lezione svolta a distanza con MS Teams)</em></p>"
+    },
+    {
+      "id": "27",
+      "data": "19-03-2020",
+      "contenuto": "<p>Mezzi trasmissivi. Doppini in rame. Cavi coassiali. Fibre ottiche. Canali radio terrestri. Canali radio satellitari. Accesso alla rete Internet. Accesso residenziale, aziendale e wireless. <em>(NOTA: lezione svolta a distanza con MS Teams)</em></p>"
+    },
+    {
+      "id": "26",
+      "data": "17-03-2020",
+      "contenuto": "<p>La sezione interna della rete (nucleo). Commutazione di circuito. Multiplazione (multiplexing) nelle reti a commutazione di circuito. FDM e TDM. Commutazione di pacchetto. Confronto tra commutazione di circuito e commutazione di pacchetto. Frammentazione del messaggio. Reti a commutazione di pacchetto datagram.<em> (NOTA: lezione svolta a distanza con MS Teams)</em></p>"
+    },
+    {
+      "id": "25",
+      "data": "03-03-2020",
+      "contenuto": "<p>Internet. Descrizione dei servizi. Definizione di protocollo di rete. Applicazioni client/server. Servizi senza connessione e orientati alla connessione.</p>"
+    },
+    {
+      "id": "24",
+      "data": "09-01-2020",
+      "contenuto": "<p>Allocazione dei dispositivi e tecniche di spooling. Livello dipendente dai dispositivi (driver). Controller di un dispositivo. Funzionamento del dispositivo. Comunicazione tra processo e dispositivo. Gestione di un dispositivo mediante controllo di programma. Gestione di un dispositivo mediante interruzione. Descrittore di un dispositivo. La struttura dati del descrittore di dispositivo. Gestione di un dispositivo con DMA. Driver di un dispositivo. Flusso di controllo durante un trasferimento.\u00a0</p>"
+    },
+    {
+      "id": "23",
+      "data": "07-01-2020",
+      "contenuto": "<p>Protezione di file e directory. Protezione in Unix. Gestione dell\u2019I/O. Classificazione dei dispositivi. Struttura logica del sottosistema di I/O. Livello indipendente dai dispositivi. Bufferizzazione. Gestione degli errori e delle eccezioni.</p>"
+    },
+    {
+      "id": "22",
+      "data": "19-12-2019",
+      "contenuto": "<p>Organizzazione fisica del file system Unix. Strutture dati del kernel per l\u2019accesso ai file. System call per i file: open, close, read, write, lseek. Esempi di SC dei file.\u00a0</p>"
+    },
+    {
+      "id": "21",
+      "data": "17-12-2019",
+      "contenuto": "<p>l livello di accesso al file system. Strutture dati e operazioni di accesso ai fileMetodi di accesso. Accesso sequenziale. Accesso diretto. Accesso a indice. Il livello organizzazione fisica. Tecniche di allocazione dei file. Allocazione contigua, a lista concatenata, a indice. Il livello dispositivo virtuale. Il file system nei sistemi Unix-like. Struttura logica del file system.</p>"
+    },
+    {
+      "id": "20",
+      "data": "12-12-2019",
+      "contenuto": "<p>\u00a0Criteri di ordinamento dei dati su disco e politiche di scheduling.\u00a0Esempio memorizzazione di dati su disco. Scheduling del disco. Algoritmi FCFS, SSFT e SCAN. Tecnologia dischi RAID.\u00a0 Il file system. La struttura logica del file system. File e directory. Gestione della struttura logica del file system.</p>"
+    },
+    {
+      "id": "19",
+      "data": "10-12-2019",
+      "contenuto": "<p>Memoria segmentata e paginata. Gestione degli spazi virtuali. Paginazione a pi\u00f9 livelli.\u00a0Algoritmi di sostituzione delle pagine. Algoritmo seconda scelta. Gestione della memoria nei sistemi Unix. Gestione della memoria secondaria. Dischi e SSD. Organizzazione fisica dei dischi.</p>"
+    },
+    {
+      "id": "18",
+      "data": "05-12-2019",
+      "contenuto": "<p>Memoria paginata. Memoria virtuale. Segmentazione su richiesta. Paginazione su richiesta. Rimpiazzamento delle pagine.</p>"
+    },
+    {
+      "id": "17",
+      "data": "03-12-2019",
+      "contenuto": "<p>Protezione e condivisione di informazioni con spazio virtuale unico. Partizioni multiple. Memoria segmentata. Memoria paginata.</p>"
+    },
+    {
+      "id": "16",
+      "data": "28-11-2019",
+      "contenuto": "<p>Gestione della memoria. Creazione di un file eseguibile. Organizzazione dello spazio virtuale. Spazio viruale unico (lineare). Rilocazione statica e dinamica. Organizzazione\u00a0 dello spazio virtuale con modello di memoria segmentato. Memoria partizionata. Partizioni fisse. Partizioni variabili. Tecniche di allocazione mediante free list. Best-fit, First-fit e Worst-fit.</p>"
+    },
+    {
+      "id": "15",
+      "data": "26-11-2019",
+      "contenuto": "<p>Esempio di situazione di stallo. Condizioni per lo stallo. Metodi per il trattamento dello stallo. Prevenzione statica. Prevenzione dinamica. Algoritmo del banchiere. Esempio. Rilevamento dei blocchi critici. Esempio di soluzione al problema dei cinque filosofi.</p>"
+    },
+    {
+      "id": "14",
+      "data": "21-11-2019",
+      "contenuto": "<p>Algoritmi di scheduling real-time. Rate Nonotonic.\u00a0Scheduling in UNIX. Blocco critico (stallo). Rappresentazioni dello stato di allocazione delle risorse. Modelli basati su grafo. Modelli basati su matrici.\u00a0</p>"
+    },
+    {
+      "id": "13",
+      "data": "19-11-2019",
+      "contenuto": "<p>Principali algoritmi di scheduling. Shortest job first (SJF). Shortest Next Process First (SNPF). Shortest Remaining Time First (SRTF). Round Robin. Algoritmi di scheduling basati sulle priorit\u00e0. Algoritmi di scheduling a code multiple. Algoritmi di scheduling real-time. Scheduling in UNIX. Blocco critico (stallo). Rappresentazioni dello stato di allocazione delle risorse. Modelli basati su grafo. Algoritmi di scheduling basati sulle priorit\u00e0. Algoritmi di scheduling a code multiple.</p>"
+    },
+    {
+      "id": "12",
+      "data": "14-11-2019",
+      "contenuto": "<p>Esempio di sincronizzazione tra thread: soluzione modello produttore-consumatore con variabili condition. Scheduling della CPU. Scheduling a breve, medio e lungo termine. Comportamento dei processi. Parametri di scheduling.</p>"
+    },
+    {
+      "id": "11",
+      "data": "12-11-2019",
+      "contenuto": "<p>Sincronizzazione tra thread in POSIX. Mutex. Semafori. Variabili condition. Esempi.</p>"
+    },
+    {
+      "id": "10",
+      "data": "07-11-2019",
+      "contenuto": "<p>Comunicazione e sincronizzazione tra processi/thread. Soluzione al problema della comunicazione con semafori. Soluzione al problema della comunicazione con buffer di capacit\u00e0 1 e N. Interazione tra processi. Sincronizzazione con segnali. System call per l'uso dei segnali. Invio di segnali tra processi. Esempi.\u00a0</p>"
+    },
+    {
+      "id": "9",
+      "data": "05-11-2019",
+      "contenuto": "<p>I thread nello standard POSIX: la libreria pthreads. Creazione di thread. Terminazione di thread. Unione (join) di thread. Struttura di un'applicazione multithread. Esempi di un'applicazione multithread. Sincronizzazione tra processi/thread. Cooperazione e competizione tra processi/thread. Modello a memoria comune. Modello ad ambiente locale. Problema della mutua esclusione. Soluzioni al problema della mutua esclusione. Soluzione della mutua esclusione con strumenti basati su istruzioni tipo TSL. Le funzioni lock() e unlock(). Semafori. Soluzione al problema della mutua esclusione con semafori.</p>"
+    },
+    {
+      "id": "8",
+      "data": "31-10-2019",
+      "contenuto": "<p>Comunicazione con pipe. Esempio d'uso di pipe. Comunicazione con pipe con nome. Esempio d'uso di pipe con nome. Thread. Thread a livello utente. Modello da molti a uno. Thread a livello kernel. Modello da uno a uno. Modello da molti a molti.</p>"
+    },
+    {
+      "id": "7",
+      "data": "29-10-2019",
+      "contenuto": "<p>Scambio di messaggi (message passing). Comunicazione diretta e indiretta. Le funzioni send() e receive(). Comunicazione e sincronizzazione con send() e receive(). Code di messaggi. Code di messaggi POSIX. Esempi con code di messaggi POSIX.</p>"
+    },
+    {
+      "id": "6",
+      "data": "24-10-2019",
+      "contenuto": "<p>Comunicazione tra processi. Memoria condivisa. Modello produttore-consumatore. Esempio di comunicazioni tra processi non sincronizzati. Memoria condivisa in POSIX.\u00a0 Esempi applicativi.</p>"
+    },
+    {
+      "id": "5",
+      "data": "22-10-2019",
+      "contenuto": "<p>Operazioni sui processi. Creazione e terminazione dei processi.\u00a0 Creazione dei processi in POSIX. Fork. Esempio Fork. Sostituzione del codice. Famiglia di funzioni exec(). Esempio con execl(). Terminazione di processi. Le funzioni exit(), wait() e waitpid(). Esempi.</p>"
+    },
+    {
+      "id": "4",
+      "data": "17-10-2019",
+      "contenuto": "<p>Principali componenti del sistema operativo. Gestione dei processi. Concetto di processo. Stati di un processo. Transizioni di stato di un processo. Descrittore del processo (PCB). Code di processi. Scheduler. Cambio di contesto.</p>"
+    },
+    {
+      "id": "3",
+      "data": "15-10-2019",
+      "contenuto": "<p>Operazioni del sistema operativo. Funzionamento dual-mode. Timer. Ambienti di elaborazione. Computing tradizionale e mobile. Sistemi paralleli e distribuiti. Client-server e peer-to-peer. Cloud. Struttura e organizzazione software dei sistemi operativi. Struttura monolitica. Struttura stratificata. Struttura a microkernel. Struttura modulare. Struttura ibrida.\u00a0</p>"
+    },
+    {
+      "id": "2",
+      "data": "10-10-2019",
+      "contenuto": "<p>Sistemi a singolo processore. Sistemi multiprocessore. Cluster. Struttura del sistema operativo. Sistemi operativi batch multiprogrammati. Sistemi operativi time sharing. Sistemi in tempo reale. Sistemi embedded real-time. Sistemi operativi per personal computer.</p>"
+    },
+    {
+      "id": "1",
+      "data": "08-10-2019",
+      "contenuto": "<p>Presentazione del corso. Introduzione sui sistemi operativi. Funzionamento di un computer. Struttura della memoria. Struttura di I/O.</p>"
+    }
+  ],
+  "materiale": [
+    {
+      "titolo": "Raccolta di testi d'esame di Sistemi operativi e reti.",
+      "dataUpload": "14.01.2021 12:34:52",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/SOR/RaccoltaTestiEsameSOR-Dic2019.zip",
+      "dimensione": "5120 KB"
+    },
+    {
+      "titolo": "Appunti Reti di calcolatori - Lezione 24 (48) (lezione a distanza)",
+      "dataUpload": "08.06.2020 11:25:49",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/SOR/RETI LEZ24.pdf",
+      "dimensione": "713 KB"
+    },
+    {
+      "titolo": "Appunti Reti di calcolatori - Lezione 23 (47) (lezione a distanza)",
+      "dataUpload": "08.06.2020 11:24:49",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/SOR/RETI LEZ23.pdf",
+      "dimensione": "616 KB"
+    },
+    {
+      "titolo": "Appunti Reti di calcolatori - Lezione 22 (46) (lezione a distanza)",
+      "dataUpload": "27.05.2020 12:20:55",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/SOR/RETI LEZ22.pdf",
+      "dimensione": "611 KB"
+    },
+    {
+      "titolo": "Appunti Reti di calcolatori - Lezione 21 (45) (lezione a distanza)",
+      "dataUpload": "27.05.2020 12:20:28",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/SOR/RETI LEZ21.pdf",
+      "dimensione": "575 KB"
+    },
+    {
+      "titolo": "Appunti Reti di calcolatori - Lezione 20 (44) (lezione a distanza)",
+      "dataUpload": "21.05.2020 09:54:48",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/SOR/RETI LEZ20.pdf",
+      "dimensione": "532 KB"
+    },
+    {
+      "titolo": "Appunti Reti di calcolatori - Lezione 19 (43) (lezione a distanza)",
+      "dataUpload": "21.05.2020 09:54:12",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/SOR/RETI LEZ19.pdf",
+      "dimensione": "437 KB"
+    },
+    {
+      "titolo": "Appunti Reti di calcolatori - Lezione 18 (42) (lezione a distanza)",
+      "dataUpload": "21.05.2020 09:53:43",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/SOR/RETI LEZ18.pdf",
+      "dimensione": "430 KB"
+    },
+    {
+      "titolo": "Appunti Reti di calcolatori - Lezione 17 (41) (lezione a distanza)",
+      "dataUpload": "11.05.2020 14:37:58",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/SOR/RETI LEZ17.pdf",
+      "dimensione": "702 KB"
+    },
+    {
+      "titolo": "Appunti Reti di calcolatori - Lezione 16 (40) (lezione a distanza)",
+      "dataUpload": "11.05.2020 14:37:07",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/SOR/RETI LEZ16.pdf",
+      "dimensione": "662 KB"
+    },
+    {
+      "titolo": "Appunti Reti di calcolatori - Lezione 15 (39) (lezione a distanza)",
+      "dataUpload": "11.05.2020 14:36:45",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/SOR/RETI LEZ15.pdf",
+      "dimensione": "840 KB"
+    },
+    {
+      "titolo": "Appunti Reti di calcolatori - Lezione 14 (38) (lezione a distanza)",
+      "dataUpload": "11.05.2020 14:36:25",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/SOR/RETI LEZ14.pdf",
+      "dimensione": "761 KB"
+    },
+    {
+      "titolo": "Appunti Reti di calcolatori - Lezione 13 (37) (lezione a distanza)",
+      "dataUpload": "11.05.2020 14:36:00",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/SOR/RETI LEZ13.pdf",
+      "dimensione": "670 KB"
+    },
+    {
+      "titolo": "Appunti Reti di calcolatori - Lezione 12 (36) (lezione a distanza)",
+      "dataUpload": "11.05.2020 14:35:36",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/SOR/RETI LEZ12.pdf",
+      "dimensione": "693 KB"
+    },
+    {
+      "titolo": "Appunti Reti di calcolatori - Lezione 11 (35) (lezione a distanza)",
+      "dataUpload": "11.05.2020 14:35:18",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/SOR/RETI LEZ11.pdf",
+      "dimensione": "510 KB"
+    },
+    {
+      "titolo": "Appunti Reti di calcolatori - Lezione 10 (34) (lezione a distanza)",
+      "dataUpload": "11.05.2020 14:34:58",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/SOR/RETI LEZ10.pdf",
+      "dimensione": "1170 KB"
+    },
+    {
+      "titolo": "Appunti Reti di calcolatori - Lezione 9 (33) (lezione a distanza)",
+      "dataUpload": "14.04.2020 09:29:26",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/SOR/RETI LEZ09.pdf",
+      "dimensione": "753 KB"
+    },
+    {
+      "titolo": "Appunti Reti di calcolatori - Lezione 8 (32) (lezione a distanza)",
+      "dataUpload": "08.04.2020 08:59:56",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/SOR/RETI LEZ08.pdf",
+      "dimensione": "559 KB"
+    },
+    {
+      "titolo": "Appunti Reti di calcolatori - Lezione 7 (31) (lezione a distanza)",
+      "dataUpload": "08.04.2020 08:59:36",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/SOR/RETI LEZ07.pdf",
+      "dimensione": "583 KB"
+    },
+    {
+      "titolo": "Appunti Reti di calcolatori - Lezione 6 (30) (lezione a distanza)",
+      "dataUpload": "08.04.2020 08:59:13",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/SOR/RETI LEZ06.pdf",
+      "dimensione": "633 KB"
+    },
+    {
+      "titolo": "Appunti Reti di calcolatori - Lezione 5 (29) (lezione a distanza)",
+      "dataUpload": "31.03.2020 08:50:45",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/SOR/RETI LEZ05.pdf",
+      "dimensione": "476 KB"
+    },
+    {
+      "titolo": "Appunti Reti di calcolatori - Lezione 4 (28) (lezione a distanza)",
+      "dataUpload": "31.03.2020 08:50:24",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/SOR/RETI LEZ04.pdf",
+      "dimensione": "898 KB"
+    },
+    {
+      "titolo": "Appunti Reti di calcolatori - Lezione 3 (27) (lezione a distanza)",
+      "dataUpload": "23.03.2020 11:41:49",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/SOR/RETI LEZ03.pdf",
+      "dimensione": "871 KB"
+    },
+    {
+      "titolo": "Appunti Reti di calcolatori - Lezione 2 (26) (lezione a distanza)",
+      "dataUpload": "11.03.2020 10:08:44",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/SOR/RETI LEZ02.pdf",
+      "dimensione": "800 KB"
+    },
+    {
+      "titolo": "Appunti Reti di calcolatori - Lezione 1 (25)",
+      "dataUpload": "11.03.2020 10:06:41",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/SOR/RETI LEZ01.pdf",
+      "dimensione": "654 KB"
+    },
+    {
+      "titolo": "Testo prova scritta appello 6 A.A. 2018/2019 e esonero 2 A.A. 2019/2020.",
+      "dataUpload": "13.02.2020 16:15:53",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/SOR/Esame_SOR_A6-10-02-2020.pdf",
+      "dimensione": "520 KB"
+    },
+    {
+      "titolo": "Risultati prova scritta appello 6 A.A. 2018/2019 e esonero 2 A.A. 2019/2020.",
+      "dataUpload": "13.02.2020 16:12:57",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/SOR/Risultati_SOR_AP6_EP2_10-02-2020.pdf",
+      "dimensione": "205 KB"
+    },
+    {
+      "titolo": "Risultati prova scritta appello 5 A.A. 2018/2019 e esonero 1 A.A. 2019/2020.",
+      "dataUpload": "27.01.2020 16:41:33",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/SOR/Risultati_SOR_A5_EP1_24-01-2020.pdf",
+      "dimensione": "278 KB"
+    },
+    {
+      "titolo": "Testo prova scritta appello 5 A.A. 2018/2019 e esonero 1 A.A. 2019/2020.",
+      "dataUpload": "27.01.2020 16:40:19",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/SOR/Esame_SOR_A5-24-01-2020.pdf",
+      "dimensione": "430 KB"
+    },
+    {
+      "titolo": "Appunti Sistemi operativi - Lezione 24",
+      "dataUpload": "21.01.2020 14:27:09",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/SOR/SISTEMI OPERTATIVI LEZ24.pdf",
+      "dimensione": "623 KB"
+    },
+    {
+      "titolo": "Appunti Sistemi operativi - Lezione 23",
+      "dataUpload": "21.01.2020 14:26:57",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/SOR/SISTEMI OPERTATIVI LEZ23.pdf",
+      "dimensione": "625 KB"
+    },
+    {
+      "titolo": "Appunti Sistemi operativi - Lezione 22",
+      "dataUpload": "21.01.2020 14:26:39",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/SOR/SISTEMI OPERTATIVI LEZ22.pdf",
+      "dimensione": "461 KB"
+    },
+    {
+      "titolo": "Appunti Sistemi operativi - Lezione 21",
+      "dataUpload": "06.01.2020 18:38:42",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/SOR/SISTEMI OPERTATIVI LEZ21.pdf",
+      "dimensione": "565 KB"
+    },
+    {
+      "titolo": "Appunti Sistemi operativi - Lezione 20",
+      "dataUpload": "06.01.2020 18:38:23",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/SOR/SISTEMI OPERTATIVI LEZ20.pdf",
+      "dimensione": "342 KB"
+    },
+    {
+      "titolo": "Appunti Sistemi operativi - Lezione 19",
+      "dataUpload": "06.01.2020 18:38:09",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/SOR/SISTEMI OPERTATIVI LEZ19.pdf",
+      "dimensione": "418 KB"
+    },
+    {
+      "titolo": "Raccolta di esempi di system call. La raccolta contiene esempi di base sull'uso delle chiamate di sistema descritte durante il corso e molte soluzioni di problemi d'esame (programmi multiprocesso e multithread). Versione del 9-11-2018.",
+      "dataUpload": "18.12.2019 10:44:30",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/SOR/EsempiSystemCall_9-11-2018.zip",
+      "dimensione": "64 KB"
+    },
+    {
+      "titolo": "Appunti Sistemi operativi - Lezione 18",
+      "dataUpload": "09.12.2019 09:47:58",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/SOR/SISTEMI OPERTATIVI LEZ18.pdf",
+      "dimensione": "315 KB"
+    },
+    {
+      "titolo": "Appunti Sistemi operativi - Lezione 17",
+      "dataUpload": "05.12.2019 10:24:30",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/SOR/SISTEMI OPERTATIVI LEZ17.pdf",
+      "dimensione": "422 KB"
+    },
+    {
+      "titolo": "Appunti Sistemi operativi - Lezione 16",
+      "dataUpload": "05.12.2019 10:24:19",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/SOR/SISTEMI OPERTATIVI LEZ16.pdf",
+      "dimensione": "447 KB"
+    },
+    {
+      "titolo": "Appunti Sistemi operativi - Lezione 15",
+      "dataUpload": "26.11.2019 17:06:28",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/SOR/SISTEMI OPERTATIVI LEZ15.pdf",
+      "dimensione": "575 KB"
+    },
+    {
+      "titolo": "Appunti Sistemi operativi - Lezione 14",
+      "dataUpload": "25.11.2019 11:24:53",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/SOR/SISTEMI OPERTATIVI LEZ14.pdf",
+      "dimensione": "433 KB"
+    },
+    {
+      "titolo": "Appunti Sistemi operativi - Lezione 13",
+      "dataUpload": "20.11.2019 09:22:05",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/SOR/SISTEMI OPERTATIVI LEZ13.pdf",
+      "dimensione": "345 KB"
+    },
+    {
+      "titolo": "Appunti Sistemi operativi - Lezione 12",
+      "dataUpload": "18.11.2019 10:12:20",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/SOR/SISTEMI OPERTATIVI LEZ12.pdf",
+      "dimensione": "204 KB"
+    },
+    {
+      "titolo": "Appunti Sistemi operativi - Lezione 11",
+      "dataUpload": "13.11.2019 16:19:41",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/SOR/SISTEMI OPERTATIVI LEZ11.pdf",
+      "dimensione": "212 KB"
+    },
+    {
+      "titolo": "Appunti Sistemi operativi - Lezione 10",
+      "dataUpload": "09.11.2019 12:45:15",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/SOR/SISTEMI OPERTATIVI LEZ10.pdf",
+      "dimensione": "553 KB"
+    },
+    {
+      "titolo": "Appunti Sistemi operativi - Lezione 9",
+      "dataUpload": "06.11.2019 09:19:44",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/SOR/SISTEMI OPERTATIVI LEZ09.pdf",
+      "dimensione": "439 KB"
+    },
+    {
+      "titolo": "Appunti Sistemi operativi - Lezione 8",
+      "dataUpload": "04.11.2019 16:44:04",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/SOR/SISTEMI OPERTATIVI LEZ08.pdf",
+      "dimensione": "371 KB"
+    },
+    {
+      "titolo": "Appunti Sistemi operativi - Lezione 7",
+      "dataUpload": "30.10.2019 18:32:09",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/SOR/SISTEMI OPERTATIVI LEZ07.pdf",
+      "dimensione": "301 KB"
+    },
+    {
+      "titolo": "Appunti Sistemi operativi - Lezione 6",
+      "dataUpload": "30.10.2019 18:31:53",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/SOR/SISTEMI OPERTATIVI LEZ06.pdf",
+      "dimensione": "237 KB"
+    },
+    {
+      "titolo": "Appunti Sistemi operativi - Lezione 5",
+      "dataUpload": "23.10.2019 19:57:16",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/SOR/SISTEMI OPERTATIVI LEZ05.pdf",
+      "dimensione": "253 KB"
+    },
+    {
+      "titolo": "Appunti Sistemi operativi - Lezione 4",
+      "dataUpload": "18.10.2019 08:49:55",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/SOR/SISTEMI OPERTATIVI LEZ04.pdf",
+      "dimensione": "325 KB"
+    },
+    {
+      "titolo": "Appunti Sistemi operativi - Lezione 3",
+      "dataUpload": "16.10.2019 08:46:04",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/SOR/SISTEMI OPERTATIVI LEZ03.pdf",
+      "dimensione": "408 KB"
+    },
+    {
+      "titolo": "Appunti Sistemi operativi - Lezione 2",
+      "dataUpload": "11.10.2019 10:31:03",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/SOR/SISTEMI OPERTATIVI LEZ02.pdf",
+      "dimensione": "874 KB"
+    },
+    {
+      "titolo": "Appunti Sistemi operativi - Lezione 1",
+      "dataUpload": "09.10.2019 09:25:20",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/SOR/SISTEMI OPERTATIVI LEZ01.pdf",
+      "dimensione": "253 KB"
+    },
+    {
+      "titolo": "Presentazione dell'insegnamento Sistemi operativi e\u00a0 reti (SOR).",
+      "dataUpload": "09.10.2019 09:24:45",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/SOR/SISTEMI OPERTATIVI PRESENTAZIONE.pdf",
+      "dimensione": "209 KB"
+    }
+  ],
+  "programma": "<table><tr><td><p><em>Parte I: Sistemi operativi\u00a0</em>(I semestre)<strong>\u00a0</strong></p>\n<ul>\n<li>Introduzione ai sistemi operativi.</li>\n<li>Classificazione dei sistemi operativi.</li>\n<li>Principali modelli strutturali.</li>\n<li>Gestione dei processi.</li>\n<li>Thread.</li>\n<li>Sincronizzazione dei processi.</li>\n<li>Gestione della memoria.</li>\n<li>Gestione dell' I/O.</li>\n<li>Gestione del file system.</li>\n<li>I sistemi operativi Unix e Linux.</li>\n<li>Casi di studio: Unix e Linux</li>\n</ul>\n<p><br><em>Parte II: Reti di calcolatori (II semestre)\u00a0</em></br></p>\n<ul>\n<li>Reti di calcolatori e Internet.</li>\n<li>Strato di applicazione.</li>\n<li>Strato di trasporto.</li>\n<li>Strato di rete e instradamento.</li>\n<li>Strato di collegamento e reti di area locale.</li>\n<li>Reti wireless</li>\n</ul></td></tr></table>",
+  "testiRiferimento": "<table><tr><td><p><em>Testi di riferimento\u00a0</em></p>\n<p>Sistemi Operativi, X ed., A. Silberschatz, P. Galvin, G. Gagne. Pearson.\u00a0<br>Sistemi operativi, II ed. - P. Ancilotti, M. Boari, A. Ciampolini, G. Lipari - McGraw-Hill\u00a0<br>Reti di Calcolatori e Internet, VII ed. - Un approccio top-down - J.F. Kurose, K.W. Ross - Pearson - Addison Wesley.\u00a0<br><br><em>Altri libri consigliati\u00a0</em><br>I moderni Sistemi Operativi, IV ed., A. S. Tanenbaum. Pearson - Prentice Hall.\u00a0<br>Sistemi operativi, D. M. Dhamdhere, McGraw-Hill.\u00a0<br>Reti di Calcolatori e Internet, B. A. Forouzan, McGraw-Hill.</br></br></br></br></br></br></br></p></td></tr></table>",
+  "ricevimento": "<table><tr><td><p><span style=\"font-family: verdana, arial, helvetica; font-size: 11px;\">Stanza docente\u00a0 (stanza 0103 edificio \"Sogene\" presso Dipartimento di Matematica) - Marted\u00ec ore 14.00.</span><br style=\"font-family: verdana, arial, helvetica; font-size: 11px;\"><span style=\"font-family: verdana, arial, helvetica; font-size: 11px;\">Per appuntamento via email.</span></br></p></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td><p>L'esame di\u00a0<em>Sistemi operativi e reti</em>\u00a0consiste in una prova scritta e in una prova orale. Il testo della prova scritta \u00e8 suddiviso in due partm ciascuna delle quali \u00e8 composta da un gruppo di 4 domande. Le domande della prima parte riguardano argomenti di\u00a0<em>Sistemi operativi</em>, mentre le domande della seconda parte sono relative ad argomenti di\u00a0<em>Reti di calcolatori</em>. Le domande sono del tipo a risposta aperta o sottoforma di problemi. Per la parte\u00a0<em>Sistemi operativi</em>\u00a0una delle domande consiste nello sviluppo di un breve programma in linguaggio C basato sulle system call POSIX studiate durante il corso.\u00a0<br>La durata dell'esame \u00e8 di 2 ore e mezza. Durante lo svolgimento della prova scritta \u00e8 vietato l'uso di libri e/o appunti di qualsiasi genere.\u00a0</br></p>\n<p>Per sostenere la prova orale \u00e8 necessario aver superato la prova scritta con una votazione di almeno 18/30.\u00a0</p>\n<p>Per sostenere l'esame \u00e8 obbligatorio prenotarsi mediante il servizio \"Servizi on Line\" all'indirizzo\u00a0<a href=\"http://delphi.uniroma2.it\" target=\"_blank\">http://delphi.uniroma2.it</a></p>\n<p>Una raccolta di testi di esame relativi agli a.a. passati e vari esempi di programmi sulle system call POSIX e sulla programmazione dei socket saranno disponibili nell'area \"materiale didattico\".</p>\n<p>\u00a0</p>\n<p><em>Esonero</em></p>\n<p>Gli studenti possono sostenere,\u00a0<span style=\"text-decoration: underline;\">nel solo appello invernale</span>, l'esonero di\u00a0<em>Sistemi operativi e reti</em>\u00a0che consiste in una prova scritta e in una prova orale basate sugli argomenti della prima parte del corso\u00a0<em>(Sistemi operativi)</em>.</p>\n<p>Lo studente che supera l'esonero deve sostenere la restante parte di SOR entro l'anno accademico corrente.</p>\n<p>Lo studente che intende sostenere l'esonero deve prenotarsi inviando una e-mail all'indirizzo del docente: Pietro.Frasca@uniroma2.it, indicando come oggetto la frase \"Esonero SOR A.A. 2019/2020\" e indicando nel messaggio il proprio cognome, nome e numero di matricola.<br>Il testo della prova scritta dell'esonero \u00e8 composto da un gruppo di 4 domande. Le domande sono del tipo a risposta aperta o sottoforma di problemi. Una delle domande consiste nello sviluppo di un breve programma in linguaggio C basato sulle system call POSIX studiate durante il corso.</br></p>\n<p>La durata della prova scritta dell'esonero \u00e8 di 1 ora e 15 minuti.</p>\n<p>Durante lo svolgimento della prova scritta \u00e8 vietato l'uso di libri e/o appunti di qualsiasi genere.\u00a0<br>Per sostenere la prova orale \u00e8 necessario aver superato la prova scritta con una votazione di almeno 18/30.</br></p></td></tr></table>"
+}

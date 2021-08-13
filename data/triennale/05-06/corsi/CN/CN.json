@@ -1,0 +1,26 @@
+{
+  "nomeCorso": "Calcolo numerico",
+  "docente": [
+    {
+      "first_name": "Carla",
+      "second_name": "Manni"
+    },
+    {
+      "first_name": "Carla",
+      "second_name": "Manni"
+    }
+  ],
+  "annoAccademico": "2005-2006",
+  "crediti": "6",
+  "settore": "",
+  "anno": "3",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>Il corso si propone di illustrare  i principi di base della traduzione di modelli matematici in problemi aritmetici risolubili con mezzi automatici. Argomenti trattati: aritmetica in virgola mobile e analisi dell?errore. Algebra lineare numerica: metodi diretti e metodi iterativi per sistemi lineari. Approssimazione di soluzioni di equazioni non lineari. Interpolazione polinomiale. Integrazione numerica. </td></tr></table>",
+  "testiRiferimento": "<table><tr><td>L. Brugnano, C. Magherini, A. Sestini,\r\nCalcolo Numerico\r\nMaster Universita &amp; Professioni, Firenze, 2005\r\n\r\nD. Bini, M. Capovani, O. Menchi,  \r\nMetodi numerici per l'Algebra Lineare, \r\nZanichelli, Bologna, 1988\r\n \r\nR. Bevilacqua, D. Bini, M. Capovani, O. Menchi, \r\nMetodi Numerici,  \r\nZanichelli, Bologna, 1992.\r\n</td></tr></table>",
+  "ricevimento": "<table><tr><td>per l'orario di ricevimento consultare la pagina web del docente\r\nhttp://www.mat.uniroma2.it/~manni/</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

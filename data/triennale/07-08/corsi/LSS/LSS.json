@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Laboratorio di sistemi software",
+  "docente": [
+    {
+      "first_name": "Marco",
+      "second_name": "Bianchi"
+    }
+  ],
+  "annoAccademico": "2007-2008",
+  "crediti": "6",
+  "settore": "",
+  "anno": "3",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td><b>Introduzione al software testing</b> - Bug, testing, principi e assiomi per il testing, fase di testing come fase di un processo software.\r\nTest di tipo black \u00adbox e white \u00adbox, testing statico e testing dinamico.\r\n\r\n<b>Static white box testing</b> - sofware Inspection e walkthroughs. \r\n\r\n<b>Dynamic white box testing</b> - code coverage, control flow graph, statement coverage, decision coverage, condition coverage, decision-\u00adcondition coverage, multiple-\u00adcondition coverage.\r\n\r\n<b>Mock object</b>\r\nIntroduzione ai mock object, ciclo di vita di un mock, esempi di utilizzo con Easy mock. \r\n\r\n<b>Data based black box testing</b> - boundary value testing: robustness boundary value, worst\u00adcase boundary value, worst\u00adcase robustness. Equivalence partitioning: weak normal variant, strong normal variant, weak robust variant, strong robust variant. Decision table testing. Combinazioni di tecniche. Error Guessing. Random Testing. \r\n\r\n<b>Metodologie per il test di applicazioni Web</b>\r\nStrategia di testing bottom-up per applicazioni Web stratificate.\r\n\r\n<b>Test di software open-source</b> - piattaforma <a href=\"http://ir.dcs.gla.ac.uk/terrier/\">Terrier</a>.\r\nIntroduzione a Terrier. Tutorial finalizzato all'istallazione, configurazione e utilizzo di Terrier.\r\n\r\n<b>Test Driven Development (TDD)</b> - Introduzione al TDD, esempio di sviluppo TDD. \r\n\r\n<b>JUnit 3.*</b> - Assert, testCase, testSuite e testRunner. Esempi di utilizzo.\r\n\r\n<b>JUnit 4.*</b> - Differenze tra JUnit 3.* e JUnit 4.*. Esempi di utilizzo.\r\n\r\n<b>Ant</b>\r\nIntroduzione ad Ant, struttura di un generico file build.xml (project, targer, task), installazione di Ant, analisi e test di un file build.xml di base. Sintassi della linea di comando di Ant. Presentazione di alcuni esempi di build.xml. \r\n\r\n<b>JMeter</b>.\r\nIntroduzione a JMeter, esempi di utilizzo.\r\n\r\n<i>Strumenti per il versionamento del codice:</i>\n<b>CVS</b>\r\nIntroduzione al CVS, panoramica delle operazioni di base (init, import, checkout, update, commit, status e log). Tag e branch. Gestione dei conflitti di versione. \r\n\r\n<i>Strumenti per il testing di applicazioni Web:</i>\n<b>HttpUnit</b>\r\nIntroduzione a HttpUnit, check di una pagina html, navigazione attraverso links, check di una tabella html, test di una form html. Cenni di: esecuzione di test \"da dietro\" un firewall, testare cookies, test di pagine sicure.</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>1. \"The Art of Software Testing\" (second edition) by Glenford J. Myers et. al., John Wiley &amp; Sons, Inc. (2004).\r\n2. \"Software Testing\" by Ron Patton, Sams Publishing (2005).\r\n3. \"Test-driven Development: By Example\" by Kent Beck, Addison-Wesley (2003).\r\n\r\n<b>Risorse Web</b>\r\n- Sito dedicato al TDD, a partire dal quale \u00e8 possibile recuperare articoli, tutorial, ecc: http://www.testdriven.com/\r\n- Data based black box testing - Far riferimento al sito http://www.win.tue.nl/~jromijn/2IW30/.\r\nIn particolar modo guardare le slide scaricabili all'indirizzo:\r\nhttp://www.win.tue.nl/~jromijn/2IW30/lecture1.2.narration.zip\r\n-Mock objects Un punto di partenza per lo studio dei mock objects \u00e8 il sito: http://www.mockobjects.com/\r\n\r\n<b>Codice</b>\r\nE' possibile scaricare i sorgenti allegati ai testi consigliati agli indirizzi:\r\nCodice di Java Extreme Programming Cookbook:\r\nhttp://examples.oreilly.com/jextprockbk/\r\n\r\n<b>Per il tool per la misurazione della copertura del codice far riferimento a:</b>\r\nCodecover - http://codecover.org/</td></tr></table>",
+  "ricevimento": "<table><tr><td>A termine delle lezioni oppure su appuntamento.</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

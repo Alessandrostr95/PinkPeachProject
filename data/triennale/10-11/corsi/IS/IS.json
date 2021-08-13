@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Ingegneria del software",
+  "docente": [
+    {
+      "first_name": "Benedetto",
+      "second_name": "Intrigila"
+    }
+  ],
+  "annoAccademico": "2010-2011",
+  "crediti": "12",
+  "settore": "",
+  "anno": "3",
+  "semestre": "1-2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>Programma\r\nPARTE PRIMA: \r\nIl ciclo di vita del software \r\nGestione dei requisiti software (Principalmente). \r\nDesign (Cenni). \r\nSviluppo (Cenni). \r\nVerifica e validazione (Cenni). \r\n</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>Testi\r\nI. Sommerville \r\nSoftware Engineering 8 (oppure 7) \r\n\r\n(come integrazione consultare anche: \r\nMACIASZEK, L.A. and LIONG, B.L. (2005): \r\nPractical Software Engineering. A Case Study Approach \r\nAddison Wesley) \r\n\r\nPer UML: \r\nL. Baresi, L. Lavazza, M. Pianciamore \r\nDall'idea al codice con UML 2 \r\nAddison Wesley \r\n\r\n</td></tr></table>",
+  "ricevimento": "<table><tr><td>Studio 1212 Dente B (tel. 0672594670) Martedi ore 16,00-18,00 \r\nemail:intrigil@mat.uniroma2.it \r\n</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

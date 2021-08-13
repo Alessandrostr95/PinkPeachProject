@@ -1,0 +1,39 @@
+{
+  "nomeCorso": "Basi di dati e di conoscenza",
+  "docente": [
+    {
+      "first_name": "Loredana",
+      "second_name": "Vigliano"
+    }
+  ],
+  "annoAccademico": "2015-2016",
+  "crediti": "12",
+  "settore": "INF/01",
+  "anno": "2",
+  "semestre": "1-2",
+  "propedeuticit\u00e0": "Matematica discreta. Programmazione dei calcolatori con laboratorio.",
+  "comunicazioni": [
+    {
+      "titolo": "",
+      "data": "17-09-2015 17:59",
+      "contenuto": "<p>Si ricorda che lo scritto viene conservato solo fino al successivo appello</p><hr/>"
+    },
+    {
+      "titolo": "",
+      "data": "17-09-2015 17:59",
+      "contenuto": "<p><strong>ATTENZIONE !!!!!!</strong>\u00a0: per poter sostenere l' esame (anche solo orale) \u00e8 necessario prenotarsi sul sito \u00a0delphi.uniroma2.it.</p>\n<p><strong><span style=\"text-decoration: underline;\">ATTENZIONE !!!!!!\u00a0 :\u00a0useremo la verbalizzazione automatica e quindi non sar\u00e0 pi\u00f9 possibile sostenere l'esame senza prenotazione!!!!!</span></strong><br>\u00a0<br>ESAMI PROPEDEUTICI : MD e PR\u00a0</br></br></p>"
+    }
+  ],
+  "lezioni": [
+    {
+      "id": "0",
+      "data": "null",
+      "contenuto": "<p>Orario Secondo Semestre\u00a0</p>\n<p>\u00a0</p>\n<p>MER h. 11-13 \u00a0Aula 3A</p>\n<p>VEN h. 11- 13 \u00a0 Aula 3A</p>"
+    }
+  ],
+  "materiale": [],
+  "programma": "<table><tr><td><p class=\"p1\"><span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Introduzione\u00a0</span><br style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"><br style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"><span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Modello relazionale\u00a0</span><br style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"><span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Algebra relazionale\u00a0</span><br style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"><span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Calcolo relazionale\u00a0</span><br style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"><span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Flusso di progetto e visione dei dati\u00a0</span><br style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"><span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Modello concettuale dei dati\u00a0</span><br style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"/><span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Disegno logico DB\u00a0</span><br style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"/><br style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"/><span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Schema Entity-relationship\u00a0</span><br style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"/><span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Disegno fisico DB\u00a0</span><br style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"/><span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Forme normali\u00a0</span><br style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"/><span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Query language e implementazioni su mySQL\u00a0</span><br style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"/><span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">DML\u00a0</span><br style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"/><span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">SQL\u00a0</span><br style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"/><br style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"/><span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Organizzazione fisica dei dati\u00a0</span><br style=\"font-family: verdana, arial, helvetica, sans-serif; widows: auto;\"/><span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Ottimizzazione degli indici\u00a0</span><br style=\"font-family: verdana, arial, helvetica, sans-serif; widows: auto;\"/><span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Normalizzazione e Denormalizzazione\u00a0</span><br style=\"font-family: verdana, arial, helvetica, sans-serif; widows: auto;\"/><span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Ottimizzazione delle interrogazioni\u00a0</span><br style=\"font-family: verdana, arial, helvetica, sans-serif; widows: auto;\"/><em style=\"font-family: verdana, arial, helvetica, sans-serif; widows: auto;\">------ MySQL e ottimizzazioni\u00a0</em></br></br></br></br></br></br></p>\n<p class=\"p1\"><br/>- Transazioni\u00a0<br/><em>------ Locking a due fasi, Timestamp,MVCC\u00a0<br/>------ MySQL e Storage Engine</em>\u00a0<br/><br/>- Basi di dati attive\u00a0<br/><em>------ Trigger e Stored Procedure\u00a0<br/>------ Cursor, Trigger e Stored Procedure in MySQL\u00a0</em></p>\n<p class=\"p1\">- Basi di dati\u00a0geospaziali e GIS\u00a0<br/>- Basi di dati su architetture distribuite\u00a0<br/><em>------ Commit a due fasi\u00a0</em>\u00a0<br/>- Architetture per l' analisi dei dati\u00a0<br/><em>------ Data Warehouse\u00a0<br/>------ Data Mining</em>\u00a0</p>\n<p class=\"p1\">- Linked Open Data e DB NoSQL : MongoDB<br/><br/>- Implementazione progetto</p></td></tr></table>",
+  "testiRiferimento": "<table><tr><td><p class=\"p1\">- Atzeni,Ceri,Fraternali,Paraboschi,Torlone\u00a0<em>Basi di dati -</em>\u00a0ed. McGraw-Hill 4nd edition\u00a0(59 euro)</p>\n<p class=\"p1\">\u00a0 \u00a0(chi gi\u00e0 possiede i precedenti 2 libri pu\u00f2 utilizzarli)\u00a0</p>\n<p class=\"p1\">\u00a0</p>\n<p class=\"p1\">- Schwartz,Zaitsev,Tkachenko,Zawodny, Lentz &amp; Balling<em>\u00a0High</em>\u00a0<em>Performance MySQL</em>\u00a0ed. O'Reilly 2nd edition</p>\n<p class=\"p1\">\u00a0</p>\n<p class=\"p1\">\u00a0</p>\n<p class=\"p1\">- lucidi di L. Vigliano presentati a Lezione\u00a0<br><br/>Consigliati :\u00a0<br/>- Elmasri,Navathe\u00a0<em>Sistemi di basi di dati</em>\u00a0Pearson</br></p></td></tr></table>",
+  "ricevimento": "<table><tr><td><p><span style=\"font-family: verdana, arial, helvetica; font-size: 11px;\">Al termine di ogni lezione o previo appuntamento via mail</span></p></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td><p class=\"p1\">L'esame \u00e8 composto da uno scritto, un progetto ed un esame orale.</p>\n<p class=\"p1\">\u00a0</p>\n<p class=\"p1\">Si leggano per i particolari le linee guida del progetto presenti sul materiale didattico.</p></td></tr></table>"
+}

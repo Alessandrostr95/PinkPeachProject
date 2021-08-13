@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Fisica 2",
+  "docente": [
+    {
+      "first_name": "Roberto",
+      "second_name": "Francini"
+    }
+  ],
+  "annoAccademico": "2005-2006",
+  "crediti": "3",
+  "settore": "",
+  "anno": "3",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>1. ELETTROSTATICA\r\n1.1 La carica elettrica. Conduttori ed isolanti. Legge di Coulomb. Principio di sovrapposizione. Quantizzazione e conservazione della carica. \r\n1.2 Il campo elettrico. Linee di forza. Campo elettrico generato da: una carica puntiforme, un dipolo, una carica lineare, un disco carico, un piano infinito.\r\n1.3 Flusso di un vettore. Caso del campo elettrico. Legge di Gauss. Collegamento con la legge di Coulomb. Conduttore carico isolato: campo elettrico all' interno e all'esterno del conduttore. Schermo elettrostatico. Applicazioni della legge di Gauss: per simmetria cilindrica (filo infinito); per simmetria piana (distribuzione piana infinita); per simmetria sferica (guscio sottile di carica, sfera isolante con densit\u00e0 di carica di volume uniforme).\r\n1.4  Richiami sui campi conservativi. Condizione necessaria e sufficiente perch\u00e8 un campo vettoriale sia conservativo.   Energia potenziale elettrostatica. Potenziale elettrostatico. Unit\u00e0 di misura (volt ed elettronvolt). Superfici equipotenziali. Relazione tra campo potenziale e campo elettrico. Il campo elettrico come gradiente del potenziale. Alcuni casi notevoli: carica puntiforme, dipolo elettrico, distribuzione lineare di carica, distribuzione planare di carica, distribuzione sferica di carica. Energia potenziale di un sistema di cariche. Potenziale di un conduttore carico isolato.\r\n1.5  Breve cenno sui condensatori: cosa sono, a cosa servono. Definizione di capacit\u00e0 di un condensatore. Unit\u00e0 di misura. Carica di un condensatore. Calcolo della capacit\u00e0 elettrica: condensatore piano, cilindrico, sferico; sfera isolata. Condensatori in serie e  in parallelo. Energia immagazinata in un condensatore. Brevi cenni sui dielettrici. Il ruolo del dielettrico: la costante dielettrica relativa. Capacit\u00e0 di un condensatore in presenza di un dielettrico.\r\n\r\n2. CORRENTI CONTINUE\r\n2.1 Corrente elettrica. Carattere scalare della corrente. Unit\u00e0 di misura.\r\n2.2 Densit\u00e0 di corrente. Velocit\u00e0 di deriva dei portatori. Suo calcolo nel caso di un metallo (rame).\r\n2.3 Resistenza e resistivit\u00e0. Unit\u00e0 di misura. Legge di Ohm. Materiali ohmici e non ohmici. Modello microscopico della conducibilit\u00e0 di un metallo (modello di Drude).\r\n2.4 La forza elettromotrice (f.e.m). Lavoro, energia e forza elettromotrice.  Generatori di forza elettromotrice. Potenza in un circuito elettrico. Unit\u00e0 di misura: il watt.\r\n2.5 Calcolo della corrente in un circuito. Le due leggi di Kirchoff. Resistenze collegate in serie e in parallelo. La resistenza interna di un generatore di f.e.m.  Differenza di potenziale e f.e.m.\r\n2.6 Il circuito RC: scarica di un condensatore. La costante di tempo.</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>Serway e Jewett, \"Principi di Fisica\" (terza edizione), EDISES\r\n\r\nHalliday-Resnick-Walker, \"Fondamenti di Fisica. Elettrologia, magnetismo, ottica\", Ambrosiana</td></tr></table>",
+  "ricevimento": "<table><tr><td>luned\u00ec ore 12.30-14, studio del docente (tel: 4288, email: goletti@roma2.infn.it)</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

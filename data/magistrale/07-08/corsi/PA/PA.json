@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Progettazione di algoritmi",
+  "docente": [
+    {
+      "first_name": "Andrea",
+      "second_name": "Clementi"
+    }
+  ],
+  "annoAccademico": "2007-2008",
+  "crediti": "6",
+  "settore": "",
+  "anno": "1",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>Il corso descrive le tecniche ed i concetti fondamentali per il progetto e l'ananlisi degli algoritmi probabilisitci. Inoltre, mostra l'applicazione di tali tecniche in alcuni ambienti distribuiti di grande interesse attuale quali l i protocolli di comunicazione su reti wireless</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>Randomized Algorithms,  Motwani Raghavan (1995),  Cambridge University press</td></tr></table>",
+  "ricevimento": "<table><tr><td> per appuntamento  tramite email:\r\nclementi@mat.niroma2.it</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

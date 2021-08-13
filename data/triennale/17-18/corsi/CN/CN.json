@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Calcolo numerico",
+  "docente": [
+    {
+      "first_name": "Carla",
+      "second_name": "Manni"
+    }
+  ],
+  "annoAccademico": "2017-2018",
+  "crediti": "6",
+  "settore": "MAT/08",
+  "anno": "3",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Analisi Matematica. Matematica discreta.",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>null</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>null</td></tr></table>",
+  "ricevimento": "<table><tr><td>null</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

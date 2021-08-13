@@ -1,0 +1,26 @@
+{
+  "nomeCorso": "Architettura degli elaboratori",
+  "docente": [
+    {
+      "first_name": "Loredana",
+      "second_name": "Vigliano"
+    },
+    {
+      "first_name": "Giorgio",
+      "second_name": "Gambosi"
+    }
+  ],
+  "annoAccademico": "2001-2002",
+  "crediti": "6",
+  "settore": "",
+  "anno": "1",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>Evoluzione dei sistemi di elaborazione. Livelli strutturali dell'architettura di un calcolatore. Struttura generale di un processore. Processori CISC e RISC. Struttura generale della memoria centrale. Rappresentazione dell'informazione in memoria. Rappresentazione binaria. Indirizzamento in memoria. Codici di correzione di errore. Memorie cache. Organizzazione della memoria secondaria. Gerarchie di memorie. Tipi di memorie secondarie. Gestione dell'Input/Output. Struttura generale di un bus. DMA. Collegamento a dispositivi periferici (terminali, mouse, stampanti, modem). Algebra di Boole. Funzioni booleane e loro forme canoniche. Porte logiche. Circuiti combinatori. Sintesi e minimizzazione di circuiti combinatori. Esempi di circuiti combinatori. Struttura elementare di una ALU. Dispositivi elementari di memorizzazione. Circuiti sequenziali. Automi. Sintesi di circuiti sequenziali. Esempi di circuiti sequenziali. Struttura elementare dei registri. Struttura e funzionamento elementare della CPU. Esempi di CPU. Struttura del bus. Esempi di bus. Microarchitettura. Microistruzioni. Cache, Esempio di microarchitettura. Instruction set: tipi di dati, formato istruzioni, indirizzamento, tipi di istruzioni, flusso di controllo. Architetture Parallele (cenni). Valutazione delle prestazioni (cenni). </td></tr></table>",
+  "testiRiferimento": "<table><tr><td>.S. Tanenbaum, Architettura del computer: Un approccio strutturale. Jackson Universit\u00e0\r\nD.A. Patterson, J.L. Hennessy, Struttura, organizzazione e progetto dei calcolatori. Jackson Universit\u00e0 \r\nF. Luccio, L. Pagli, Reti logiche e calcolatore. Boringhieri</td></tr></table>",
+  "ricevimento": "<table><tr><td></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

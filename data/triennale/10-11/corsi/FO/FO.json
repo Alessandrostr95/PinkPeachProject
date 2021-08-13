@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Fondamenti di informatica",
+  "docente": [
+    {
+      "first_name": "Dora",
+      "second_name": "Giammarresi"
+    }
+  ],
+  "annoAccademico": "2010-2011",
+  "crediti": "6",
+  "settore": "",
+  "anno": "1",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>\"http://www.mat.uniroma2.it/~giammarr/Teaching/Fondamenti/index.html\" \r\n</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>\"http://www.mat.uniroma2.it/~giammarr/Teaching/Fondamenti/index.html\" \r\n</td></tr></table>",
+  "ricevimento": "<table><tr><td>null</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

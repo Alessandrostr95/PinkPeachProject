@@ -1,0 +1,161 @@
+{
+  "nomeCorso": "Natural language processing",
+  "docente": [
+    {
+      "first_name": "Fabio Massimo",
+      "second_name": "Zanzotto"
+    }
+  ],
+  "annoAccademico": "2019-2020",
+  "crediti": "6",
+  "settore": "ING-INF/05",
+  "anno": "2",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [
+    {
+      "id": "25",
+      "data": "20-01-2020",
+      "contenuto": "<p>Using and Building Textual Entailment Lexicons</p>\n<p>Building Textual Entailment Corpora</p>"
+    },
+    {
+      "id": "24",
+      "data": "12-12-2019",
+      "contenuto": "<p>Distributional Approches to Semantic aka Word Embedding</p>"
+    },
+    {
+      "id": "23",
+      "data": "09-12-2019",
+      "contenuto": "<p>Anaphora Resolution\u00a0</p>\n<p>Word Sense Disambuigation</p>"
+    },
+    {
+      "id": "22",
+      "data": "05-12-2019",
+      "contenuto": "<p>Micro-Teorie per costruire una Macroteoria:</p>\n<p>POS, Chunking, PP-Attachment Resolution, NER</p>"
+    },
+    {
+      "id": "21",
+      "data": "02-12-2019",
+      "contenuto": "<p>Lexicalized Tree Adjoining Grammars</p>"
+    },
+    {
+      "id": "20",
+      "data": "28-11-2019",
+      "contenuto": "<p>Frame di Minsky</p>\n<p>Frame di Fillmore</p>\n<p>Frames e FrameNet</p>\n<p>Lambda Calcolo per Semantica in NLP: Introduzione\u00a0</p>\n<p>\u00a0</p>"
+    },
+    {
+      "id": "19",
+      "data": "25-11-2019",
+      "contenuto": "<p>Semantica e Semiotica</p>\n<p>Composizionalit\u00e0 semantica e primitive semantiche</p>\n<p>WordNet</p>\n<p>\u00a0</p>"
+    },
+    {
+      "id": "18",
+      "data": "16-12-2019",
+      "contenuto": "<p>Rappresentazioni Distribuite:</p>\n<p>Introduzione alle rappresentazioni one-hot e compressione delle stesse</p>"
+    },
+    {
+      "id": "17",
+      "data": "19-12-2019",
+      "contenuto": "<p>Analisi delle problematiche del progetto assegnato</p>"
+    },
+    {
+      "id": "16",
+      "data": "09-01-2020",
+      "contenuto": "<p>Rappresentazioni distribute</p>\n<p>Introduzione alle rappresentazioni holographic\u00a0</p>\n<p>Paper di riferimento:\u00a0<br><a href=\"https://www.researchgate.net/publication/313247648_Symbolic_Distributed_and_Distributional_Representations_for_Natural_Language_Processing_in_the_Era_of_Deep_Learning_a_Survey\">https://www.researchgate.net/publication/313247648_Symbolic_Distributed_and_Distributional_Representations_for_Natural_Language_Processing_in_the_Era_of_Deep_Learning_a_Survey</a></br></p>"
+    },
+    {
+      "id": "15",
+      "data": "16-01-2020",
+      "contenuto": "<p>Textual Entailment</p>\n<p>Analisi di un esempio del corpus RTE presente sul libro</p>\n<p>Modello di risoluzione base: Lexical Overlap</p>\n<p>Modello di risoluzione con matching di grafo tripartito per modellare regole con variabili</p>"
+    },
+    {
+      "id": "14",
+      "data": "13-01-2020",
+      "contenuto": "<p>Introduzione al Textual Entaliment</p>\n<p>Descrizione delle problematiche relative</p>"
+    },
+    {
+      "id": "13",
+      "data": "18-11-2019",
+      "contenuto": "<p>Algoritmo Shift-Reduce per Context Free e per Grammatiche alle Dipendenze</p>\n<p>Algoritmo CYK+</p>\n<p>3h</p>"
+    },
+    {
+      "id": "12",
+      "data": "11-11-2019",
+      "contenuto": "<p>Inside-Outside Algorithm for PCFG</p>\n<p>Limitation of PCFG</p>\n<p>Back-off</p>\n<p>3h</p>"
+    },
+    {
+      "id": "11",
+      "data": "07-11-2019",
+      "contenuto": "<p>Probabilistic Context Free Grammars</p>\n<p>3h</p>"
+    },
+    {
+      "id": "10",
+      "data": "04-11-2019",
+      "contenuto": "<p>Feature Structures</p>\n<p>3h</p>"
+    },
+    {
+      "id": "9",
+      "data": "31-10-2019",
+      "contenuto": "<p>Sintassi: Algoritmo di Early</p>\n<p>3h</p>"
+    },
+    {
+      "id": "8",
+      "data": "28-10-2019",
+      "contenuto": "<p>Algoritmo CYK</p>\n<p>3h</p>"
+    },
+    {
+      "id": "7",
+      "data": "24-10-2019",
+      "contenuto": "<p>Part-of-speech tagging: metodologie</p>\n<p>Transformation-based POS tagging</p>\n<p>HMM POS tagging</p>\n<p>Cenni su Maximum Likelyhood</p>\n<p>3h</p>"
+    },
+    {
+      "id": "6",
+      "data": "21-10-2019",
+      "contenuto": "<p>Analisi delle tecniche statistiche per il calcolo della statistical significance</p>\n<p>POS Tagging: come scegliere ed interpretare i POS Tag Sets</p>\n<p>Esercizio di Annotazione POS al fine del calcolo dell'Interannotator Agreement</p>\n<p>3h</p>"
+    },
+    {
+      "id": "5",
+      "data": "17-10-2019",
+      "contenuto": "<p>Presentazione progetto del corso.</p>\n<p>Come si valuta un modello di NLP.</p>\n<p>Come si valutano sistemi di NLP.</p>\n<p>3h</p>\n<p>\u00a0</p>"
+    },
+    {
+      "id": "4",
+      "data": "14-10-2019",
+      "contenuto": "<p>Linguistica: livelli di interpretazione della lingua. Fonologia, Morfologia, Sintassi e Semantica</p>\n<p>3h</p>"
+    },
+    {
+      "id": "3",
+      "data": "10-10-2019",
+      "contenuto": "<p>Analisi del chatbot costruito</p>\n<p>2h</p>"
+    },
+    {
+      "id": "2",
+      "data": "08-10-2019",
+      "contenuto": "<p>Che cos'\u00e8 la lingua: linguistica interna e linguistica esterna.</p>\n<p>2h</p>"
+    },
+    {
+      "id": "1",
+      "data": "07-10-2019",
+      "contenuto": "<p>Presentazione del corso.</p>\n<p>Hands-on: costruiamo un chatbot per accedere ad un conto bancario.</p>\n<p>2h</p>"
+    }
+  ],
+  "materiale": [
+    {
+      "titolo": "Presentazione Lauree",
+      "dataUpload": "19.02.2020 17:10:55",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/NLP/PresentazioneLauree.gif",
+      "dimensione": "300 KB"
+    },
+    {
+      "titolo": "<a href=\"http://art.uniroma2.it/zanzotto/teaching/courses/NLP/\" target=\"_blank\">Guardare sul sito web del corso</a>",
+      "dataUpload": "07.10.2019 12:32:25",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/NLP/Fabio-Massimo-Zanzotto-New.jpg",
+      "dimensione": "1811 KB"
+    }
+  ],
+  "programma": "<table><tr><td><p><a href=\"http://didatticaweb.uniroma2.it/programma/index/insegnamento/185666-Natural-Language-Processing\" target=\"_blank\">Programma (su didattica.uniroma2.it)</a></p>\n<p>\u00a0</p>\n<p><a href=\"http://didatticaweb.uniroma2.it/programma/index/insegnamento/185666-Natural-Language-Processing\" target=\"_blank\">Contents (on didattica.uniorma2.it)</a></p></td></tr></table>",
+  "testiRiferimento": "<table><tr><td><p><a href=\"http://didatticaweb.uniroma2.it/programma/index/insegnamento/185666-Natural-Language-Processing\" target=\"_blank\">Programma (su didattica.uniroma2.it)</a></p>\n<p>\u00a0</p>\n<p><a href=\"http://didatticaweb.uniroma2.it/programma/index/insegnamento/185666-Natural-Language-Processing\" target=\"_blank\">Contents (on didattica.uniorma2.it)</a></p></td></tr></table>",
+  "ricevimento": "<table><tr><td><p><a href=\"http://didatticaweb.uniroma2.it/docenti/curriculum/5312-Fabio-Massimo-Zanzotto\" target=\"_blank\">Guarda su didattica.uniroma2.it</a></p>\n<p>\u00a0</p>\n<p><a href=\"http://didatticaweb.uniroma2.it/docenti/curriculum/5312-Fabio-Massimo-Zanzotto\" target=\"_blank\">Check on didattica.uniroma2.it</a></p></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td><p><a href=\"http://didatticaweb.uniroma2.it/programma/index/insegnamento/185666-Natural-Language-Processing\" target=\"_blank\">Guardare su didattica.uniroma2.it</a></p>\n<p>\u00a0</p>\n<p><a href=\"http://didatticaweb.uniroma2.it/programma/index/insegnamento/185666-Natural-Language-Processing\" target=\"_blank\">Check on didattica.uniroma2.it</a></p></td></tr></table>"
+}

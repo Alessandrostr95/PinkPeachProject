@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Algoritmi e strutture di dati 2",
+  "docente": [
+    {
+      "first_name": "Andrea",
+      "second_name": "Clementi"
+    }
+  ],
+  "annoAccademico": "2008-2009",
+  "crediti": "6",
+  "settore": "",
+  "anno": "3",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>Tecnica greedy\r\nProblemi sugli intervalli: Interval Scheduling, Interval Partitioning, Scheduling to Minimize Lateness. Problemi sui grafi: Minimum Spanning Tree, l'algoritmo di Kruskal. Data Compression: codici prefissi, l'algoritmo di Huffmann. Le tecniche di dimostrazione: Greedy Stays Ahead, Exchange Argument.\r\nCap. 4.1, 4.2, 4.5, 4.8\r\nProgrammazione dinamica\r\nI principi della programmazione dinamica. Weighted Interval Scheduling. Algoritmi ricorsivi esponenziali, algoritmi ricorsivi polinomiali, algoritmi iterativi. Costruire una soluzione ottima dalla matrice dei valori ottimi parziali. Segmented Least Squares. Subset Sum e Knapsack, algoritmi pseudo-polinomiali. Confronto fra stringhe: il problema Sequence alignment. Cenni al problema del Range Assignment nelle reti wireless.\r\nCap. 6.1, 6.2, 6.3, 6.4, 6.6\r\nRiduzioni polinomiali\r\nIl concetto di riduzione fra problemi, Maximum Matching e Maximum Flow. Primi esempi: Independent Set &lt; Vertex Cover &lt; Set Cover. Transitivit\\`a delle riduzioni. Il problema Satisfiability, riduzioni con \"Gadget\": Sat &lt; 3-Sat &lt; Independent Set; 3-Sat &lt; 3D Matching &lt; Subset Sum.\r\nCap. 7.5, 8.1, 8.2, 8.6, 8.8\r\nLa classe NP. Algoritmi di approssimazione\r\nLa classe NP. Problemi NP-completi, il teorema di Cook. Algoritmi approssimanti per problemi NP-hard. Rapporto di approssimazione. Min Vertex Cover. Load Balancing. Center Selection. Set cover. Approssimazioni arbitrariamente buone: Knapsack. Cenni ad algoritmi probabilistici.\r\nCap. 8.3, 8.4, 11.1, 11.2, 11.3, 11.8 </td></tr></table>",
+  "testiRiferimento": "<table><tr><td>\r\nJon Kleinberg, Eva Tardos\r\nAlgorithm Design\r\nAddison Wesley, 2005</td></tr></table>",
+  "ricevimento": "<table><tr><td>per appuntamento per email\r\n\r\nclementi@mat.uniroma2.it    </td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

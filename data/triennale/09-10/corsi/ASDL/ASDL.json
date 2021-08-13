@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Algoritmi e strutture di dati con laboratorio",
+  "docente": [
+    {
+      "first_name": "Gianluca",
+      "second_name": "Rossi"
+    }
+  ],
+  "annoAccademico": "2009-2010",
+  "crediti": "12",
+  "settore": "",
+  "anno": "2",
+  "semestre": "1-2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td><a href=\"http://www.mat.uniroma2.it/~guala/ASDL_2009.htm\">Primo Modulo (primo semestre), docente Luciano Guala'</a>\n<a href=\"http://algoritmiestrutturedati.blogspot.com/\">Secondo Modulo (secondo semestre), docente Gianluca Rossi</a></td></tr></table>",
+  "testiRiferimento": "<table><tr><td>null</td></tr></table>",
+  "ricevimento": "<table><tr><td>null</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Ottimizzazione combinatoria",
+  "docente": [
+    {
+      "first_name": "Stefano",
+      "second_name": "Fanelli"
+    }
+  ],
+  "annoAccademico": "2007-2008",
+  "crediti": "6",
+  "settore": "",
+  "anno": "1",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>Elementi di geometria convessa in Rn. Introduzione alla Programmazione Lineare (LP). L'algoritmo del simplesso: versione classica e versione di Blandt. Calcolo di tutte le soluzioni ottime della LP. Risoluzione efficiente di LP. Dualit\u00e0: dualit\u00e0 debole, dualit\u00e0 forte. L'algoritmo duale del simplesso.\r\nIl problema della Programmazione Lineare a variabili intere (ILP). Algoritmi classici per problemi ILP.\r\nL'approccio Branch &amp; Bound. Il principio di Bellmann. Il problema dello zaino: l'algoritmo goloso. L'approccio gruppale: l'algoritmo asintotico di Gomory. L'algoritmo di Hu e relazioni con l'algoritmo di Dijkstra. Estensioni dell'algoritmo di Hu. Il metodo Branch &amp; Cut.\r\nApplicazioni operative.\r\n</td></tr></table>",
+  "testiRiferimento": "<table><tr><td></td></tr></table>",
+  "ricevimento": "<table><tr><td></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

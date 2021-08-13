@@ -1,0 +1,189 @@
+{
+  "nomeCorso": "Intelligenza artificiale 1",
+  "docente": [
+    {
+      "first_name": "Maria Teresa",
+      "second_name": "Pazienza"
+    }
+  ],
+  "annoAccademico": "2014-2015",
+  "crediti": "6",
+  "settore": "ING-INF/05",
+  "anno": "3",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Programmazione dei calcolatori con laboratorio.",
+  "comunicazioni": [
+    {
+      "titolo": "risultati II appello",
+      "data": "26-02-2015 13:13",
+      "contenuto": "<p>sono stati pubblicati i risultati del II appello d'esame; sono accessibili anche sul totem Delphi</p><hr/>"
+    },
+    {
+      "titolo": "",
+      "data": "09-10-2014 10:34",
+      "contenuto": ""
+    }
+  ],
+  "lezioni": [
+    {
+      "id": "31",
+      "data": "29-01-2015",
+      "contenuto": "<p>esercitazioni ore 14,30-16,15 aula 9</p>"
+    },
+    {
+      "id": "30",
+      "data": "29-01-2015",
+      "contenuto": "<p>esercitazioni ore 11,30-13,15 aula B7</p>"
+    },
+    {
+      "id": "29",
+      "data": "27-01-2015",
+      "contenuto": "<p>esercitazioni ore 14,30-16,15 aula B5</p>"
+    },
+    {
+      "id": "28",
+      "data": "27-01-2015",
+      "contenuto": "<p>esercitazioni ore 11,30-13,15 aula C5</p>"
+    },
+    {
+      "id": "27",
+      "data": "22-01-2015",
+      "contenuto": "<p>SPARQL</p>"
+    },
+    {
+      "id": "26",
+      "data": "22-01-2015",
+      "contenuto": "<p>RDF/RDFS/OWL</p>"
+    },
+    {
+      "id": "25",
+      "data": "20-01-2015",
+      "contenuto": "<p>Tassonomie ed ereditariet\u00e0 nelle Description Logics</p>"
+    },
+    {
+      "id": "24",
+      "data": "20-01-2015",
+      "contenuto": "<p>introduzione alle Description Logics</p>"
+    },
+    {
+      "id": "23",
+      "data": "15-01-2015",
+      "contenuto": "<p>modelli di rappresentazione della conoscenza a frame</p>"
+    },
+    {
+      "id": "22",
+      "data": "13-01-2015",
+      "contenuto": "<p>Clausole di Horn</p>"
+    },
+    {
+      "id": "21",
+      "data": "08-01-2015",
+      "contenuto": "<p>CNF</p>"
+    },
+    {
+      "id": "20",
+      "data": "16-12-2014",
+      "contenuto": "<p>introduzione alla \"resolution\"</p>"
+    },
+    {
+      "id": "19",
+      "data": "11-12-2014",
+      "contenuto": "<p>\"entailment\" per il ragionamento automatico</p>"
+    },
+    {
+      "id": "18",
+      "data": "09-12-2014",
+      "contenuto": "<p>Come esprimere conoscenza in FOL</p>"
+    },
+    {
+      "id": "17",
+      "data": "04-12-2014",
+      "contenuto": "<p><em>Entailment\u00a0</em>in FOL</p>"
+    },
+    {
+      "id": "16",
+      "data": "02-12-2014",
+      "contenuto": "<p><em>Interpretazione</em> in FOL</p>"
+    },
+    {
+      "id": "15",
+      "data": "27-11-2014",
+      "contenuto": "<p>FOL: introduzione</p>"
+    },
+    {
+      "id": "14",
+      "data": "25-11-2014",
+      "contenuto": "<p>ruolo della rappresentazione della conoscenza per lo sviluppo di sistemi intelligenti</p>"
+    },
+    {
+      "id": "13",
+      "data": "20-11-2014",
+      "contenuto": "<p>conoscenza e ragionamento incerto</p>"
+    },
+    {
+      "id": "12",
+      "data": "18-11-2014",
+      "contenuto": "<p>introduzione al calcolo della probabilit\u00e0</p>"
+    },
+    {
+      "id": "11",
+      "data": "13-11-2014",
+      "contenuto": "<p>Logica a supporto del ragionamento in sistemi basati su conoscenza</p>"
+    },
+    {
+      "id": "10",
+      "data": "11-11-2014",
+      "contenuto": "<p>Sistemi basati su conoscenza</p>"
+    },
+    {
+      "id": "9",
+      "data": "04-11-2014",
+      "contenuto": "<p>introduzione ala rappresentazione della conoscenza\u00a0</p>"
+    },
+    {
+      "id": "8",
+      "data": "30-10-2014",
+      "contenuto": "<p>euristiche per la ricerca di un itinerario</p>"
+    },
+    {
+      "id": "7",
+      "data": "28-10-2014",
+      "contenuto": "<p>metodologie di ricerca informata per la soluzione di problemi</p>"
+    },
+    {
+      "id": "6",
+      "data": "23-10-2014",
+      "contenuto": "<p>algoritmi non informati per la ricerca di soluzioni a problemi</p>"
+    },
+    {
+      "id": "5",
+      "data": "21-10-2014",
+      "contenuto": "<p>ricerca di soluzione ad un problema</p>"
+    },
+    {
+      "id": "4",
+      "data": "16-10-2014",
+      "contenuto": "<p>\"formulazione\" di un problema e definizione degli obiettivi da raggiungere</p>"
+    },
+    {
+      "id": "3",
+      "data": "14-10-2014",
+      "contenuto": "<p>ruolo della rappresentazione a supporto del ragionamento automatico in contesti parzialmente noti</p>"
+    },
+    {
+      "id": "2",
+      "data": "09-10-2014",
+      "contenuto": "<p>ruolo della rappresentazione</p>"
+    },
+    {
+      "id": "1",
+      "data": "07-10-2014",
+      "contenuto": "<p>presentazione del corso</p>"
+    }
+  ],
+  "materiale": [],
+  "programma": "<table><tr><td><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"MsoNormalTable\" style=\"width: 512.0pt; margin-left: 3.5pt; border-collapse: collapse; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 3.5pt 0cm 3.5pt;\" width=\"683\">\n<tbody>\n<tr style=\"mso-yfti-irow: 0; mso-yfti-firstrow: yes; height: 20.25pt;\">\n<td style=\"width: 512.0pt; border-top: solid gray 1.5pt; border-left: none; border-bottom: solid gray 1.0pt; border-right: none; padding: 0cm 3.5pt 0cm 3.5pt; height: 20.25pt;\" valign=\"top\" width=\"683\">\n<p class=\"MsoNormal\" style=\"margin-bottom: 0.0001pt;\"><strong><span style=\"font-size: 14pt; font-family: Garamond, serif;\">Intelligenza Artificiale 1</span></strong></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 1; height: 18.75pt;\">\n<td style=\"width: 512.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 18.75pt;\" valign=\"bottom\" width=\"683\">\n<p class=\"MsoNormal\" style=\"margin-bottom: 0.0001pt;\"><span style=\"font-size: 10pt;\">Presentazione: argomenti, introduzione \u00a0</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom: 0.0001pt;\"><span style=\"font-size: 10pt;\">Strategie di ricerca </span></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 2; height: 18.75pt;\">\n<td style=\"width: 512.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 18.75pt;\" valign=\"bottom\" width=\"683\">\n<p class=\"MsoNormal\" style=\"margin-bottom: 0.0001pt;\"><span style=\"font-size: 10pt;\">Rappresentazione della conoscenza e ragionamento automatico</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom: 0.0001pt;\"><span style=\"font-size: 10pt;\">Logica del primo ordine</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom: 0.0001pt;\"><span style=\"font-size: 10pt;\">Basi di conoscenza: ontologie, inferenza</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom: 0.0001pt;\"><span style=\"font-size: 10pt;\">Sistemi di ragionamento logico: frame e reti semantiche</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom: 0.0001pt;\"><span style=\"font-size: 10pt;\">Introduzione al Semantic Web</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom: 0.0001pt;\"><span style=\"font-size: 10pt;\">RDF/RDFS</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom: 0.0001pt;\"><span style=\"font-size: 10pt;\">\u00a0</span></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 3; height: 20.25pt;\">\n<td style=\"width: 512.0pt; border-top: solid gray 1.5pt; border-left: none; border-bottom: solid gray 1.0pt; border-right: none; padding: 0cm 3.5pt 0cm 3.5pt; height: 20.25pt;\" valign=\"top\" width=\"683\">\n<p class=\"MsoNormal\" style=\"margin-bottom: 0.0001pt;\"><strong><span style=\"font-size: 14pt; font-family: Garamond, serif;\">Esercitazioni di Intelligenza Artificiale 1</span></strong></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 4; height: 26.25pt;\">\n<td style=\"width: 512.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 26.25pt;\" valign=\"bottom\" width=\"683\">\n<p class=\"MsoNormal\" style=\"margin-bottom: 0.0001pt;\"><span style=\"font-size: 10pt;\">OWL: struttura del linguaggio\u00a0 \u00a0</span></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 5; height: 16.5pt;\">\n<td style=\"width: 512.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 16.5pt;\" valign=\"bottom\" width=\"683\">\n<p class=\"MsoNormal\" style=\"margin-bottom: 0.0001pt;\"><span style=\"font-size: 10pt;\">Esercizi su gestione conoscenza \u00a0</span></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 6; height: 16.5pt;\">\n<td style=\"width: 512.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 16.5pt;\" valign=\"bottom\" width=\"683\">\n<p class=\"MsoNormal\" style=\"margin-bottom: 0.0001pt;\"><span style=\"font-size: 10pt;\">Linguaggi di Interrogazione per il Web Semantico\u00a0 \u00a0</span></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 7; height: 15.0pt;\">\n<td style=\"width: 512.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 15.0pt;\" valign=\"bottom\" width=\"683\">\n<p class=\"MsoNormal\" style=\"margin-bottom: 0.0001pt;\"><span style=\"font-size: 10pt;\">Strumenti per lo sviluppo e la gestione di Ontologie \u00a0</span></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 8; height: 15.0pt;\">\n<td style=\"width: 512.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 15.0pt;\" valign=\"bottom\" width=\"683\">\n<p class=\"MsoNormal\" style=\"margin-bottom: 0.0001pt;\"><span lang=\"EN-US\" style=\"font-size: 10pt;\">Thesauri and Concept Scheme Development: SKOS &amp; SKOS-XL </span></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 9; height: 15.0pt;\">\n<td style=\"width: 512.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 15.0pt;\" valign=\"bottom\" width=\"683\">\n<p class=\"MsoNormal\" style=\"margin-bottom: 0.0001pt;\"><span style=\"font-size: 10pt;\">Esercizi su gestione conoscenza</span></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 10; height: 15.0pt;\">\n<td style=\"width: 512.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 15.0pt;\" valign=\"bottom\" width=\"683\">\n<p class=\"MsoNormal\" style=\"margin-bottom: 0.0001pt;\"><span style=\"font-size: 10pt;\">Tecnologie per la gestione di repository RDF \u00a0</span></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 11; mso-yfti-lastrow: yes; height: 15.0pt;\">\n<td style=\"width: 512.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 15.0pt;\" valign=\"bottom\" width=\"683\">\n<p class=\"MsoNormal\" style=\"margin-bottom: 0.0001pt;\"><span lang=\"EN-US\" style=\"font-size: 10pt;\">Linked Open Data\u00a0 \u00a0</span></p>\n</td>\n</tr>\n</tbody>\n</table></td></tr></table>",
+  "testiRiferimento": "<table><tr><td><div style=\"margin-top: 4.32pt; margin-bottom: 0pt; margin-left: 0.38in; text-indent: -0.38in; direction: ltr; unicode-bidi: embed; vertical-align: baseline;\"><span data-mce-mark=\"1\" style=\"font-size: 14pt; font-family: 'Times New Roman'; font-style: italic;\"><em>\"Intelligenza Artificiale: un approccio moderno\"</em>\u00a0,\u00a0</span><span data-mce-mark=\"1\" style=\"font-size: 14pt; font-family: 'Times New Roman';\">Russel e Norvig,\u00a0</span><span data-mce-mark=\"1\" style=\"font-size: 14pt; font-family: 'Times New Roman';\">Cap</span><span data-mce-mark=\"1\" style=\"font-size: 14pt; font-family: 'Times New Roman'; font-style: italic;\">.</span><span data-mce-mark=\"1\" style=\"font-size: 14pt; font-family: 'Times New Roman';\">:1,3,7.1,7.2,12.1,12.2,12.3,12.4,12.5</span><span data-mce-mark=\"1\" style=\"font-size: 14pt; font-family: 'Times New Roman'; font-style: italic;\">\u00a0</span><span data-mce-mark=\"1\" style=\"font-size: 14pt; font-family: 'Times New Roman'; font-style: italic;\">(solo\u00a0</span><span data-mce-mark=\"1\" style=\"font-size: 14pt; font-family: 'Times New Roman'; font-style: italic;\">capitoli\u00a0</span><span data-mce-mark=\"1\" style=\"font-size: 14pt; font-family: 'Times New Roman'; font-style: italic;\">selezionati</span><span data-mce-mark=\"1\" style=\"font-size: 14pt; font-family: 'Times New Roman'; font-style: italic;\">)\u00a0</span></div>\n<div style=\"margin-top: 3.36pt; margin-bottom: 0pt; margin-left: 0.38in; text-indent: -0.38in; direction: ltr; unicode-bidi: embed; vertical-align: baseline;\"><span style=\"font-size: 14pt; font-family: 'Times New Roman'; font-style: italic;\">\u201cKnowledge representation and reasoning\u201d</span><span style=\"font-size: 14pt; font-family: 'Times New Roman';\">, </span><span style=\"font-size: 14pt; font-family: 'Times New Roman';\">Brachman</span><span style=\"font-size: 14pt; font-family: 'Times New Roman';\"> e Levesque:, Morgan Kaufmann, Cap. 2,3,4.1,4.2,8,9,10 <em>(solo c</em></span><em><span style=\"font-size: 14pt; font-family: 'Times New Roman';\">apitoli\u00a0</span><span style=\"font-size: 14pt; font-family: 'Times New Roman';\">selezionati</span><span style=\"font-size: 14pt; font-family: 'Times New Roman';\">)\u00a0</span></em></div></td></tr></table>",
+  "ricevimento": "<table><tr><td><p>Il docente riceve gli studenti a fine lezione o su appuntamento. Inviare in tal caso una mail \u00a0pazienza@info.uniroma2.it per concordare data ed ora</p></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td><p>\u00e8 previsto un compito scritto con domande a risposta multipla e domande a risposta libera su tutti gli argomenti del corso</p></td></tr></table>"
+}

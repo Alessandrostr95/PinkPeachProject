@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Teoria della sicurezza e crittografia",
+  "docente": [
+    {
+      "first_name": "Maurizio",
+      "second_name": "Talamo"
+    }
+  ],
+  "annoAccademico": "2015-2016",
+  "crediti": "6",
+  "settore": "INF/01",
+  "anno": "1",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td><p><span style=\"color: #646464; font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 18px;\">Programma 2014-2015</span></p>\n<p>\u00a0</p>\n<p>Programma del corso:</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm 5.75pt 0pt; padding: 0px; line-height: 15.6pt;\">- teorema dei resti cinesi</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm 5.75pt 0pt; padding: 0px; line-height: 15.6pt;\">- teorema di eulero (aritmetica modulare)</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm 5.75pt 0pt; padding: 0px; line-height: 15.6pt;\">- algoritmo di euclide esteso</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm 5.75pt 0pt; padding: 0px; line-height: 15.6pt;\">- algoritmo RSA</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm 5.75pt 0pt; padding: 0px; line-height: 15.6pt;\">- workflow e loro rappresentazione in forma normale congiuntiva</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm 5.75pt 0pt; padding: 0px; line-height: 15.6pt;\">- alberi di descrizione delle transazioni</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm 5.75pt 0pt; padding: 0px; line-height: 15.6pt;\">- regole di sicurezza su sistemi multitransazionali</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm 5.75pt 0pt; padding: 0px; line-height: 15.6pt;\">- modelli per la cifra omomorfica</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm 5.75pt 0pt; padding: 0px; line-height: 15.6pt;\">- uso della cifra omomorfica per la distribuzione controllata di chiavi di cifra\u00a0</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm 5.75pt 0pt; padding: 0px; line-height: 15.6pt;\">- network security: tipologie di attacchi in rete, controllo e documentazione di attacchi</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm 5.75pt 0pt; padding: 0px; line-height: 15.6pt;\">- progetto da realizzare:</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm 5.75pt 0pt; padding: 0px; line-height: 15.6pt;\">\u00a0 \u00a0 \u00a0 - traccia 1: dato un insieme di processi che costituiscono una transazione complessa in rete, disegnare l'albero di descrizione delle transazioni e applicarlo a un caso reale\u00a0</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm 5.75pt 0pt; padding: 0px; line-height: 15.6pt;\">\u00a0 \u00a0 \u00a0 - traccia 2: disegnare e realizzare un'architettura di sicurezza basata su agenti \u00a0 software per consentire a due (o pi\u00f9) peer di condividere chiavi di cifra senza il rischio di attacchi di tipo man in the middle.</p></td></tr></table>",
+  "testiRiferimento": "<table><tr><td><p><span style=\"color: #646464; font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 18px; background-color: #f0f0f0;\">Handbook of applied cryptography</span></p>\n<p><span style=\"color: #646464; font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 18px; background-color: #f0f0f0;\">Smart Card Handbook John Wiley Sons</span></p>\n<p><span style=\"color: #646464; font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 18px; background-color: #f0f0f0;\">Dispense</span></p></td></tr></table>",
+  "ricevimento": "<table><tr><td><p><span style=\"color: #646464; font-family: Arial, Helvetica, sans-serif; font-size: 12px; background-color: #f0f0f0;\">Studio: lunedi' e venerdi' dalle 10 alle 11 su appuntamento</span></p></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td><p>presentazione di un progetto e relativa discussione</p></td></tr></table>"
+}

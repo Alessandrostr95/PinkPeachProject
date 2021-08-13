@@ -1,0 +1,149 @@
+{
+  "nomeCorso": "Ricerca operativa",
+  "docente": [
+    {
+      "first_name": "Massimiliano",
+      "second_name": "Caramia"
+    }
+  ],
+  "annoAccademico": "2015-2016",
+  "crediti": "6",
+  "settore": "MAT/09",
+  "anno": "2",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [
+    {
+      "titolo": "Data seconda prova di esonero e recupero prima parte",
+      "data": "03-06-2016 15:27",
+      "contenuto": "<p><span style=\"text-decoration: underline;\">Il secondo esonero</span> si terr\u00e0 il giorno <strong>6\u00a0giugno 2016</strong> in <strong>aula 3A</strong>\u00a0<strong>dalle ore 11:00 alle ore 13:00</strong>.</p>\n<p><span style=\"text-decoration: underline;\">Sosterranno la prova scritta su AMPL/CPLEX i candidati</span>:</p>\n<p>Ciafrei, Fanelli, Hromei, Magnante, Tiberi.</p>\n<p><span style=\"text-decoration: underline;\">Sosterranno la prova AMPL/CPLEX orale i seguenti candidati</span>:</p>\n<p>Corridori, Costantini, Denni, Fakhoury, Javareti, Lombardozzi, Prestifilippo, Rossi, Santilli.</p>\n<p><span style=\"text-decoration: underline;\">Sosterranno la prova scritta sulla prima parte i seguenti candidati</span>:</p>\n<p>Bonaventura, Bonavita, Brandi, Cesile, Cotichetti, Cristofori, De Vito, Flores Coronado,\u00a0Fratarcangeli,\u00a0Giuliani, Liberati, Marrone, Mastromattei, Melchiorri, Mieli, Pompili, Raparelli, Renzini, Rinaldi, Rocca, Sahna, Seia, Sera, Squadrone, Ulleri, Verolino, Volpi, Zanti.</p>\n<p>\u00a0</p>\n<p><span style=\"text-decoration: underline;\">La prova AMPL/CPLEX per coloro che superanno la prova scritta sulla prima parte</span> si terr\u00e0 il giorno <strong>8 giugno 2016</strong> in <strong>aula 18</strong> <strong>dalle ore 13:00 alle ore 15:00</strong>.</p><hr/>"
+    },
+    {
+      "titolo": "Rinvio esonero a luned\u00ec 6 giugno",
+      "data": "31-05-2016 18:37",
+      "contenuto": "<p>Per gravi motivi familiari sono costretto a spostare l'esonero di domani mercoled\u00ec 1 giugno 2016 a luned\u00ec 6 giugno dalle 11:00 alle 13:00 in aula 3A. Rimane fermo il giorno 8 giugno p.v. in aula 18 dalle 13:00 alle 15:00 per lo svolgimento del secondo esonero da parte di chi superar\u00e0 la prova scritta sulla prima parte del 6 giugno. Ho recepito le richieste di modifiche recenti che mi avete inviato e mi scuso se non riuscir\u00f2 ad implementarle prima di venerd\u00ec. Venerd\u00ec risponder\u00f2 anche ai dubbi relativi ai problemi che mi avete invitato via e-mail.\u00a0</p>\n<p>Saluti,</p>\n<p>Massimiliano Caramia</p><hr/>"
+    },
+    {
+      "titolo": "Comunicazione eventuali studenti non in lista",
+      "data": "24-05-2016 10:35",
+      "contenuto": "<p>Fatemi cortesemente sapere se ci fossero studenti del corso di Ricerca Operativa che intendessero (ri)sostenere la prima prova d'esonero ma non sono stati inseriti nell'elenco della precedente comunicazione.</p>\n<p>Grazie.</p><hr/>"
+    },
+    {
+      "titolo": "Lezione di mercoled\u00ec 11 maggio 2016",
+      "data": "11-05-2016 14:20",
+      "contenuto": "<p>Vi comunico che a causa del prolungamento di un esonero di un altro corso ancora in svolgimento presso Ingegneria, la lezione di oggi di RO non si terr\u00e0. Vi comunico inoltre che in giornata usciranno i voti dell'esonero del 9 maggio 2016. Ci vediamo luned\u00ec 16 maggio 2016 alle ore 11:00.</p>\n<p>Saluti,</p>\n<p>Massimiliano Caramia</p><hr/>"
+    },
+    {
+      "titolo": "Data prima prova di esonero",
+      "data": "04-05-2016 11:46",
+      "contenuto": "<p>Il giorno 9 maggio 2016 alle 11:00 in aula T5 si terr\u00e0 la prima prova di esonero dallo scritto del corso di Ricerca Operativa.</p><hr/>"
+    },
+    {
+      "titolo": "Lezione di mercoled\u00ec 30 marzo 2016",
+      "data": "28-03-2016 11:56",
+      "contenuto": "<p>La lezione di mercoled\u00ec 30 marzo 2016 di Ricerca Operativa non si terr\u00e0. Il corso riprender\u00e0 regolarmente luned\u00ec 4 aprile 2016 alle ore 11:00.</p>\n<p>Prof. Massimiliano Caramia</p><hr/>"
+    },
+    {
+      "titolo": "Lezione di luned\u00ec 7 marzo 2016",
+      "data": "07-03-2016 11:35",
+      "contenuto": "<p>La lezione del 7 marzo 2016 di Ricerca Operativa \u00e8 spostata a data da concordare. Il corso riprende regolarmente mercoled\u00ec 9 marzo 2016 alle ore 14:00.</p>\n<p>Prof. Massimiliano Caramia</p>"
+    }
+  ],
+  "lezioni": [
+    {
+      "id": "18",
+      "data": "25-05-2016",
+      "contenuto": "<p>AMPL CPLEX: esercitazione di riepilogo con utilizzo sintassi lettura e scrittura da fogio elettronico e file di testo e indirizzamento su algoritmi specifici della libreria di algoritmi.</p>"
+    },
+    {
+      "id": "17",
+      "data": "23-05-2016",
+      "contenuto": "<p>Linguaggio AMPL e libreria CPLEX: utilizzo comandi \"read\" and \"write\" per la lettura dati da file. Esercitazione di riepilogo.</p>"
+    },
+    {
+      "id": "16",
+      "data": "16-05-2016",
+      "contenuto": "<p>Correzione compito d'esonero. Linguaggio AMPL: utilizzo dei comandi \"drop\", \"restore\", \"objective\".</p>"
+    },
+    {
+      "id": "15",
+      "data": "09-05-2016",
+      "contenuto": "<p>Svolgimento prova d'esonero</p>"
+    },
+    {
+      "id": "14",
+      "data": "04-05-2016",
+      "contenuto": "<p>Linguaggio AMPL, definizione del file .dat. Caricamento file da linea di comando e comando solve, display e option. Definizione del file .run. Comando let e ciclo repeat until.</p>"
+    },
+    {
+      "id": "13",
+      "data": "02-05-2016",
+      "contenuto": "<p>Esercitazione di riepilogo sugli algorirtmi per la programmazione lineare</p>"
+    },
+    {
+      "id": "12",
+      "data": "27-04-2016",
+      "contenuto": "<p>Introduzione al linguaggio AMPL</p>"
+    },
+    {
+      "id": "11",
+      "data": "20-04-2016",
+      "contenuto": "<p>Esercitazione sul Simplesso duale</p>"
+    },
+    {
+      "id": "10",
+      "data": "13-04-2016",
+      "contenuto": "<p>L'algoritmo Simplesso duale</p>"
+    },
+    {
+      "id": "9",
+      "data": "11-04-2016",
+      "contenuto": "<p>L'algoritmo primale duale.</p>"
+    },
+    {
+      "id": "8",
+      "data": "06-04-2016",
+      "contenuto": "<p>Esercitazione sulla dualit\u00e0 nella programmazione lineare.</p>"
+    },
+    {
+      "id": "7",
+      "data": "04-04-2016",
+      "contenuto": "<p>I rilassamenti di un problema di programmazione matematica. Il rilassamento per rimozione di vincoli e il rilassamento Lagrangiano. La dualit\u00e0 nella programmazione lineare.</p>"
+    },
+    {
+      "id": "6",
+      "data": "23-03-2016",
+      "contenuto": "<p>Esercitazione sul Simplesso in due fasi.</p>"
+    },
+    {
+      "id": "5",
+      "data": "21-03-2016",
+      "contenuto": "<p>Esercitazione sul Simplesso primale. Introduzione del concetto di variabile artificiale e problema artificiale (Simplesso in due fasi).</p>"
+    },
+    {
+      "id": "4",
+      "data": "16-03-2016",
+      "contenuto": "<p>Algoritmo del Simplesso: ricerca di una soluzione di base per l'inizializzazione e passo iterativo. Condizioni di ottimalit\u00e0 di una soluzione di base. Condizioni di illimitatezza di un programma lineare.</p>"
+    },
+    {
+      "id": "3",
+      "data": "14-03-2016",
+      "contenuto": "<p>La forma standard nella programmazione lineare. Introduzione all'algoritmo del Simplesso. Variabili in base e non in base. Definizione di soluzione di base. Relazione tra vertici di un poliedro e soluzioni di base.</p>"
+    },
+    {
+      "id": "2",
+      "data": "09-03-2016",
+      "contenuto": "<p>La programmazione lineare: generalit\u00e0 ed esempi di formulazioni</p>"
+    },
+    {
+      "id": "1",
+      "data": "02-03-2016",
+      "contenuto": "<p>Introduzione alla Ricerca Operativa e alla formulazione dei problemi decisionali.</p>"
+    }
+  ],
+  "materiale": [],
+  "programma": "<table><tr><td><p>Introduzione alla Ricerca Operativa.</p>\n<p>Formulazione di problemi decisionali in termini di programmazione matematica.</p>\n<p>Classificazione dei problemi di programmazione matematica.</p>\n<p>Teoria della programmazione lineare.</p>\n<p>Il metodo del simplesso primale.</p>\n<p>Il metodo delle variabili articificiali.</p>\n<p>Teoria della dualit\u00e0 nella programmazione lineare.</p>\n<p>Il metodo del simplesso duale.</p>\n<p>Il metodo primale-duale.</p>\n<p>Cenni sulla programmazione lineare intera.</p>\n<p>Il linguaggio AMPL.</p>\n<p>La libreria di algoritmi CPLEX.</p>\n<p>\u00a0</p></td></tr></table>",
+  "testiRiferimento": "<table><tr><td><p>Caramia M., Giordani S., Guerriero F., Musmanno R., Pacciarelli D., \"Ricerca Operativa\", De Agostini Editore, 2014. \u00a0</p></td></tr></table>",
+  "ricevimento": "<table><tr><td><p>Il luned\u00ec e il mercoled\u00ec al termine della lezione</p></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td><p>L'esame prevede una prova scritta ed una prova orale</p></td></tr></table>"
+}

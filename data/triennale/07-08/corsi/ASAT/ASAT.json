@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Architetture software per applicazioni in tempo reale ad alta interattivit\u00e0",
+  "docente": [
+    {
+      "first_name": "Carlo",
+      "second_name": "Fabricatore"
+    }
+  ],
+  "annoAccademico": "2007-2008",
+  "crediti": "3",
+  "settore": "",
+  "anno": "3",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>1\tIntroduzione: applicazioni in tempo reale ad alta interattivit\u00e0 (ATRAI) e giochi digitali\r\n\r\n1.1\tATRAI: caratteristiche fondamentali\r\n1.2\tProblematiche tipiche delle ATRAI\r\n1.3\tStato dell'arte delle ATRAI: i giochi digitali\r\n\r\n2\tArchitetture software: nozioni fondamentali\r\n\r\n2.1\tArchitetture e processi di sviluppo\r\n-\tCaratteristiche di un'architettura software\r\n-\tPrincipali obiettivi di un'architettura\r\n2.2\tStrutturazione e tipologie di architetture\r\n-\tComponentizzazione di un sistema\r\n-\tApprocci di distribuzione dei componenti\r\n2.3\tStato dell'arte delle architetture stratificate: il modello SunTone\r\n\r\n3\tArchitetture software in ATRAI e giochi digitali\r\n\r\n3.1\tIl modello da rappresentare: rappresentazione player-centered dell'universo virtuale\r\n-\tAttori ed interazioni in un universo virtuale\r\n3.2\tApprocci per la componentizzazione di un universo virtuale\r\n-\tAttori\r\n-\tComponenti di servizio\r\n3.3\tPrincipi di agile modeling &amp; programming\r\n-\tIntroduzione a SCRUM: pragmatismo e project management per progetti ad alto rischio\r\n-\tApprocci di distribuzione dei componenti\r\n-\tIntroduzione all'agile modelling\r\n-\tIntroduzione al refactoring\r\n-\tCaso di studio: Tetris\r\n3.4\tProblematiche di distribuzione ed interoperativit\u00e0\r\n-\tComunicazione tra componenti (accoppiamento nella comunicazione)\r\n-\tPersistenza di stato\r\n-\tInformazioni di stato\r\n-\tPatterns per l'interoperativit\u00e0 tra componenti distribuite\r\n-\tInteroperativit\u00e0 e performance\r\n3.5\tQualit\u00e0 sistemiche di primario interesse\r\n-\tSicurezza\r\n-\tPerformance\r\n-\tDisponibilit\u00e0\r\n3.6\tDesign e l?implementazione di architetture: i patterns\r\n-\tNatura, utilizzo e livelli di applicabilit\u00e0 di un pattern\r\n-\tArchitectural patterns\r\n-\tSoftware patterns\r\n\r\n4\tModellazione architettonica di un gioco digitale\r\n\r\n4.1\tAgenti\r\n-\tStrutturazione e design\r\n-\tControllo del comportamento\r\n-\tGestione e controllo di status\r\n-\tControllo interno del ciclo di vita\r\n-\tSoftware &amp; architectural patterns\r\n4.2\tGame Mechanics\r\n-\tStrutturazione e design \r\n-\tControllo del comportamento\r\n-\tControllo interno del ciclo di vita\r\n-\tSoftware &amp; architectural patterns\r\n4.3\tServizi e componenti di comunicazione\r\n-\tSistemi di comunicazione diretta\r\n-\tSistemi di comunicazione ad eventi\r\n-\tSoftware &amp; architectural patterns\r\n4.4\tServizi e componenti di rendering\r\n-\t2D renderind\r\n-\tScene graph\r\n-\tSoftware &amp; architectural patterns\r\n4.5\tServizi e componenti di world management\r\n-\tArea management\r\n-\tSistemi di regole\r\n-\tGestione di persistenza\r\n-\tMonitoraggio e consultazione dello status del mondo\r\n-\tGestione del ciclo di vita degli attori\r\n-\tSoftware &amp; architectural patterns\r\n4.6\tInterfacce grafiche\r\n-\tControllo dello status dell'universo\r\n-\tComunicazione diretta ed indiretta con gli attori\r\n-\tSoftware &amp; architectural patterns\r\n</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>Davison, A. (2005) \"Killer Game Programming in Java\" Ed. O'Reilly Media, Inc.\r\n\r\nBarman, C. (2004) \"Applying UML and Patterns: An Introduction to Object-Oriented Analysis and Design and Iterative Development\" Ed. Prentice Hall.\r\n\r\nFowler, M. (1999) \"Refactoring: Improving the Design of Existing Code \" Ed. Addison-Wesley.\r\n\r\nBuckland, M. (2004) \"Programming Game AI By Example \"Ed. Wordware Publishing.\r\n\r\nAmbler, S. W., Jeffries, R.. (2002) \"Agile Modeling: Effective Practices for Extreme Programming and the Unified Process\" Ed. Wiley.\r\n\r\n### Referenze C# e .NET\r\n\r\nNitschke, B. (1007) \"Professional Xna Game Programming For Xbox 360 And Windows\". Ed. Wrox.\r\n\r\nSharp, J. (2006) \"Microsoft Visual C# 2005 Step by Step\". Ed. MS Press.\r\n\r\nAndrew Troelsen, A. (2007) \"Pro C# 2008 and the NET 3.5 Platform\", 4th Edition. Ed. Apress.\r\n</td></tr></table>",
+  "ricevimento": "<table><tr><td></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

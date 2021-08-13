@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Programmazione dei calcolatori",
+  "docente": [
+    {
+      "first_name": "Dora",
+      "second_name": "Giammarresi"
+    }
+  ],
+  "annoAccademico": "2008-2009",
+  "crediti": "12",
+  "settore": "",
+  "anno": "1",
+  "semestre": "1-2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>Introduzione al concetto di algoritmo, istruzione, flusso d'esecuzione, architettura di von Neumann. \r\nPer scopi esemplificativi \u00e8 stato illustrato l'algoritmo per il calcolo del massimo comun divisore.\r\nIntroduzione ai linguaggi di programmazione, linguaggi di basso e di alto livello. \r\nEsempi di programma in linguaggio macchina, in linguaggio assembler, in Pascal. \r\nLinguaggi di programmazione interpretati, compilati e ad approccio ibrido.\r\nIntroduzione alla programmazione strutturata, strutture di controllo del flusso (if, while, do while), concetto di blocco. Diagrammazione a blocchi.\r\nEsercizi con diagrammi a blocchi e loro \"implementazione\" con il tool FreeDFD (programma open source redattore ed interprete di diagrammi a blocchi).\r\nLe variabili modificabili nel paradigma imperativo. Il comando di assegnamento.\r\nImplementazione in Groovy di alcuni degli esempi precedentemente risolti con il tool FreeDFD.\r\nOperatori aritmetici, operatori relazionali e logici, struttura \"for\" per il controllo del flusso\r\nOperatori per incremento e decremento delle variabili (++, --, +=, -=, /=, %=), cicli annidati, comandi break, continue ed exit.\r\n\r\nDa Groovy a C. Rivisitazione dei capitoli 3, 4, 5 e 6 del libro di testo con approfondimenti di aspetti caratteristici del linguaggio C: le fasi della programmazione C, la funzione scanf, l'istruzione switch case, operatore virgola, tipi in virgola mobile.\r\n\r\nInstallazione, su piattaforma Windows, di una macchina virtuale (i.e. Virtual Box) con Mandriva 2009  e uso del compilatore gcc.\r\n\r\nArray: vettori, esempio di utilizzo. Inizializzazione di variabili. Matrici. Esercizio: verificare che una matrice \u00e8 diagonale.\r\n\r\nEsercizi sugli array: verfica matrice simmetrica, inizializzazione di matrici, matrici multi-dimensionali.\r\n\r\nRicerche e ordinamenti: ricerca completa, ordinamenti (es. bubblesort), ricerca binaria, fusione di due array.\r\n\r\nStringhe in C, esempi di uso di stringhe e funzioni di libreria.\r\n\r\n=======================================\r\n\r\nRivisitazione degli argomenti trattati nella prima parte del corso in riferimento al modello di memoria specifico del linguaggio di programmazione C.\r\n\r\nPuntatori e aritmetica dei puntatori.\r\nAllocazione dinamica della memoria.\r\nStrutture C.\r\nGestione dei File.\r\nRicorsione.\r\nStrutture dati: liste e pile, implementate con array e con strutture \"linkate\".\r\nTipi derivati e classi di memoria.\r\nPreprocessore C.\r\n</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>--------------------------------------------------------------------------\r\nLinguaggio C - guida alla programmazione (III ed.)\r\ndi A. Bellini, A. Guidi\r\nEdito da McGraw-Hill.\r\n--------------------------------------------------------------------------\r\nI titoli di altri testi introduttivi alla programmazione e al linguaggio C sono indicati sulle pagine dei corsi Programmazione dei Calcolatori e Laboratorio di Programmazione dei Calcolatori dell'anno accademico 2007-2008.</td></tr></table>",
+  "ricevimento": "<table><tr><td>Luned\u00ec 12.30 - 13.30 in studio (stanza 0221).\r\nTel. 06.7259-4768.</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

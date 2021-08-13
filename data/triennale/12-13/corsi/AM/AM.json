@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Analisi Matematica",
+  "docente": [
+    {
+      "first_name": "Florin",
+      "second_name": "Radulescu"
+    }
+  ],
+  "annoAccademico": "2012-2013",
+  "crediti": "9",
+  "settore": "MAT/05",
+  "anno": "1",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>null</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>null</td></tr></table>",
+  "ricevimento": "<table><tr><td>null</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

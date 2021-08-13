@@ -1,0 +1,28 @@
+{
+  "nomeCorso": "Calcolo delle probabilit\u00e0 e statistica",
+  "docente": [
+    {
+      "first_name": "Claudio",
+      "second_name": "Macci"
+    }
+  ],
+  "annoAccademico": "2018-2019",
+  "crediti": "6",
+  "settore": "MAT/06",
+  "anno": "2",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Analisi Matematica.",
+  "comunicazioni": [
+    {
+      "titolo": "",
+      "data": "02-10-2018 09:08",
+      "contenuto": "<p>Tutte le informazioni sul corso sono disponibili qui:</p>\n<p>http://www.mat.uniroma2.it/~macci/didattica-corsoST.htm</p>"
+    }
+  ],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>null</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>null</td></tr></table>",
+  "ricevimento": "<table><tr><td>null</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

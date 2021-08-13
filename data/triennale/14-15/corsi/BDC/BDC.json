@@ -1,0 +1,48 @@
+{
+  "nomeCorso": "Basi di dati e di conoscenza",
+  "docente": [
+    {
+      "first_name": "Loredana",
+      "second_name": "Vigliano"
+    },
+    {
+      "first_name": "Roberto",
+      "second_name": "Basili"
+    }
+  ],
+  "annoAccademico": "2014-2015",
+  "crediti": "12",
+  "settore": "INF/01",
+  "anno": "2",
+  "semestre": "1-2",
+  "propedeuticit\u00e0": "Matematica discreta. Programmazione dei calcolatori con laboratorio.",
+  "comunicazioni": [
+    {
+      "titolo": "prossimo appello",
+      "data": "25-09-2015 16:43",
+      "contenuto": "<p>\u00a0</p>\n<p><strong>\u00a0</strong></p>\n<table cellpadding=\"0\" cellspacing=\"0\" style=\"height: 92px;\" width=\"417\">\n<tbody>\n<tr>\n<td class=\"td1\" valign=\"middle\">\n<p class=\"p1\"><strong>III appello informatica (IV bioinformatica)</strong></p>\n<p class=\"p1\">\u00a0</p>\n<p class=\"p1\">28 Settembre orali aula 3A o 17 \u00a0con il seguente ordine :</p>\n<p class=\"p1\">ore 10.30 Sanit\u00e0, Camerlengo, Fan, Lombardozzi, Aquaro</p>\n<p class=\"p1\">ore 14.30 De Cupis, Ravaglia</p>\n<p class=\"p1\">\u00a0</p>\n</td>\n</tr>\n</tbody>\n</table><hr/>"
+    },
+    {
+      "titolo": "",
+      "data": "27-05-2015 11:56",
+      "contenuto": "<p><strong>ATTENZIONE !!!!!!</strong> : per poter sostenere l' esame (anche solo orale) \u00e8 necessario prenotarsi sul sito \u00a0delphi.uniroma2.it.</p>\n<p><strong><span style=\"text-decoration: underline;\">ATTENZIONE !!!!!!\u00a0 :\u00a0useremo la verbalizzazione automatica e quindi non sar\u00e0 pi\u00f9 possibile sostenere l'esame senza prenotazione!!!!!</span></strong><br>\u00a0<br>ESAMI PROPEDEUTICI : MD e PR <br>Per l'esame \u00e8 indispensabile seguire le linee guida del progetto <br>\u00a0<br/><strong>ATTENZIONE</strong> : La parte di programma non presente sulle slide va studiata sul <strong>LIBRO </strong></br></br></br></br></p><hr/>"
+    },
+    {
+      "titolo": "AVVISO",
+      "data": "22-05-2015 11:34",
+      "contenuto": "<p><strong>\u00a0</strong></p>\n<p>Si ricorda che lo scritto viene conservato solo fino al successivo appello</p>"
+    }
+  ],
+  "lezioni": [
+    {
+      "id": "1",
+      "data": "08-10-2014",
+      "contenuto": "<p>\u00a0Orario Secondo Semestre (inizio 12 Novembre)</p>\n<p>\u00a0</p>\n<p>MER h. 11-13 \u00a0Aula 3A</p>\n<p>VEN h. 11- 13 \u00a0 Aula 3A</p>"
+    }
+  ],
+  "materiale": [],
+  "programma": "<table><tr><td><table cellpadding=\"0\" cellspacing=\"0\">\n<tbody>\n<tr>\n<td class=\"td1\" valign=\"top\">\n<table cellpadding=\"0\" cellspacing=\"0\" class=\"t1\">\n<tbody>\n<tr>\n<td class=\"td2\" valign=\"middle\">\n<p class=\"p1\">Introduzione <br>- Esercizi e ripasso su :<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0Flusso di progetto e visione dei dati <br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0Disegno logico DB <br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0Schema Entity-relationship <br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0Disegno fisico DB <br/>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0Forme normali (eventuali)<br/>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0Query language e implementazioni su mySQL <br/>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0DML <br/>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0SQL </br></br></br></br></br></p>\n<p class=\"p1\">- Organizzazione fisica dei dati<br/> - Ottimizzazione degli indici\u00a0<br/>- Normalizzazione e Denormalizzazione\u00a0<br/> - Ottimizzazione delle interrogazioni\u00a0<br/> <em>------ MySQL e ottimizzazioni\u00a0</em><br/> <br/> - Transazioni\u00a0<br/> <em>------ Locking a due fasi, Timestamp,MVCC\u00a0<br/> ------ MySQL e Storage Engine</em>\u00a0<br/> <br/> - Basi di dati attive\u00a0<br/> <em>------ Trigger e Stored Procedure\u00a0<br/> ------ Cursor, Trigger e Stored Procedure in MySQL\u00a0</em></p>\n<p class=\"p1\">- Basi di dati\u00a0geospaziali e GIS\u00a0<br/> - Basi di dati su architetture distribuite\u00a0<br/> <em>------ Commit a due fasi\u00a0</em>\u00a0<br/> - Architetture per l' analisi dei dati\u00a0<br/> <em>------ Data Warehouse\u00a0<br/> ------ Data Mining</em>\u00a0</p>\n<p class=\"p1\">- Linked Open Data e DB NoSQL<br/> <br/> - Implementazione progetto</p>\n</td>\n</tr>\n</tbody>\n</table>\n</td>\n</tr>\n</tbody>\n</table></td></tr></table>",
+  "testiRiferimento": "<table><tr><td><p class=\"p1\">- Atzeni,Ceri,Fraternali,Paraboschi,Torlone\u00a0<em>Basi di dati -</em>\u00a0ed. McGraw-Hill 4nd edition\u00a0(59 euro)</p>\n<p class=\"p1\">\u00a0 \u00a0(chi gi\u00e0 possiede i precedenti 2 libri pu\u00f2 utilizzarli)\u00a0</p>\n<p class=\"p1\">\u00a0</p>\n<p class=\"p1\">- Schwartz,Zaitsev,Tkachenko,Zawodny, Lentz &amp; Balling<em> High</em> <em>Performance MySQL</em> ed. O'Reilly 2nd edition</p>\n<p class=\"p1\">\u00a0</p>\n<p class=\"p1\">\u00a0</p>\n<p class=\"p1\">- lucidi di L. Vigliano presentati a Lezione <br> <br/> Consigliati : <br/> - Elmasri,Navathe <em>Sistemi di basi di dati</em> Pearson</br></p></td></tr></table>",
+  "ricevimento": "<table><tr><td><p>Al termine di ogni lezione o previo appuntamento via mail</p></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td><p>\u00a0</p>\n<table cellpadding=\"0\" cellspacing=\"0\">\n<tbody>\n<tr>\n<td class=\"td1\" valign=\"middle\">\n<p class=\"p1\">L'esame \u00e8 composto da uno scritto, un progetto ed un esame orale.</p>\n<p class=\"p1\">Il voto di eventuale esonero verr\u00e0 altamente considerato in fase d'esame.</p>\n<p class=\"p1\">\u00a0</p>\n<p class=\"p1\">Si leggano per i particolari le linee guida del progetto presenti sul materiale didattico.</p>\n</td>\n</tr>\n</tbody>\n</table></td></tr></table>"
+}

@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Intelligenza artificiale",
+  "docente": [
+    {
+      "first_name": "Maria Teresa",
+      "second_name": "Pazienza"
+    }
+  ],
+  "annoAccademico": "2012-2013",
+  "crediti": "12",
+  "settore": "INF/01",
+  "anno": "3",
+  "semestre": "1-2",
+  "propedeuticit\u00e0": "Programmazione.",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>Intelligenza Artificiale, concetti base\r<br/>Ricerca di soluzioni a problemi\r<br/>Rappresentazione della conoscenza\r<br/>Conoscenza incerta\r<br/>Sistemi di ragionamento logico e probabilistico\r<br/>Apprendimento automatico \r<br/></td></tr></table>",
+  "testiRiferimento": "<table><tr><td>Libro di testo\r<br/>-Intelligenza artificiale: un approccio moderno-, Russel e Norvig; Prentice Hall, vol 1, capitoli 3,7,12\r<br/>-Knowledge representation and reasoning-, Brachman e Levesque, MK editors.\r<br/>Capitoli1,2,3,4,8,9,10.\r<br/>Presentazioni del docente ed articoli (dettagli sul sito)\r<br/></td></tr></table>",
+  "ricevimento": "<table><tr><td>dopo ogni lezione e su appuntamento (inviare mail al docente)</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

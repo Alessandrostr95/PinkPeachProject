@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Architettura dei calcolatori",
+  "docente": [
+    {
+      "first_name": "Enrico",
+      "second_name": "Nardelli"
+    }
+  ],
+  "annoAccademico": "2006-2007",
+  "crediti": "6",
+  "settore": "",
+  "anno": "2",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>null</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>null</td></tr></table>",
+  "ricevimento": "<table><tr><td>null</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

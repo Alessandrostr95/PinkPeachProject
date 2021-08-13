@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Laboratorio di basi di dati",
+  "docente": [
+    {
+      "first_name": "Luca",
+      "second_name": "Baffi"
+    }
+  ],
+  "annoAccademico": "2006-2007",
+  "crediti": "6",
+  "settore": "",
+  "anno": "2",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>1. Introduzione\r\n\r\n2. Le transazioni\r\n2.1. Lock\r\n2.2. Transazioni\r\n2.3. Livelli di isolamento\r\n2.4  Two phase locking\r\n2.5  Multi-Version Concurrency Control\r\n2.4. Deadlock\r\n\r\n3. L'architettura di MySQL\r\n3.1. La struttura del database\r\n3.2. Le \"storage engines\"\r\n3.3. Il repository dei dati\r\n\r\n4  L'organizzazione fisica dei dati\r\n4.1. Memoria secondaria e gestione del buffer\r\n4.2  Record, blocchi e file\r\n4.3  Accesso sequenziale\r\n4.4  Accesso calcolato e funzioni hash\r\n4.5  Indici primari e secondari\r\n4.6  Strutture ad albero dinamiche: B-tree, B+-tree\r\n\r\n5. Programmazione avanzata di basi di dati\r\n5.1. Costrutti avanzati di SQL\r\n5.2. Basi di dati attive e Trigger\r\n5.3. Stored procedure\r\n\r\n6. Ottimizzare le istruzioni SQL\r\n6.1. Il piano di esecuzione\r\n6.2. L'ottimizzatore\r\n6.3. Le statistiche\r\n6.4. Il comando EXPLAIN\r\n6.5. Le subquery\r\n6.6. Il Join\r\n6.7. Gli Hint\r\n\r\n7. Ottimizzare l'uso degli indici\r\n7.1. Indici e selettivita'\r\n7.2. Query per prefisso\r\n7.3. Indici e distribuzione dei dati\r\n7.4. Indici e funzioni\r\n7.5. Indexed-only columns\r\n7.6. Indici e DML\r\n7.7. Indici e Sort\r\n\r\n8. Ottimizzare il motore SQL\r\n8.1. I diversi meccanismi di cache\r\n8.2. Ottimizzazione di MyIsam\r\n8.3. Ottimizzazione di Heap\r\n8.4. Ottimizzazione di InnoDB\r\n8.5. Le righe migrate/concatenate \r\n\r\n9. Accesso ai dati in Java\r\n9.1. JDBC\r\n9.2. Il pattern DAO\r\n</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>Basi di dati, Architetture e linee di evoluzione - McGraw-Hill - Atzeni, Ceri, Fraternali, Paraboschi, Torlone.\r\n\r\nMySQL Guida Avanzata: ottimizzazione, backup, repliche e bilanciamento del carico - Hops Libri - Jeremy D. Zawodny and Derek J. Balling - ISBN: 8848116965 \r\n\r\nMySQL Reference Manual (versione 5.0) \r\ndisponibile sul sito: www.mysql.com \r\n</td></tr></table>",
+  "ricevimento": "<table><tr><td>In aula dopo la lezione.</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

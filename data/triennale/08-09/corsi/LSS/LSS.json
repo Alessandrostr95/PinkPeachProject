@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Laboratorio di sistemi software",
+  "docente": [
+    {
+      "first_name": "Marco",
+      "second_name": "Bianchi"
+    }
+  ],
+  "annoAccademico": "2008-2009",
+  "crediti": "6",
+  "settore": "",
+  "anno": "3",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>Parte I - Software Testing \r\n\r\nIntroduzione al software testing \r\nStatic &amp; Dynamic white box testing \r\nData based black box testing \r\nPerformance testing\r\nTest Tools Open Source\r\n\r\nParte II - Tecnologie Java per lo sviluppo di applicazioni web-based\r\n\r\nArchitetture e tecnologie Java EE \r\nFramework Open Source\r\n\r\nParte III - Seminari su temi specifici \r\n\r\nProject Management\r\nConfiguration &amp; Build Management \r\n</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>Software Testing? by Ron Patton, Sams Publishing (2005). \r\n\r\n?The Art of Software Testing? (second edition) by Glenford J. Myers et. al., John Wiley &amp; Sons, Inc. (2004).</td></tr></table>",
+  "ricevimento": "<table><tr><td></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

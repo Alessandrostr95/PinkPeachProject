@@ -1,0 +1,28 @@
+{
+  "nomeCorso": "Geometria ed algebra",
+  "docente": [
+    {
+      "first_name": "Franco",
+      "second_name": "Ghione"
+    }
+  ],
+  "annoAccademico": "2013-2014",
+  "crediti": "6",
+  "settore": "MAT/03",
+  "anno": "1",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [
+    {
+      "titolo": "Comunicazioni relative all'esame di Geometria e algebra",
+      "data": "17-06-2014 18:49",
+      "contenuto": "<p>Ricordo che domani alle ore 9 nel mio studio presso il Dipartimento di matematica (piano terra) si terr\u00e0 il colloquio orale consistente nella discussione dello scritto.</p>\n<p>Se uno studente, pur avendo ottenuto un risultato positivo, intende rifare lo scritto al secondo appello, di tale secondo scritto se ne terr\u00e0 conto solo se il risultato ottenuto risulter\u00e0 migliore di quello attuale.</p>\n<p>Se uno studente, con una valutazione inferiore a 18/30 intende rivedere il suo compito potr\u00e0 sempre domani prenderene visione. Coloro che non possono veniere domani per la registrazione del voto sono pregati di scrivermi una mail in questo senso per fissare un altro appuntamento.</p>\n<p>Franco Ghione</p>"
+    }
+  ],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td></td></tr></table>",
+  "testiRiferimento": "<table><tr><td></td></tr></table>",
+  "ricevimento": "<table><tr><td></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

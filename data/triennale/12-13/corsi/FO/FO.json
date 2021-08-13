@@ -1,0 +1,28 @@
+{
+  "nomeCorso": "Fondamenti di informatica",
+  "docente": [
+    {
+      "first_name": "Benedetto",
+      "second_name": "Intrigila"
+    }
+  ],
+  "annoAccademico": "2012-2013",
+  "crediti": "12",
+  "settore": "INF/01",
+  "anno": "1",
+  "semestre": "1-2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [
+    {
+      "titolo": "Risultati prova 12/2/2014",
+      "data": "15-02-2014 00:21",
+      "contenuto": "<p>I risultati all'Url:</p>\n<p>\u00a0</p>\n<p>http://www.mat.uniroma2.it/~intrigil/Fondamenti_Informatica_12_2_14.pdf</p>"
+    }
+  ],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td><p>I fondamenti teorici della teoria della computazione.<br>La gerarchia di Chomsky<br>Linguaggi regolari e automi<br>Linguaggi context-free e automi a pila.<br>Macchina di Turing. (Cenni)</br></br></br></br></p>\n<p>Con riferimento al libro di testo (vedi sotto):<br>cap.1 tutto<br>cap. 2 paragrafi 2.1, 2.4 e 2.5<br/>cap.3 tutto<br/>cap. 4 tutto</br></br></p>\n<p>\u00a0</p></td></tr></table>",
+  "testiRiferimento": "<table><tr><td><p>Giorgio Ausiello , Fabrizio D'Amore , Giorgio Gambosi<br>Linguaggi, modelli, complessit\u00e0</br></p>\n<p>\u00a0</p></td></tr></table>",
+  "ricevimento": "<table><tr><td><p>Studio 1212 Dente B (tel. 0672594670) Martedi ore 17-18<br>email:intrigil@mat.uniroma2.it</br></p>\n<p>\u00a0</p></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

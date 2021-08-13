@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Metodi numerici per l'ottimizzazione",
+  "docente": [
+    {
+      "first_name": "Stefano",
+      "second_name": "Fanelli"
+    }
+  ],
+  "annoAccademico": "2005-2006",
+  "crediti": "6",
+  "settore": "",
+  "anno": "1",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>Introduzione al corso: problematiche relative al moderno calcolo\r\ncomputazionale ed alle relazioni fra la Scienza del Calcolo, \r\ni Modelli di Ottimizzazione ed il Calcolo Numerico.\r\nMetodi classici del gradiente. Direzioni ammissibili.\r\nMetodo di discesa piu' ripida. Metodo del gradiente coniugato \r\nper problemi quadratici di ottimizzazione non vincolata. \r\nMetodi di ricerca unidimensionali.\r\nMetodi di Fletcher-Reeves e Polak-Ribi\u00e8re.\r\nFunzioni convesse in R^n. Problemi convessi di ottimizzazione\r\nvincolata. Condizioni di Kuhn-Tucker. \r\nMetodo di Newton-Raphson per la risoluzione di sistemi di \r\nequazioni non lineari.\r\nAlgoritmi per problemi di ottimizzazione convessa. \r\nIl metodo di Wolfe. Il metodo del gradiente ridotto e del gradiente\r\nproiettato. \r\nAlgoritmi per punti interni.\r\nProblemi di ottimizzazione su reti neuronali: algoritmi per \r\nl'ottimizzazione globale della funzione di errore di un \r\nperceptrone multi-strato </td></tr></table>",
+  "testiRiferimento": "<table><tr><td></td></tr></table>",
+  "ricevimento": "<table><tr><td>null</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

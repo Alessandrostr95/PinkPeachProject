@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Architettura elaboratori",
+  "docente": [
+    {
+      "first_name": "Alessandra",
+      "second_name": "Pieroni"
+    }
+  ],
+  "annoAccademico": "2012-2013",
+  "crediti": "6",
+  "settore": "INF/01",
+  "anno": "1",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>Programma del corso\r<br/> <br/>Organizzazione dei sistemi di calcolo\r<br/>     Processori\r<br/>     Memorie principali e Memorie secondarie\r<br/>     Input/output\r<br/>Descrizione dei sistemi di calcolo \r<br/>\tDescrizione orizzontale\r<br/>\tDescrizione verticale\r<br/>        Descrizione del livello logico digitale\r<br/>\t    Processore\r<br/>            Memorie\r<br/>            Bus\r<br/>Architettura e Governo di sistemi di calcolo\r<br/>\tTipi di architettura\r<br/>        Tipi di Governo\r<br/>               Strumenti di governo\r<br/>\t       Processi e Thread\r<br/>\t       Comunicazione tra processi\r<br/>               Scheduling \r<br/>               Gestione Processi\r<br/>               File System\r<br/>               Input/output\r<br/>Sistemi a configurazione multiprocessor\r<br/>        Legge di Grosch\r<br/>\tLegge di Moore\r<br/>Reti di interconnesione\r<br/>        Reti intraprocessor\r<br/>        Reti interprocessor\r<br/>        Computer networks\r<br/>\t        LAN, MAN e WAN\r<br/>Caratterizzazione Unit\u00e0 e Reti\r<br/>\tCaratterizzazione CPU\r<br/>\t\tEsempi di CPU\r<br/>\tCaratterizzazione Reti\r<br/>\t\tCaratterizzazione Reti Intraprocessor\r<br/>                Caratterizzazione Reti Iterprocessor\r<br/>                \tReti Statiche e Reti Dinamiche\r<br/>                Caratterizzazione Computer Network\r<br/>\t                Legge Metcalfe\r<br/>                        Legge delle Reti\r<br/> <br/>Programma prima prova: \r<br/>Libro Tanembaum cap.1 e 2 (fino a 2.1.5 escluso)\r<br/> <br/>Programma seconda prova:\r<br/>Libro Tanembaum cap.2 (tutto)\r<br/>Libro Iazeolla: cap. 2.1 e 2.2; cap.3 tutto; cap.5.1.\r<br/> <br/>Programma per la terza prova: \r<br/>Libro Iazeolla: \r<br/>cap.3.2 (inclusi sotto paragrafi) e 3.3 (inclusi sotto paragrafi)\r<br/>cap.4 (escluso cap4.4).\r<br/>Libro Tanenbaum:\r<br/>cap3 (fino a 3.2.4 incluso).</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>Testi consigliati: \r<br/> <br/>1) Tanenbaum Andrew S., Architettura dei calcolatori: Un approccio \t\t   strutturale,  5a Ed., Pearson Education, 2006\r<br/> <br/>2) Giuseppe Iazeolla, Impianti, Reti e Sistemi Informatici, 2a Ed., \t\t\tFrancoAngeli 2008\r<br/></td></tr></table>",
+  "ricevimento": "<table><tr><td>In aula dopo lezione</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

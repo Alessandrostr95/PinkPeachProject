@@ -1,0 +1,28 @@
+{
+  "nomeCorso": "Programmazione",
+  "docente": [
+    {
+      "first_name": "Gianluca",
+      "second_name": "Rossi"
+    }
+  ],
+  "annoAccademico": "2013-2014",
+  "crediti": "12",
+  "settore": "INF/01",
+  "anno": "1",
+  "semestre": "1-2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [
+    {
+      "titolo": "",
+      "data": "12-11-2013 11:27",
+      "contenuto": "<p>Tutte le informazioni sono disponibili nella\u00a0<a href=\"http://www.gianlucarossi.name/wordpress/?page_id=757\" target=\"_blank\">pagina del corso</a>.</p>"
+    }
+  ],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td><p>Tutte le informazioni sono disponibili nella <a href=\"http://www.gianlucarossi.name/wordpress/?page_id=757\" target=\"_blank\">pagina del corso</a>.</p></td></tr></table>",
+  "testiRiferimento": "<table><tr><td><p>Tutte le informazioni sono disponibili nella\u00a0<a href=\"http://www.gianlucarossi.name/wordpress/?page_id=757\" target=\"_blank\">pagina del corso</a>.</p></td></tr></table>",
+  "ricevimento": "<table><tr><td><p>Tutte le informazioni sono disponibili nella\u00a0<a href=\"http://www.gianlucarossi.name/wordpress/?page_id=757\" target=\"_blank\">pagina del corso</a>.</p></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td><p>Tutte le informazioni sono disponibili nella\u00a0<a href=\"http://www.gianlucarossi.name/wordpress/?page_id=757\" target=\"_blank\">pagina del corso</a>.</p></td></tr></table>"
+}

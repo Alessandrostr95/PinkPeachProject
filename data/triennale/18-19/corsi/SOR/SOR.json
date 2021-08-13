@@ -1,0 +1,684 @@
+{
+  "nomeCorso": "Sistemi operativi e reti",
+  "docente": [
+    {
+      "first_name": "Pietro",
+      "second_name": "Frasca"
+    }
+  ],
+  "annoAccademico": "2018-2019",
+  "crediti": "12",
+  "settore": "INF/01",
+  "anno": "2",
+  "semestre": "1-2",
+  "propedeuticit\u00e0": "Architettura dei sistemi di elaborazione. Programmazione dei calcolatori con laboratorio.",
+  "comunicazioni": [
+    {
+      "titolo": "Risultati esame prova scritta appello 4 - A.A. 2018/2019",
+      "data": "18-09-2019 13:53",
+      "contenuto": "<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"><a href=\"upload/2018/SOR/Risultati_SOR_A4_16-09-2019.pdf\" target=\"_blank\">Risultati</a>\u00a0della prova scritta appello 4 A.A. 2018/2019 del 16/09/2019</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"><a href=\"upload/2018/SOR/Esame_SOR_A4-16-09-2019.pdf\" target=\"_blank\">Testo</a>\u00a0della prova scritta appello 4 A.A. 2018/2019 del 16/09/2019</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">La prova orale si svolger\u00e0\u00a0 gioved\u00ec 19/09/2019 alle ore 10:00 in aula 3A.</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Sosterranno la prova orale gli studenti che hanno conseguito una votazione di almeno 18/30.</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Gli studenti che non hanno superato la prova scritta possono visionare i propri compiti e chiedere spiegazioni durante lo svolgimento della prova orale.</p><hr/>"
+    },
+    {
+      "titolo": "Risultati esame prova scritta appello 3 - A.A. 2018/2019",
+      "data": "10-09-2019 12:17",
+      "contenuto": "<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"><a href=\"upload/2018/SOR/Risultati_SOR_A3_09-09-2019.pdf\" target=\"_blank\">Risultati</a>\u00a0della prova scritta appello 3 A.A. 2018/2019 del 9/09/2019</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"><a href=\"upload/2018/SOR/Esame_SOR_A3-09-09-2019.pdf\" target=\"_blank\">Testo</a>\u00a0della prova scritta appello 2 A.A. 2018/2019 del 9/09/2019</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">La prova orale si svolger\u00e0\u00a0 mercoled\u00ec 11/09/2019 alle ore 10:00 in aula 3A.</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Sosterranno la prova orale gli studenti che hanno conseguito una votazione di almeno 18/30.</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Gli studenti che non hanno superato la prova scritta possono visionare i propri compiti e chiedere spiegazioni durante lo svolgimento della prova orale.</p><hr/>"
+    },
+    {
+      "titolo": "Risultati esame prova scritta appello 2 - A.A. 2018/2019",
+      "data": "16-07-2019 10:19",
+      "contenuto": "<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"><a href=\"upload/2018/SOR/Risultati_SOR_A2_12-07-2019.pdf\" target=\"_blank\">Risultati</a>\u00a0della prova scritta appello 2 A.A. 2018/2019 del 12/07/2019</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"><a href=\"upload/2018/SOR/Esame_SOR_A2-12-07-2019.pdf\" target=\"_blank\">Testo</a>\u00a0della prova scritta appello 2 A.A. 2018/2019 del 12/07/2019</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">La prova orale si svolger\u00e0\u00a0 mercoled\u00ec 17 luglio 2019 alle ore 10:00 in aula 3A.</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Sosterranno la prova orale gli studenti che hanno conseguito una votazione di almeno 18/30.</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Gli studenti che non hanno superato la prova scritta possono visionare i propri compiti e chiedere spiegazioni durante lo svolgimento della prova orale.</p><hr/>"
+    },
+    {
+      "titolo": "Risultati esame prova scritta appello 1 - A.A. 2018/2019",
+      "data": "19-06-2019 18:32",
+      "contenuto": "<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"><a href=\"upload/2018/SOR/Risultati_SOR_A1_14-06-2019.pdf\" target=\"_blank\">Risultati</a>\u00a0della prova scritta appello 1 A.A. 2018/2019 del 14/06/2019.</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"><a href=\"upload/2018/SOR/Esame_SOR_A1-14-06-2019.pdf\">Testo</a>\u00a0della prova scritta appello 1 A.A. 2018/2019.</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">La prova orale del'appello 1 A.A. 2017/2018 di Sistemi operativi e reti si svolger\u00e0 venerd\u00ec 21 giugno 2019 alle ore 9:00 in aula 3A.</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">ATTENZIONE: l'orario della prova orale \u00e8 stato anticipato di un'ora, alle 9:00 invece che alle 10:00)\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p><hr/>"
+    },
+    {
+      "titolo": "Risultati esame prova scritta appello 6 e esonero 2 (A.A. 2018/2019)",
+      "data": "13-02-2019 18:09",
+      "contenuto": "<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"><a href=\"upload/2018/SOR/Esame_SOR_A6-08-02-2019.pdf\">Testo</a> della prova scritta appello 6 A.A. 2017/2018 e dell'esonero 2\u00a0 A.A. 2018/2019</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"><a href=\"upload/2018/SOR/Risultati_SOR_AP6_EP2_08-02-2019.pdf\" target=\"_blank\">Risultati</a>\u00a0della prova scritta appello 6 A.A. 2017/2018 e dell'esonero 2\u00a0 A.A. 2018/2019</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">La prova orale del'appello 6 (A.A. 2017/2018) e dell'esonero 2 (A.A. 2018/2019) di Sistemi operativi e reti si svolger\u00e0 nei seguenti giorni:</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Venerd\u00ec 15\u00a0 febbraio 2019 alle ore 10:00 in aula 3A;</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Luned\u00ec 18 febbraio alle ore 10:00 in aula 3A;</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Gli \u00a0studenti che hanno conseguito una votazione di almeno 18/30 sosterranno la prova orale secondo la\u00a0<a href=\"upload/2018/SOR/Date_SOR_AP6_EP2_08-02-2019.pdf\" target=\"_blank\">seguente tabella</a>.\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Gli studenti che non hanno superato la prova scritta possono visionare i propri compiti e chiedere spiegazioni durante lo svolgimento della prova orale.</p><hr/>"
+    },
+    {
+      "titolo": "Esonero Sistemi operativi e reti A.A. 2018/2019",
+      "data": "04-02-2019 10:22",
+      "contenuto": "<p>L'esonero di sistemi operativi e reti a.a. 2018/2019 si svolger\u00e0 in due appelli mutualmente esclusivi.</p>\n<p>Le date e le aule\u00a0 delle prove scritte dell'esonero sono le seguenti:</p>\n<p>\u00a0</p>\n<p>- appello 1: 25/01/2019 ore 10:00 aula T4</p>\n<p>- appello 2: 8/02/2019 ore 10:00 aula T4</p>\n<p>\u00a0</p>\n<p>Lo studente che intende sostenere l'esonero in uno dei due appelli deve prenotarsi inviando, entro il 21/01/2019 per il primo appello e entro il 4/02/2018 per il secondo, una e-mail all'indirizzo del docente: Pietro.Frasca@uniroma2.it, indicando come oggetto la frase \"Esonero SOR A.A. 2018/2019\" e indicando nel messaggio soltanto i propri cognome, nome, numero di matricola e l'appello scelto (1 o 2) nel seguente formato:</p>\n<p>\u00a0</p>\n<p>\u00a0COGNOME NOME MATRICOLA APPELLO</p>\n<p>\u00a0</p>\n<p>Esempio:</p>\n<p>\u00a0FRASCA PIETRO 00101 2</p>\n<p>\u00a0</p>\n<p>Nel riguadro \"modalit\u00e0 d'esame\" sono scritte informazioni dettagliate sullo svolgimento dell'esonero.\u00a0</p>\n<p>\u00a0</p><hr/>"
+    },
+    {
+      "titolo": "Risultati prova scritta esonero 1 - A.A. 2018/2019",
+      "data": "28-01-2019 15:20",
+      "contenuto": "<p><a href=\"upload/2018/SOR/Risultati_SOR_EP1_25-01-2019.pdf\" target=\"_blank\">Risultati</a>\u00a0prova scritta esonero 1- A.A. 2018/2019</p>\n<p><a href=\"upload/2018/SOR/Esame_SOR_EP1_25-01-2019.pdf\" target=\"_blank\">Testo</a>\u00a0della prova scritta</p>\n<p>\u00a0</p>\n<p>La prova orale dell'esonero 1 si svolger\u00e0 venerd\u00ec 1 febbraio 2019 alle ore 10:00 in aula 3A. Sosterranno l'esame gli studenti che hanno conseguito una votazione di almeno 18/30.\u00a0</p>"
+    }
+  ],
+  "lezioni": [
+    {
+      "id": "48",
+      "data": "06-06-2019",
+      "contenuto": "<p>Reti wireless. Collegamenti wireless e caratteristiche di rete.\u00a0Wi-Fi 802.11. Canali e associazioni.\u00a0 Scansione attiva e passiva. Il protocollo CSMA/CA. Host nascosti: RTS e CTS. Frame IEEE 802.11. Utilizzo di IEEE 802.11 per collegamenti punto-punto. Esempio di progettazione LAN.</p>"
+    },
+    {
+      "id": "47",
+      "data": "28-05-2019",
+      "contenuto": "<p>Tecnologie Ethernet. Hub.\u00a0Switch dello strato di collegamento. Confronto tra switch e router.</p>"
+    },
+    {
+      "id": "46",
+      "data": "23-05-2019",
+      "contenuto": "<p>Protocolli di accesso casuale. CSMA e CSMA/CD. Protocolli a turno. Reti LAN. Indirizzi LAN. ARP. Invio di datagram a nodi interni alla LAN.\u00a0Invio di datagram a nodi esterni alla LAN. Ethernet. Struttura del frame Ethernet. CSMA/CD di Ethernet. Efficienza di Ethernet.</p>"
+    },
+    {
+      "id": "45",
+      "data": "21-05-2019",
+      "contenuto": "<p>Lo strato di collegamento. Servizi offerti dallo strato di collegamento. Adattatori (schede di rete). Tecniche di rilevazione e correzione degli errori. Controllo di parit\u00e0. Controllo di parit\u00e0 a due dimensioni. Somma di controllo.\u00a0Controllo a ridondanza ciclica. Esempio di calcolo CRC. Protocolli di accesso multiplo. Protocolli a suddivisione di canale.</p>"
+    },
+    {
+      "id": "44",
+      "data": "16-05-2019",
+      "contenuto": "<p>Funzionamento del BGP. I messaggi BGP. Esempi di uso del BGP nelle reti stub e nelle reti stub multi homed. I-BGP. Instradamento multicast. Gruppi multicasta. IGMP.\u00a0Algoritmi di instradamento multicast (solo conclusioni). Esempio di applicazione multicast in Java (facoltativo).</p>"
+    },
+    {
+      "id": "43",
+      "data": "14-05-2019",
+      "contenuto": "<p>Instradamento in Internet. Instradamento intra-sistema. RIP. OSPF. Instradamento inter-sistema. BGP. Reti stub e reti stub multi homed.\u00a0</p>"
+    },
+    {
+      "id": "42",
+      "data": "09-05-2019",
+      "contenuto": "<p>Pv6. Formato del datagram IPv6. Passaggio da IPv4 a IPv6. Metodo dual-stack. Metodo del tunneling. ICMP. ICMP per IPv6. Algoritmi di instradamento. Algoritmi di instradamento LS. Algoritmi di instradamento DV. Confronto tra LS e DV.\u00a0</p>"
+    },
+    {
+      "id": "41",
+      "data": "07-05-2019",
+      "contenuto": "<p>Indirizzamento per classe. Indirizzamento CIDR. Assegnazione di indirizzi IP. Configurazione delle interfacce di rete di host e router. DHCP. Traduzione degli indirizzi di rete (NAT). UPnP (Universal Plug and Play).</p>"
+    },
+    {
+      "id": "40",
+      "data": "02-05-2019",
+      "contenuto": "<p>Strato di rete. Reti a circuito virtuale. Reti datagram. Il protocollo IP. Formato dei datagram IPv4. Frammentazione del datagram IPv4. Indirizzamento IPv4.\u00a0</p>"
+    },
+    {
+      "id": "39",
+      "data": "30-04-2019",
+      "contenuto": "<p>Raddoppio dell'intervallo di timeout. Ritrasmissione rapida. Controllo del flusso. Controllo della congestione TCP. AIMD. Partenza lenta. Reazione a eventi di timeout. Prevenzione della congestione. Calcolo semplificato del throughput TCP.</p>"
+    },
+    {
+      "id": "38",
+      "data": "18-04-2019",
+      "contenuto": "<p>Trasporto orientato alla connessione: TCP. Struttura del segmento TCP.\u00a0Numeri di sequenza e numeri di riscontro.\u00a0 Esempio di numeri di sequenza e di riscontro. Stima del tempo di andata e ritorno (RTT) e timeout. Calcolo del timeout per le ritrasmissioni. Instaurazione della connessione TCP. Trasferimento affidabile dei dati. Alcuni tipici scenari.</p>"
+    },
+    {
+      "id": "37",
+      "data": "16-04-2019",
+      "contenuto": "<p>Programmazione delle socket con UDP. Esempio di applicazione C/S con UDP. Lo strato di trasporto. Multiplexing e demultiplexing nell'UDP e nel TCP. ll protocollo UDP. Struttura del segmento UDP. Checksum di UDP.</p>"
+    },
+    {
+      "id": "36",
+      "data": "11-04-2019",
+      "contenuto": "<p>Confronto tra le architetture C/S e P2P. Programmazione delle socket. Programmazione delle socket con TCP. Esempio di applicazione C/S TCP in Java.</p>"
+    },
+    {
+      "id": "35",
+      "data": "09-04-2019",
+      "contenuto": "<p>Applicazioni P2P. P2P con database centralizzato e distruito. Inondazione di richieste. Tabelle hash distribuite (DHT). DHT circolare.\u00a0</p>"
+    },
+    {
+      "id": "34",
+      "data": "04-04-2019",
+      "contenuto": "<p>Record DNS. Messaggi DNS. Distribuzione di contenuti. Server proxy. Esempio d'uso di server proxy. Reti per la distribuzione di contenuti (CDN).\u00a0</p>"
+    },
+    {
+      "id": "33",
+      "data": "02-04-2019",
+      "contenuto": "<p>Protocolli di accesso alla posta. POP3. IMAP. Posta elettronica con HTTP. DNS. Servizi forniti dal DNS. Funzionamento del DNS. DNS: database distribuiti e gerarchici. Cache DNS.</p>"
+    },
+    {
+      "id": "32",
+      "data": "28-03-2019",
+      "contenuto": "<p>Posta elettronica. SMTP.\u00a0Formati dei messaggi di posta e MIME. Estensioni MIME per dati non ascii. Esempi di messaggi con intestazioni MIMe. Esempi di messaggi multipart/mixed. Il messaggio ricevuto.</p>"
+    },
+    {
+      "id": "31",
+      "data": "26-03-2019",
+      "contenuto": "<p>Interazione utente-server: autorizzazione e cookie.\u00a0Connessione non persistente e persistente. Connessioni non persistenti in parallelismo\u00a0 e in serie. Connessione persistente senza parallelismo e con parallelismo. Il protocollo FTP. Modalit\u00e0 attiva e passiva. Comandi FTP.\u00a0</p>"
+    },
+    {
+      "id": "30",
+      "data": "21-03-2019",
+      "contenuto": "<p>Servizi forniti dai protocolli di trasporto. Applicazioni di rete. Web. Il protocollo HTTP. Formato del messaggio di richiesta HTTP.\u00a0Formato del messaggio di risposta HTTP. Get condizionato.</p>"
+    },
+    {
+      "id": "29",
+      "data": "19-03-2019",
+      "contenuto": "<p>Gli strati di Internet\u00a0 e i servizi che forniscono. Lo stack protocollare di Internet e il modello ISO OSI.\u00a0 Livello di applicazione. Architetture e protocolli dello strato di applicazione Indirizzamento dei processi. Processi di comunicazione nella rete. Servizi formiti dai protocolli di trasporto alle applicazioni. Requisiti di servizio delle applicazioni.\u00a0</p>"
+    },
+    {
+      "id": "28",
+      "data": "14-03-2019",
+      "contenuto": "<p>Gli ISP e le reti dorsali di Internet. Ritardi e perdite nelle reti a commutazione di pacchetto. Tipi di ritardo: trasmissione, propagazione, elaborazione, coda. Ritardo totale. Ritardo da host a host. Ritardi e percorsi in Internet. Traceroute e tracert. Perdita di pacchetti. Intensit\u00e0 del traffico.\u00a0</p>"
+    },
+    {
+      "id": "27",
+      "data": "12-03-2019",
+      "contenuto": "<p>Mezzi trasmissivi. Doppini in rame. Cavi coassiali. Fibre ottiche. Canali radio terrestri. Canali radio satellitari. Accesso alla rete Internet. Accesso residenziale, aziendale e wireless.</p>"
+    },
+    {
+      "id": "26",
+      "data": "07-03-2019",
+      "contenuto": "<p>La sezione interna della rete (nucleo). Commutazione di circuito. Multiplazione (multiplexing) nelle reti a commutazione di circuito. FDM e TDM. Commutazione di pacchetto. Confronto tra commutazione di circuito e commutazione di pacchetto. Frammentazione del messaggio. Reti a commutazione di pacchetto datagram.</p>"
+    },
+    {
+      "id": "25",
+      "data": "05-03-2019",
+      "contenuto": "<p>Internet. Descrizione dei servizi. Definizione di protocollo di rete. Applicazioni client/server. Servizi senza connessione e orientati alla connessione.</p>"
+    },
+    {
+      "id": "24",
+      "data": "15-01-2019",
+      "contenuto": "<p>Allocazione dei dispositivi e tecniche di spooling. Livello dipendente dai dispositivi (driver). Controller di un dispositivo. Funzionamento del dispositivo. Comunicazione tra processo e dispositivo. Gestione di un dispositivo mediante controllo di programma. Gestione di un dispositivo mediante interruzione. Descrittore di un dispositivo. La struttura dati del descrittore di dispositivo. Gestione di un dispositivo con DMA. Driver di un dispositivo. Flusso di controllo durante un trasferimento.\u00a0</p>"
+    },
+    {
+      "id": "23",
+      "data": "10-01-2019",
+      "contenuto": "<p>Protezione di file e directory. Protezione in Unix.\u00a0Gestione dell\u2019I/O. Classificazione dei dispositivi. Struttura logica del sottosistema di I/O. Livello indipendente dai dispositivi. Bufferizzazione. Gestione degli errori e delle eccezioni.</p>"
+    },
+    {
+      "id": "22",
+      "data": "08-01-2019",
+      "contenuto": "<p>Organizzazione fisica del file system Unix. Strutture dati del kernel per l\u2019accesso ai file. System call per i file: open, close, read, write, lseek. Esempi di SC dei file.\u00a0</p>"
+    },
+    {
+      "id": "21",
+      "data": "20-12-2018",
+      "contenuto": "<p>l livello di accesso al file system. Strutture dati e operazioni di accesso ai fileMetodi di accesso. Accesso sequenziale. Accesso diretto. Accesso a indice. Il livello organizzazione fisica. Tecniche di allocazione dei file. Allocazione contigua, a lista concatenata, a indice. Il livello dispositivo virtuale. Il file system nei sistemi Unix-like. Struttura logica del file system.</p>"
+    },
+    {
+      "id": "20",
+      "data": "18-12-2018",
+      "contenuto": "<p>Esempio memorizzazione di dati su disco. Scheduling del disco. Algoritmi FCFS, SSFT e SCAN. Tecnologia dischi RAID.\u00a0 Il file system. La struttura logica del file system. File e directory. Gestione della struttura logica del file system.\u00a0</p>"
+    },
+    {
+      "id": "19",
+      "data": "13-12-2018",
+      "contenuto": "<p>Algoritmi di sostituzione delle pagine. Algoritmo seconda scelta. Gestione della memoria nei sistemi Unix. Gestione della memoria secondaria. Dischi e SSD. Organizzazione fisica dei dischi. Criteri di ordinamento dei dati su disco e politiche di scheduling.</p>"
+    },
+    {
+      "id": "18",
+      "data": "11-12-2018",
+      "contenuto": "<p>Memoria paginata. Segmentazione su richiesta. Paginazione su richiesta. Rimpiazzamento delle pagine.\u00a0Memoria segmentata e paginata. Gestione degli spazi virtuali. Paginazione a pi\u00f9 livelli.</p>"
+    },
+    {
+      "id": "17",
+      "data": "04-12-2018",
+      "contenuto": "<p>Memoria segmentata. Memoria paginata.</p>"
+    },
+    {
+      "id": "16",
+      "data": "29-11-2018",
+      "contenuto": "<p>Organizzazione\u00a0 dello spazio virtuale con modello di memoria segmentato. Memoria partizionata. Partizioni fisse. Partizioni variabili. Tecniche di allocazione mediante free list. Best-fit, First-fit e Worst-fit. Protezione e condivisione di informazioni con spazio virtuale unico.\u00a0Partizioni multiple.</p>"
+    },
+    {
+      "id": "15",
+      "data": "27-11-2018",
+      "contenuto": "<p>Prevenzione dinamica. Algoritmo del banchiere. Esempio. Rilevamento dei blocchi critici. Esempio di soluzione al problema dei cinque filosofi. Gestione della memoria. Creazione di un file eseguibile. Organizzazione dello spazio virtuale. Spazio viruale unico (lineare). Rilocazione statica e dinamica.</p>"
+    },
+    {
+      "id": "14",
+      "data": "22-11-2018",
+      "contenuto": "<p>Scheduling in UNIX. Blocco critico (stallo). Rappresentazioni dello stato di allocazione delle risorse. Modelli basati su grafo.\u00a0Modelli basati su matrici. Esempio di situazione di stallo. Condizioni per lo stallo. Metodi per il trattamento dello stallo. Prevenzione statica.</p>"
+    },
+    {
+      "id": "13",
+      "data": "20-11-2018",
+      "contenuto": "<p>Shortest job first (SJF). Shortest Next Process First (SNPF). Shortest Remaining Time First (SRTF). Round Robin.\u00a0Algoritmi di scheduling basati sulle priorit\u00e0. Algoritmi di scheduling a code multiple. Algoritmi di scheduling real-time. Scheduling in UNIX. Blocco critico (stallo). Rappresentazioni dello stato di allocazione delle risorse. Modelli basati su grafo. Algoritmi di scheduling basati sulle priorit\u00e0. Algoritmi di scheduling a code multiple. Algoritmi di scheduling real-time. Rate Nonotonic.</p>"
+    },
+    {
+      "id": "12",
+      "data": "15-11-2018",
+      "contenuto": "<p>Esempio di sincronizzazione tra thread: soluzione modello produttore-consumatore con variabili condition. Scheduling della CPU. Scheduling a breve, medio e lungo termine.\u00a0Comportamento dei processi. Parametri di scheduling. Principali algoritmi di scheduling. FCFS.</p>"
+    },
+    {
+      "id": "11",
+      "data": "13-11-2018",
+      "contenuto": "<p>Sincronizzazione tra thread in POSIX. Mutex. Semafori. Variabili condition. Esempi.</p>"
+    },
+    {
+      "id": "10",
+      "data": "08-11-2018",
+      "contenuto": "<p>Comunicazione e sincronizzazione tra processi/thread. Soluzione al problema della comunicazione con semafori. Soluzione al problema della comunicazione con buffer di capacit\u00e0 1 e N. Interazione tra processi. Sincronizzazione con segnali.\u00a0System call per l'uso dei segnali. Invio di segnali tra processi. Esempi.\u00a0</p>"
+    },
+    {
+      "id": "9",
+      "data": "06-11-2018",
+      "contenuto": "<p>I thread nello standard POSIX: la libreria pthreads. Creazione di thread. Terminazione di thread. Unione (join) di thread. Struttura di un'applicazione multithread. Esempi di un'applicazione multithread. Sincronizzazione tra processi/thread. Cooperazione e competizione tra processi/thread. Modello a memoria comune. Modello ad ambiente locale. Problema della mutua esclusione. Soluzioni al problema della mutua esclusione.\u00a0Soluzione della mutua esclusione con strumenti basati su istruzioni tipo TSL. Le funzioni lock() e unlock(). Semafori. Soluzione al problema della mutua esclusione con semafori.</p>"
+    },
+    {
+      "id": "8",
+      "data": "25-10-2018",
+      "contenuto": "<p>Comunicazione con pipe. Esempio d'uso di pipe. Comunicazione con pipe con nome. Esempio d'uso di pipe con nome. Thread. Thread a livello utente. Modello da molti a uno. Thread a livello kernel. Modello da uno a uno. Modello da molti a molti.</p>"
+    },
+    {
+      "id": "7",
+      "data": "23-10-2018",
+      "contenuto": "<p>Scambio di messaggi (message passing). Comunicazione diretta e indiretta. Le funzioni send() e receive(). Comunicazione e sincronizzazione con send() e receive(). Code di messaggi. Code di messaggi POSIX. Esempi con code di messaggi POSIX.</p>"
+    },
+    {
+      "id": "6",
+      "data": "18-10-2018",
+      "contenuto": "<p>Comunicazione tra processi. Memoria condivisa. Modello produttore-consumatore. Esempio di comunicazioni tra processi non sincronizzati. Memoria condivisa in POSIX.\u00a0 Esempi applicativi.</p>"
+    },
+    {
+      "id": "5",
+      "data": "16-10-2018",
+      "contenuto": "<p>Operazioni sui processi. Creazione e terminazione dei processi.\u00a0 Creazione dei processi in POSIX. Fork. Esempio Fork.\u00a0Sostituzione del codice. Famiglia di funzioni exec(). Esempio con execl(). Terminazione di processi. Le funzioni exit(), wait() e waitpid(). Esempi.</p>"
+    },
+    {
+      "id": "4",
+      "data": "11-10-2018",
+      "contenuto": "<p>Principali componenti del sistema operativo. Gestione dei processi. Concetto di processo. Stati di un processo. Transizioni di stato di un processo.\u00a0Descrittore del processo (PCB). Code di processi. Scheduler. Cambio di contesto.</p>"
+    },
+    {
+      "id": "3",
+      "data": "09-10-2018",
+      "contenuto": "<p>Operazioni del sistema operativo. Funzionamento dual-mode. Timer. Ambienti di elaborazione. Computing tradizionale e mobile. Sistemi paralleli e distribuiti. Client-server e peer-to-peer. Cloud.\u00a0Struttura e organizzazione software dei sistemi operativi. Struttura monolitica. Struttura stratificata. Struttura a microkernel. Struttura modulare. Struttura ibrida.</p>"
+    },
+    {
+      "id": "2",
+      "data": "04-10-2018",
+      "contenuto": "<p>Sistemi a singolo processore. Sistemi multiprocessore. Cluster. Struttura del sistema operativo. Sistemi operativi batch multiprogrammati. Sistemi operativi time sharing.\u00a0Sistemi in tempo reale. Sistemi embedded real-time. Sistemi operativi per personal computer.</p>"
+    },
+    {
+      "id": "1",
+      "data": "02-10-2018",
+      "contenuto": "<p>Presentazione del corso. Introduzione sui sistemi operativi. Funzionamento di un computer. Struttura della memoria. Struttura di I/O.</p>"
+    }
+  ],
+  "materiale": [
+    {
+      "titolo": "Risultati prova scritta appello 4 A.A. 2018/2019 del 16/09/2019.",
+      "dataUpload": "18.09.2019 13:47:38",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/SOR/Risultati_SOR_A4_16-09-2019.pdf",
+      "dimensione": "85 KB"
+    },
+    {
+      "titolo": "Testo prova scritta appello 4 A.A. 2018/2019 del 16/09/2019.",
+      "dataUpload": "18.09.2019 13:46:46",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/SOR/Esame_SOR_A4-16-09-2019.pdf",
+      "dimensione": "128 KB"
+    },
+    {
+      "titolo": "Risultati prova scritta appello 3 A.A. 2018/2019 del 9/09/2019.",
+      "dataUpload": "10.09.2019 12:10:11",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/SOR/Risultati_SOR_A3_09-09-2019.pdf",
+      "dimensione": "83 KB"
+    },
+    {
+      "titolo": "Testo prova scritta appello 3 A.A. 2018/2019 del 9/09/2019.",
+      "dataUpload": "10.09.2019 12:09:21",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/SOR/Esame_SOR_A3-09-09-2019.pdf",
+      "dimensione": "122 KB"
+    },
+    {
+      "titolo": "Risultati prova scritta appello 2 A.A. 2018/2019 del 12/07/2019.",
+      "dataUpload": "16.07.2019 09:58:27",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/SOR/Risultati_SOR_A2_12-07-2019.pdf",
+      "dimensione": "85 KB"
+    },
+    {
+      "titolo": "Testo prova scritta appello 2 A.A. 2018/2019 del 12/07/2019.",
+      "dataUpload": "16.07.2019 09:57:14",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/SOR/Esame_SOR_A2-12-07-2019.pdf",
+      "dimensione": "123 KB"
+    },
+    {
+      "titolo": "Risultati prova scritta appello 1 A.A. 2018/2019 del 14/06/2019.",
+      "dataUpload": "19.06.2019 18:09:16",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/SOR/Risultati_SOR_A1_14-06-2019.pdf",
+      "dimensione": "89 KB"
+    },
+    {
+      "titolo": "Testo prova scritta appello 1 A.A. 2018/2019 del 14/06/2019.",
+      "dataUpload": "19.06.2019 18:07:27",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/SOR/Esame_SOR_A1-14-06-2019.pdf",
+      "dimensione": "128 KB"
+    },
+    {
+      "titolo": "Appunti Reti di calcolatori - Lezione 24 (48)",
+      "dataUpload": "08.06.2019 11:17:13",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/SOR/RETI LEZ24.pdf",
+      "dimensione": "724 KB"
+    },
+    {
+      "titolo": "Appunti Reti di calcolatori - Lezione 23 (47)",
+      "dataUpload": "28.05.2019 19:04:55",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/SOR/RETI LEZ23.pdf",
+      "dimensione": "461 KB"
+    },
+    {
+      "titolo": "Appunti Reti di calcolatori - Lezione 22 (46)",
+      "dataUpload": "25.05.2019 10:26:30",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/SOR/RETI LEZ22.pdf",
+      "dimensione": "474 KB"
+    },
+    {
+      "titolo": "Appunti Reti di calcolatori - Lezione 21 (45)",
+      "dataUpload": "21.05.2019 18:36:08",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/SOR/RETI LEZ21.pdf",
+      "dimensione": "638 KB"
+    },
+    {
+      "titolo": "Appunti Reti di calcolatori - Lezione 20 (44)",
+      "dataUpload": "17.05.2019 10:52:16",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/SOR/RETI LEZ20.pdf",
+      "dimensione": "558 KB"
+    },
+    {
+      "titolo": "Appunti Reti di calcolatori - Lezione 19 (43)",
+      "dataUpload": "14.05.2019 19:48:32",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/SOR/RETI LEZ19.pdf",
+      "dimensione": "405 KB"
+    },
+    {
+      "titolo": "Appunti Reti di calcolatori - Lezione 18 (42)",
+      "dataUpload": "13.05.2019 09:47:24",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/SOR/RETI LEZ18.pdf",
+      "dimensione": "427 KB"
+    },
+    {
+      "titolo": "Appunti Reti di calcolatori - Lezione 17 (41)",
+      "dataUpload": "07.05.2019 19:09:15",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/SOR/RETI LEZ17.pdf",
+      "dimensione": "658 KB"
+    },
+    {
+      "titolo": "Appunti Reti di calcolatori - Lezione 16 (40)",
+      "dataUpload": "03.05.2019 10:31:19",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/SOR/RETI LEZ16.pdf",
+      "dimensione": "651 KB"
+    },
+    {
+      "titolo": "Appunti Reti di calcolatori - Lezione 15 (39)",
+      "dataUpload": "02.05.2019 11:30:38",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/SOR/RETI LEZ15.pdf",
+      "dimensione": "672 KB"
+    },
+    {
+      "titolo": "Appunti Reti di calcolatori - Lezione 14 (38)",
+      "dataUpload": "19.04.2019 10:09:41",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/SOR/RETI LEZ14.pdf",
+      "dimensione": "968 KB"
+    },
+    {
+      "titolo": "Appunti Reti di calcolatori - Lezione 13 (37)",
+      "dataUpload": "16.04.2019 17:46:58",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/SOR/RETI LEZ13.pdf",
+      "dimensione": "904 KB"
+    },
+    {
+      "titolo": "Appunti Reti di calcolatori - Lezione 12 (36)",
+      "dataUpload": "12.04.2019 12:02:01",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/SOR/RETI LEZ12.pdf",
+      "dimensione": "732 KB"
+    },
+    {
+      "titolo": "Appunti Reti di calcolatori - Lezione 11 (35)",
+      "dataUpload": "09.04.2019 19:17:35",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/SOR/RETI LEZ11.pdf",
+      "dimensione": "516 KB"
+    },
+    {
+      "titolo": "Appunti Reti di calcolatori - Lezione 10 (34)",
+      "dataUpload": "05.04.2019 09:14:34",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/SOR/RETI LEZ10.pdf",
+      "dimensione": "954 KB"
+    },
+    {
+      "titolo": "Appunti Reti di calcolatori - Lezione 9 (33)",
+      "dataUpload": "02.04.2019 18:57:58",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/SOR/RETI LEZ09.pdf",
+      "dimensione": "753 KB"
+    },
+    {
+      "titolo": "Appunti Reti di calcolatori - Lezione 8 (32)",
+      "dataUpload": "28.03.2019 19:24:25",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/SOR/RETI LEZ08.pdf",
+      "dimensione": "396 KB"
+    },
+    {
+      "titolo": "Appunti Reti di calcolatori - Lezione 7 (31)",
+      "dataUpload": "27.03.2019 09:08:02",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/SOR/RETI LEZ07.pdf",
+      "dimensione": "559 KB"
+    },
+    {
+      "titolo": "Appunti Reti di calcolatori - Lezione 6 (30)",
+      "dataUpload": "22.03.2019 09:25:36",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/SOR/RETI LEZ06.pdf",
+      "dimensione": "703 KB"
+    },
+    {
+      "titolo": "Appunti Reti di calcolatori - Lezione 5 (29)",
+      "dataUpload": "19.03.2019 19:55:08",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/SOR/RETI LEZ05.pdf",
+      "dimensione": "628 KB"
+    },
+    {
+      "titolo": "Appunti Reti di calcolatori - Lezione 4 (28)",
+      "dataUpload": "18.03.2019 19:06:41",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/SOR/RETI LEZ04.pdf",
+      "dimensione": "637 KB"
+    },
+    {
+      "titolo": "Appunti Reti di calcolatori - Lezione 3 (27)",
+      "dataUpload": "18.03.2019 19:06:23",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/SOR/RETI LEZ03.pdf",
+      "dimensione": "871 KB"
+    },
+    {
+      "titolo": "Appunti Reti di calcolatori - Lezione 2 (26)",
+      "dataUpload": "11.03.2019 09:12:13",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/SOR/RETI LEZ02.pdf",
+      "dimensione": "813 KB"
+    },
+    {
+      "titolo": "Appunti Reti di calcolatori - Lezione 1 (25)",
+      "dataUpload": "07.03.2019 10:01:55",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/SOR/RETI LEZ01.pdf",
+      "dimensione": "668 KB"
+    },
+    {
+      "titolo": "Date prova orale appello 6 (2017/2018) e esonero 2 (A.A. 2018/2019)",
+      "dataUpload": "13.02.2019 18:45:45",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/SOR/Date_SOR_AP6_EP2_08-02-2019.pdf",
+      "dimensione": "96 KB"
+    },
+    {
+      "titolo": "Risultati prova scritta appello 6 (2017/2018) e esonero 2 (A.A. 2018/2019)",
+      "dataUpload": "13.02.2019 18:25:42",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/SOR/Risultati_SOR_AP6_EP2_08-02-2019.pdf",
+      "dimensione": "16 KB"
+    },
+    {
+      "titolo": "Testo prova scritta appello 6 (A.A. 2017/2018) e esonero 2 (A.A. 2018/2019)",
+      "dataUpload": "13.02.2019 17:37:45",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/SOR/Esame_SOR_A6-08-02-2019.pdf",
+      "dimensione": "136 KB"
+    },
+    {
+      "titolo": "Appunti Sistemi operativi - Lezione 24",
+      "dataUpload": "04.02.2019 10:26:49",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/SOR/SISTEMI OPERTATIVI LEZ24.pdf",
+      "dimensione": "622 KB"
+    },
+    {
+      "titolo": "Testo prova scritta esonero 1 - A.A. 2018/2019",
+      "dataUpload": "28.01.2019 15:20:27",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/SOR/Esame_SOR_EP1_25-01-2019.pdf",
+      "dimensione": "186 KB"
+    },
+    {
+      "titolo": "Risultati prova scritta esonero 1 - A.A. 2018/2019",
+      "dataUpload": "28.01.2019 15:19:45",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/SOR/Risultati_SOR_EP1_25-01-2019.pdf",
+      "dimensione": "83 KB"
+    },
+    {
+      "titolo": "Appunti Sistemi operativi - Lezione 23",
+      "dataUpload": "11.01.2019 10:00:05",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/SOR/SISTEMI OPERTATIVI LEZ23.pdf",
+      "dimensione": "625 KB"
+    },
+    {
+      "titolo": "Appunti Sistemi operativi - Lezione 22",
+      "dataUpload": "11.01.2019 09:59:43",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/SOR/SISTEMI OPERTATIVI LEZ22.pdf",
+      "dimensione": "525 KB"
+    },
+    {
+      "titolo": "Appunti Sistemi operativi - Lezione 21",
+      "dataUpload": "21.12.2018 19:13:38",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/SOR/SISTEMI OPERTATIVI LEZ21.pdf",
+      "dimensione": "565 KB"
+    },
+    {
+      "titolo": "Appunti Sistemi operativi - Lezione 20",
+      "dataUpload": "21.12.2018 19:13:13",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/SOR/SISTEMI OPERTATIVI LEZ20.pdf",
+      "dimensione": "317 KB"
+    },
+    {
+      "titolo": "Appunti Sistemi operativi - Lezione 19",
+      "dataUpload": "17.12.2018 10:14:29",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/SOR/SISTEMI OPERTATIVI LEZ19.pdf",
+      "dimensione": "435 KB"
+    },
+    {
+      "titolo": "Appunti Sistemi operativi - Lezione 18",
+      "dataUpload": "17.12.2018 10:14:14",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/SOR/SISTEMI OPERTATIVI LEZ18.pdf",
+      "dimensione": "346 KB"
+    },
+    {
+      "titolo": "Appunti Sistemi operativi - Lezione 17",
+      "dataUpload": "05.12.2018 10:25:10",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/SOR/SISTEMI OPERTATIVI LEZ17.pdf",
+      "dimensione": "396 KB"
+    },
+    {
+      "titolo": "Appunti Sistemi operativi - Lezione 16",
+      "dataUpload": "01.12.2018 16:30:17",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/SOR/SISTEMI OPERTATIVI LEZ16.pdf",
+      "dimensione": "279 KB"
+    },
+    {
+      "titolo": "Appunti Sistemi operativi - Lezione 15",
+      "dataUpload": "28.11.2018 19:09:27",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/SOR/SISTEMI OPERTATIVI LEZ15.pdf",
+      "dimensione": "415 KB"
+    },
+    {
+      "titolo": "Appunti Sistemi operativi - Lezione 14",
+      "dataUpload": "23.11.2018 11:48:06",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/SOR/SISTEMI OPERTATIVI LEZ14.pdf",
+      "dimensione": "596 KB"
+    },
+    {
+      "titolo": "Appunti Sistemi operativi - Lezione 13",
+      "dataUpload": "21.11.2018 10:33:58",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/SOR/SISTEMI OPERTATIVI LEZ13.pdf",
+      "dimensione": "370 KB"
+    },
+    {
+      "titolo": "Appunti Sistemi operativi - Lezione 12",
+      "dataUpload": "16.11.2018 10:29:34",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/SOR/SISTEMI OPERTATIVI LEZ12.pdf",
+      "dimensione": "259 KB"
+    },
+    {
+      "titolo": "Appunti Sistemi operativi - Lezione 11",
+      "dataUpload": "14.11.2018 10:17:40",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/SOR/SISTEMI OPERTATIVI LEZ11.pdf",
+      "dimensione": "212 KB"
+    },
+    {
+      "titolo": "Appunti Sistemi operativi - Lezione 10",
+      "dataUpload": "09.11.2018 12:09:31",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/SOR/SISTEMI OPERTATIVI LEZ10.pdf",
+      "dimensione": "553 KB"
+    },
+    {
+      "titolo": "Raccolta di esempi di system call. La raccolta contiene esempi di base sull'uso delle chiamate di sistema descritte durante il corso e molte soluzioni di problemi d'esame (programmi multiprocesso e multithread).",
+      "dataUpload": "09.11.2018 12:00:55",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/SOR/EsempiSystemCall_9-11-2018.zip",
+      "dimensione": "64 KB"
+    },
+    {
+      "titolo": "Raccolta di testi d'esame di Sistemi operativi e reti.",
+      "dataUpload": "07.11.2018 11:51:51",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/SOR/RaccoltaTestiEsameSOR-Set2018.zip",
+      "dimensione": "4645 KB"
+    },
+    {
+      "titolo": "Appunti Sistemi operativi - Lezione 9",
+      "dataUpload": "07.11.2018 11:35:17",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/SOR/SISTEMI OPERTATIVI LEZ09.pdf",
+      "dimensione": "439 KB"
+    },
+    {
+      "titolo": "Appunti Sistemi operativi - Lezione 8",
+      "dataUpload": "31.10.2018 16:54:41",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/SOR/SISTEMI OPERTATIVI LEZ08.pdf",
+      "dimensione": "375 KB"
+    },
+    {
+      "titolo": "Appunti Sistemi operativi - Lezione 7",
+      "dataUpload": "31.10.2018 16:54:26",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/SOR/SISTEMI OPERTATIVI LEZ07.pdf",
+      "dimensione": "300 KB"
+    },
+    {
+      "titolo": "Appunti Sistemi operativi - Lezione 6",
+      "dataUpload": "22.10.2018 18:30:30",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/SOR/SISTEMI OPERTATIVI LEZ06.pdf",
+      "dimensione": "237 KB"
+    },
+    {
+      "titolo": "Appunti Sistemi operativi - Lezione 5",
+      "dataUpload": "18.10.2018 09:16:15",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/SOR/SISTEMI OPERTATIVI LEZ05.pdf",
+      "dimensione": "231 KB"
+    },
+    {
+      "titolo": "Appunti Sistemi operativi - Lezione 4",
+      "dataUpload": "15.10.2018 09:15:28",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/SOR/SISTEMI OPERTATIVI LEZ04.pdf",
+      "dimensione": "325 KB"
+    },
+    {
+      "titolo": "Appunti Sistemi operativi - Lezione 3",
+      "dataUpload": "09.10.2018 19:48:05",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/SOR/SISTEMI OPERTATIVI LEZ03.pdf",
+      "dimensione": "402 KB"
+    },
+    {
+      "titolo": "Appunti Sistemi operativi - Lezione 2",
+      "dataUpload": "05.10.2018 10:16:51",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/SOR/SISTEMI OPERTATIVI LEZ02.pdf",
+      "dimensione": "931 KB"
+    },
+    {
+      "titolo": "Appunti Sistemi operativi - Lezione 1",
+      "dataUpload": "04.10.2018 08:54:45",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/SOR/SISTEMI OPERTATIVI LEZ01.pdf",
+      "dimensione": "249 KB"
+    },
+    {
+      "titolo": "Presentazione dell'insegnamento Sistemi operativi e\u00a0 reti (SOR).",
+      "dataUpload": "04.10.2018 08:53:55",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/SOR/SISTEMI OPERTATIVI PRESENTAZIONE.pdf",
+      "dimensione": "206 KB"
+    }
+  ],
+  "programma": "<table><tr><td><p><em>Parte I: Sistemi operativi\u00a0</em>(I semestre)<strong>\u00a0</strong></p>\n<ul>\n<li>Introduzione ai sistemi operativi.</li>\n<li>Classificazione dei sistemi operativi.</li>\n<li>Principali modelli strutturali.</li>\n<li>Gestione dei processi.</li>\n<li>Thread.</li>\n<li>Sincronizzazione dei processi.</li>\n<li>Gestione della memoria.</li>\n<li>Gestione dell' I/O.</li>\n<li>Gestione del file system.</li>\n<li>I sistemi operativi Unix e Linux.</li>\n<li>Casi di studio: Unix e Linux</li>\n</ul>\n<p><br><em>Parte II: Reti di calcolatori (II semestre)\u00a0</em></br></p>\n<ul>\n<li>Reti di calcolatori e Internet.</li>\n<li>Strato di applicazione.</li>\n<li>Strato di trasporto.</li>\n<li>Strato di rete e instradamento.</li>\n<li>Strato di collegamento e reti di area locale.</li>\n<li>Reti wireless</li>\n</ul></td></tr></table>",
+  "testiRiferimento": "<table><tr><td><p><em>Testi di riferimento\u00a0</em></p>\n<p>Sistemi Operativi, IX ed., A. Silberschatz, P. Galvin, G. Gagne. Pearson.\u00a0<br><span>Sistemi operativi, II ed. - P. Ancilotti, M. Boari, A. Ciampolini, G. Lipari - McGraw-Hill\u00a0</span><br><span>Reti di Calcolatori e Internet, VI ed. - Un approccio top-down - J.F. Kurose, K.W. Ross - Pearson - Addison Wesley.\u00a0</span><br><br><em>Altri libri consigliati\u00a0</em><br><span>I moderni Sistemi Operativi, III ed., A. S. Tanenbaum. Pearson - Prentice Hall.\u00a0</span><br><span>Sistemi operativi, D. M. Dhamdhere, McGraw-Hill.\u00a0</span><br><span>Reti di Calcolatori e Internet, B. A. Forouzan, McGraw-Hill.</span></br></br></br></br></br></br></br></p></td></tr></table>",
+  "ricevimento": "<table><tr><td><p><span>Stanza docente (0103) - Marted\u00ec ore 14.00 - 15.00.\u00a0</span><br><span>Per appuntamento via email.</span></br></p></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td><p>L'esame di\u00a0<em>Sistemi operativi e reti</em>\u00a0consiste in una prova scritta e in una prova orale. Il testo della prova scritta \u00e8 suddiviso in due partm ciascuna delle quali \u00e8 composta da un gruppo di 4 domande. Le domande della prima parte riguardano argomenti di\u00a0<em>Sistemi operativi</em>, mentre le domande della seconda parte sono relative ad argomenti di\u00a0<em>Reti di calcolatori</em>. Le domande sono del tipo a risposta aperta o sottoforma di problemi. Per la parte\u00a0<em>Sistemi operativi</em>\u00a0una delle domande consiste nello sviluppo di un breve programma in linguaggio C basato sulle system call POSIX studiate durante il corso.\u00a0<br>La durata dell'esame \u00e8 di 2 ore e mezza. Durante lo svolgimento della prova scritta \u00e8 vietato l'uso di libri e/o appunti di qualsiasi genere.\u00a0</br></p>\n<p>Per sostenere la prova orale \u00e8 necessario aver superato la prova scritta con una votazione di almeno 18/30.\u00a0</p>\n<p>Per sostenere l'esame \u00e8 obbligatorio prenotarsi mediante il servizio \"Servizi on Line\" all'indirizzo\u00a0<a href=\"http://delphi.uniroma2.it\" target=\"_blank\">http://delphi.uniroma2.it</a></p>\n<p>Una raccolta di testi di esame relativi agli a.a. passati e vari esempi di programmi sulle system call POSIX e sulla programmazione dei socket saranno disponibili nell'area \"materiale didattico\".</p>\n<p>\u00a0</p>\n<p><em>Esonero</em></p>\n<p>Gli studenti possono sostenere,\u00a0<span style=\"text-decoration: underline;\">nel solo appello invernale</span>, l'esonero di\u00a0<em>Sistemi operativi e reti</em>\u00a0che consiste in una prova scritta e in una prova orale basate sugli argomenti della prima parte del corso\u00a0<em>(Sistemi operativi)</em>.</p>\n<p>Lo studente che supera l'esonero deve sostenere la restante parte di SOR entro l'anno accademico corrente.</p>\n<p>Lo studente che intende sostenere l'esonero deve prenotarsi inviando una e-mail all'indirizzo del docente: Pietro.Frasca@uniroma2.it, indicando come oggetto la frase \"Esonero SOR A.A. 2018/2019\" e indicando nel messaggio il proprio cognome, nome e numero di matricola.<br>Il testo della prova scritta dell'esonero \u00e8 composto da un gruppo di 4 domande. Le domande sono del tipo a risposta aperta o sottoforma di problemi. Una delle domande consiste nello sviluppo di un breve programma in linguaggio C basato sulle system call POSIX studiate durante il corso.</br></p>\n<p>La durata della prova scritta dell'esonero \u00e8 di 1 ora e 15 minuti.</p>\n<p>Durante lo svolgimento della prova scritta \u00e8 vietato l'uso di libri e/o appunti di qualsiasi genere.\u00a0<br>Per sostenere la prova orale \u00e8 necessario aver superato la prova scritta con una votazione di almeno 18/30.</br></p></td></tr></table>"
+}

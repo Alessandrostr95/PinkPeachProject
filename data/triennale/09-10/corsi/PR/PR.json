@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Programmazione dei calcolatori con laboratorio",
+  "docente": [
+    {
+      "first_name": "Marco",
+      "second_name": "Bianchi"
+    }
+  ],
+  "annoAccademico": "2009-2010",
+  "crediti": "12",
+  "settore": "",
+  "anno": "1",
+  "semestre": "1-2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>E' possibile scaricare l'elenco degli argomenti trattati dal sito</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>Per gli aspetti metodologici attenersi ai contenuti delle lezioni. Segnaler\u00f2 via via la documentazione migliore da consultare\r\n\r\nTesto consigliato per il C: The C Programming Language, di Brian W. Kernighan e Dennis M. Ritchie (ultima versione disponibile). \r\nPrentice Hall, Inc. Preferirei nella versione inglese, ma va bene anche la traduzione italiana.</td></tr></table>",
+  "ricevimento": "<table><tr><td>Venerd\u00ec dalle ore 14:00 alle ore 15:00 presso lo studio del Prof. Gambosi. Aula 4696 Dipartimento di Matematica, o previo appuntamento</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

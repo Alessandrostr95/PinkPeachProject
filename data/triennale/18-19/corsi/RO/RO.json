@@ -1,0 +1,204 @@
+{
+  "nomeCorso": "Ricerca operativa",
+  "docente": [
+    {
+      "first_name": "Massimiliano",
+      "second_name": "Caramia"
+    }
+  ],
+  "annoAccademico": "2018-2019",
+  "crediti": "6",
+  "settore": "MAT/09",
+  "anno": "2",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [
+    {
+      "titolo": "Date delle prove di esonero di Ricerca Operativa",
+      "data": "03-05-2019 11:40",
+      "contenuto": "<p>Il primo esonero di Ricerca Operativa si terr\u00e0 il giorno 14 maggio 2019 alle ore 13:30 in aula T6 (durata due ore).</p>\n<p>E' possibile prenotarsi entro le ore 24:00 del 5 maggio 2019 inviando mail al docente (caramia@dii.uniroma2.it).</p>\n<p>Il secondo esonero di Ricerca Operativa si terr\u00e0 il giorno 4 giugno 2019 alle ore 13:30 in aula 4 PP2 (durata due ore).</p>"
+    }
+  ],
+  "lezioni": [
+    {
+      "id": "24",
+      "data": "04-06-2019",
+      "contenuto": "<p>II Esonero</p>"
+    },
+    {
+      "id": "23",
+      "data": "29-05-2019",
+      "contenuto": "<p>II Esonero</p>"
+    },
+    {
+      "id": "22",
+      "data": "28-05-2019",
+      "contenuto": "<p>Recupero I Esonero</p>"
+    },
+    {
+      "id": "21",
+      "data": "22-05-2019",
+      "contenuto": "<p>Il linguaggio AMPL. Correzione primo esonero</p>"
+    },
+    {
+      "id": "20",
+      "data": "21-05-2019",
+      "contenuto": "<p>I linguaggio AMPL</p>"
+    },
+    {
+      "id": "19",
+      "data": "15-05-2019",
+      "contenuto": "<p>Il linguaggio AMPL</p>"
+    },
+    {
+      "id": "18",
+      "data": "14-05-2019",
+      "contenuto": "<p>I Esonero</p>"
+    },
+    {
+      "id": "17",
+      "data": "08-05-2019",
+      "contenuto": "<p>Il linguaggio AMPL</p>"
+    },
+    {
+      "id": "16",
+      "data": "07-05-2019",
+      "contenuto": "<p>Introduzione al linguaggio AMPL</p>"
+    },
+    {
+      "id": "15",
+      "data": "30-04-2019",
+      "contenuto": "<p>Esercitazione</p>"
+    },
+    {
+      "id": "14",
+      "data": "24-04-2019",
+      "contenuto": "<p>Esercitazione</p>"
+    },
+    {
+      "id": "13",
+      "data": "23-04-2019",
+      "contenuto": "<p>Esercitazione</p>"
+    },
+    {
+      "id": "12",
+      "data": "17-04-2019",
+      "contenuto": "<p>L'algoritmo Simplesso Duale</p>"
+    },
+    {
+      "id": "11",
+      "data": "10-04-2019",
+      "contenuto": "<p>Esercitazione sull'algoritmo Primale-Duale</p>"
+    },
+    {
+      "id": "10",
+      "data": "09-04-2019",
+      "contenuto": "<p>L'algoritmo Primale-Duale</p>"
+    },
+    {
+      "id": "9",
+      "data": "03-04-2019",
+      "contenuto": "<p>Il teorema della dualit\u00e0 debole, il teorema della dualit\u00e0 forte, il teorema della complementarit\u00e0</p>"
+    },
+    {
+      "id": "8",
+      "data": "02-04-2019",
+      "contenuto": "<p>Introduzione alla teoria della dualit\u00e0</p>"
+    },
+    {
+      "id": "7",
+      "data": "27-03-2019",
+      "contenuto": "<p>Esercitazione sul metodo del Simplesso in due fasi</p>"
+    },
+    {
+      "id": "6",
+      "data": "26-03-2019",
+      "contenuto": "<p>Il metodo del Simplesso in due fasi</p>"
+    },
+    {
+      "id": "5",
+      "data": "20-03-2019",
+      "contenuto": "<p>Ricerca della soluzione di base ammissibile iniziale con forma standard non in forma canonica per il metodo del Simplesso</p>"
+    },
+    {
+      "id": "4",
+      "data": "19-03-2019",
+      "contenuto": "<p>Esercitazione su forma canonica della PL e forma canonica del metodo del Simplesso</p>"
+    },
+    {
+      "id": "3",
+      "data": "13-03-2019",
+      "contenuto": "<p>Introduzione all'algoritmo del Simplesso</p>"
+    },
+    {
+      "id": "2",
+      "data": "06-03-2019",
+      "contenuto": "<p>La rappresentazione geometrica in R<sup>2 </sup>di un problema di programmazione lineare</p>"
+    },
+    {
+      "id": "1",
+      "data": "05-03-2019",
+      "contenuto": "<p>Introduzione alla Ricerca Operativa</p>"
+    }
+  ],
+  "materiale": [
+    {
+      "titolo": "Voti prova esonero I parte - 28 maggio 2019",
+      "dataUpload": "30.05.2019 23:43:14",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/RO/RO_Esonero_28_Maggio_2019.pdf",
+      "dimensione": "15 KB"
+    },
+    {
+      "titolo": "",
+      "dataUpload": "11.04.2019 20:03:47",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/RO/Esercizio_RO_Svolto_Algoritmo_Primale_Duale.pdf",
+      "dimensione": "248 KB"
+    },
+    {
+      "titolo": "",
+      "dataUpload": "11.04.2019 20:00:41",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/RO/Esercizi_RO_Con_Soluzioni_2.pdf",
+      "dimensione": "155 KB"
+    },
+    {
+      "titolo": "",
+      "dataUpload": "11.04.2019 20:00:33",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/RO/Esercizi_RO_Con_Soluzioni_1.pdf",
+      "dimensione": "135 KB"
+    },
+    {
+      "titolo": "",
+      "dataUpload": "05.03.2019 12:45:23",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/RO/Lezioni_Teoria_Dualita.pdf",
+      "dimensione": "4115 KB"
+    },
+    {
+      "titolo": "",
+      "dataUpload": "05.03.2019 12:42:05",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/RO/Lezioni_Esempi_Programmazione_Lineare.pptx",
+      "dimensione": "8559 KB"
+    },
+    {
+      "titolo": "",
+      "dataUpload": "05.03.2019 12:39:11",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/RO/Lezioni_Teoria_Programmazione_Lineare.pptx",
+      "dimensione": "6140 KB"
+    },
+    {
+      "titolo": "",
+      "dataUpload": "05.03.2019 12:36:41",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/RO/Lezioni_Algortimo_Simplesso_Primale_e_Variabili_Artificiali.pptx",
+      "dimensione": "10444 KB"
+    },
+    {
+      "titolo": "",
+      "dataUpload": "05.03.2019 12:32:20",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/RO/Lezioni_Algoritmo_Simplesso_Duale_e_Algoritmo_Primale_Duale.ppt",
+      "dimensione": "802 KB"
+    }
+  ],
+  "programma": "<table><tr><td><p>Introduzione alla Ricerca Operativa.</p>\n<p>Formulazione di problemi decisionali in termini di programmazione matematica.</p>\n<p>Classificazione dei problemi di programmazione matematica.</p>\n<p>Teoria della programmazione lineare.</p>\n<p>Il metodo del simplesso primale.</p>\n<p>Il metodo delle variabili articificiali.</p>\n<p>Teoria della dualit\u00e0 nella programmazione lineare.</p>\n<p>Il metodo del simplesso duale.</p>\n<p>Il metodo primale-duale.</p>\n<p>Il linguaggio AMPL.</p>\n<p>La libreria di algoritmi CPLEX.</p></td></tr></table>",
+  "testiRiferimento": "<table><tr><td><p><span style=\"font-family: verdana, arial, helvetica; font-size: 11px;\">Caramia M., Giordani S., Guerriero F., Musmanno R., Pacciarelli D., \"Ricerca Operativa. Programmazione Lineare, Intera e Non Lineare\", De Agostini Editore, 2018.</span></p></td></tr></table>",
+  "ricevimento": "<table><tr><td><p>Il marted\u00ec e il mercoled\u00ec al termine della lezione</p></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td><p>Il corso prevede una prova d'esame scritta e orale</p></td></tr></table>"
+}

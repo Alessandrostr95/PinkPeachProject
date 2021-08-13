@@ -1,0 +1,26 @@
+{
+  "nomeCorso": "Fondamenti di informatica",
+  "docente": [
+    {
+      "first_name": "Giorgio",
+      "second_name": "Gambosi"
+    },
+    {
+      "first_name": "Giorgio",
+      "second_name": "Gambosi"
+    }
+  ],
+  "annoAccademico": "2006-2007",
+  "crediti": "6",
+  "settore": "",
+  "anno": "1",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>Definizione di linguaggio, grammatica, automa. Gerarchia di Chomsky. Linguaggi regolari, espressioni regolari ed automi a stati finiti deterministici e non deterministici. Linguaggi context free e automi a pila. Macchine di Turing deterministiche e non deterministiche. La macchina di Turing universale. Indecidibilit\u00e0 del problema della fermata.\r\n\r\nSul testo:\r\nCapitolo 1: tutto eccetto sezioni 1.3 e 1.5\r\nCapitolo 2: tutto eccetto sezione 2.4\r\nCapitolo 3: tutto eccetto teorema 3.18\r\nCapitolo 4: sezioni 4.1, 4.2, 4.3, 4.4, 4.5 fino a enunciato teorema 4.18, 4.8, 4.9\r\nCapitolo 5: sezioni 5.1, 5.2, 5.3, 5.4 (cenni), 5.5 (cenni), 5.9</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>Ausiello, d'Amore, Gambosi \"Linguaggi, modelli, complessit\u00e0\" Franco Angeli</td></tr></table>",
+  "ricevimento": "<table><tr><td>Venerdi 11.00-12.30</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

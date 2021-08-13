@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Linguaggi di programmazione",
+  "docente": [
+    {
+      "first_name": "Miriam",
+      "second_name": "Di Ianni"
+    }
+  ],
+  "annoAccademico": "2008-2009",
+  "crediti": "6",
+  "settore": "",
+  "anno": "2",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td><b>Parte prima: Caratteristiche dei linguaggi di programmazione.</b> \r\nCaratteristiche dei linguaggi di programmazione. \r\nEvoluzione dei linguaggi di programmazione. \r\nSintassi: introduzione alle grammatiche formali. \r\nInterpretazione e traduzione; il concetto di binding. Variabili: tipo, scope, l-value, r-value. Tipizzazione statica e dinamica. \r\nRoutines, tecniche di legame dei parametri. \r\nSemantica: assiomatica, operazionale. \r\nClassificazione dei linguaggi rispetto alla struttura run-time. \r\nStrutturazione dei dati: tipi built-in e primitivi, dati aggregati, tipi definiti dall'utente e tipi dati astratti. Type systems: program checking statico e dinamico, tipizzazione forte e type checking, compatibilit\u00e0 di tipi, conversioni, tipi e sottotipi, tipi generici, type systems polimorfici. \r\nStrutturazione della computazione: espressioni, ed assegnazioni, istruzioni condizionali e iterative, routines ed effetti collaterali. Eccezioni. Computazioni event-driven. \r\nStrutturazione del programma: metodi di progetto, concetti di supporto della modularit\u00e0, caratteristiche del linguaggio per la programmazione in the large, unit\u00e0 generiche. \r\nLinguaggi Object-Oriented: concetti di base di programmazione object-oriented, ereditariet\u00e0, polimorfismo, binding dinamico delle funzioni. Ereditariet\u00e0 e type system. \r\n\r\n<b>Parte seconda: introduzione al linguaggio Java </b>\r\nIntroduzione al linguaggio Java: programmi, classi, oggetti, applicazioni; metodi e messaggi; information hiding e modificatori di accesso; editing, compilazione ed esecuzione di una applicazione Java. \r\nStruttura di una classe Java: tipi di dato astratti, variabili di istanza e di classe, costruttori, metodi di istanza e di classe. \r\nProgetto di applicazioni Java. \r\nArray, array multidimensionali. \r\n</td></tr></table>",
+  "testiRiferimento": "<table><tr><td><b>Prima parte: </b>\n<li> Carlo Ghezzi, Mehdi Jazayeri, \"Programming Language Concepts\" - Wiley \r\n\r\n<b>Seconda parte:</b>\n<li>Dispense del corso. \r\n\r\n<li>Testo consigliato: B. Eckel, \"Thinking in Java\" , Apogeo. \r\n<a href=\"http://www.mindview.net/Books/TIJ/\">Versione inglese </a>\n<b> Supporti per la programmazione in Java: </b>\n<li> <a href=\"http://java.sun.com/j2se/1.4.2/download.html\"> http://java.sun.com/j2se/1.4.2/download.html </a>\n<li> <a href=\"http://www.crimsoneditor.com/\">Un editore di testo orientato alla sintassi </a>\n<li> <a href=\"http://www.mat.uniroma2.it/~diianni/INPUT/Input.class\">Una classe per eseguire l'input </a> e, insieme, la sua <a href=\"http://www.mat.uniroma2.it/~diianni/INPUT/index.html\">\r\ndocumentazione </a>\n</li></li></li></li></li></li></td></tr></table>",
+  "ricevimento": "<table><tr><td>Studio 0117, Luned\u00ec 14:00-15:00, valido durante il corso</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

@@ -1,0 +1,28 @@
+{
+  "nomeCorso": "Analisi Matematica",
+  "docente": [
+    {
+      "first_name": "Florin",
+      "second_name": "Radulescu"
+    }
+  ],
+  "annoAccademico": "2013-2014",
+  "crediti": "9",
+  "settore": "MAT/05",
+  "anno": "1",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [
+    {
+      "titolo": "",
+      "data": "31-01-2014 15:02",
+      "contenuto": "<p>\u00a0Tutte le informazioni sono disponibile nella Pagina del corso\u00a0https://sites.google.com/site/am1informaticauniroma2/</p>"
+    }
+  ],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td></td></tr></table>",
+  "testiRiferimento": "<table><tr><td></td></tr></table>",
+  "ricevimento": "<table><tr><td><p>Per appuntamento via email. Martedi ore 12 Studio 0207</p></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Logica per la programmazione e dimostrazione automatica",
+  "docente": [
+    {
+      "first_name": "Fabio Massimo",
+      "second_name": "Zanzotto"
+    }
+  ],
+  "annoAccademico": "2012-2013",
+  "crediti": "6",
+  "settore": "INF/01",
+  "anno": "3",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>Il corso vuole introdurre lo studente alla programmazione dichiarativa basata sulla logica. Dopo una prima analisi delle differenze dei paradigmi di programmazione procedurali e dichiarativi, viene introdotto il Prolog come un linguaggio dichiarativo. Il linguaggio verr\u00e0 descritto dal punto di vista sintattico e verranno introdotti i principali tipi di dati e gli operatori. Verranno descritte delle applicazioni nell'ambito dell'intelligenza artificiale e dell'elaborazione del linguaggio naturale. Verr\u00e0 infine introdotta il legame con la logica dei predicati e con la logica del prim'ordine.\r<br/>Nel corso \u00e8 prevista la realizzazione di un progetto nel linguaggio Prolog.</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>Ivan Bratko, Prolog Programming for Artificial Intelligence (fourth edition), Addison Wesley</td></tr></table>",
+  "ricevimento": "<table><tr><td>Guardare sul sito didattica.uniroma2.it</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

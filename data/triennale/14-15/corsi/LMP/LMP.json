@@ -1,0 +1,32 @@
+{
+  "nomeCorso": "Linguaggi e metodologie di programmazione",
+  "docente": [
+    {
+      "first_name": "Fabio Massimo",
+      "second_name": "Zanzotto"
+    },
+    {
+      "first_name": "Armando",
+      "second_name": "Stellato"
+    }
+  ],
+  "annoAccademico": "2014-2015",
+  "crediti": "12",
+  "settore": "ING-INF/05",
+  "anno": "2",
+  "semestre": "1-2",
+  "propedeuticit\u00e0": "Programmazione dei calcolatori con laboratorio.",
+  "comunicazioni": [
+    {
+      "titolo": "Comunicazioni sul corso",
+      "data": "06-10-2014 12:44",
+      "contenuto": "<p>Tutte le comunicazioni verranno date attraverso la pagina del corso di <a href=\"http://didattica.uniroma2.it/news/index/insegnamento/154544-Linguaggi-E-Metodologie-Di-Programmazione\">didattica.uniroma2.it</a> sezioni Bacheca.</p>"
+    }
+  ],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td><p>Tutte le informazioni sul corso si trovano partendo da <a href=\"http://didattica.uniroma2.it\">didattica.uniroma2.it</a>.</p>\n<p>Il link diretto al corso per AA2014-15 \u00e8 <a href=\"http://didattica.uniroma2.it/informazioni/index/insegnamento/154544-Linguaggi-E-Metodologie-Di-Programmazione\">questo</a></p></td></tr></table>",
+  "testiRiferimento": "<table><tr><td>null</td></tr></table>",
+  "ricevimento": "<table><tr><td><p>Ricevimento:</p>\n<p>- Fabio Massimo Zanzotto guardare sul <a href=\"http://didattica.uniroma2.it/docenti/curriculum/5312-Fabio-Massimo-Zanzotto\">sito istituzionale del docente</a></p>\n<p>- Armando Stellato guardare sul <a href=\"http://didattica.uniroma2.it/docenti/curriculum/3137-Armando-Stellato\">sito istituzionale del docente</a></p></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

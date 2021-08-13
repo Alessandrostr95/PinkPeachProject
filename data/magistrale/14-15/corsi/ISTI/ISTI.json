@@ -1,0 +1,32 @@
+{
+  "nomeCorso": "Inferenza statistica e teoria dell'informazione",
+  "docente": [
+    {
+      "first_name": "Andrea",
+      "second_name": "Dimitri"
+    },
+    {
+      "first_name": "Claudio",
+      "second_name": "Macci"
+    }
+  ],
+  "annoAccademico": "2014-2015",
+  "crediti": "6",
+  "settore": "MAT/06",
+  "anno": "1",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [
+    {
+      "titolo": "",
+      "data": "18-11-2014 12:46",
+      "contenuto": "<p><span style=\"color: #ff0000;\"><strong>Prima parte</strong></span> (Macci)</p>\n<p><strong>Sito permanente con tutte le informazioni (non solo sulla prima parte):</strong></p>\n<p>http://www.mat.uniroma2.it/~macci/didattica-informatica-magistrale.htm</p>\n<p>\u00a0</p>\n<p><span style=\"color: #ff0000;\"><strong>Seconda parte</strong></span> (Dimitri)</p>\n<p><strong>Programma</strong></p>\n<p>Richiami di calcolo delle probabilit\u00e0.<br>Il teorema di Bayes.<br>La chain rule.<br>La matrice dei dati.<br/>Il problema di apprendere le relazioni fra le variabili.<br/>Modelli di apprendimento: regressione, bayesiano.<br/>Il modello di rete bayesiana: definizione.<br/>Le fasi di costruzione e uso di una rete bayesiana: <br/>- individuazione di un ordinamento<br/>- semplificazione da una chain rule<br/>- stima delle problabilit\u00e0 condizionate<br/>- verifica della bont\u00e0 del modello<br/>- inferenza (calcolo di probabilit\u00e0 secondo una regola)<br/>- learning, previsione di dati futuri<br/>- costruzione di un modello bayesiano come raffinamento di una problabilit\u00e0 a priori sulle distribuzioni<br/>- bonta di un modello: il test del chi-quadro.<br/><strong>Testi</strong><br/>D. Heckerman A tutorial on learning with bayesian networks. Technical Report 1995. (Fino a paragrafo 5 incluso)<br/>P. Spirtes Introduction to Causal Inference Journal of Machine Learning Research 11 (2010) 1643-1662 (Fino a paragrafo 3.1 incluso)</br></br></br></p>\n<p>\u00a0</p>"
+    }
+  ],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>null</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>null</td></tr></table>",
+  "ricevimento": "<table><tr><td>null</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

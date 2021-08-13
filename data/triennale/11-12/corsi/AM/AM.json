@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Analisi Matematica",
+  "docente": [
+    {
+      "first_name": "Florin",
+      "second_name": "Radulescu"
+    }
+  ],
+  "annoAccademico": "2011-2012",
+  "crediti": "9",
+  "settore": "MAT/05",
+  "anno": "1",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>Il testo consigliato e: \r<br/>Matematica, Bramanti, Pagani, Salsa  ed. Zanichelli \r<br/>programma del corso e; \r<br/>INSIEMI NUMERICI \r<br/>Insiemi, numeri naturali, interi, razionali, principio di induzione, progressione geometrica, binomio di Newton, \r<br/>gli \r<br/>assiomi dei numeri reali, massimo e minimo, estremo inferiore ed estremo superiore. Funzioni e \r<br/>rappresentazione \r<br/>cartesiana, funzioni iniettive, suriettive, biettive, funzioni composte, funzioni invertibili, monotone, lineari, \r<br/>simmetriche, periodiche, limitate. Estremo superiore, estremo inferiore, massimo e minimo di una funzione. \r<br/>Funzione \r<br/>valore assoluto, potenze, radicali, esponenziali, logaritmi, funzioni iperboliche, funzioni trigonometriche. \r<br/>Operazioni \r<br/>sui gra\ufb01ci. \r<br/>SUCCESSIONI \r<br/>Introduzione al calcolo in\ufb01nitesimale, successioni, limiti di successioni, teorema di unicit\u00e0 del limite, \r<br/>successioni \r<br/>limitate, operazioni con i limiti, teorema della permanenza del segno e conseguenze, teorema dei carabinieri, \r<br/>successioni in\ufb01nitesime, teorema sul limite del prodotto di successioni limitate per successioni convergenti. \r<br/>Forme \r<br/>indeterminate. Successioni monotone, teorema sul limite di successioni monotone, limiti notevoli, confronti e \r<br/>stime \r<br/>asintotiche, in\ufb01niti di ordine crescente, criterio del rapporto per successioni(s.d.). \r<br/>Serie Criteri: Raporto, Radice \r<br/>FUNZIONI DI UNA VARIABILE: LIMITI E CONTINUITA' \r<br/>De\ufb01nizione di limite nei diversi casi, teorema sul legame tra limiti di successioni e limiti di funzioni, limiti \r<br/>notevoli, \r<br/>operazioni con i limiti di funzioni. Funzioni continue, discontinuit\u00e0, teorema sulla permanenza del segno, \r<br/>teorema degli \r<br/>zeri, teorema di valori intermedi, \r<br/>CALCOLO DIFFERENZIALE PER FUNZIONI DI UNA VARIABILE \r<br/>Derivata di una funzione, signi\ufb01cato geometrico, equazione della retta tangente, derivate di funzioni \r<br/>elementari, punti \r<br/>di non derivabilit\u00e0, operazioni con le derivate, teorema di derivazione delle funzioni composte e delle funzioni \r<br/>inverse. \r<br/>Differenziale e approssimazione lineare. Punti stazionari, massimi e minimi locali, teorema di Fermat, teoremi \r<br/>di Rolle \r<br/>e di Lagrange, criterio di monotonia, teorema di caratterizzazione delle funzioni costanti su un intervallo. \r<br/>Ricerca dei \r<br/>massimi e minimi. funzioni concave e funzioni convesse, criterio di convessit\u00e0 per funzioni derivabili (s.d.). \r<br/>Teorema di \r<br/>De L'Hospital (s.d.). Studio del gra\ufb01co di una funzione.  Sviluppo Taylor \r<br/>CALCOLO INTEGRALE PER FUNZIONI  DI UNA VARIABILE \r<br/>Il metodo di esaustione, introduzione all'integrazione secondo Riemann: de\ufb01nizioni e notazioni, propriet\u00e0 \r<br/>delle somme \r<br/>integrali,  de\ufb01nizione di integrale de\ufb01nito, criterio di integrabilit\u00e0(s.d.), propriet\u00e0 dell'integrale de\ufb01nito, \r<br/>integrabilit\u00e0 \r<br/>delle funzioni continue e delle funzioni monotone(s.d.), teorema della media integrale. Integrale inde\ufb01nito, \r<br/>de\ufb01nizione \r<br/>di primitiva, caratterizzazione delle primitive di una funzione in un intervallo, la funzione integrale,  primo e \r<br/>secondo \r<br/>teorema fondamentale del calcolo integrale, metodi elementari per la ricerca di una primitiva,  calcolo di \r<br/>integrali \r<br/>de\ufb01niti e inde\ufb01niti,  integrazione per parti e per sostituzione, integrazione di funzioni razionali fratte, \r<br/>integrazione di \r<br/>funzioni irrazionali. Applicazioni geometriche dell'integrale de\ufb01nito.  Integrali impropri \r<br/>CURVE \r<br/> Lunghezza di una curva \r<br/>Equazioni Differenziale \r<br/>_Primo e secondo grado con coef\ufb01cienti constanti</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>Il testo consigliato e: \r<br/>Matematica, Bramanti, Pagani, Salsa  ed. Zanichelli \r<br/></td></tr></table>",
+  "ricevimento": "<table><tr><td>martedi 14-16, stanza 0207</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

@@ -1,0 +1,58 @@
+{
+  "nomeCorso": "Teoria della sicurezza e crittografia",
+  "docente": [
+    {
+      "first_name": "Maurizio",
+      "second_name": "Talamo"
+    }
+  ],
+  "annoAccademico": "2018-2019",
+  "crediti": "6",
+  "settore": "INF/01",
+  "anno": "1",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [
+    {
+      "titolo": "",
+      "data": "27-11-2018 10:02",
+      "contenuto": "<p>Y = blum number (k-th power of a quadratic residue of (p*q))</p>\n<p>K = the Kth-radix we want to obtain</p>\n<p>\u00a0</p>\n<p>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0((p+1)/4)<sup>K</sup>\u00a0mod (p-1)</p>\n<p>rp = Y mod p</p>\n<p>\u00a0</p>\n<p>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0((q+1)/4)<sup>K</sup>\u00a0mod (q-1)</p>\n<p>rq = Y mod q</p>\n<p>\u00a0</p>\n<p>\u00a0 \u00a0r1 = inverse_modulo(q, p)</p>\n<p>\u00a0 \u00a0r2 = inverse_modulo(q, p)</p>\n<p>\u00a0</p>\n<p>\u00a0</p>\n<p>\u00a0 \u00a0 r1 = r1 * q * rp;</p>\n<p>\u00a0 \u00a0 r2 = r2 * p * rq;</p>\n<p>\u00a0</p>\n<p>result = (r1+r2)</p><hr/>"
+    },
+    {
+      "titolo": "",
+      "data": "27-11-2018 09:48",
+      "contenuto": "<p>\u00a0 \u00a0(2<sup>i</sup>\u00a0mod ((p-1)*(q-1)))</p>\n<p>X mod (p*q)</p>\n<p>\u00a0</p>\n<p>Calcolo i-esimo blum a partire da X.</p>\n<p>\u00a0</p>"
+    }
+  ],
+  "lezioni": [],
+  "materiale": [
+    {
+      "titolo": "Articolo di ricerca sulla sicurezza delle smart card",
+      "dataUpload": "11.12.2018 12:14:35",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/TSC/17-840.pdf",
+      "dimensione": "1544 KB"
+    },
+    {
+      "titolo": "Documentazione su smart cart di identificazione e firma elettronica",
+      "dataUpload": "11.12.2018 12:10:36",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/TSC/cie_3.0_-_specifiche_chip.pdf",
+      "dimensione": "617 KB"
+    },
+    {
+      "titolo": "Documentazione su smart cart di identificazione e firma elettronica",
+      "dataUpload": "11.12.2018 12:10:30",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/TSC/IAS_ECC_v1.0.1_UK.pdf",
+      "dimensione": "1548 KB"
+    },
+    {
+      "titolo": "Documentazione su smart cart di identificazione e firma elettronica",
+      "dataUpload": "11.12.2018 12:10:23",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/TSC/filesystemcns_20160610.pdf",
+      "dimensione": "344 KB"
+    }
+  ],
+  "programma": "<table><tr><td>null</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>null</td></tr></table>",
+  "ricevimento": "<table><tr><td>null</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

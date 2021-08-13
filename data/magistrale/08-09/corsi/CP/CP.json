@@ -1,0 +1,26 @@
+{
+  "nomeCorso": "Calcolo delle probabilit\u00e0",
+  "docente": [
+    {
+      "first_name": "Antonella",
+      "second_name": "Calzolari"
+    },
+    {
+      "first_name": "Antonella",
+      "second_name": "Calzolari"
+    }
+  ],
+  "annoAccademico": "2008-2009",
+  "crediti": "6",
+  "settore": "",
+  "anno": "1",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>Dopo aver richiamato le nozioni di base sulle variabili aleatorie,\r\nil corso espone la teoria elementare dei seguenti modelli\r\nstocastici: processo di Poisson, processi di rinnovo, catene di\r\nMarkov con spazio degli stati numerabile, file d'attesa.</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>S.M.Ross, Introduction to Probability Models, Boston:Academic Press, 1989\r\nH.C.Tijms, A First Course in Stochastic Models,Wiley, Chichester and New York, 2003\r\nP.Baldi, Calcolo delle probabilit\u00e0, McGraw-Hill, 2007\r\nA.Calzolari, Appunti sulle Catene di Markov, manoscritto, 2007, versione elettronica in  allegato\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n</td></tr></table>",
+  "ricevimento": "<table><tr><td>in studio (stanza 1202) luned\u00ec ore 14</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Calcolo delle probabilit\u00e0",
+  "docente": [
+    {
+      "first_name": "Antonella",
+      "second_name": "Calzolari"
+    }
+  ],
+  "annoAccademico": "2004-2005",
+  "crediti": "6",
+  "settore": "",
+  "anno": "1",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>  \r\n  consultare la pagina web del docente</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>\r\n  note distribuite dal docente</td></tr></table>",
+  "ricevimento": "<table><tr><td> su appuntamento</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

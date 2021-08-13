@@ -1,0 +1,33 @@
+{
+  "nomeCorso": "Analisi di reti",
+  "docente": [
+    {
+      "first_name": "Miriam",
+      "second_name": "Di Ianni"
+    }
+  ],
+  "annoAccademico": "2014-2015",
+  "crediti": "6",
+  "settore": "INF/01",
+  "anno": "1",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [
+    {
+      "titolo": "Lezione Analisi di Reti del 06/11/14",
+      "data": "05-11-2014 20:01",
+      "contenuto": "<p>Causa allerta meteo, la lezione del 6 novembre non avr\u00e0 luogo.</p><hr/>"
+    },
+    {
+      "titolo": "Lezioni del 20 e 23 ottobre 2014",
+      "data": "05-11-2014 20:00",
+      "contenuto": "<p>Causa allerta meteo, la lezione del giorno 6 novembre 2014 non avr\u00e0 luogo.</p>"
+    }
+  ],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td><p>Il problema del Minimo Raggio di Trasmissione per la connessione di un grafo geometrico casuale: analisi probabilistica.</p>\n<p>\u00a0</p>\n<p>Analisi di modelli di mobilit\u00e0 e studio della distribuzione spaziale dei nodi.</p>\n<p>\u00a0</p>\n<p>Il problema del Minimum Broadcast Range Assignment: studio e analisi di un algoritmo di approssimazione; studio di differenti primitive di comunicazione: accumulazione, gossip.</p>\n<p>\u00a0</p>\n<p>Il problema del Clustering nei grafi geometrici: applicazione a tale problema dell'algoritmo di Chvatal e dell'algoritmo di Luby e loro analisi.</p>\n<p>\u00a0</p>\n<p>Problemi di Role Assignment: studio di diverse tipologie di Role Assignment e algoritmo per l'assegnazioni di ruoli in un grafo in accordo al Role Assignment Ecologico.</p></td></tr></table>",
+  "testiRiferimento": "<table><tr><td><p>Dispense a cura del docente, disponibili in questa pagina.</p></td></tr></table>",
+  "ricevimento": "<table><tr><td><p>Per appuntamento, da richiedere a mezzo posta elettronica.</p></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td><p>Esame orale.</p></td></tr></table>"
+}

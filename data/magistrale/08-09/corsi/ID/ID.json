@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Informazione documentale",
+  "docente": [
+    {
+      "first_name": "Giambattista",
+      "second_name": "Amati"
+    }
+  ],
+  "annoAccademico": "2008-2009",
+  "crediti": "6",
+  "settore": "",
+  "anno": "1",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>Il corso tratter\u00e0 dei sistemi di Information Retrieval (IR) per l'indicizzazione, l'accesso e il recupero di informazione per collezioni molto grandi di documenti.\r\nLe finalit\u00e0 del corso sono di:\r\n- Conoscere i modelli utilizzati nei principali motori di ricerca per il WWW e nei sistemi tradizionali di IR.\r\n- Sviluppare applicazioni specifiche mediante una piattaforma open source di Information Retrieval (http://ir.dcs.gla.ac.uk/terrier/). \r\n\r\n Programma\r\nCenni storici sull?IR. Architettura di un sistema di IR. Indicizzazione dei documenti e metodi di compressione degli indici. Funzioni di matching e recupero dei documenti.   Modelli di IR. Valutazione dei modelli di IR. Modelli per la rappresentazione dell'interrogazione. Teoria del relevance feedback e tecniche di apprendimento automatico per l'IR. Classificazione automatica dei documenti. L'IR per il WEB.\r\nModelli per la rappresentazione di links e anchor text. Crawler.\r\n\r\n\r\n</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>Christopher D. Manning, Prabhakar Raghavan and Hinrich Sch\u00fctze, Introduction to Information Retrieval, Cambridge University Press. 2008. Consultabile on-line\r\n(http://www-csli.stanford.edu/~hinrich/information-retrieval-book.html/)\r\n\r\n- Soumen Chakrabarti, Mining the Web, Discovering Knowledge from Hypertext Data, Morgan-Kaufmann Publishers, 2002\r\n (http://www.cse.iitb.ac.in/~soumen/mining-the-web/)\r\n\r\n- C.J. van Rijsbergen, Information retrieval, London: Butterworths, 1979. Consultabile on-line http://www.dcs.gla.ac.uk/Keith/Preface.html\r\n\r\n</td></tr></table>",
+  "ricevimento": "<table><tr><td>Venerd\u00ec 17.15-18.15 Aula 7\r\n\r\n</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

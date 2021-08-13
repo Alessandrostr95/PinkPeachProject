@@ -1,0 +1,34 @@
+{
+  "nomeCorso": "Matematica discreta",
+  "docente": [
+    {
+      "first_name": "Laura",
+      "second_name": "Geatti"
+    }
+  ],
+  "annoAccademico": "2014-2015",
+  "crediti": "9",
+  "settore": "MAT/02",
+  "anno": "1",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [
+    {
+      "titolo": "Pagina web del corso",
+      "data": "14-11-2014 11:38",
+      "contenuto": "<p>La pagina web del corso si trova all'indirizzo:</p>\n<p>\u00a0</p>\n<p>http://www.mat.uniroma2.it/~gealbis/MD2014/MD2014home.html</p>\n<p>\u00a0</p>\n<p>Il programma dettagliato &amp; diario delle lezioni si trova all'indirizzo:</p>\n<p>\u00a0</p>\n<p>http://www.mat.uniroma2.it/~gealbis/MD2014/MDprogramma2014.html</p>\n<p>\u00a0</p>\n<p>\u00a0</p>"
+    }
+  ],
+  "lezioni": [
+    {
+      "id": "1",
+      "data": "06-10-2014",
+      "contenuto": "<p>Il diario delle lezioni si trova all'indirizzo</p>\n<p>\u00a0</p>\n<p>http://www.mat.uniroma2.it/~gealbis/MD2014/MDprogramma2014.html</p>\n<p>\u00a0</p>\n<p>\u00a0</p>"
+    }
+  ],
+  "materiale": [],
+  "programma": "<table><tr><td><p>vedi pagina web del corso</p>\n<p>\u00a0</p>\n<p>http://www.mat.uniroma2.it/~gealbis/MD2014/MD2014home.html</p></td></tr></table>",
+  "testiRiferimento": "<table><tr><td><p>vedi pagina web del corso</p>\n<p>\u00a0</p>\n<p>http://www.mat.uniroma2.it/~gealbis/MD2014/MD2014home.html</p></td></tr></table>",
+  "ricevimento": "<table><tr><td><p><a href=\"http://www.mat.uniroma2.it/~gealbis/MD2014/MD2014home.html\">v</a>edi pagina web del corso</p>\n<p>\u00a0</p>\n<p>http://www.mat.uniroma2.it/~gealbis/MD2014/MD2014home.html</p></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td><p><a href=\"http://www.mat.uniroma2.it/~gealbis/MD2014/MD2014home.html\">v</a>edi pagina web del corso</p>\n<p>\u00a0</p>\n<p>http://www.mat.uniroma2.it/~gealbis/MD2014/MD2014home.html</p></td></tr></table>"
+}

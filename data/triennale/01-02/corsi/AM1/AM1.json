@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Analisi matematica 1",
+  "docente": [
+    {
+      "first_name": "Carlangelo",
+      "second_name": "Liverani"
+    }
+  ],
+  "annoAccademico": "2001-2002",
+  "crediti": "6",
+  "settore": "",
+  "anno": "1",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>Richiami di trigonometria e geometria elementare. \r\nNumeri naturali ed interi, numeri razionali, fattorizzazione in numeri primi, algoritmo Euclideo. \r\nNumeri irrazionali, sviluppo in frazione continua di radice di due. \r\nConcetto di limite. Successioni di Cauchy. Numeri reali. \r\nCalcolo di limiti, limiti notevoli. \r\nIl numero \"e\". Logaritmi, definizione e propriet\u00e0 \r\nPrincipio di induzione. \r\nSerie numeriche. Condizione necessaria per la convergenza. Criteri di convergenza per serie a termini alterni (Leibniz) e serie a termini positivi (confronto, rapporto, radici). Convergenza assoluta. \r\nfunzioni, operazioni su funzioni, concetto di grafico, limiti di funzioni. \r\ncontinuita'. \r\ncriterio per l'esitenza di zeri di funzioni continue in un intervallo chiuso e limitato. \r\nSup e inf di insiemi numerici. \r\nesistenza massimi di funzioni continue, estrazione di una sottosuccessione convergente da una successione contenuta in un intervallo chiuso e limitato. \r\nderivate (interpretazione geometrica e cinematica). Regole per il calcolo delle derivate. Derivate notevoli. \r\nTeoremi di Rolle e Lagrange. \r\ngrafici di funzioni. \r\nFormula di Taylor con resto di Lagrange. \r\nAlgoritmo di Newton. </td></tr></table>",
+  "testiRiferimento": "<table><tr><td>M.Bramanti, C.D.Pagani, S.Salsa \r\nMatematica. Calcolo infinitesimale e algebra lineare. \r\nZanichelli \r\n\r\nA. Salsa, A. Squellati \r\nEsercizi di Matematica. Calcolo Infinitesimale e algebra lineare, Vol. 1. \r\nZanichelli </td></tr></table>",
+  "ricevimento": "<table><tr><td>lunedi 16-17, martedi 16-17. </td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

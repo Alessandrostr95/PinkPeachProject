@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Geometria ed algebra",
+  "docente": [
+    {
+      "first_name": "Maurizio",
+      "second_name": "Letizia"
+    }
+  ],
+  "annoAccademico": "2006-2007",
+  "crediti": "6",
+  "settore": "",
+  "anno": "1",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>  Spazi vettoriali, sottospazi vettoriali.  Combinazioni lineari; dipendenza e indipendenza lineare; generatori, basi, dimensione; somma e intersezione di sottospazi.  \r\n  Applicazioni lineari, isomorfismi; nucleo, immagine, rango.  Il teorema del rango.  Composizione di applicazioni lineari.\r\n  Matrici; operazioni tra matrici, prodotto righe per colonne, matrici invertibili.  Relazione tra applicazioni lineari e matrici; rango-colonne e rango-righe di matrici.  Matrici trasposte.\r\n  Sistemi di equazioni lineari; caso generale, forme particolari; formulazione matriciale.  Criteri di risolubilita` e unicita` di soluzione.  Il caso quadrato.  L'eliminazione di Gauss.  Matrici singolari e non-singolari.  \r\n  Teorema di Struttura dello spazio delle soluzioni di un sistema.  Teorema di Rouche'-Capelli.\r\n  ** Lo spazio duale; l'ortogonale di un sottospazio.  Applicazioni trasposte; relazioni con le matrici trasposte.  Coincidenza di rango-righe e rango-colonne di una matrice. **  \r\n  Matrici a scala, sistemi a scala, pivot; riduzione a scala.  Compatibilita` e risoluzione di sistemi a scala.  Descrizione di immagine e rango di una matrice tramite riduzione a scala.\r\n  Criteri di invertibilita` di una matrice (quadrata); calcolo dell'inversa di una matrice invertibile.\r\n  Determinante di una matrice quadrata: proprieta`, esistenza e unicita`, sviluppi di Laplace, moltiplicativita` (teorema di Binet).  Soluzione di sistemi compatibili (teorema di Cramer), formula esplicita per l'inversa di una matrice invertibile.  Teorema degli Orlati per il calcolo del rango di una matrice.\r\n  Autovalori, autovettori, autospazi e spettro di un endomorfismo.  Molteplicita` geometrica degli autovalori.  Criteri di diagonalizzabilita` di endomorfismi (in termini di autospazi, o di molteplicita` geometriche).  Il polinomio caratteristico, calcolo dello spettro.</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>- per la *TEORIA*:  \r\n Marco Abate, \"Algebra lineare\", McGraw-Hill Libri Italia, Milano, 2000.\r\n      *OPPURE*  \r\n  Marco Abate, Chiara de Fabritiis, \"Geometria analitica con elementi di algebra lineare\", McGraw-Hill Libri Italia, Milano, 2006.\r\n      *OPPURE*  \r\n  Marco Abate, \"Geometria\", McGraw-Hill Libri Italia, Milano, 1996. \r\n      *NOTA:*  la parte su *spazi duali e applicazioni trasposte* (non trattata nei testi precedenti, e inclusa nel programma tra due **) si trova in  \r\n  Seymour LIPSCHUTZ, \"Algebra Lineare\", Schaum ed., pagg. 249-260  \r\n       *OPPURE*   \r\n  Seymour LIPSCHUTZ, \"Algebra Lineare - 2a edizione\", Schaum ed., pagg. 397-408  \r\n  (entrambi disponibili nella biblioteca di facolta`, no. di catalogo M15/0050)  \r\n\r\n - per gli *ESERCIZI*:  \r\n Marco Abate, Chiara de Fabritiis, \"Esercizi di geometria\", McGraw-Hill Libri Italia, Milano, 1999.</td></tr></table>",
+  "ricevimento": "<table><tr><td>GAVARINI :  studio 0214 (piano terra, dente 02 = corridoio B0),\r\ntelefono 06.7259.4606  -  GIOVEDI` h. 15:00, o per APPUNTAMENTO \r\nSALVATORE :  studio 0208 (piano terra, dente 02 = corridoio B0),\r\ntelefono 06.7259.4617  -  MARTEDI` h. 14:00, o per APPUNTAMENTO\r\n</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

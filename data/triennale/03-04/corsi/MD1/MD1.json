@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Matematica discreta 1",
+  "docente": [
+    {
+      "first_name": "Giulia Maria Piacentini",
+      "second_name": "Cattaneo"
+    }
+  ],
+  "annoAccademico": "2003-2004",
+  "crediti": "6",
+  "settore": "",
+  "anno": "1",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>Insiemi. Elementi di logica. Relazioni. Relazioni di equivalenza. Relazioni d'ordine. Funzioni. Ricorsivita'. Induzione matematica. Combinatoria. Interi.\r\nAritmetica modulare con applicazioni alla crittografia. Polinomi e operazioni tra polinomi. Strutture algebriche (gruppi, anelli, campi, anche finiti). Reticoli e\r\nalgebre di Boole. Grafi. </td></tr></table>",
+  "testiRiferimento": "<table><tr><td>G.M.Piacentini Cattaneo, Algebra, Un approccio Algoritmico, Decibel Zanichelli 2002\r\n\r\nLe parti del programma non incluse nel testo vengono messe in rete.  </td></tr></table>",
+  "ricevimento": "<table><tr><td>Studio 1119 Martedi'14-15.30</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

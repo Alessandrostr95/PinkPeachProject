@@ -1,0 +1,26 @@
+{
+  "nomeCorso": "Sistemi distribuiti",
+  "docente": [
+    {
+      "first_name": "Giorgio",
+      "second_name": "Gambosi"
+    },
+    {
+      "first_name": "Giorgio",
+      "second_name": "Gambosi"
+    }
+  ],
+  "annoAccademico": "2004-2005",
+  "crediti": "6",
+  "settore": "",
+  "anno": "1",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>Web services: caratteristiche generali. Gli standard SOAP, WSDL, UDDI. Sviluppo di servizi web: la piattaforma Axis. Problematiche ulteriori nello sviluppo di architetture service-oriented e relativi standard. Reti peer-to-peer:caratteristiche generali.</td></tr></table>",
+  "testiRiferimento": "<table><tr><td></td></tr></table>",
+  "ricevimento": "<table><tr><td></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

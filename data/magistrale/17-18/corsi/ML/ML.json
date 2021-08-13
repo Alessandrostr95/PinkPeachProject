@@ -1,0 +1,28 @@
+{
+  "nomeCorso": "Machine learning",
+  "docente": [
+    {
+      "first_name": "Giorgio",
+      "second_name": "Gambosi"
+    }
+  ],
+  "annoAccademico": "2017-2018",
+  "crediti": "9",
+  "settore": "INF/01",
+  "anno": "2",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [
+    {
+      "titolo": "Link al sito del corso",
+      "data": "13-02-2018 21:27",
+      "contenuto": "<p>Tutte le informazioni e i materiali relativi al corso sono disponibili a <a href=\"https://tvml.github.io/ml1718/\" target=\"_blank\">questo</a> indirizzo</p>"
+    }
+  ],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>null</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>null</td></tr></table>",
+  "ricevimento": "<table><tr><td>null</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Sistemi di agenti",
+  "docente": [
+    {
+      "first_name": "Stefano",
+      "second_name": "De Luca"
+    }
+  ],
+  "annoAccademico": "2008-2009",
+  "crediti": "6",
+  "settore": "",
+  "anno": "1",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>L'approccio del corso sar\u00e0 quello di mostrare casi reali di agenti per studiarne le basi teoriche e pratiche.\r\n\r\nIn particolare, si prender\u00e0 come esempio su cui si baser\u00e0 il corso un sistema di simulazione di attivit\u00e0 sociali, come i comportamenti di un gruppo di persone (simulate da agenti) in un contesto pubblico (ad es. un parco).\r\n\r\nI temi trattati saranno i seguenti.\r\n\r\n\r\n    * Definizione di un agente\r\n\r\n    * Classificazione degli agenti\r\n\r\n    * Interazioni tra agenti (MAS: Multi-Agent Systems)\r\n\r\n    * Meccanismi di comunicazione tra agenti (KQML, KIF, FIPA ACL)\r\n\r\n    * Piattaforme per lo sviluppo di agenti: Repast, JADE\r\n\r\n    * Sviluppare un sistema di agenti con Repast\r\n\r\n    * Ingegneria del software: metodologie per gli agenti, GAIA, estensioni di UML (AUML)\r\n\r\n    * Uso di tecniche di intelligenza artificiale negli agenti\r\n\r\n    * Case histories di applicazioni reali\r\n\r\n\r\n\r\n\r\nAlcune lezioni avranno lo scopo di mostrare la teoria illustrata direttamente dalla pratica (tramite esercitaizione).\r\n\r\n\r\nObiettivi: Avere una visione di insieme dell'intelligenza artificiale distribuita ed in particolare dei Sistemi di Agenti, conoscerne le problematiche e le aree principali.\r\n\r\nConoscere le metodologie di comunicazione tra agenti e i modi di raggiungere un accordo. Avere una introduzione ai sistemi di a-life, basati su approccio darwinistico.\r\n\r\nAvere una competenza pratica basilare del sistema di agenti Repast e/o Jade.\r\n\r\nComplessivamente lo studente sar\u00e0 in grado di progettare e implementare semplici sistemi di agenti.</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>Si possono usare le slides del corso pi\u00f9 gli articoli.\r\n\r\nSono comunque consigliati:\r\n\r\n\r\n    * G.Weiss (ed.), Multiagent Systems: A modern Approach to Distributed Artificial Intelligence, MIT Press\r\n\r\n    * M.Wooldridge, An introduction to multiagent systems, John Wiley ed. \r\n\r\n\r\n\r\nPer chi non frequenta, lo studio del testo di Wooldridge \u00e8 mandatorio.\r\n\r\nMateriale del corso.\r\n\r\nDurante il corso verranno suggeriti degli articoli, che verranno inseriti quando possibile su questa pagina web; per gli altri articoli chiedere durante le lezioni, al ricevimento o via email.\r\n\r\nSiti utili\r\n\r\n\r\n    * http://www.fipa.org/, standard di programmazione e comunicazione per agenti\r\n    * http://www.agentlink.org/, consorzio europeo sui sistemi di agenti\r\n    * http://jade.tilab.com/, piattaforma di sviluppo in Java per agenti compliant FIPA\r\n    * Sistema di agenti per simulazioni, REPAST: http://repast.sourceforge.net/\r\n    * http://www.swi-prolog.org/,\r\n      interprete open source del linguaggio Prolog\r\n    * http://citeseer.ist.psu.edu/, sito per ricercare articoli scientifici e citazioni\r\n    * http://www.ida.liu.se/~ulfni/lpp/, un testo free sul Prolog: \"Logic, Programming and Prolog\"\r\n    * ACM, Association for Computer Machinery, vi \u00e8 la possibilit\u00e0 per gli iscritti di accedere a libri, articoli (comprese tutte le conferenze) e corsi on-line\r\n    * IEEE Computer Society, con gli stessi vantaggi della ACM.\r\n    * ECJ, una libreria Java amplissima per Evolutionary Computing (EC): GA, GP, ES etc. Sviluppata all'interno dell'ECLab.\r\n    * Fonti matematiche WP\r\n    * Presentazioni sulla logica per la rappresentazione della conoscenza, tra cui le slide sul situation calculus</td></tr></table>",
+  "ricevimento": "<table><tr><td>Dopo le lezioni o su appuntamento. In alternativa, inviare una mail a deluca@mat.uniroma2.it e/o s.deluca@ieee.org</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

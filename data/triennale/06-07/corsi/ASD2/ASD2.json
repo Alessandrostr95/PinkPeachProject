@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Algoritmi e strutture di dati 2",
+  "docente": [
+    {
+      "first_name": "Andrea",
+      "second_name": "Clementi"
+    }
+  ],
+  "annoAccademico": "2006-2007",
+  "crediti": "6",
+  "settore": "",
+  "anno": "3",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>Programma del corso  :\r\n\r\nTecnica greedy\r\nProblemi sugli intervalli: Interval Scheduling, Interval Partitioning, Scheduling to Minimize Lateness. Problemi sui grafi: Shortest Paths, l'algoritmo di Dijkstra. Minimum Spanning Tree, l'algoritmo di Kruskal, l'algoritmo Reverse Delete. Data Compression: codici prefissi, l'algoritmo di Huffmann. Le tecniche di dimostrazione: Greedy Stays Ahead, Exchange Argument.\r\nCap. 4 (4.1, 4.2, 4.4, 4.5, 4.8)\r\nProgrammazione dinamica\r\nWeighted Interval Scheduling. Algoritmi ricorsivi esponenziali, algoritmi ricorsivi polinomiali. I principi della programmazione dinamica. Algoritmi iterativi. Costruire una soluzione ottima dalla matrice dei valori ottimi parziali. Subset Sum e Knapsack, algoritmi pseudo-polinomiali. Sequence alignment.\r\nCap. 6 (6.1, 6.2, 6.4, 6.6)\r\nProblemi computazionalmente intrattabili. La classe NP\r\nRiduzioni polinomiali, Independent Set, Vertex Cover, Set Cover. Transitivit\u00e0 delle riduzioni. Satisfiability, riduzioni con ''Gadget'': 3-Sat &lt; Independent Set, 3-Sat &lt; Vertex Cover. Esempi: 3-dim Matching &lt; Subset Sum &lt; RD-Scheduling. La classe NP. Problemi NP-completi, il teorema di Cook. Cenni su algoritmi di approssimazione per problemi NP-hard.\r\nCap. 8 (8.1, 8.2, 8.3, 8.4, 8.8)\r\n\r\n\r\n\r\n\r\n\r\nUlteriori INFORMAZIONI ed appunti sul  CORSO SONO DISPONIBILI SU:\r\n\r\nhttp://www.mat.uniroma2.it/~pasquale/</td></tr></table>",
+  "testiRiferimento": "<table><tr><td> Jon Kleinberg, Eva Tardos, Algorithm Design, Addison-Wesley </td></tr></table>",
+  "ricevimento": "<table><tr><td>PER APPUNTAMENTO MEDIANTE EMAIL:\r\n\r\nclementi@mat.uniroma2.it\r\npasquale@mat.uniroma2.it</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

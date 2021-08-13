@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Metodologie di specifica del software",
+  "docente": [
+    {
+      "first_name": "Annarita",
+      "second_name": "Laurenzi"
+    }
+  ],
+  "annoAccademico": "2006-2007",
+  "crediti": "6",
+  "settore": "",
+  "anno": "3",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>OBIETTIVO DEL CORSO \r\nL'obiettivo del corso \u00e8 fornire agli studenti una panoramica degli argomenti trattati finalizzata alla loro applicazione nel mondo del lavoro e specifica sulle tematiche di analisi e collaudo di progetti software. \r\n\r\nIl corso fornisce agli studenti concetti, approcci e tecniche, in particolare, per affrontare le fasi critiche del processo di sviluppo del software quali: specifica dei requisiti e verifica del software. Esercitazioni pratiche (casi di studio) consentiranno di apprendere le modalit\u00e0 di adozione delle tecniche spiegate. Durante il corso gli studenti lavoreranno su piccoli progetti software che saranno discussi in sede di esame e revisionati durante il corso. I progetti sono finalizzati a dare una visione essenziale dell'applicabilit\u00e0 concreta nel mondo del lavoro dei concetti trattati in teoria. Il dottor Ercole Colonese, che vanta trenta anni di esperienza lavorativa in progetti nazionali ed internazionali, parteciper\u00e0 alle revisioni illustrando metodi e approcci utili a maturare una competenza pratica basata sul \"learning by doing\".\r\n\r\nIl corso includer\u00e0 incontri con esponenti del mondo del lavoro.\r\n\r\nIl dr. Ercole Colonese parteciper\u00e0 come esponente del mondo del lavoro durante le esercitazioni pratiche.\r\n\r\n\r\nARGOMENTI TRATTATI\r\n- Come nasce un progetto software\r\n- Ingegneria dei requisiti \r\n- Collaudo e Testing\r\n- Relazione tra le fasi di analisi e testing\r\n- Strategia di realizzazione di un grande progetto software\r\n- Il Modello degli scenari per la formalizzazione delle specifiche funzionali \r\n- Metodologia per la costruzione del Modello degli scenari e il suo utilizzo nella fase di Analisi e Testing\r\n- Validazione del modello degli scenari attraverso altre forme di specifica\r\n- Generazione dei casi di test dal modello degli scenari\r\n\r\nDurante il corso saranno individuati 4 casi di studio da trattare durante le esercitazioni per l'applicazione dei concetti trattati in teoria.</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>LIBRI DI TESTO CONSIGLIATI \r\nGli argomenti svolti a lezione sono trattati in questi libri di testo: \r\n--Appunti forniti dal docente a lezione \r\n--Roger S. Pressman, Principi di Ingegneria del Software, 4 ed., McGraw-Hill, 2004, ISBN 88-386-6216-9 </td></tr></table>",
+  "ricevimento": "<table><tr><td>Contattare il docente Dr. Anna Rita Laurenzi, Ph.D. \r\nemail: annarita.laurenzi@insiel.it\r\ncell. 3356368206</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

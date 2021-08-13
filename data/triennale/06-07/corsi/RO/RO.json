@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Ricerca operativa",
+  "docente": [
+    {
+      "first_name": "Stefano",
+      "second_name": "Fanelli"
+    }
+  ],
+  "annoAccademico": "2006-2007",
+  "crediti": "6",
+  "settore": "",
+  "anno": "2",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>Programma svolto al 4/5/2007\r\nLezione 1\r\nIntroduzione ai problemi di ottimizzazione\r\nModelli di programmazione matematica\r\nProblemi di programmazione convessa\r\nLezione 2\r\nIntroduzione alla programmazione lineare\r\nRichiami di geometria di R^n\r\nLezione 3\r\nProgrammazione lineare: \r\n- forme equivalenti\r\n- cenni di geometria della PL\r\nLezione 4\r\nIndipendenza lineare e basi\r\nSoluzioni ammissibili di base\r\nCorrispondenza SBA-vertici\r\nLezione 5\r\nDirezioni ammissibili\r\nCambio di base\r\nLezione 6\r\nCriteri di ottimalit\u00e0 e di illimitatezza\r\nIl metodo del simplesso in forma matriciale\r\nLezione 7\r\nMetodo tableu del simplesso\r\nLezione 8\r\nProblema artificiale e Fase 1 del metodo del simplesso\r\nLezioni 9, 10, 11\r\nEsercitazioni sul metodo del simplesso\r\nLezioni 12,13,14,15\r\nTeoria della dualit\u00e0\r\nEsercitazioni sulla dualit\u00e0\r\nLezione 16 \r\nIntroduzione alla Programmazione Lineare Intera</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>M. Fischetti, Lezioni di Ricerca Operativa, Edizioni Libreria Progetto, Padova</td></tr></table>",
+  "ricevimento": "<table><tr><td>Lunedi ore 11-12.00</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

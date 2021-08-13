@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Calcolo delle probabilit\u00e0",
+  "docente": [
+    {
+      "first_name": "Antonella",
+      "second_name": "Calzolari"
+    }
+  ],
+  "annoAccademico": "2007-2008",
+  "crediti": "6",
+  "settore": "",
+  "anno": "1",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>Il corso tratta la teoria elementare delle catene di Markov tempo discreto  e tempo continuo.\r\n\r\n</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>Appunti del docente\r\n\r\nP.Baldi, Calcolo delle probabilit\u00e0 e statistica\r\nP.Bremaud, Markov Chains, Gibbs fields, Monte Carlo simulation and queues\r\nP.G.Hoel, S.C.Port, C.J.Stone, Introduction to Stochastic Processes \r\nS.M.Ross, Introduction to Probability Models</td></tr></table>",
+  "ricevimento": "<table><tr><td>su richiesta, in studio</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

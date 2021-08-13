@@ -1,0 +1,161 @@
+{
+  "nomeCorso": "Algoritmi e strutture dati 2",
+  "docente": [
+    {
+      "first_name": "Francesco",
+      "second_name": "Pasquale"
+    }
+  ],
+  "annoAccademico": "2019-2020",
+  "crediti": "6",
+  "settore": "INF/01",
+  "anno": "3",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Algoritmi e strutture dati.",
+  "comunicazioni": [
+    {
+      "titolo": "Esami sessione estiva - Modalit\u00e0 on-line",
+      "data": "18-05-2020 18:32",
+      "contenuto": "<p>In ottemperanza al D.R. <a href=\"http://web.uniroma2.it/module/name/Content/newlang/italiano/action/showpage/navpath/HOM/content_id/83741/section_id/229\" target=\"_blank\">888/2020 del 11/05/2020</a> gli esami della sessione estiva si svolgeranno \"con modalit\u00e0 a distanza\".</p>\n<p>Io non uso Microsoft Office 365 per la gestione dei corsi e personalmente disapprovo l'utilizzo in ambito accademico di qualunque piattaforma basata su software proprietario.</p>\n<p>Gli esami di ASD2 si svolgeranno qui: <br> <a href=\"https://tvalgoteam.site/asd2\" target=\"_blank\">https://tvalgoteam.site/asd2</a><br> (si tratta di un'istanza locale di <a href=\"https://jitsi.org/\" target=\"_blank\">Jitsi</a> installata su un pc che si trova nella nostra Universit\u00e0).</br></br></p>"
+    }
+  ],
+  "lezioni": [
+    {
+      "id": "25",
+      "data": "31-01-2020",
+      "contenuto": "<p><a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa1920/asd2/esercitazione200131.pdf\" target=\"_blank\">Esercitazione</a>.</p>"
+    },
+    {
+      "id": "24",
+      "data": "27-01-2020",
+      "contenuto": "<p>Introduzione alle <a href=\"https://en.wikipedia.org/wiki/Cryptocurrency\" target=\"_blank\">Cryptocurrencies</a>: cenni alle <a href=\"https://en.wikipedia.org/wiki/Cryptographic_hash_function\" target=\"_blank\">funzioni hash crittografiche</a> e il loro ruolo nei sistemi di criptovalute. Cenni alle <a href=\"https://en.wikipedia.org/wiki/Peer-to-peer\" target=\"_blank\">reti peer-to-peer</a>. Il sistema <a href=\"https://en.wikipedia.org/wiki/Bitcoin\" target=\"_blank\">Bitcoin</a> e la sua <a href=\"https://blockchain.info/\" target=\"_blank\">Blockchain</a>. (Il codice sorgente di Bitcoin \u00e8 liberamente scaricabile qui: <a href=\"https://github.com/bitcoin/bitcoin\" target=\"_blank\">https://github.com/bitcoin/bitcoin</a>). <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa1920/asd2/es20.pdf\" target=\"_blank\">Esercizi</a>.</p>"
+    },
+    {
+      "id": "23",
+      "data": "24-01-2020",
+      "contenuto": "<p><em>[Guest lecture by <a href=\"http://www.gssi.it/people/students/students-computer-science/item/2071-rizzo-sara\" target=\"_blank\">Sara Rizzo</a>]</em> Cascate informative: un esperimento di <em>herding</em>, modello generale e analisi del processo sequenziale. Processi di diffusione nelle reti: modello di un processo di diffusione, caratterizzazione cascate complete e <em>cluster</em>. <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa1920/asd2/es19.pdf\" target=\"_blank\">Esercizi</a>.</p>"
+    },
+    {
+      "id": "22",
+      "data": "20-01-2020",
+      "contenuto": "<p>Cenni al <a href=\"https://en.wikipedia.org/wiki/World_Wide_Web\" target=\"_blank\">World Wide Web</a> e al funzionamento di un motore di ricerca: <em>Crawling</em>, <em>Indexing</em> e il problema del <em>Ranking</em>. Il <a href=\"https://en.wikipedia.org/wiki/PageRank\" target=\"_blank\">PageRank</a> e sua formulazione come <em>Random Walk</em>. Introduzione alle catene di Markov e al loro utilizzo nell'analisi di algoritmi probabilistici. Esempio: analisi di un semplice algoritmo probabilistico per <em>2-SAT</em>. ([2]: Cap 7.1). <a href=\"http://www.mat.uniroma2.it/~pasquale/dida/aa1920/asd2/es18.pdf\" target=\"_blank\">Esercizi</a>.</p>"
+    },
+    {
+      "id": "21",
+      "data": "17-01-2020",
+      "contenuto": "<p><a href=\"https://en.wikipedia.org/wiki/Monte_Carlo_method\" target=\"_blank\">Metodi Monte Carlo</a> per la stima di parametri. Campionamento casuale (<em>sampling</em>) e conteggio, cenni alla classe <a href=\"https://en.wikipedia.org/wiki/Sharp-P\" target=\"_blank\"><em>#P</em></a>. Esempio: Un <em>FPRAS</em> (<em>Fully Polynomial-time Randomized Approximation Scheme</em>) per il problema del conteggio delle assegnazioni che soddisfano una formula in DNF. ([2]: Cap. 11.1, 11.2). <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa1920/asd2/es17.pdf\" target=\"_blank\">Esercizi</a>.</p>"
+    },
+    {
+      "id": "20",
+      "data": "13-01-2020",
+      "contenuto": "<p><a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa1920/asd2/esercitazione200113.pdf\" target=\"_blank\">Esercitazione</a>.</p>"
+    },
+    {
+      "id": "19",
+      "data": "20-12-2019",
+      "contenuto": "<p>Il <em>Metodo Probabilistico</em>: il conteggio di base e il metodo del valore atteso. Cenni alla tecnica di <em>derandomizzazione</em> tramite medie condizionate ([2]: Cap. 6.1 - 6.4). <a href=\"http://www.mat.uniroma2.it/~pasquale/dida/aa1920/asd2/es16.pdf\" target=\"_blank\">Esercizi</a>.</p>"
+    },
+    {
+      "id": "18",
+      "data": "16-12-2019",
+      "contenuto": "<p><em>Permutation Routing</em> sugli ipercubi: <em>lower bound</em> per la procedura <em>BitFix</em> e analisi dell'algoritmo probabilistico ([2]: Cap. 4.6). <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa1920/asd2/es15.pdf\" target=\"_blank\">Esercizi</a>.</p>"
+    },
+    {
+      "id": "17",
+      "data": "09-12-2019",
+      "contenuto": "<p>Stime del discostamento di una variabile aleatoria dal suo valore atteso. La <a href=\"https://en.wikipedia.org/wiki/Markov's_inequality\" target=\"_blank\">disuguaglianza di Markov</a>. La <a href=\"https://en.wikipedia.org/wiki/Variance\" target=\"_blank\">varianza</a> di una variabile aleatoria e la <a href=\"https://en.wikipedia.org/wiki/Chebyshev%27s_inequality\" target=\"_blank\">disuguaglianza di Chebyshev</a>. Somme di variabili aleatorie indipendenti e le <a href=\"https://en.wikipedia.org/wiki/Chernoff_bound\" target=\"_blank\">disuguaglianze di Chernoff</a> ([2]: Cap. 3.1, 3.2, 3.3, 4.1, 4.2). <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa1920/asd2/es14.pdf\" target=\"_blank\">Esercizi</a>.</p>"
+    },
+    {
+      "id": "16",
+      "data": "06-12-2019",
+      "contenuto": "<p>Test di primalit\u00e0 probabilistici polinomiali. Il <a href=\"https://en.wikipedia.org/wiki/Fermat_primality_test\" target=\"_blank\">test di Fermat</a>. Richiami di teoria elementare dei numeri: radici non-banali dell'unit\u00e0. Il <a href=\"https://en.wikipedia.org/wiki/Miller%E2%80%93Rabin_primality_test\" target=\"_blank\">test di Miller-Rabin</a>. Il codice scritto in aula (<a href=\"http://www.mat.uniroma2.it/~pasquale/dida/aa1920/asd2/primes.py\" target=\"_blank\">primes.py</a>) corretto e commentato. ([1]: Cap. 1.3. Per approfondire si veda [4]: Cap. 13.8). <a href=\"http://www.mat.uniroma2.it/~pasquale/dida/aa1920/asd2/es13.pdf\" target=\"_blank\">Esercizi</a>.</p>"
+    },
+    {
+      "id": "15",
+      "data": "02-12-2019",
+      "contenuto": "<p><a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa1920/asd2/esercitazione191202.pdf\" target=\"_blank\">Esercitazione</a>.</p>"
+    },
+    {
+      "id": "14",
+      "data": "29-11-2019",
+      "contenuto": "<p>Valore atteso di una variabile aleatoria e linearit\u00e0. Esempio: Analisi del numero atteso di confronti dell'algoritmo <em>Random <a href=\"https://en.wikipedia.org/wiki/Quicksort\" target=\"_blank\">Quick Sort</a></em>. Il problema <em>Contention Resolution</em> ([2]: Cap. 2.5 e [3]: Cap. 13.1). <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa1920/asd2/es12.pdf\" target=\"_blank\">Esercizi</a></p>"
+    },
+    {
+      "id": "13",
+      "data": "25-11-2019",
+      "contenuto": "<p>Introduzione agli <a href=\"https://en.wikipedia.org/wiki/Randomized_algorithm\" target=\"_blank\">algoritmi probabilistici</a>. Esempio: un algoritmo probabilistico per verificare il prodotto di matrici. Variabili aleatorie e valore atteso: la distribuzione geometrica. ([2]: Cap. 1.3, 2.4. Per un ripasso di probabilit\u00e0 dicreta si vedano, per esempio, i primi due capitoli in [2]). <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa1920/asd2/es11.pdf\" target=\"_blank\">Esercizi</a>.</p>"
+    },
+    {
+      "id": "12",
+      "data": "22-11-2019",
+      "contenuto": "<p>I problemi computazionalmente difficili come risorsa: I fondamenti della crittografia a chiave pubblica, il protocollo di <a href=\"https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange\" target=\"_blank\">Diffie-Hellman</a> per la generazione di una chiave condivisa e il sistema di cifratura <a href=\"https://en.wikipedia.org/wiki/RSA_(cryptosystem)\" target=\"_blank\">RSA</a>. Cenni a <a href=\"https://en.wikipedia.org/wiki/One-time_pad\" target=\"_blank\">One-time pad</a>, <a href=\"https://en.wikipedia.org/wiki/Block_cipher\" target=\"_blank\">cifrari a blocchi</a>, <a href=\"https://en.wikipedia.org/wiki/Advanced_Encryption_Standard\" target=\"_blank\">AES</a>. ([1]: Cap. 1.2 e 1.4). <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa1920/asd2/es10.pdf\" target=\"_blank\">Esercizi</a>.</p>"
+    },
+    {
+      "id": "11",
+      "data": "18-11-2019",
+      "contenuto": "<p><a href=\"https://en.wikipedia.org/wiki/Heuristic_(computer_science)\" target=\"_blank\">Euristiche</a> di ricerca locale. Esempio: Ricerca locale per <em>Min Vertex Cover</em>. Cenni a <a href=\"https://en.wikipedia.org/wiki/Simulated_annealing\" target=\"_blank\">Simulated annealing</a>. Ricerca locale con fattore di approssimazione garantito. Esempio: Un algoritmo approssimante per <em>Max-Cut</em> ([1]: Cap. 9.3, e [3]: Cap. 12.4). <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa1920/asd2/es09.pdf\" target=\"_blank\">Esercizi</a>.</p>"
+    },
+    {
+      "id": "10",
+      "data": "15-11-2019",
+      "contenuto": "<p><a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa1920/asd2/esercitazione191115.pdf\" target=\"_blank\">Esercitazione</a>.</p>"
+    },
+    {
+      "id": "9",
+      "data": "11-11-2019",
+      "contenuto": "<p>Affrontare i problemi computazionalmente difficili: 2. <a href=\"https://en.wikipedia.org/wiki/Approximation_algorithm\" target=\"_blank\">Algoritmi Approssimanti</a>. Esempio: un algoritmo <em>2</em>-approssimante per il problema <em>k-clustering</em>. Approssimazioni arbitrariamente buone. Esempio: un <a href=\"https://en.wikipedia.org/wiki/Polynomial-time_approximation_scheme\" target=\"_blank\">FPTAS</a> (<em>Fully Polynomial-Time Approximation Scheme</em>) per il problema <em>Knapsack</em> ([1]: Cap. 9.2, [3]: Cap. 11.8). <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa1920/asd2/es08.pdf\" target=\"_blank\">Esercizi</a>.</p>"
+    },
+    {
+      "id": "8",
+      "data": "08-11-2019",
+      "contenuto": "<p>Affrontare i problemi computazionalmente difficili: 1. Ricerca esaustiva intelligente. Le tecniche: <a href=\"https://en.wikipedia.org/wiki/Backtracking\" target=\"_blank\">Backtracking</a> e <a href=\"https://en.wikipedia.org/wiki/Branch_and_bound\" target=\"_blank\">Branch-and-bound</a>. Esempi: Un algoritmo per <em>SAT</em> e un algoritmo per <em>TSP</em> ([1]: Cap. 9.1). <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa1920/asd2/es07.pdf\" target=\"_blank\">Esercizi</a>.<br> (Se vi dovesse venire in mente un'idea promettente per risolvere istanze di <em>SAT</em>, considerate la possibilit\u00e0 di partecipare alla prossima edizione di <a href=\"http://sat-race-2019.ciirc.cvut.cz/\" target=\"_blank\">questo evento</a>)</br></p>"
+    },
+    {
+      "id": "7",
+      "data": "04-11-2019",
+      "contenuto": "<p>Il <em>running time</em> dell'algoritmo di Ford e Fulkerson. La variante con <em>capacity scaling</em> per rendere l'algoritmo polinomiale. ([3]: Cap. 7.3). <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa1920/asd2/es06.pdf\" target=\"_blank\">Esercizi</a>.</p>"
+    },
+    {
+      "id": "6",
+      "data": "28-10-2019",
+      "contenuto": "<p>L'<a href=\"https://en.wikipedia.org/wiki/Ford%E2%80%93Fulkerson_algorithm\" target=\"_blank\">algoritmo di Ford e Fulkerson</a> per <em>Max-Flow</em>: correttezza, <em>running time</em> e ottimalit\u00e0. ([1]: Cap. 7.2. Si veda anche [3]: Cap. 7.1 e 7.2). <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa1920/asd2/es05.pdf\" target=\"_blank\">Esercizi</a>.</p>"
+    },
+    {
+      "id": "5",
+      "data": "25-10-2019",
+      "contenuto": "<p><a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa1920/asd2/esercitazione191025.pdf\" target=\"_blank\">Esercitazione</a>. (Il codice scritto in aula per l'Esercizio 5: <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa1920/asd2/travasi.py\" target=\"_blank\">travasi.py</a>)</p>"
+    },
+    {
+      "id": "4",
+      "data": "21-10-2019",
+      "contenuto": "<p>La tecnica della <em>Riduzione</em>. Esempi: Un algoritmo lineare per <a href=\"https://en.wikipedia.org/wiki/2-satisfiability\" target=\"_blank\">2-SAT</a> ottenuto tramite riduzione al problema di scomporre un grafo diretto in componenti fortemente connesse e DAG delle componenti. Richiami su grafi diretti, DAGs e topological sorting. Introduzione al problema <em><a href=\"https://en.wikipedia.org/wiki/Maximum_flow_problem\" target=\"_blank\">Max Flow</a></em> ([1]: Esercizio 3.28 e inizio Cap. 7.2). <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa1920/asd2/es04.pdf\" target=\"_blank\">Esercizi</a>.</p>"
+    },
+    {
+      "id": "3",
+      "data": "14-10-2019",
+      "contenuto": "<p>La tecnica della <em>Programmazione Dinamica</em>. Esempi: Un algoritmo per <em>Chain matrix multiplication</em> e un algoritmo per <em>Independent set</em> su alberi. ([1]: Cap. 6.5, 6.7). <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa1920/asd2/es03.pdf\" target=\"_blank\">Esercizi</a>.</p>"
+    },
+    {
+      "id": "2",
+      "data": "11-10-2019",
+      "contenuto": "<p>La tecnica <em>Divide et Impera</em>. Esempio: l'<a href=\"https://en.wikipedia.org/wiki/Karatsuba_algorithm\" target=\"_blank\">algoritmo di Karatsuba</a> per moltiplicare due interi. Cenni all'<a href=\"https://en.wikipedia.org/wiki/Strassen_algorithm\" target=\"_blank\">algoritmo di Strassen</a> per la moltiplicazione di matrici. Richiami sulle relazioni di ricorrenza e sul <a href=\"https://en.wikipedia.org/wiki/Master_theorem_(analysis_of_algorithms)\" target=\"_blank\">Teorema <em>Master</em></a>. ([1]: Cap. 1.1, 2.1, 2.2, 2.5). <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa1920/asd2/es02.pdf\" target=\"_blank\">Esercizi</a>.</p>"
+    },
+    {
+      "id": "1",
+      "data": "07-10-2019",
+      "contenuto": "<p>Introduzione al corso, descrizione del programma di massima. La tecnica <em>Greedy</em>. Esempio: Un algoritmo greedy per decidere la soddisfacibilit\u00e0 delle formule di Horn ([1]: Cap. 5.3. Per un ripasso sulla tecnica greedy si veda, per esempio, il Capitolo 4 su [3]). <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa1920/asd2/es01.pdf\" target=\"_blank\">Esercizi</a>.</p>"
+    }
+  ],
+  "materiale": [
+    {
+      "titolo": "Si veda la pagina del corso sul sito del docente: <br><a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa1920/asd2/index.html\" target=\"_blank\">https://www.mat.uniroma2.it/~pasquale/dida/aa1920/asd2/index.html</a></br>",
+      "dataUpload": "07.10.2019 16:52:58",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/ASD2/redirect.html",
+      "dimensione": "0 KB"
+    }
+  ],
+  "programma": "<table><tr><td><p style=\"text-align: center;\"><strong>Programma provvisorio</strong></p>\n<ol>\n<li><span style=\"text-decoration: underline;\">Progettare algoritmi efficienti.</span> Riepilogo delle tecniche pi\u00f9 efficaci per progettare algoritmi efficienti: <em>Greedy</em>, <em>Divide-et-Impera</em>, Programmazione Dinamica, Riduzioni. Il problema <em>Max-Flow</em> e l'algoritmo di Ford e Fulkerson. <em>Linear programming</em> e <em>duality</em>.</li>\n<li><span style=\"text-decoration: underline;\">Problemi computazionalmente difficili.</span> La teoria dell'<em>NP</em>-completezza da un punto di vista algoritmico e come affrontare i problemi computazionalmente difficili: ricerca esaustiva intelligente, algoritmi approssimanti, euristiche. I problemi computazionalmente difficili come risorsa: il protocollo di Diffie-Hellman, il sistema <em>RSA</em> e i fondamenti della crittografia a chiave pubblica. La matematica dietro le scene: Teoria dei numeri.</li>\n<li><span style=\"text-decoration: underline;\">Algoritmi probabilistici.</span> Il ruolo della <em>randomness</em> negli algoritmi. Quando scegliere a caso semplifica l'implementazione: Test di primalit\u00e0 di Miller-Rabin. Quando scegliere a caso rende gli algoritmi pi\u00f9 efficienti: Packet Routing. Quando poter scegliere a caso \u00e8 indispensabile: Protocolli interattivi e <em>zero-knowledge proofs</em>. Le tecniche per analizzare gli algoritmi probabilistici, la concentrazione della misura. Metodi Monte Carlo. Cenni alla classe #P. Campionamento e conteggio approssimato. Catene di Markov a stati finiti e tempo discreto. Cenni a <em>FPRAS</em> (<em>Fully Polynomial-time Radomized Approximation Scheme</em>) e ai metodi <em>MCMC</em> (<em>Markov Chain Monte Carlo</em>).</li>\n</ol>\n<p><br> <em>La rapida evoluzione tecnologica degli ultimi decenni ha portato all'ordine del giorno nuove sfide algoritmiche. Nell'ultima parte del corso ne studieremo alcune e vedremo come sono state affrontate.</em></br></p>\n<ul>\n<li><span style=\"text-decoration: underline;\">Ranking</span>. Le idee algoritmiche che hanno rivoluzionato i motori di ricerca: <em>PageRank</em> e <em>HITS</em>. La matematica dietro le scene: Algebra lineare e catene di Markov.</li>\n<li><span style=\"text-decoration: underline;\">Algoritmi che imparano</span>. <em>Expert selection</em> e il <em>meta</em>-algoritmo dei <em>multiplicative updates</em></li>\n<li><span style=\"text-decoration: underline;\">Cryptocurrencies</span>.Le idee algoritmiche che hanno dato vita a <em>Bitcoin</em> e alla <em>Blockchain</em>. Gli ingredienti: reti <em>Peer-to-Peer</em>, funzioni hash crittografiche e crittografia a chiave pubblica.</li>\n</ul></td></tr></table>",
+  "testiRiferimento": "<table><tr><td><p><strong>Testi di riferimento</strong></p>\n<p>\u00a0</p>\n<p>[1] S. Dasgupta, C. Papadimitriou, and U. Vazirani. <em>Algorithms</em>. McGraw-Hill, 2006. <br> [2] M. Mitzenmacher and E. Upfal. <em>Probability and Computing</em> (2nd edition). Cambridge University Press, 2017.</br></p>\n<p>\u00a0</p>\n<p>\u00a0</p>\n<p><strong>Testi di supporto</strong></p>\n<p>[3] J. Kleinberg and E. Tardos. <em>Algorithm Design</em>. Addison-Wesley, 2005.</p>\n<p>[4] T.H. Cormen, C.E. Leiserson, R.L. Rivest, C. Stein. <em>Introduction to Algorithms</em>. The MIT press, 2001.</p>\n<p>\u00a0</p></td></tr></table>",
+  "ricevimento": "<table><tr><td><p>Durante il periodo delle lezioni (Ottobre 2019 - Gennaio 2020):<br>Gioved\u00ec 15:30 - 17:30 oppure su appuntamento.<br><br>Al di fuori del periodo delle lezioni:<br>Su appuntamento.</br></br></br></br></p></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td><p>L'esame consiste in una prova scritta e in un colloquio orale. <br><br> Durante il corso si effettueranno due prove intermedie sotto forma di <em>homework</em>. Gli studenti che ricevono una valutazione positiva agli homework sono esonerati dalla prova scritta.</br></br></p></td></tr></table>"
+}

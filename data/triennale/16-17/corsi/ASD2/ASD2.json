@@ -1,0 +1,191 @@
+{
+  "nomeCorso": "Algoritmi e strutture dati 2",
+  "docente": [
+    {
+      "first_name": "Francesco",
+      "second_name": "Pasquale"
+    }
+  ],
+  "annoAccademico": "2016-2017",
+  "crediti": "6",
+  "settore": "INF/01",
+  "anno": "3",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Algoritmi e strutture dati.",
+  "comunicazioni": [
+    {
+      "titolo": "Avviso",
+      "data": "16-01-2017 23:13",
+      "contenuto": "<p>Il <a href=\"http://www.mat.uniroma2.it/~pasquale/dida/aa1617/asd2/index.html#homework\" target=\"_blamk\">secondo homework</a> \u00e8 disponibile per il download. Consegna entro le ore 9:00 di Marted\u00ec 24 Gennaio 2017.</p><hr/>"
+    },
+    {
+      "titolo": "Avviso",
+      "data": "05-12-2016 23:32",
+      "contenuto": "<p>A partire dalla settimana del 12 dicembre, la lezione del luned\u00ec \u00e8 spostata al marted\u00ec. Stessa aula, stessa ora. </p><hr/>"
+    },
+    {
+      "titolo": "Avviso",
+      "data": "20-11-2016 23:17",
+      "contenuto": "<p>Il <a href=\"http://www.mat.uniroma2.it/~pasquale/dida/aa1617/asd2/index.html#homework\" target=\"_blank\">primo homework</a> \u00e8 disponibile per il download. Consegna entro le ore 9:00 di Luned\u00ec 28 Novembre 2016.</p><hr/>"
+    },
+    {
+      "titolo": "Avviso",
+      "data": "27-10-2016 19:10",
+      "contenuto": "<p>Luned\u00ec 31 ottobre non c'\u00e8 lezione</p><hr/>"
+    },
+    {
+      "titolo": "Avviso",
+      "data": "10-10-2016 19:02",
+      "contenuto": "<p>Le lezioni iniziano alle ore 9:15</p><hr/>"
+    },
+    {
+      "titolo": "Avviso",
+      "data": "28-09-2016 12:36",
+      "contenuto": "<p>Il corso inizier\u00e0 luned\u00ec 10 ottobre</p>"
+    }
+  ],
+  "lezioni": [
+    {
+      "id": "26",
+      "data": "26-01-2017",
+      "contenuto": "<p>Esercitazione. Riepilogo del corso.</p>"
+    },
+    {
+      "id": "25",
+      "data": "24-01-2017",
+      "contenuto": "<p>Risoluzione degli esercizi del compito. Esercitazione.</p>"
+    },
+    {
+      "id": "24",
+      "data": "19-01-2017",
+      "contenuto": "<p>Il metodo dei <em>Multiplicative Weights Update</em>. Esempio: analisi dell'algoritmo <em>Randomized Weighted Majority</em>\u00a0per il problema <em>Regret Minimization</em>. ([5]: Cap. 4.3.2)</p>"
+    },
+    {
+      "id": "23",
+      "data": "17-01-2017",
+      "contenuto": "<p>Algoritmi <em>online</em> e <em>competitive ratio</em>. Algoritmi che \"imparano\". Esempio: il problema <em>Regret Minimization</em>. Un algoritmo greedy deterministico, un algoritmo greedy probabilistico e il ruolo della <em>randomness</em>. ([5]: Cap. 4.1, 4.2, 4.3.1)</p>"
+    },
+    {
+      "id": "22",
+      "data": "12-01-2017",
+      "contenuto": "<p>Catene di Markov a stati finiti e tempo discreto e loro utilizzo per l'analisi di algoritmi probabilitstici. Esempio: analisi di un semplice algoritmo probabilistico per <em>2-SAT</em>. ([3]: Cap. 7.1)</p>"
+    },
+    {
+      "id": "21",
+      "data": "10-01-2017",
+      "contenuto": "<p>Il <em>World Wide Web</em> e la sua struttura di grafo diretto. Cenni al funzionamento di un motore di ricerca: <em>Crawling</em>, <em>Indexing</em> e il problema del <em>Ranking</em>. Il <em>PageRank</em> e sua formulazione come <em>Random Walk</em>. ([4]: Cap. 13 e 14.3)</p>"
+    },
+    {
+      "id": "20",
+      "data": "22-12-2016",
+      "contenuto": "<p>Esercitazione</p>"
+    },
+    {
+      "id": "19",
+      "data": "20-12-2016",
+      "contenuto": "<p>Stimare la deviazione di una variabile aleatoria dal suo valore atteso: Disuguaglianze di Markov, Chebyshev e Chernoff. Esempio: L'algoritmo di ordinamento <em>RandomQuickSort</em>, calcolo del valore atteso del numero di confronti e cenni all'analisi della deviazione dal valore atteso. ([3]: Cap. 2.5 e Esercizio 4.20)</p>"
+    },
+    {
+      "id": "18",
+      "data": "15-12-2016",
+      "contenuto": "<p>Implementazione in Python di alcuni test di primalit\u00e0: un test deterministico semplice con running time esponenziale, il test probabilistico di Fermat, il test probabilistico di Miller-Rabin. Generare numeri primi di grandi dimensioni.</p>"
+    },
+    {
+      "id": "17",
+      "data": "13-12-2016",
+      "contenuto": "<p>Algoritmi per testare la primalit\u00e0 di un numero. Richiami di teoria dei numeri elementare: teorema di Fermat, radici non banali dell'unit\u00e0. Il test di primalit\u00e0 di Miller-Rabin. ([1]: Cap. 1.3)</p>"
+    },
+    {
+      "id": "16",
+      "data": "05-12-2016",
+      "contenuto": "<p>Richiami di probabilit\u00e0 discreta: Variabili aleatorie, distribuzioni geometrica e binomiale, valore atteso e linearit\u00e0. Tecniche di analisi del <em>running time</em> di algoritmi probabilistici. ([2]: Cap. 13.3)</p>"
+    },
+    {
+      "id": "15",
+      "data": "01-12-2016",
+      "contenuto": "<p>Esercitazione.</p>"
+    },
+    {
+      "id": "14",
+      "data": "28-11-2016",
+      "contenuto": "<p>Risoluzione degli esercizi del compito. Riepilogo di probabilit\u00e0 discreta: Spazi di probabilit\u00e0, eventi, probabilit\u00e0 condizionate, indipendenza. Introduzione agli algoritmi probabilistici.</p>"
+    },
+    {
+      "id": "13",
+      "data": "24-11-2016",
+      "contenuto": "<p>I problemi computazionalmente difficili possono essere una risorsa. Esempio: scambiare messaggi in modo sicuro. Richiami di aritmetica modulare, i fondamenti della crittografia a chiave pubblica e il sistema di cifratura RSA. ([1]: Cap. 1.2 e 1.4)</p>"
+    },
+    {
+      "id": "12",
+      "data": "21-11-2016",
+      "contenuto": "<p>Euristiche di ricerca locale. Esempi: Ricerca locale per <em>Min Vertex Cover</em> e <em>Travelling Salesman Problem</em>. Ricerca locale con fattore di approssimazione garantito. Esempio: Un algoritmo approssimante per <em>Max-Cut </em>([1]: Cap. 9.3, si veda anche [2]: Cap. 12.4).\u00a0</p>"
+    },
+    {
+      "id": "11",
+      "data": "17-11-2016",
+      "contenuto": "<p>Un algoritmo <em>2</em>-approssimante per il problema <em>TSP</em>. Approssimazioni arbitrariamente buone. Esempio: un <em>PTAS (Polynomial-Time Approximation Scheme)</em> per il problema <em>Knapsack</em> ([1]: Cap. 9.2, si veda anche [2]: Cap. 11.8).</p>"
+    },
+    {
+      "id": "10",
+      "data": "14-11-2016",
+      "contenuto": "<p>Esercitazione.</p>"
+    },
+    {
+      "id": "9",
+      "data": "10-11-2016",
+      "contenuto": "<p>Algoritmi approssimanti per problemi di ottimizzazione <em>NP-hard</em>. Esempi: Un algoritmo greedy <em>1.5</em>-approssimante per il problema <em>Load Balancing</em> ([2]: Cap. 11.1); un algoritmo <em>2</em>-approssimante per il problema <em>Min Vertex Cover</em> ([1]: Prima parte Cap. 9.2)</p>"
+    },
+    {
+      "id": "8",
+      "data": "07-11-2016",
+      "contenuto": "<p>Ricerca esaustiva intelligente. Le tecniche: <em>Backtracking</em> e <em>Branch and Bound</em>. Esempi: Un algoritmo per <em>SAT</em> e un algoritmo per <em>Travelling Salesman Problem</em> ([1]: Cap. 9.1).</p>"
+    },
+    {
+      "id": "7",
+      "data": "03-11-2016",
+      "contenuto": "<p>Il problema <em>Circuit SAT</em> e sua riduzione polinomiale a <em>SAT</em>. Il concetto di <em>NP-completezza</em> e il teorema di Cook-Levin con cenni di dimostrazione. ([1]: Ultima parte del Cap. 8.3; si veda anche [2]: Cap. 8.3 e 8.4). Introduzione alla <em>ricerca esaustiva intelligente</em> ([1]: Cap. 9.1).</p>"
+    },
+    {
+      "id": "6",
+      "data": "27-10-2016",
+      "contenuto": "<p>Problemi computazionalmente difficili. La tecnica delle <em>riduzioni polinomiali</em> per valutare la difficolt\u00e0 di un problema relativamente a un altro problema. Esempi: Se esiste un algoritmo polinomiale per <em>3-SAT</em> allora esiste anche un algoritmo polinomiale per <em>SAT</em>; se esiste un algoritmo polinomiale per <em>Independent Set</em> allora esiste anche un algorimo polinomiale per <em>3-SAT</em> ([1]: Cap. 8.2 e parte di 8.3).</p>"
+    },
+    {
+      "id": "5",
+      "data": "24-10-2016",
+      "contenuto": "<p>Esercitazione sulle tecniche algoritmiche.</p>"
+    },
+    {
+      "id": "4",
+      "data": "20-10-2016",
+      "contenuto": "<p>La tecnica della\u00a0<em>Riduzione</em>. Esempio: un algoritmo efficiente per <em>2-SAT</em> tramite riduzione al problema di trovare le componenti fortemente connesse in un grafo diretto ([1]: Esercizio 3.28). Richiami su grafi diretti, componenti fortemente connesse, DAGs e <em>topological sorting</em> ([1]: Cap. 3.3 e 3.4)</p>"
+    },
+    {
+      "id": "3",
+      "data": "17-10-2016",
+      "contenuto": "<p>La tecnica della <em>Programmazione Dinamica</em>. Esempio: un algoritmo per il problema <em>Longest Increasing Subsequence</em> ([1]: Cap. 6.1, 6.2).</p>"
+    },
+    {
+      "id": "2",
+      "data": "13-10-2016",
+      "contenuto": "<p>La tecnica <em>Divide et Impera</em>. Esempio: un algoritmo per moltiplicare due interi di <em>n</em> bit con running time asintoticamente inferiore a <em>n^2</em>. Richiami sulle relazioni di ricorrenza. ([1]: Cap. 1.1, 2.1, 2.2)</p>"
+    },
+    {
+      "id": "1",
+      "data": "10-10-2016",
+      "contenuto": "<p>Introduzione al corso, descrizione del programma di massima. La tecnica <em>Greedy</em>. Esempio: Un algoritmo greedy per decidere la soddisfacibilit\u00e0 delle formule di Horn ([1]: Cap. 5.3)</p>"
+    }
+  ],
+  "materiale": [
+    {
+      "titolo": "Si veda la pagina del corso sul sito del docente",
+      "dataUpload": "10.10.2016 19:55:31",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/ASD2/asd2.html",
+      "dimensione": "0 KB"
+    }
+  ],
+  "programma": "<table><tr><td><p style=\"text-align: center;\"><strong>Programma provvisorio</strong></p>\n<p>\u00a0</p>\n<p><strong>Prima parte</strong> (4cfu)</p>\n<p>\u00a0</p>\n<p><span style=\"text-decoration: underline;\">Progettare algoritmi efficienti.</span> Riepilogo delle tecniche pi\u00f9 efficaci per progettare algoritmi efficienti: <em>Greedy</em>, <em>Divide et Impera</em>, <em>Programmazione dinamica</em>, <em>Riduzioni polinomiali</em>.</p>\n<p>\u00a0</p>\n<p><span style=\"text-decoration: underline;\">Problemi computazionalmente difficili.</span> La teoria dell'<em>NP</em>-completezza da un punto di vista algoritmico. Affrontare i problemi computazionalmente difficili: ricerca esaustiva intelligente, algoritmi approssimanti, euristiche di ricerca locale.</p>\n<p>Algoritmi che sfruttano l'esistenza di problemi computazionalmente difficili: il protocollo <em>RSA</em> e i fondamenti della crittografia a chiave pubblica. La matematica dietro le scene: Teoria dei numeri.</p>\n<p>\u00a0</p>\n<p><span style=\"text-decoration: underline;\">Algoritmi probabilistici.</span> Il ruolo della <em>randomness</em> negli algoritmi. Quando scegliere a caso semplifica gli algoritmi: Test di primalit\u00e0 di Miller-Rabin. Quando scegliere a caso rende gli algoritmi pi\u00f9 efficienti: <em>Packet Routing</em>. Quando poter scegliere a caso \u00e8 indispensabile: Protocolli interattivi e <em>zero-knowledge proofs</em>. Le tecniche per analizzare gli algoritmi probabilistici.</p>\n<p><em>Hashing</em>, il problema dei dizionari. Hashing universale e hashing perfetto. Funzioni hash crittografiche.</p>\n<p>\u00a0</p>\n<p>\u00a0</p>\n<p><strong>Seconda parte</strong> (2cfu)</p>\n<p>\u00a0</p>\n<p><em>La rapida evoluzione tecnologica degli ultimi decenni ha portato all'ordine del giorno nuove sfide algoritmiche. Nella seconda parte del corso ne studieremo alcune e vedremo come sono state affrontate.</em></p>\n<p>\u00a0</p>\n<p><span style=\"text-decoration: underline;\">Ranking.</span> Le semplici idee algoritmiche che hanno rivoluzionato i motori di ricerca: <em>PageRank</em> e <em>HITS</em>. La matematica dietro le scene: Algebra lineare e catene di Markov.</p>\n<p>\u00a0</p>\n<p><span style=\"text-decoration: underline;\">Algoritmi che imparano.</span> <em>Expert selection</em> e il meta-algoritmo dei <em>multiplicative updates</em>.</p>\n<p>\u00a0</p>\n<p><span style=\"text-decoration: underline;\">Big Data.</span> Lavorare con grandi quantit\u00e0 di dati. Quando <em>polinomiale</em> non \u00e8 abbastanza <em>efficiente</em>: algoritmi sublineari.</p></td></tr></table>",
+  "testiRiferimento": "<table><tr><td><p>[1] S. Dasgupta, C. Papadimitriou, and U. Vazirani. <em>Algorithms</em>. McGraw-Hill, 2006.</p>\n<p>\u00a0</p>\n<p>[2] J. Kleinberg and E. Tardos. <em>Algorithm Design</em>. Addison-Wesley, 2005.</p>\n<p>\u00a0</p>\n<p>\u00a0</p>\n<p>Testi di supporto</p>\n<p>\u00a0</p>\n<p>[3] M. Mitzenmacher and E. Upfal. <em>Probability and Computing</em>. Cambridge University Press, 2005.</p>\n<p>\u00a0</p>\n<p>[4] D. Easley and J. Kleinberg. <em>Networks, Crowds, and Markets.</em> Cambridge University Press, 2010.</p>\n<p>\u00a0</p>\n<p>[5] N. Nisan, T. Roughgarden, E. Tardos, V. Vazirani (eds.). <em>Algorithmic Game Theory.\u00a0</em>Cambridge University Press, 2007</p></td></tr></table>",
+  "ricevimento": "<table><tr><td><p>Durante il periodo di svolgimento del corso (Ottobre 2016 - Gennaio 2017):<br> Gioved\u00ec 14:30 - 16:30 oppure su appuntamento. <br><br> Al di fuori del periodo di svolgimento del corso:<br> Su appuntamento. \u00a0</br></br></br></br></p></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td><p>L'esame consiste in una prova scritta e in un colloquio orale.</p>\n<p>\u00a0</p>\n<p>Durante il corso si effettueranno due prove intermedie sotto forma di <em>homework</em>. Gli studenti che ricevono una valutazione positiva agli homework sono esonerati dalla prova scritta.</p></td></tr></table>"
+}

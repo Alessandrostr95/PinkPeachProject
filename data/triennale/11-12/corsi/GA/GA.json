@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Geometria ed algebra",
+  "docente": [
+    {
+      "first_name": "Maurizio",
+      "second_name": "Letizia"
+    }
+  ],
+  "annoAccademico": "2011-2012",
+  "crediti": "6",
+  "settore": "",
+  "anno": "1",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td></td></tr></table>",
+  "testiRiferimento": "<table><tr><td></td></tr></table>",
+  "ricevimento": "<table><tr><td></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

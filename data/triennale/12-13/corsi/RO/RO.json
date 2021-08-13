@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Ricerca operativa",
+  "docente": [
+    {
+      "first_name": "Andrea",
+      "second_name": "Scozzari"
+    }
+  ],
+  "annoAccademico": "2012-2013",
+  "crediti": "6",
+  "settore": "MAT/09",
+  "anno": "2",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td></td></tr></table>",
+  "testiRiferimento": "<table><tr><td></td></tr></table>",
+  "ricevimento": "<table><tr><td></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

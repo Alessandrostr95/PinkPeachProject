@@ -1,0 +1,26 @@
+{
+  "nomeCorso": "Laboratorio di sistemi distribuiti",
+  "docente": [
+    {
+      "first_name": "Paola",
+      "second_name": "Vocca"
+    },
+    {
+      "first_name": "Paola",
+      "second_name": "Vocca"
+    }
+  ],
+  "annoAccademico": "2004-2005",
+  "crediti": "3",
+  "settore": "",
+  "anno": "1",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>Introduzione al Web Semantico\r\nRichiami di logica\r\nRappresentazione della conoscenza (mappe concettuali e logica)\r\nMotori di ricerca\r\nAnnotazioni\r\nOntologie e I linguaggi per la loro realizzazione (RDF, OWL-DAML+OIL)\r\nServizi Web Semantici\r\nComposizione di servizi\r\nCase Study\r\n</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>Thomas B. Passin \"Explorer's Guide to the Semantic Web\", 1st Edition, Manning ed.\r\nMateriale del corso.\r\nSiti di riferimento:\r\nhttp://www.w3.org/2001/sw\r\nhttp://www.semanticweb.org/</td></tr></table>",
+  "ricevimento": "<table><tr><td>Luned\u00ec dopo lezione in studio </td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

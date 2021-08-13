@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Sicurezza dei sistemi informativi",
+  "docente": [
+    {
+      "first_name": "Franco",
+      "second_name": "Arcieri"
+    }
+  ],
+  "annoAccademico": "2008-2009",
+  "crediti": "9",
+  "settore": "",
+  "anno": "2",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>Prerequisiti:\r\n- elementi di network security\r\n- tecniche di cifra\r\n\r\nProgramma:\r\n- Struttura di un piano per la sicurezza informatica\r\n- Metodologia PDCA\r\n- Vulnerabilit\u00e0, Minacce e analisi del rischio\r\n- Evoluzione dei piani di sicurezza: dai piani di sicurezza informatica del CED ai piani di sicurezza informatica dei sistemi di servizio distribuiti.\r\n- Common Criteria per sicurezza dei dispositivi hw e la sicurezza del sw\r\n- Normativa nazionale e internazionale di riferimento\r\n- La sicurezza nei progetti informatici di grande rilievo istituzionale, esempi di caso.\r\n\r\nEsercitazioni: \u00e8 prevista la redazione incrementale di un piano di sicurezza informatica (oppure di una proposta di certificazione e valutazione Common Criteria) per un'organizzazione (industria o pubblica amministrazione) e l'analisi delle problematiche organizzative, tecniche e relative alla sicurezza che sono state affrontate e risolte con la redazione del piano (o della proposta di certificazione).\r\n</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>null</td></tr></table>",
+  "ricevimento": "<table><tr><td>null</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

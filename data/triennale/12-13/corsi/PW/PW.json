@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Programmazione web",
+  "docente": [
+    {
+      "first_name": "Berta",
+      "second_name": "Buttarazzi"
+    }
+  ],
+  "annoAccademico": "2012-2013",
+  "crediti": "6",
+  "settore": "INF/01",
+  "anno": "3",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Programmazione. Programmazione a oggetti.",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td></td></tr></table>",
+  "testiRiferimento": "<table><tr><td></td></tr></table>",
+  "ricevimento": "<table><tr><td></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

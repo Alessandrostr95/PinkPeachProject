@@ -1,6 +1,15 @@
 {
   "nomeCorso": "Sistemi distribuiti cooperativi",
-  "docente": "Maurizio Talamo, Franco Arcieri",
+  "docente": [
+    {
+      "first_name": "Maurizio",
+      "second_name": "Talamo"
+    },
+    {
+      "first_name": "Franco",
+      "second_name": "Arcieri"
+    }
+  ],
   "annoAccademico": "2020-2021",
   "crediti": "9",
   "settore": "INF/01",
@@ -11,13 +20,13 @@
     {
       "titolo": "",
       "data": "04-03-2021 11:35",
-      "contenuto": "La prima lezione si terr\u00e0 il giorno 9 marzo 2021:\nGli studenti sono pregati di iscriversi tramite microsoft team.Il link per partecipare \u00e8 il seguente:https://teams.microsoft.com/l/meetup-join/19%3ad5956cdd78694839a2c1e3cc31173f82%40thread.tacv2/1614852841109?context=%7b%22Tid%22%3a%2224c5be2a-d764-40c5-9975-82d08ae47d0e%22%2c%22Oid%22%3a%227e318134-23b3-4b1a-b759-bddcfc99194e%22%7d"
+      "contenuto": "<p>La prima lezione si terr\u00e0 il giorno 9 marzo 2021:</p>\n<p>Gli studenti sono pregati di iscriversi tramite microsoft team.<br>Il link per partecipare \u00e8 il seguente:<br>https://teams.microsoft.com/l/meetup-join/19%3ad5956cdd78694839a2c1e3cc31173f82%40thread.tacv2/1614852841109?context=%7b%22Tid%22%3a%2224c5be2a-d764-40c5-9975-82d08ae47d0e%22%2c%22Oid%22%3a%227e318134-23b3-4b1a-b759-bddcfc99194e%22%7d</br></br></p>"
     }
   ],
   "lezioni": [],
   "materiale": [],
-  "programma": "null",
-  "testiRiferimento": "null",
-  "ricevimento": "null",
-  "modalit\u00e0Esame": "null"
+  "programma": "<table><tr><td>null</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>null</td></tr></table>",
+  "ricevimento": "<table><tr><td>null</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
 }

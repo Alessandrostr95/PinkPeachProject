@@ -1,0 +1,32 @@
+{
+  "nomeCorso": "Sistemi di agenti",
+  "docente": [
+    {
+      "first_name": "Andrea",
+      "second_name": "Clementi"
+    },
+    {
+      "first_name": "Luciano",
+      "second_name": "Guala"
+    }
+  ],
+  "annoAccademico": "2018-2019",
+  "crediti": "6",
+  "settore": "INF/01",
+  "anno": "2",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [
+    {
+      "titolo": "RESTRIZIONI DEL CORSO E MODALITA' ESAMI",
+      "data": "07-12-2018 09:39",
+      "contenuto": "<p>Si comunica che il corso per l'anno accademico 2018-19 e' stato disattivato. Gli appelli della sessione invernale di febbraio 2018 sono *esclusivamente* riservati agli studenti immatricolati nell'anno accademico 2017-18 o precedenti (studenti fuoricorso) che abbiano\u00a0 inserito il corso nei loro rispettivi piani di studi.\u00a0</p>"
+    }
+  ],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>null</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>null</td></tr></table>",
+  "ricevimento": "<table><tr><td>null</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

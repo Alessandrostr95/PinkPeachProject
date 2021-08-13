@@ -1,0 +1,358 @@
+{
+  "nomeCorso": "Fondamenti di informatica",
+  "docente": [
+    {
+      "first_name": "Giorgio",
+      "second_name": "Gambosi"
+    },
+    {
+      "first_name": "Miriam",
+      "second_name": "Di Ianni"
+    }
+  ],
+  "annoAccademico": "2014-2015",
+  "crediti": "12",
+  "settore": "INF/01",
+  "anno": "2",
+  "semestre": "1-2",
+  "propedeuticit\u00e0": "Matematica discreta.",
+  "comunicazioni": [
+    {
+      "titolo": "Modalit\u00e0 d'esame, aggiornamento",
+      "data": "19-08-2015 23:11",
+      "contenuto": "<p>In considerazione di richieste pervenute e al fine di facilitare per quanto possibile lo svolgimento dell'esame, \u00e8 consentito sostenere le tre prove dell'esame stesso (due scritti e un orale) nell'arco di (al pi\u00f9) tre appelli di esame consecutivi. Prove scritte superate, in mancanza di superamento della prova orale (e quindi dell'esame) entro i due appelli successivi, dovranno essere quindi sostenute di nuovo. Gli scritti superati nelle prove di esonero saranno considerati come sostenuti nel primo appello estivo.</p><hr/>"
+    },
+    {
+      "titolo": "",
+      "data": "17-07-2015 19:07",
+      "contenuto": "<p>Pubblicato il testo della prova scritta, primo modulo, del 15-7-2015, con soluzioni.</p><hr/>"
+    },
+    {
+      "titolo": "",
+      "data": "17-07-2015 19:06",
+      "contenuto": "<p>Pubblicati i risultati della prova scritta, primo modulo, del 15-7-2015.</p><hr/>"
+    },
+    {
+      "titolo": "",
+      "data": "15-06-2015 20:16",
+      "contenuto": "<p>Pubblicati i risultati della prova scritta, primo modulo, del 15-6-2015.</p><hr/>"
+    },
+    {
+      "titolo": "",
+      "data": "15-06-2015 20:15",
+      "contenuto": "<p>Pubblicato il testo della prova scritta, primo modulo, del 15-6-2015, con soluzioni.</p><hr/>"
+    },
+    {
+      "titolo": "Lezione del 01/06 annullata",
+      "data": "27-05-2015 13:38",
+      "contenuto": "<p>Si avvisano gli studenti che, contrariamente a quanto comunicato a lezione, la lezione di luned\u00ec 1 giugno non avr\u00e0 luogo. Detta lezione \u00e8 rimandata al giorno 3 giugno.</p><hr/>"
+    },
+    {
+      "titolo": "Mdalit\u00e0 d'esame",
+      "data": "20-05-2015 12:04",
+      "contenuto": "<p>1) ORARI. Si informano gli studenti che, salvo diversa comunicazione, le prove scritte dei due moduli avranno sempre luogo nella stessa data: la prova scritta del PRIMO modulo avr\u00e0 inizio alle ore 14 e la prova scritta del SECONDO modulo avr\u00e0 inizio alle ore 10.</p>\n<p>\u00a0</p>\n<p>2) PROVA ORALE. La prova orale avviene congiuntamente per i due moduli. In generale, la prova orale deve aver luogo nello stesso appello in cui si sostiene la prova scritta. Fanno eccezione i due appelli della sessione estiva.</p>\n<p>Pi\u00f9 precisamente:</p>\n<ul>\n<li>scritto nell'appello di giugno: orale nell'appello di giugno o in quello di luglio;</li>\n<li>scritto nell'appello di luglio: orale nell'appello di luglio o in quello di settembre;</li>\n<li>scritto nell'appello di\u00a0settembre: \u00a0orale nell'appello di settembre;</li>\n<li>scritto nell'appello di\u00a0febbraio: \u00a0orale nell'appello di febbraio.</li>\n</ul><hr/>"
+    },
+    {
+      "titolo": "",
+      "data": "15-03-2015 18:29",
+      "contenuto": "<p>Si avvisano gli studenti che, per motivi di salute della docente, la lezione del 16/03/2015 non avr\u00e0 luogo.</p><hr/>"
+    },
+    {
+      "titolo": "",
+      "data": "26-02-2015 15:06",
+      "contenuto": "<p><span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Pubblicato i risultati dell'esonero del 25-2-2015.</span></p><hr/>"
+    },
+    {
+      "titolo": "",
+      "data": "25-02-2015 11:51",
+      "contenuto": "<p><span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Pubblicato il testo dell'esonero del 25-2-2015, con soluzioni.</span></p><hr/>"
+    },
+    {
+      "titolo": "",
+      "data": "11-02-2015 20:05",
+      "contenuto": "<p>Pubblicato i risultati dell'esonero del 10-2-2015.</p><hr/>"
+    },
+    {
+      "titolo": "",
+      "data": "11-02-2015 10:21",
+      "contenuto": "<p>Pubblicato il testo dell'esonero del 10-2-2015, con soluzioni.</p><hr/>"
+    },
+    {
+      "titolo": "",
+      "data": "04-02-2015 13:28",
+      "contenuto": "<p>La prova di esonero del 10-2-2015 \u00e8 posticipata dalle ore 16 alle ore 16.30</p><hr/>"
+    },
+    {
+      "titolo": "Prove di esonero",
+      "data": "23-01-2015 15:43",
+      "contenuto": "<p>Le due prove di esonero relative alla parte di corso svolta nel primo semestre si terranno il 10-2-2015 alle ore 16 e il 25-2-2015 alle ore 10, in aula T5 in entrambi i casi.</p>\n<p>Si prega, per motivi organizzativi, di comunicare al docente via email, entro 2 giorni prima della data dell'esonero, la propria intenzione di sostenere la prova, specificando nome, cognome e numero di matricola.</p>\n<p>\u00a0</p>\n<p>IMPORTANTE. La prova di esonero \u00e8 riservata agli studenti che dovranno sostenere, a partire dalla sessione estiva, l'esame per il corso di FO da 12 cfu: gli studenti che abbiano nel loro piano di studi il precedente insegnamento di FO da 6 cfu devono sostenere l'esame per tale corso nel relativo appello, con il Prof. Intrigila.</p><hr/>"
+    },
+    {
+      "titolo": "",
+      "data": "09-12-2014 11:10",
+      "contenuto": "<p>La lezione di oggi, 9-12, \u00e8 rimandata a data da definire.</p><hr/>"
+    },
+    {
+      "titolo": "",
+      "data": "05-11-2014 18:45",
+      "contenuto": "<p>All'indirizzo\u00a0<a href=\"http://www.idt.mdh.se/kurser/cd5560/14_11/examination/KOMPENDIER/Regular/kompendium_engl.pdf\" title=\"http://www.idt.mdh.se/kurser/cd5560/14_11/examination/KOMPENDIER/Regular/kompendium_engl.pdf\">http://www.idt.mdh.se/kurser/cd5560/14_11/examination/KOMPENDIER/Regular/kompendium_engl.pdf</a> \u00e8 disponibile un utile elenco di problemi e soluzioni sui linguaggi regolari e i diversi modelli ad essi associati (ASF, Grammatiche regolari, ER). In inglese.</p><hr/>"
+    },
+    {
+      "titolo": "",
+      "data": "17-10-2014 11:52",
+      "contenuto": "<p>Pubblicata una breve nota sull'algebra delle espressioni regolari.</p><hr/>"
+    },
+    {
+      "titolo": "",
+      "data": "07-10-2014 19:41",
+      "contenuto": "<p>Messo a disposizione documento pdf con problemi sulle conoscenze richieste per il corso (logica, teoria degli insiemi, relazioni e funzioni, dimostrazioni induttive e per assurdo, insiemi numerabili e non numerabili).</p>"
+    }
+  ],
+  "lezioni": [
+    {
+      "id": "48",
+      "data": "03-06-2015",
+      "contenuto": "<p>Il problema Dominating Set (definizione). Esercitazione.</p>"
+    },
+    {
+      "id": "47",
+      "data": "27-05-2015",
+      "contenuto": "<p>Il problema Partizione: problemi numerici, algoritmi pseudo-polinomiali e NP-completezza in senso debole. Tsp e NP-completezza in senso forte. Restrizioni polinomiali e non: la questione delle costanti.</p>"
+    },
+    {
+      "id": "46",
+      "data": "25-05-2015",
+      "contenuto": "<p>Prove di NP-completezza: problemi di colorabilit\u00e0, Hamiltonoan Circuit (solo enunciato), Hamiltonian Path, Longest Path, TSP</p>"
+    },
+    {
+      "id": "45",
+      "data": "20-05-2015",
+      "contenuto": "<p>Prove di NP-completezza: i problemi Vertex Cover, Independent set, Clique</p>"
+    },
+    {
+      "id": "44",
+      "data": "18-05-2015",
+      "contenuto": "<p>Dimostrazioni di NP-completezza. NP-completezza di 3SAT. Esistenza di problemi NP-intermedi: il teorema di Ladner (solo enunciato)</p>"
+    },
+    {
+      "id": "43",
+      "data": "13-05-2015",
+      "contenuto": "<p>Il teorema di Cook-Levin</p>"
+    },
+    {
+      "id": "42",
+      "data": "11-05-2015",
+      "contenuto": "<p>La classe NP: algoritmi non deterministici e definizione alternativa della classe NP</p>"
+    },
+    {
+      "id": "41",
+      "data": "06-05-2015",
+      "contenuto": "<p>Problemi decisionali complemento. Complessit\u00e0 dell'insieme delle istanze. La classe P.</p>"
+    },
+    {
+      "id": "40",
+      "data": "04-05-2015",
+      "contenuto": "<p>Tipi di problemi. Problemi decisionali. Codifiche, codifiche ragionevoli. Problemi decisionali e linguaggi: decisione dell'insieme delle istanze.</p>"
+    },
+    {
+      "id": "39",
+      "data": "29-04-2015",
+      "contenuto": "<p>Classi complemento. P=coP e congettura NP diverso da coNP. Ciusura di NP e coNP rispetto alla riducibilit\u00e0 polinomiale. Linguaggi coNP-completi.</p>"
+    },
+    {
+      "id": "38",
+      "data": "27-04-2015",
+      "contenuto": "<p>Pricipali classi di complessit\u00e0 e loro relazioni di inclusione debole. Separazione di P e EXPTIME. Congettura \"P diverso da NP\". Riduzioni polinomiali, chiusura di P e linguaggi NP-completi.</p>"
+    },
+    {
+      "id": "37",
+      "data": "22-04-2015",
+      "contenuto": "<p>Esempi di funzioni time-constructible. Teoremi di compressione e di accelerazione</p>"
+    },
+    {
+      "id": "36",
+      "data": "20-04-2015",
+      "contenuto": "<p>Classi di complessit\u00e0 non deterministiche. Relazioni fra classi di complessit\u00e0. Gap theorem e funzioni space- e time-constructible</p>"
+    },
+    {
+      "id": "35",
+      "data": "15-04-2015",
+      "contenuto": "<p>Misure di complessit\u00e0 e loro relazioni. Relazione fra i diversi modelli di calcolo rispetto alle misure di complessit\u00e0 spazio e tempo. Classi di complessit\u00e0 deterministiche</p>"
+    },
+    {
+      "id": "34",
+      "data": "13-04-2015",
+      "contenuto": "<p>Accettabilit\u00e0, decidibilit\u00e0 e riduzioni. Esercitazione: simulazione di una macchina di Turing non deterministica mediante un programma scritto in linguaggio PacalMinimo</p>"
+    },
+    {
+      "id": "33",
+      "data": "08-04-2015",
+      "contenuto": "<p>L'Halting Problem</p>"
+    },
+    {
+      "id": "32",
+      "data": "01-04-2015",
+      "contenuto": "<p>Insiemi numerabili e non numerabili e il Teorema di Cantor</p>"
+    },
+    {
+      "id": "31",
+      "data": "30-03-2015",
+      "contenuto": "<p>La tesi di Church Turing. Il modello di calcolo PascalMinimo e la sua equivalenza con il modello macchina di Turing</p>"
+    },
+    {
+      "id": "30",
+      "data": "25-03-2015",
+      "contenuto": "<p>Linguaggi accettabili, linguaggi decidibili, funzioni calcolabili</p>"
+    },
+    {
+      "id": "29",
+      "data": "23-03-2015",
+      "contenuto": "<p>La Macchina di Turing Universale.</p>"
+    },
+    {
+      "id": "28",
+      "data": "18-03-2015",
+      "contenuto": "<p>Modelli equivalenti di macchine di Turing: macchine deterministiche e non deterministiche, macchine a k nastri e ad un solo nastro, macchine definite su un alfabeto qualsiasi e macchine definite su un alfabeto binario.</p>"
+    },
+    {
+      "id": "27",
+      "data": "11-03-2015",
+      "contenuto": "<p>Stati globali, transizioni, computazioni di una macchina di Turing. Struttura dell'insieme delle quintuple: totalit\u00e0 e non determinismo.</p>"
+    },
+    {
+      "id": "26",
+      "data": "09-03-2015",
+      "contenuto": "<div style=\"color: #000000; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: #ffffff; outline-width: 0px; outline-style: initial; outline-color: initial; margin: 8px;\">\n<p style=\"font-family: verdana, arial, helvetica; font-size: 11px; color: black; margin: 0px;\">Esempio: macchine di Turing\u00a0(ad uno e tre nastri)\u00a0che calcolano la somma di due numeri binari.</p>\n</div>"
+    },
+    {
+      "id": "25",
+      "data": "04-03-2015",
+      "contenuto": "<p>Introduzione alla calcolabilit\u00e0: relazione fra calcolabilit\u00e0 e linguaggio formale. Dal concetto di operazione elementare alla macchina di Turing: una macchina che decide se una parola \u00e8 palindroma.</p>"
+    },
+    {
+      "id": "24",
+      "data": "16-01-2015",
+      "contenuto": "<p>Macchine di Turing non deterministiche. Equivalenza tra MdT e NMdT. Equivalenza tra linguaggi accettati da MdT e linguaggi di tipo 0.</p>"
+    },
+    {
+      "id": "23",
+      "data": "13-01-2015",
+      "contenuto": "<p>Macchine di Turing multitraccia e multinastro. Simulazione mediante MdT ad un nastro e una traccia.</p>"
+    },
+    {
+      "id": "22",
+      "data": "10-01-2015",
+      "contenuto": "<p>Definizione di macchina di Turing. Esempi di MdT. Accettazione e decisione su MdT.</p>"
+    },
+    {
+      "id": "21",
+      "data": "19-12-2014",
+      "contenuto": "<p>Analisi sintattica. Parsing a discesa ricorsiva (cenni). L'algoritmo Cocke- Yunger-Kasami.</p>"
+    },
+    {
+      "id": "20",
+      "data": "16-12-2014",
+      "contenuto": "<p>Analisi sintattica. Grammatiche e linguaggi ambigui. XML come esempio di formalismo basato su grammatiche CF</p>"
+    },
+    {
+      "id": "19",
+      "data": "12-12-2014",
+      "contenuto": "<p>Forma normale di Greibach. Equivalenza tra grammatiche CF e automi a pila non deterministici. Esistenza di linguaggi accettati da NPDA e non accettati da DPDA.</p>"
+    },
+    {
+      "id": "18",
+      "data": "05-12-2014",
+      "contenuto": "<p>Pumping lemma per i linguaggi CF. Propriet\u00e0 di chiusura dei linguaggi CF.</p>"
+    },
+    {
+      "id": "17",
+      "data": "02-12-2014",
+      "contenuto": "<p>Automi a pila (PDA) deterministici e non deterministici. Accettazione per pila vuota e per stato finale: equivalenza.</p>"
+    },
+    {
+      "id": "16",
+      "data": "28-11-2014",
+      "contenuto": "<p>Grammatiche CF in forma ridotta. Eliminazione di produzioni unitarie e di simboli inutili. Forma normale di Chomsky.</p>"
+    },
+    {
+      "id": "15",
+      "data": "25-11-2014",
+      "contenuto": "<p>Esempio di minimizzazione di un ASF. Linguaggi context-free. Alberi sintattici. Grammatiche in forma ridotta.</p>"
+    },
+    {
+      "id": "14",
+      "data": "21-11-2014",
+      "contenuto": "<p>Minimizzazione di automi a stati finiti. Il teorema di Myhill-Nerode.</p>"
+    },
+    {
+      "id": "13",
+      "data": "18-11-2014",
+      "contenuto": "<p>Esempio di derivazione di ER da ASF. Predicati decidibili su linguaggi regolari.</p>"
+    },
+    {
+      "id": "12",
+      "data": "14-11-2014",
+      "contenuto": "<p>Esempi di uso del pumping lemma per linguaggi regolari. Equivalenza tra ASF ed espressioni regolari.</p>"
+    },
+    {
+      "id": "11",
+      "data": "11-11-2014",
+      "contenuto": "<p>Pumping lemma per linguaggi regolari. Propriet\u00e0 di chiusura dei linguaggi regolari</p>"
+    },
+    {
+      "id": "10",
+      "data": "07-11-2014",
+      "contenuto": "<p>Esempi di riduzione ASFND-ASFD. Equivalenza tra ASF e grammatiche di tipo 3.</p>"
+    },
+    {
+      "id": "9",
+      "data": "04-11-2014",
+      "contenuto": "<p>Esempi di ASFD e ASFND. Equivalenza tra ASFD e ASFND.</p>"
+    },
+    {
+      "id": "8",
+      "data": "31-10-2014",
+      "contenuto": "<p>Esempi di ASFD. Automi a stati finiti non deterministici. Configurazioni di un ASFND. Stringhe accettate da un ASFND. Linguaggi accettati da ASFND.</p>"
+    },
+    {
+      "id": "7",
+      "data": "28-10-2014",
+      "contenuto": "<p>Automi a stati finiti deterministici. Stato interno. Configurazioni di un ASFD. Computazioni di un ASFD.\u00a0</p>"
+    },
+    {
+      "id": "6",
+      "data": "24-10-2014",
+      "contenuto": "<p>\u00a0</p>\n<p class=\"p1\">Gerarchia di Chomsky. Automi: definizioni generali. Stato interno, configurazioni di un automa, funzione di transizione.</p>"
+    },
+    {
+      "id": "5",
+      "data": "21-10-2014",
+      "contenuto": "<p>\u00a0</p>\n<p class=\"p1\">Grammatiche e linguaggi. Simboli terminali e non terminali. Produzioni. Derivazioni. Tipi di grammatiche.</p>"
+    },
+    {
+      "id": "4",
+      "data": "17-10-2014",
+      "contenuto": "<p>Espressioni regolari. Esempi ed esercizi.</p>"
+    },
+    {
+      "id": "3",
+      "data": "14-10-2014",
+      "contenuto": "<p>Linguaggi formali. Operazioni sui linguaggi formali (unione, intersezione, complemento, concatenazione, potenza, stella di Kleene). Espressioni regolari.</p>"
+    },
+    {
+      "id": "2",
+      "data": "10-10-2014",
+      "contenuto": "<p>Richiami di teoria degli insiemi. Dimostrazioni per induzione. Insiemi infiniti, numerabili e non numerabili. Diagonalizzazione. Definizione di linguaggio formale.</p>"
+    },
+    {
+      "id": "1",
+      "data": "07-10-2014",
+      "contenuto": "<p>Introduzione al corso. Richiami di calcolo proposizionale.</p>"
+    }
+  ],
+  "materiale": [],
+  "programma": "<table><tr><td><p>Il programma enunciato di seguito \u00e8 solo approssimativo. Argomenti ulteriori potrebbero essere inseriti durante il corso e/o, corrispondentemente, argomenti di minor rilevanza, elencati sotto, potrebbero essere omessi.</p>\n<p>\u00a0</p>\n<p><strong>Modulo 1<br/></strong></p>\n<p>- Fondamenti matematici: logica, insiemi, relazioni, funzioni, strutture algebriche fondamentali</p>\n<p>- Insiemi finiti e infiniti; numerabilit\u00e0 e non numerabilit\u00e0 di insiemi</p>\n<p>- Caratteristiche elementari dei linguaggi</p>\n<p>- Grammatiche di Chomsky e loro gerarchia</p>\n<p>- Generazione ed accettazione di linguaggi</p>\n<p>- Riconoscimento di linguaggi: automi</p>\n<p>- Automi a stati finiti determinitici e non deterministici; equivalenza tra essi</p>\n<p>- Relazioni tra automi a stati finiti e grammatiche di tipo 3 (regolari)</p>\n<p>- Pumping lemma per i linguaggi regolari</p>\n<p>- Propriet\u00e0 di chiusura dei linguaggi regolari</p>\n<p>- Predicati decidibili sui linguaggi regolari</p>\n<p>- Espressioni regolari e loro equivalenza con gli automi a stati finiti e con le grammatiche regolari</p>\n<p>- Minimizzazione di automi a stati finiti</p>\n<p>- Linguaggi context free</p>\n<p>- Grammatiche di tipo 2: forme ridotte e forme normali (Chomsky, Greibach)</p>\n<p>- Pumping lemma per i linguaggi context free</p>\n<p>- Automi a pila e linguaggi context free</p>\n<p>- Automi a pila deterministici\u00a0</p>\n<p>- Ambiguit\u00e0</p>\n<p>- Analisi lessicale e sintattica</p>\n<p>- Introduzione alle Macchine di Turing</p>\n<p>- Linguaggi di tipo 1 e automi lineari</p>\n<p>- Linguaggi di tipo 0 (ricorsivamente enumerabili) e Macchine di Turing</p>\n<p>\u00a0</p>\n<p><strong>Modulo 2</strong></p>\n<p><strong>Parte 1, calcolabilit\u00e0:</strong></p>\n<p>- Ancora sulle Macchine di Turing: trasduttori e riconoscitori, Macchine ad un nastro e a k nastri, Macchine\u00a0 deterministiche e non deterministiche. Macchina di Turing universale. <br>- Linguaggi e funzioni. Linguaggi e linguaggi complemento. Accettabilit\u00e0 e decidibilit\u00e0 di linguaggi. Calcolabilit\u00e0 di funzioni. La tesi di Church-Turing e modello di calcolo equivalenti alla macchina di Turing.</br></p>\n<p>- Cardinalit\u00e0 di insiemi. Insiemi numerabili e non numerabili. Diagonalizzazione.<br> - Linguaggi non decidibili.\u00a0</br></p>\n<p>- Riducibilit\u00e0 tra linguaggi</p>\n<p><strong>Parte 2, complessit\u00e0:</strong></p>\n<p>- Misure di complessit\u00e0: DTIME, DSPACE, NTIME, NSPACE. <br>- Classi di linguaggi. Gap theorem e funzioni time-constructible.\u00a0Teoremi di compressione e di accelerazione.\u00a0Definizione delle classi di complessit\u00e0 spaziale e temporale: P, NP, PSPACE, NPSPACE, EXP, coNP. Inclusione, inclusione propria, coincidenza. Completezza.</br></p>\n<p>- Problemi e codifiche. Problemi decisionali e loro complemento. <br>- La classe P. Riducibilit\u00e0 polinomiale e chiusura di P rispetto alla riducibilit\u00e0 polinomiale. Problemi in P: 2-SAT, 2-COLORABILITA'. Funzioni in FP: trasformazione di una funzione booleana in forma congiuntiva normale. <br>- La classe NP. Linguaggi NP-completi e Teorema di Cook. Chiusura rispetto alla riduzione polinomiale. Esempi di dimostrazioni di NP-completezza: 3-SAT, Vertex Cover, 3-Colorability, Colorability, Independent Set, Clique, Hamiltonian Circuit/Path, Longest Path, Commesso Viaggiatore. Problemi NP-intermedi: il teorema di Ladner.</br></br></p>\n<p>- Algoritmi pseudo-polinomiali, problemi numerici e NP-completezza in senso forte; il problema PARTIZIONE. <br><br/></br></p></td></tr></table>",
+  "testiRiferimento": "<table><tr><td><p>G. Ausiello, F. D'Amore, G. Gambosi, L. Laura \"Linguaggi, Modelli, Complessit\u00e0\" nuova edizione. Franco Angeli, 2014. ISBN 978-88-917-0553-2.</p>\n<p>\u00a0</p>\n<p>Materiale a cura del docente.</p>\n<p>\u00a0</p>\n<p>Per il secondo modulo: materiale didattico a cura del docente.</p></td></tr></table>",
+  "ricevimento": "<table><tr><td><p>Al termine delle lezioni. E' possibile inoltre richiedere un appuntamento via mail.</p></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td><p>Scritto e orale. E' prevista una prova di esonero (opzionale) scritto relativo alla prima parte del corso. Per l'iscrizione all'esame \u00e8 richiesta la prenotazione sul sito delphi.uniroma2.it</p></td></tr></table>"
+}

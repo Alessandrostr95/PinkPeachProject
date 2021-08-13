@@ -1,0 +1,28 @@
+{
+  "nomeCorso": "Elementi di economia nel progetto di sistemi",
+  "docente": [
+    {
+      "first_name": "Guido",
+      "second_name": "Marinelli"
+    }
+  ],
+  "annoAccademico": "2015-2016",
+  "crediti": "6",
+  "settore": "INF/01",
+  "anno": "1",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [
+    {
+      "id": "0",
+      "data": "null",
+      "contenuto": "<p>Lunedi 11:30-13:30</p>\n<p>Giovedi 11:30-13:30</p>"
+    }
+  ],
+  "materiale": [],
+  "programma": "<table><tr><td><p></p>\n<p class=\"MsoNormal\" style=\"mso-pagination: none; mso-layout-grid-align: none; text-autospace: none;\"><em><span style=\"font-size: 11.0pt; font-family: Helvetica; mso-bidi-font-family: Helvetica;\">Sistemi di servizi in rete mono-organizzazione, sistemi di servizi multi-organizzazione e community. I sistemi cooperativi. Processo di decision-making. Catena del valore.</span></em></p>\n<p>\u00a0</p>\n<p class=\"MsoNormal\" style=\"text-align: justify; text-justify: inter-ideograph; mso-pagination: none; mso-layout-grid-align: none; text-autospace: none;\"><em><span style=\"font-size: 11.0pt; font-family: Helvetica; mso-bidi-font-family: Helvetica;\">Analisi di fattibilit\u00e0 tecnica; analisi di fattibilit\u00e0 economica; analisi di fattibilit\u00e0 normativa e organizzativa. Analisi costi-benefici per un sistema di servizi. Flusso di cassa, Valore Attuale Netto, Tasso Interno di Rendimento, Tempo di Ritorno Attualizzato. Il valore dell'informazione. Il valore della sicurezza e della privacy. Il costo dei contenziosi. Il valore del monitoraggio, controllo e certificazione dei processi e delle regole di cooperazione definite nel sistema di servizi. Rilevazione di allarmi in un sistema cooperativo. Misure della Qualit\u00e0 del Servizio (QoS) e pianificazione dell'evoluzione di un sistema cooperativo.</span></em></p>\n<p>\u00a0</p>\n<p class=\"MsoNormal\" style=\"text-align: justify; text-justify: inter-ideograph; mso-pagination: none; mso-layout-grid-align: none; text-autospace: none;\"><em><span style=\"font-size: 11.0pt; font-family: Helvetica; mso-bidi-font-family: Helvetica;\">Dall\u2019analisi di fattibilit\u00e0 alla progettazione di massima e al progetto di dettaglio.</span></em></p>\n<p>\u00a0</p>\n<p class=\"MsoNormal\" style=\"text-align: justify; text-justify: inter-ideograph; mso-pagination: none; mso-layout-grid-align: none; text-autospace: none;\"><em><span style=\"font-size: 11.0pt; font-family: Helvetica; mso-bidi-font-family: Helvetica;\">Le procedure di approvvigionamento. Capitolato tecnico servizi ICT. \u00a0Dlgs 163/2006 (cenni).</span></em></p>\n<p><em><span style=\"font-size: 11.0pt; font-family: Helvetica; mso-fareast-font-family: '\uff2d\uff33 \u660e\u671d'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: Helvetica; mso-ansi-language: IT; mso-fareast-language: IT; mso-bidi-language: AR-SA;\">Gli aspetti contrattuali per un sistema di servizi ICT (cenni).</span></em></p></td></tr></table>",
+  "testiRiferimento": "<table><tr><td><ul>\n<li>Lucidi del docente</li>\n<li><span style=\"font-family: Helvetica; mso-bidi-font-family: Helvetica; mso-bidi-font-weight: bold;\">Nino Di Franco / Francesca A. Iacobone: Pragmatica dell\u2019analisi costi-benefici: ISBN 978-88-548-2360-0</span></li>\n<li><span style=\"font-family: Helvetica; mso-bidi-font-family: Helvetica; mso-bidi-font-weight: bold;\">Giuseppe Pennisi \u2013 Pasquale Lucio Scandizzo: Valutare l\u2019incertezza: L\u2019ANALISI COSTI-BENEFICI NEL 21\u00b0 SECOLO: ISBN-13 9788834833087</span></li>\n</ul>\n<p>\u00a0</p></td></tr></table>",
+  "ricevimento": "<table><tr><td><p>Chiamare 335 5237496</p>\n<p>(Giorno di ricevimento: giovedi pomeriggio)</p></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td><p></p>\n<p class=\"MsoNormal\"><span style=\"font-family: Helvetica; mso-bidi-font-family: Helvetica;\">Compilazione di una tesina ed esame orale</span></p>\n<p>\u00a0</p></td></tr></table>"
+}

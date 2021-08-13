@@ -1,0 +1,338 @@
+{
+  "nomeCorso": "Fondamenti di informatica",
+  "docente": [
+    {
+      "first_name": "Giorgio",
+      "second_name": "Gambosi"
+    },
+    {
+      "first_name": "Miriam",
+      "second_name": "Di Ianni"
+    }
+  ],
+  "annoAccademico": "2015-2016",
+  "crediti": "12",
+  "settore": "INF/01",
+  "anno": "2",
+  "semestre": "1-2",
+  "propedeuticit\u00e0": "Matematica discreta.",
+  "comunicazioni": [
+    {
+      "titolo": "",
+      "data": "14-09-2016 12:41",
+      "contenuto": "<p><span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Pubblicati i risultati della prova scritta del primo modulo e dell'appello straordinario per l'esame a 6 cfu, 12-9-2016</span></p><hr/>"
+    },
+    {
+      "titolo": "",
+      "data": "12-09-2016 14:34",
+      "contenuto": "<p>La prova orale del primo modulo del corso, per la sessione autunnale, avr\u00e0 luogo il 21-9-2016 a partire dalle ore 14, presso lo studio del Prof. Gambosi.</p><hr/>"
+    },
+    {
+      "titolo": "Prova scritta di esame del 12-09-2016",
+      "data": "07-09-2016 17:52",
+      "contenuto": "<h3 style=\"font-family: Verdana, arial, san-serif; color: #000000; margin: 0px;\"><span style=\"font-weight: normal;\">Le prove scritte dei due moduli di esame per l'appello della sessione autunnale del 12-9-2016\u00a0</span><span style=\"font-weight: normal;\">avranno luogo\u00a0</span><span style=\"font-weight: normal;\">secondo il seguente orario:</span></h3>\n<h3 style=\"font-family: Verdana, arial, san-serif; color: #000000; margin: 0px;\"><span style=\"font-weight: normal;\">- ore 10:00 per il secondo modulo </span></h3>\n<h3 style=\"font-family: Verdana, arial, san-serif; color: #000000; margin: 0px;\"><span style=\"font-weight: normal;\">- ore 14:00 per il primo modulo</span></h3>\n<p>\u00a0</p><hr/>"
+    },
+    {
+      "titolo": "",
+      "data": "19-07-2016 13:31",
+      "contenuto": "<p><span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Pubblicati i risultati della prova scritta del primo modulo e dell'appello straordinario per l'esame a 6 cfu, 18-7-2016</span></p><hr/>"
+    },
+    {
+      "titolo": "",
+      "data": "19-07-2016 13:31",
+      "contenuto": "<p><span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Inserito testo prova di esame del 18-7-2016, con soluzioni</span></p><hr/>"
+    },
+    {
+      "titolo": "",
+      "data": "07-07-2016 16:38",
+      "contenuto": "<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Le prove scritte dei due moduli di esame per il secondo appello della sessione estiva avranno luogo, come previsto, il 18-7-2016 secondo il seguente orario:</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- ore 9.00 per il primo modulo</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- ore 11.30 per il secondo modulo</p><hr/>"
+    },
+    {
+      "titolo": "",
+      "data": "05-07-2016 23:25",
+      "contenuto": "<p>Pubblicati i risultati della prova scritta del primo modulo e dell'appello straordinario per l'esame a 6 cfu, 4-7-2016</p><hr/>"
+    },
+    {
+      "titolo": "",
+      "data": "04-07-2016 19:16",
+      "contenuto": "<p>Inserito testo prova di esame del 4-7-2016, con correzione di una delle soluzioni</p><hr/>"
+    },
+    {
+      "titolo": "",
+      "data": "18-05-2016 15:41",
+      "contenuto": "<p>Si avvisano gli studenti che la lezione di Fondamenti di Informatica di domani, 19 maggio, \u00e8 rinviata a venerd\u00ec 27 maggio, dalle 9 alle 11.</p><hr/>"
+    },
+    {
+      "titolo": "",
+      "data": "12-03-2016 15:09",
+      "contenuto": "<p>Inserito elenco risultati esonero 1 modulo del 4-3-2106</p><hr/>"
+    },
+    {
+      "titolo": "",
+      "data": "04-03-2016 12:51",
+      "contenuto": "<p><span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Il testo, con soluzioni, dell'esonero del 4-3-2016 \u00e8 stato inserito nella cartella condivisa relativa alle prove precedenti</span></p><hr/>"
+    },
+    {
+      "titolo": "",
+      "data": "23-02-2016 15:01",
+      "contenuto": "<p>In relazione alle nuove modalit\u00e0 di esame, per quanto riguarda il 1 modulo del corso, si chiarisce che:</p>\n<p>- la nuova disciplina si applica a partire dal primo appello della sessione estiva. A partire da esso gli studenti sosterrano la prova scritta e (se superato lo scritto) un colloquio orale nello stesso appello.</p>\n<p>- nel transitorio, gli studenti che hanno gi\u00e0 superato la prova scritta in precedenza e coloro che la supereranno nell'esonero del 4-3-2016 dovranno sostenere il relativo colloquio in corrispondenza alla prova orale prevista per il primo appello della sessione estiva (giugno). Si pregano gli studenti interessati ad inviare comunicazione via mail al docente, nei giorni precedenti l'appello stesso, dell'intenzione di sostenere l'orale.</p>\n<p>- nulla cambia per gli studenti che devono sostenere l'esame del vecchio corso di Fondamenti di Informatica (6 cfu), per il quale \u00e8 gi\u00e0 prevista una prova scritta (il 4-3, in corrispondenza alla prova scritta di esonero per il corso da 12 cfu) e un colloquio orale (il 7-3).</p><hr/>"
+    },
+    {
+      "titolo": "",
+      "data": "22-02-2016 12:48",
+      "contenuto": "<p><span style=\"color: #222222; font-family: arial, sans-serif; font-size: 13px;\">Verificata la difficolt\u00e0 di molti studenti a rispettare i vincoli relativi alla vicinanza temporale nel sostenere i due moduli, i docenti hanno convenuto sull'opportunit\u00e0 di permettere di sostenere le prove di esame relative ai due moduli indipendentemente secondo le modalit\u00e0 descritte nella sezione apposita.\u00a0</span></p><hr/>"
+    },
+    {
+      "titolo": "",
+      "data": "18-02-2016 13:03",
+      "contenuto": "<p><span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Inserito elenco risultati prova scritta 1 modulo 17-2-2106</span></p><hr/>"
+    },
+    {
+      "titolo": "",
+      "data": "18-02-2016 11:44",
+      "contenuto": "<p>IMPORTANTE. Su richiesta di alcuni studenti, la prova scritta parziale relativa al primo modulo del corso (e la contemporanea prova scritta relativa all'appello straordinario del corso di Fondamenti di Informatica da 6 CFU) \u00e8 rimandata ulteriormente al 4-3-2016, alle ore 10, in aula T4. La prova orale per il corso di Fondamenti di Informatica da 6 CFU avr\u00e0 luogo il 7-3-2016 alle ore 10, nello studio del Prof. Gambosi.</p><hr/>"
+    },
+    {
+      "titolo": "",
+      "data": "17-02-2016 12:10",
+      "contenuto": "<p>IMPORTANTE. La prova scritta parziale relativa al primo modulo del corso (e la contemporanea prova scritta relativa all'appello straordinario del corso di Fondamenti di Informatica da 6 CFU) \u00e8 rimandata dal 26-2-2016 al 2-3-2016, alle ore 10, in aula T4. La prova orale per il corso di Fondamenti di Informatica da 6 CFU avr\u00e0 luogo il 4-3-2016 alle ore 10, nello studio del Prof. Gambosi.</p><hr/>"
+    },
+    {
+      "titolo": "",
+      "data": "12-02-2016 21:59",
+      "contenuto": "<p>Il testo, con soluzioni, dell'esonero del 9-2-2016 \u00e8 stato inserito nella cartella condivisa relativa alle prove precedenti</p><hr/>"
+    },
+    {
+      "titolo": "",
+      "data": "12-02-2016 21:54",
+      "contenuto": "<p>Inserito elenco risultati esonero 9-2-2106</p><hr/>"
+    },
+    {
+      "titolo": "",
+      "data": "12-02-2016 13:37",
+      "contenuto": "<p>Si comunica che \u00e8 stato attivato un appello straordinario di esame per il corso di Fondamenti di Informatica (6 cfu). Le date previste sono il 26/2 h 10.00 aula T7 (in corrispondenza al secondo parziale del corso da 12 cfu) per lo scritto e il 29/2 h 10.00 nell'ufficio del Prof. Gambosi per l'orale. Resta inteso che gli studenti che hanno partecipato all'esonero tenuto il 9/2 possono, se vogliono, mantenere il risultato di tale prova e sostenere la sola prova orale, prenotandosi comunque per l'esame su Delphi.</p><hr/>"
+    },
+    {
+      "titolo": "",
+      "data": "21-01-2016 10:46",
+      "contenuto": "<p><span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Le prove parziali (scritte) per la prima parte del corso avranno luogo il 9-2-2016 e il 26-2-2016 in aula T7, alle ore 10. Si pregano gli interessati a sostenerle di informare il docente via mail entro il giorno precedente alla data della prova, all'indirizzo giorgio.gambosi@uniroma2.it</span></p><hr/>"
+    },
+    {
+      "titolo": "",
+      "data": "26-11-2015 08:37",
+      "contenuto": "<p><span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Inserita nella relativa cartella raccolta di quiz sui linguaggi CF.</span></p><hr/>"
+    },
+    {
+      "titolo": "",
+      "data": "10-11-2015 10:45",
+      "contenuto": "<p>Inserito nella cartella condivisa documento su algebra delle espressioni regolari.</p><hr/>"
+    },
+    {
+      "titolo": "",
+      "data": "10-11-2015 10:45",
+      "contenuto": "<p>Inserito nella cartella condivisa documento dimostrazioni.</p><hr/>"
+    },
+    {
+      "titolo": "",
+      "data": "09-11-2015 20:03",
+      "contenuto": "<p>Inserito nella cartella condivisa documento su ASF con epsilon-produzioni.</p><hr/>"
+    },
+    {
+      "titolo": "",
+      "data": "09-11-2015 20:01",
+      "contenuto": "<p>\u00a0</p>\n<p class=\"p1\">\u00a0</p>\n<p class=\"p1\"><span class=\"s1\">Creata cartella condivisa per altro materiale, raggiungibile a questo <a href=\"https://drive.google.com/folderview?id=0B8g9dZW9PT-5TkthUkZLcnBQNDA&amp;usp=sharing\" title=\"link\">link</a>.<br/></span></p><hr/>"
+    },
+    {
+      "titolo": "",
+      "data": "09-11-2015 19:49",
+      "contenuto": "<p>Inserita nella relativa cartella raccolta di quiz sugi automi a stati finiti.</p><hr/>"
+    },
+    {
+      "titolo": "",
+      "data": "09-11-2015 19:49",
+      "contenuto": "<p>Inserita nella relativa cartella raccolta di quiz sui linguaggi regolari.</p><hr/>"
+    },
+    {
+      "titolo": "",
+      "data": "20-10-2015 18:50",
+      "contenuto": "<p>Inserita nella relativa cartella raccolta di quiz sui fondamenti matematici del corso.</p><hr/>"
+    },
+    {
+      "titolo": "",
+      "data": "20-10-2015 18:48",
+      "contenuto": "<p>Creata cartella condivisa per raccolte di esercizi, raggiungibile a questo <a href=\"https://drive.google.com/folderview?id=0B8g9dZW9PT-5cEFIV09POEk2Z0U&amp;usp=sharing\" target=\"_blank\">link</a>.</p><hr/>"
+    },
+    {
+      "titolo": "",
+      "data": "20-10-2015 18:45",
+      "contenuto": "<p>I testi delle prove scritte relative allo scorso a.a., con le relative soluzioni, sono disponibili nella cartella condivisa raggiungibile attraverso questo <a href=\"https://drive.google.com/folderview?id=0B8g9dZW9PT-5MVJFRUZFQnFoNFU&amp;usp=sharing\" target=\"_blank\">link</a>.</p>"
+    }
+  ],
+  "lezioni": [
+    {
+      "id": "31",
+      "data": "06-06-2016",
+      "contenuto": "<p>Modulo 2. Esercitazione</p>"
+    },
+    {
+      "id": "30",
+      "data": "30-05-2016",
+      "contenuto": "<p>Modulo 2. Esercitazione sulle prove di NP-completezza: Hamiltonian Path, Longest Path, Colorability e k-Colorability (k &gt; 3), problemi di soddisfacibilit\u00e0</p>"
+    },
+    {
+      "id": "29",
+      "data": "27-05-2016",
+      "contenuto": "<p>Modulo 2. Problemi NP-intermedi: enunciato del teorema di Lader. Il problema Partizione. Problemi numerici, algoritmi pseudo-polinomiali e NP-completezza in senso forte o debole. NP-completezza in senso forte del problema Commesso Viaggiatore (TSP)</p>"
+    },
+    {
+      "id": "28",
+      "data": "26-05-2016",
+      "contenuto": "<p>Modulo 2. Prove di NP-completezza: Insieme Indipendente, Clique, Dominating Set, 3-Colorabilit\u00e0</p>"
+    },
+    {
+      "id": "27",
+      "data": "23-05-2016",
+      "contenuto": "<p>Modulo 2. Prove di NP-completezza: i problemi 3SAT e Vertex Cover.</p>"
+    },
+    {
+      "id": "26",
+      "data": "16-05-2016",
+      "contenuto": "<p>Il teorema di Cook-Levin.</p>"
+    },
+    {
+      "id": "25",
+      "data": "12-05-2016",
+      "contenuto": "<p>Modulo 2. La classe NP: esempi di problemi in NP e definizione alternativa di NP.</p>"
+    },
+    {
+      "id": "24",
+      "data": "09-05-2016",
+      "contenuto": "<p>Modulo 2. Complessit\u00e0 dei problemi: il linguaggio delle istanze. Problemi complemento. La classe P: esempi (2SAT e 2COL), riduzione polinomiale da 2COL a 2SAT.</p>"
+    },
+    {
+      "id": "23",
+      "data": "05-05-2016",
+      "contenuto": "<p>Modulo 2. Linguaggi e problemi, tipi di problemi (di ricerca, ottimizzazione, enumerazione, decisione), problemi decisionali e linguaggi, problemi e codifiche</p>"
+    },
+    {
+      "id": "22",
+      "data": "02-05-2016",
+      "contenuto": "<p>Modulo 2. \u00a0Riducibilit\u00e0 polinomiale e classe dei linguaggi NP-completi. La classe coNP, la congettura NP diverso da coNP, linguaggi coNP-completi.</p>"
+    },
+    {
+      "id": "21",
+      "data": "28-04-2016",
+      "contenuto": "<p>Modulo 2. PSPACE=NPSPACE. Chiusura di una classe rispetto ad una riduzione, completezza di un liguaggio per una classe rispetto ad una riduzione.</p>"
+    },
+    {
+      "id": "20",
+      "data": "21-04-2016",
+      "contenuto": "<p>Modulo 2. Classi di complessit\u00e0 complemento. Le classi P, NP, PSPACE, NPSPACE, EXPTIME, NEXPTIME e loro relazioni. Inclusione stretta di P in EXPTIME</p>"
+    },
+    {
+      "id": "19",
+      "data": "18-04-2016",
+      "contenuto": "<p>I teoremi di compressione e di accelerazione.</p>"
+    },
+    {
+      "id": "18",
+      "data": "14-04-2016",
+      "contenuto": "<p>Ancora sulle relazioni fra classi di complessit\u00e0. Funzioni time- e space constructible: definizioni ed esempi (polinomio, esponenziale)</p>"
+    },
+    {
+      "id": "17",
+      "data": "11-04-2016",
+      "contenuto": "<p>Misure di complessit\u00e0: assiomi di Blum, dtime, dspace, ntime, nspace, relazioni. Correlazione polinomiale fra i modelli di calcolo. Classi di complessit\u00e0 di linguaggi: DTIME, DSPACE, NTIME, NSPACE e loro relazioni.</p>"
+    },
+    {
+      "id": "16",
+      "data": "07-04-2016",
+      "contenuto": "<p>Non numerabilit\u00e0 dell'insieme dei linguaggi e numerabilit\u00e0 dell'insieme delle macchine di Turing. Halting Problem: accettabilit\u00e0 e non decidibilit\u00e0. Riduzioni fra linguaggi.</p>"
+    },
+    {
+      "id": "15",
+      "data": "04-04-2016",
+      "contenuto": "<p>Modulo 2. Numerabilit\u00e0 dell'unione di una infinit\u00e0 numerabile di insiemi numerabili. Insiemi non numerabili: la tecnica di diagonalizzazione di Cantor e la cardinalit\u00e0 del continuo.</p>"
+    },
+    {
+      "id": "14",
+      "data": "31-03-2016",
+      "contenuto": "<p>Modulo 2. Esercitazione: simulazione della macchina di Turing Universale e di una macchina non deterministica mediante un programma in linguaggio PascalMinimo. Cardinalit\u00e0 di insiemi: insiemi numerabili, N, Z, Q, sottoinsiemi infiniti di insiemi numerabili, unione e prodotto cartesiano di insiemi numerabili.</p>\n<p>\u00a0</p>"
+    },
+    {
+      "id": "13",
+      "data": "21-03-2016",
+      "contenuto": "<p>Modulo 2. Relazioni fra accettabilit\u00e0/decidibilit\u00e0 di linguaggi e calcolabilit\u00e0 di funzioni. La tesi di Churcg-Turing e il liguaggio PascalMinimo.</p>"
+    },
+    {
+      "id": "12",
+      "data": "17-03-2016",
+      "contenuto": "<p>Modulo 2. La macchina di Turing Universale: implementazione. Linguaggi, linguaggi complemento, linguaggi accettabili, linguaggi decidibili. Funzioni (parziali e totali) calcolabili.</p>"
+    },
+    {
+      "id": "11",
+      "data": "14-03-2016",
+      "contenuto": "<p>Modulo 2. Equivalenza fra non determinismo e determinismo. Introduzione alla macchina di Turing Universale.</p>"
+    },
+    {
+      "id": "10",
+      "data": "10-03-2016",
+      "contenuto": "<p>Modulo 2. Equivalenza fra macchine di Turing che operano su un alfabeto generico e macchine di Turing che operano su un alfabeto binario. Stato globale di una macchina di Turing. Computazione di una macchina di Turing. Riconoscitori e trasduttori. Completezza dell'insieme delle quintuple. Macchine deterministiche e non deterministiche.</p>"
+    },
+    {
+      "id": "9",
+      "data": "07-03-2016",
+      "contenuto": "<p>Modulo 2. Equivalenza fra macchine di Turing a k nastri e macchine di Turing ad un nastro.</p>"
+    },
+    {
+      "id": "8",
+      "data": "03-03-2016",
+      "contenuto": "<p>Modulo 2. Macchina di Turing (ad un nastro) che calcola la somma di due numeri. Introduzione alle macchine a pi\u00f9 nastri e macchina a 3 nastri che calcola la somma di due numeri.</p>"
+    },
+    {
+      "id": "7",
+      "data": "29-02-2016",
+      "contenuto": "<p>Modulo 2. Cenni storici alla calcolabilit\u00e0. Problemi e algoritmi. Il concetto di operazione elementare. Introduzione alla Macchina di Turing: macchina che verifica se una parola \u00e8 palindroma.</p>"
+    },
+    {
+      "id": "6",
+      "data": "05-11-2015",
+      "contenuto": "<p>Esempi di ASF. Automi a stati finiti non deterministici.</p>"
+    },
+    {
+      "id": "5",
+      "data": "03-11-2015",
+      "contenuto": "<p>Automi a stati finiti.\u00a0</p>"
+    },
+    {
+      "id": "4",
+      "data": "29-10-2015",
+      "contenuto": "<p>Riconoscimento di linguaggi e automi.</p>"
+    },
+    {
+      "id": "3",
+      "data": "27-10-2015",
+      "contenuto": "<p>\u00a0</p>\n<p class=\"p1\"><span class=\"s1\">Gerarchia di Chomsky. epsilon-produzioni.</span></p>"
+    },
+    {
+      "id": "2",
+      "data": "15-10-2015",
+      "contenuto": "<p>Espressioni regolari. Grammatiche generative. Derivazioni. Linguaggio generato da una grammatica.</p>"
+    },
+    {
+      "id": "1",
+      "data": "13-10-2015",
+      "contenuto": "<p>Numerabilit\u00e0 dell'insieme degli algoritmi. Non numerabilit\u00e0 dell'insieme dei linguaggi: diagonalizzazione. Espressioni regolari.</p>"
+    },
+    {
+      "id": "0",
+      "data": "08-10-2015",
+      "contenuto": "<p>Introduzione al corso. Linguaggi, problemi, algoritmi, modelli di calcolo.</p>"
+    }
+  ],
+  "materiale": [],
+  "programma": "<table><tr><td><p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Programma svolto.</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"><strong>Modulo 1<br/></strong></p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Fondamenti matematici: logica, insiemi, relazioni, funzioni, strutture algebriche fondamentali</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Insiemi finiti e infiniti; numerabilit\u00e0 e non numerabilit\u00e0 di insiemi</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Caratteristiche elementari dei linguaggi</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Grammatiche di Chomsky e loro gerarchia</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Generazione ed accettazione di linguaggi</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Riconoscimento di linguaggi: automi</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Automi a stati finiti determinitici e non deterministici; equivalenza tra essi</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Relazioni tra automi a stati finiti e grammatiche di tipo 3 (regolari)</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Pumping lemma per i linguaggi regolari</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Propriet\u00e0 di chiusura dei linguaggi regolari</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Predicati decidibili sui linguaggi regolari</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Espressioni regolari e loro equivalenza con gli automi a stati finiti e con le grammatiche regolari</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Minimizzazione di automi a stati finiti</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Linguaggi context free</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Grammatiche di tipo 2: forme ridotte e forme normali (Chomsky, Greibach)</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Pumping lemma per i linguaggi context free</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Automi a pila e linguaggi context free</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Automi a pila deterministici\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Ambiguit\u00e0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Cenni sul parsing</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- L'algoritmo CYK</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p><strong>Modulo 2</strong></p>\n<p>\u00a0</p>\n<p><strong>Parte 1, calcolabilit\u00e0:</strong></p>\n<p>\u00a0</p>\n<p>- Ancora sulle Macchine di Turing: trasduttori e riconoscitori, Macchine ad un nastro e a k nastri, Macchine\u00a0 deterministiche e non deterministiche. Macchina di Turing universale. <br>- Linguaggi e funzioni. Linguaggi e linguaggi complemento. Accettabilit\u00e0 e decidibilit\u00e0 di linguaggi. Calcolabilit\u00e0 di funzioni. La tesi di Church-Turing e modello di calcolo equivalenti alla macchina di Turing.</br></p>\n<p>\u00a0</p>\n<p>- Cardinalit\u00e0 di insiemi. Insiemi numerabili e non numerabili. Diagonalizzazione.<br> - Linguaggi non decidibili.\u00a0</br></p>\n<p>\u00a0</p>\n<p>- Riducibilit\u00e0 tra linguaggi</p>\n<p>\u00a0</p>\n<p><strong>Parte 2, complessit\u00e0:</strong></p>\n<p>\u00a0</p>\n<p>- Misure di complessit\u00e0: DTIME, DSPACE, NTIME, NSPACE. <br>- Classi di linguaggi. Gap theorem e funzioni time-constructible.\u00a0Teoremi di compressione e di accelerazione.\u00a0Definizione delle classi di complessit\u00e0 spaziale e temporale: P, NP, PSPACE, NPSPACE, EXP, coNP. Inclusione, inclusione propria, coincidenza. Completezza.</br></p>\n<p>\u00a0</p>\n<p>- Problemi e codifiche. Problemi decisionali e loro complemento. <br>- La classe P. Riducibilit\u00e0 polinomiale e chiusura di P rispetto alla riducibilit\u00e0 polinomiale. Problemi in P: 2-SAT, 2-COLORABILITA'. Funzioni in FP: trasformazione di una funzione booleana in forma congiuntiva normale. <br>- La classe NP. Linguaggi NP-completi e Teorema di Cook. Chiusura rispetto alla riduzione polinomiale. Esempi di dimostrazioni di NP-completezza: 3-SAT, Vertex Cover, 3-Colorability, Colorability, Independent Set, Clique, Hamiltonian Circuit/Path, Longest Path, Commesso Viaggiatore. Problemi NP-intermedi: il teorema di Ladner.</br></br></p>\n<p>- Algoritmi pseudo-polinomiali, problemi numerici e NP-completezza in senso forte; il problema PARTIZIONE.</p></td></tr></table>",
+  "testiRiferimento": "<table><tr><td><p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">G. Ausiello, F. D'Amore, G. Gambosi, L. Laura \"Linguaggi, Modelli, Complessit\u00e0\" nuova edizione. Franco Angeli, 2014. ISBN 978-88-917-0553-2.</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Materiale a cura del docente.</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"><strong>Modulo 2.</strong> Materiale a cura del docente.</p></td></tr></table>",
+  "ricevimento": "<table><tr><td><p><span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Al termine delle lezioni. E' possibile inoltre richiedere un appuntamento via mail.</span></p></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td><p>L'esame prevede una coppia di prove (scritta e orale) relative al primo modulo e una coppia di prove (scritta e orale) relative al secondo modulo. Ciascuna coppia di prove pu\u00f2 essere sostenuta indipendentemente dall'altra. Si richiede per\u00f2 che scritto e orale di ciascun modulo siano sostenuti nello stesso appello.</p>\n<p>\u00a0</p>\n<p>Il voto finale verr\u00e0 calcolato come media dei voti conseguiti nelle prove relative ai due moduli.</p>\n<p>\u00a0</p>\n<p>E' prevista una prova di esonero (opzionale) scritto relativo alla prima parte del corso il cui orale potr\u00e0 essere sostenuto nell'appello di giugno.</p>\n<p>\u00a0</p>\n<p>Per l'iscrizione all'esame \u00e8 richiesta la prenotazione sul sito delphi.uniroma2.it</p>\n<p>\u00a0</p></td></tr></table>"
+}

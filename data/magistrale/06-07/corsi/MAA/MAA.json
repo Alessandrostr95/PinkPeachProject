@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Metodi algoritmici di approssimazione",
+  "docente": [
+    {
+      "first_name": "Andrea",
+      "second_name": "Clementi"
+    }
+  ],
+  "annoAccademico": "2006-2007",
+  "crediti": "6",
+  "settore": "",
+  "anno": "1",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td><b>Obiettivi del corso</b>\r\n\r\nIl corso ha l'obiettivo di introdurre le metodologie fondamentali per il progetto di algoritmi di approssimazione per problemi computazionalmente difficili.\r\n\r\n<b>Argomenti trattati</b>\r\n\r\nProblemi computazionalemente difficili: le classi P e NP. Problemi di ottimizzazione. Complessita' dei problemi di ottimizzazione. Algoritmi di approssimazione e classi di approssimabilita'. Riduzioni polinomiali che preservano l'approssimabilita'. Separazione delle classi di approssimabilita'.  Tecniche fondamentali per algoritmi di approssimazione: algoritmi greedy, algoritmi sequenziali, ricerca locale, programmazione dinamica\r\n\r\n<b>Lezioni svolte</b>\n<ul>\n<li>Introduzione: Un primo problema di ottimizzazione il Minimum Vertex Cover. Un algoritmo greedy 2-approssimante. Riduzioni polinomiali tra problemi decisionali.</li>\n<li>La classe NP e i problemi NP completi. Il problema decisionale associato a Minimum Vertex Cover e' NP-Completo. Altri problemi NP-Completi (Clique, Independent Set)</li>\n<li>Problemi di ottimizzazione. La classe NPO dei problemi di ottimizzazione il cui corrispondente decisionale e' in NP. La classe PO dei problemi di ottimizzazione che ammettono algoritmi polinomiali ottimi. PO=NPO implica P=NP.</li>\n<li>Tecniche algoritmiche per la soluzione approssimata di problemi di ottimizzazione con corrispondente decisionale NP-Completo.</li>\n<ul>\n<li>Tecnica Greedy: Un algorimo d+1 approssimato per Max Independent Set per grafi di densita' d; il problema del commesso viaggiatore e sua NP-hardness per mezzo di una riduzione dal problema del circuito Hamiltoniano, l'algoritmo <i>nearest-neighbor</i> log(n) approssimante per istanze metriche.</li>\n<li>Algoritmi sequenziali per bin packing: algoritmo Next Fit e First Fit Decreasing' Lower bounds.</li>\n<li>Algoritmi basati su programmazione lineare: Algoritmo per Weighted Vertex Cover basato su arrotondamento.</li>\n<li>Programmazione dinamica: Algoritmo pseudo-polinomiale per il problema della bisaccia (Maximum Knapsack), utilizzo di tale algoritmo per la costruzione di uno schema di approssimazione.</li>\n</ul>\n\n<li>Classi di approssimazione: algoritmi approssimanti, stima della prestazioni degli algoritmi approssimanti (errore assoluto, errore relativo, performance ratio), tecnica del gap per dimostrare risultati di non approssimabilita':\r\n<ul>\n<li>La classe APX: algoritmo 2-approssimante per Max Satisfiability, Min TSP non e' in APX (a meno che P=NP), algoritmo 1.5-approssimante per Min TSP Metrico (Christofides).</li>\n<li>La classe PTAS: Schemi di approssimazione polinomiali; uno schema di approssimazione polinomiale per Maximum Integer Knapsack; Minimum Bin Packing non e' in PTAS (a meno che P=NP).</li>\n<li>La classe FPTAS: Schemi di approssimazione completamente polinomiali;  Maximum Knapsack e' in FPTAS; I problemi di ottimizzazione NP-hard polinomialmente limitati non appartengono a FPTAS (a meno che P=NP); Problemi pseudo-polinomiali; Relazione tra problemi in FPTAS e problemi pseudo-polinomiali; I problemi fortemente NP-hard non sono pseudo-polinomiali (a meno che P=NP).</li>\n</ul>\n</li>\n<li>Riduzioni polinomiali che preservano l'approssimazione: AP-Riduzione ed L-Riduzione. Completezza nelle classi di approssimazione; Problemi NPO-Completi; Problemi APX-Completi (Max 3-Sat, Max 2-Sat); </li>\n</ul></td></tr></table>",
+  "testiRiferimento": "<table><tr><td>Ausiello, Crescenzi, Gambosi, Kann, Marchetti-Spaccamela, Protasi. <i>Complexity and Approximation</i>. Springer, 1999.\r\n\r\nBovet, Crescenzi. <i>Introduction to the Theory of Complexity</i>. Prentice Hall, 1993. Disponibile gratuitamente qui': http://pamela.dsi.unifi.it/piluc/</td></tr></table>",
+  "ricevimento": "<table><tr><td>dalla fine dei corsi soltanto su appuntamento</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

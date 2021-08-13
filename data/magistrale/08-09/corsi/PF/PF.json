@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Probabilit\u00e0 e finanza",
+  "docente": [
+    {
+      "first_name": "Lucia",
+      "second_name": "Caramellino"
+    }
+  ],
+  "annoAccademico": "2008-2009",
+  "crediti": "6",
+  "settore": "",
+  "anno": "1",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>http://www.mat.uniroma2.it/~pacchiar/</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>http://www.mat.uniroma2.it/~pacchiar/</td></tr></table>",
+  "ricevimento": "<table><tr><td>http://www.mat.uniroma2.it/~pacchiar/</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

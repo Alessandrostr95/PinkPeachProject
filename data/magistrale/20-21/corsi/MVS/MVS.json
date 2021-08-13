@@ -1,6 +1,11 @@
 {
   "nomeCorso": "Metodi di verifica di sistemi",
-  "docente": "Benedetto Intrigila",
+  "docente": [
+    {
+      "first_name": "Benedetto",
+      "second_name": "Intrigila"
+    }
+  ],
   "annoAccademico": "2020-2021",
   "crediti": "6",
   "settore": "INF/01",
@@ -10,8 +15,8 @@
   "comunicazioni": [],
   "lezioni": [],
   "materiale": [],
-  "programma": "Model checking. Approccio esplicito e simbolico.\nNella parte avanzata del corso verra' considerato\nl'uso del model checking nel planning e/o per i sistemi ibridi.",
-  "testiRiferimento": "Systems and Software Verification\nModel-Checking Techniques and Tools\nAutori: Berard, B., Bidoit, M., Finkel, A., Laroussinie, F.,\nPetit, A., Petrucci, L., Schnoebelen, P",
-  "ricevimento": "null",
-  "modalit\u00e0Esame": "null"
+  "programma": "<table><tr><td><p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Model checking. Approccio esplicito e simbolico.</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Nella parte avanzata del corso verra' considerato</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">l'uso del model checking nel planning e/o per i sistemi ibridi.</p></td></tr></table>",
+  "testiRiferimento": "<table><tr><td><p><span style=\"font-family: Verdana, Arial, Helvetica, sans-serif;\"><span style=\"font-size: 12px;\">Systems and Software Verification</span></span></p>\n<p><span style=\"font-family: Verdana, Arial, Helvetica, sans-serif;\"><span style=\"font-size: 12px;\">Model-Checking Techniques and Tools</span></span></p>\n<p><span style=\"font-family: Verdana, Arial, Helvetica, sans-serif;\"><span style=\"font-size: 12px;\">Autori: Berard, B., Bidoit, M., Finkel, A., Laroussinie, F.,\u00a0</span></span></p>\n<p><span style=\"font-family: Verdana, Arial, Helvetica, sans-serif;\"><span style=\"font-size: 12px;\">Petit, A., Petrucci, L., Schnoebelen, P</span></span></p></td></tr></table>",
+  "ricevimento": "<table><tr><td>null</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
 }

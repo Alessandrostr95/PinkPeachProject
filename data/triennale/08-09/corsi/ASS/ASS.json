@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Architettura dei sistemi software",
+  "docente": [
+    {
+      "first_name": "Andrea",
+      "second_name": "Bei"
+    }
+  ],
+  "annoAccademico": "2008-2009",
+  "crediti": "6",
+  "settore": "",
+  "anno": "3",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>Analisi e progettazione OO\r\nProcessi iterativi per lo sviluppo del software: Unified process\r\nMetodi agili\r\nLa fase di ideazione\r\nAnalisi evolutiva dei requisiti\r\nUse case model: diagrammi di use case e diagrammi SSD\r\nLa fase di elaborazione\r\nModello di dominio: concetti, attributi, associazioni\r\nDefinizione di contratti per le operazioni\r\nArchitettura software: modelli a strati (1-tier, 2-tier, 3-tier, n-tier)\r\nDiagrammi statici e dinamici: diagrammi delle classi e diagrammi di interazione\r\nDesign pattern. Pattern GoF.</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>C. Larman \"Applicare UML e i pattern - analisi e progettazione orientata agli oggetti\" 3 ed. Pearson</td></tr></table>",
+  "ricevimento": "<table><tr><td>Mercoledi h. 12.00\r\nGiovedi h. 16.00\r\nstudio del docente</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

@@ -1,0 +1,28 @@
+{
+  "nomeCorso": "Machine learning",
+  "docente": [
+    {
+      "first_name": "Giorgio",
+      "second_name": "Gambosi"
+    }
+  ],
+  "annoAccademico": "2019-2020",
+  "crediti": "9",
+  "settore": "INF/01",
+  "anno": "2",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [
+    {
+      "titolo": "Sito web",
+      "data": "05-02-2021 18:59",
+      "contenuto": "<p><span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Informazioni sul corso disponibili a\u00a0</span><a href=\"https://tvml.github.io/ml1920/\" style=\"text-align: justify;\" target=\"_blank\">tvml.github.io/ml2021</a></p>"
+    }
+  ],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>null</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>null</td></tr></table>",
+  "ricevimento": "<table><tr><td>null</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

@@ -1,0 +1,169 @@
+{
+  "nomeCorso": "Intelligenza artificiale 1",
+  "docente": [
+    {
+      "first_name": "Maria Teresa",
+      "second_name": "Pazienza"
+    }
+  ],
+  "annoAccademico": "2015-2016",
+  "crediti": "6",
+  "settore": "ING-INF/05",
+  "anno": "3",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Programmazione dei calcolatori con laboratorio.",
+  "comunicazioni": [
+    {
+      "titolo": "prova in itinere di Intelligenza Artificiale 1",
+      "data": "07-01-2016 12:44",
+      "contenuto": "<p>Gioved\u00ec 14 gennaio ore 14 in aula 8 edificio della didattica di Ingegneria</p><hr/>"
+    },
+    {
+      "titolo": "incontro con aziende",
+      "data": "03-12-2015 15:16",
+      "contenuto": "<p>Il 4 dicembre alle ore 14,30 presso l'aula Gismondi gli studenti</p>\n<p>potranno incontrare alcune aziende informatiche. Fra queste,</p>\n<p>Capgemini, Expert System, Sinergieit, Onyx Technology, Reveal, IBM.</p>\n<p>Si invitano tutti gli studenti, ed in particolare quelli del terzo anno e della magistrale, a partecipare.</p><hr/>"
+    },
+    {
+      "titolo": "",
+      "data": "06-10-2015 17:25",
+      "contenuto": "<p>la prima lezione si terr\u00e0 il giorno 6 ottobre 2015 con il seguente calendario:</p>\n<p>\u00a0</p>\n<p>marted\u00ec ore 11,30-13,30 aula B6 Macroarea di Ingegneria</p>\n<p>gioved\u00ec ore 11,30-13,30 aula B7 Macroarea di Ingegneria</p>"
+    }
+  ],
+  "lezioni": [
+    {
+      "id": "28",
+      "data": "21-01-2016",
+      "contenuto": "<p>prova in itinere su OWL</p>"
+    },
+    {
+      "id": "27",
+      "data": "19-01-2016",
+      "contenuto": "<p>prova d'esame</p>"
+    },
+    {
+      "id": "26",
+      "data": "14-01-2016",
+      "contenuto": "<p>esercitazioni</p>"
+    },
+    {
+      "id": "25",
+      "data": "12-01-2016",
+      "contenuto": "<p>esercitazioni\u00a0</p>"
+    },
+    {
+      "id": "24",
+      "data": "22-12-2015",
+      "contenuto": "<p>esercitazioni su RDF</p>"
+    },
+    {
+      "id": "23",
+      "data": "17-12-2015",
+      "contenuto": "<p>varie forme dell'inheritance a supporto del ragionamento automatico</p>"
+    },
+    {
+      "id": "22",
+      "data": "15-12-2015",
+      "contenuto": "<p>DL: entailment</p>"
+    },
+    {
+      "id": "21",
+      "data": "10-12-2015",
+      "contenuto": "<p>Description Logics: motivazioni</p>"
+    },
+    {
+      "id": "20",
+      "data": "03-12-2015",
+      "contenuto": "<p>rappresentazione della conoscenza con frames</p>"
+    },
+    {
+      "id": "19",
+      "data": "01-12-2015",
+      "contenuto": "<p>Clausole di Horn</p>"
+    },
+    {
+      "id": "18",
+      "data": "26-12-2015",
+      "contenuto": "<p>prova in itinere su resolution</p>"
+    },
+    {
+      "id": "17",
+      "data": "05-11-2015",
+      "contenuto": "<p>entailment</p>"
+    },
+    {
+      "id": "16",
+      "data": "03-11-2015",
+      "contenuto": "<p>rappresentazione della conoscenza (fatti base, complessi, terminologia...)</p>"
+    },
+    {
+      "id": "14",
+      "data": "29-10-2015",
+      "contenuto": "<p>prova in itinere su FOL</p>"
+    },
+    {
+      "id": "12",
+      "data": "24-11-2015",
+      "contenuto": "<p>first-order resolution</p>"
+    },
+    {
+      "id": "11",
+      "data": "19-11-2015",
+      "contenuto": "<p>risoluzione: parte 2</p>"
+    },
+    {
+      "id": "10",
+      "data": "17-11-2015",
+      "contenuto": "<p>risoluzione: parte 1</p>"
+    },
+    {
+      "id": "9",
+      "data": "12-11-2015",
+      "contenuto": "<p>esercizi: rappresentazione in forma logica della conoscenza di una applicazione</p>"
+    },
+    {
+      "id": "8",
+      "data": "10-11-2015",
+      "contenuto": "<p>rappresentazione della conoscenza in un'applicazione ed entailment\u00a0</p>"
+    },
+    {
+      "id": "7",
+      "data": "27-10-2015",
+      "contenuto": "<p>Denotation, satisfaction, entailment in FOL</p>"
+    },
+    {
+      "id": "6",
+      "data": "22-10-2015",
+      "contenuto": "<p>Interpretazione in FOL</p>"
+    },
+    {
+      "id": "5",
+      "data": "20-10-2015",
+      "contenuto": "<p>Introduzione alla logica del primo ordine</p>"
+    },
+    {
+      "id": "4",
+      "data": "15-10-2015",
+      "contenuto": "<p>cenni di logica proposizionale</p>"
+    },
+    {
+      "id": "3",
+      "data": "13-10-2015",
+      "contenuto": "<p>introduzione al paradigma computazionale logico</p>"
+    },
+    {
+      "id": "2",
+      "data": "08-10-2015",
+      "contenuto": "<p>metodologie di rappresentazione della conoscenza</p>"
+    },
+    {
+      "id": "1",
+      "data": "06-10-2015",
+      "contenuto": "<p>presentazione dle corso: tematiche, programma, modalit\u00e0 di svolgimento\u00a0</p>"
+    }
+  ],
+  "materiale": [],
+  "programma": "<table><tr><td><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"MsoNormalTable\" style=\"width: 512.0pt; margin-left: 3.5pt; border-collapse: collapse; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 3.5pt 0cm 3.5pt;\" width=\"683\">\n<tbody>\n<tr style=\"mso-yfti-irow: 0; mso-yfti-firstrow: yes; height: 20.25pt;\">\n<td style=\"width: 512.0pt; border-top: solid gray 1.5pt; border-left: none; border-bottom: solid gray 1.0pt; border-right: none; padding: 0cm 3.5pt 0cm 3.5pt; height: 20.25pt;\" valign=\"top\" width=\"683\">\n<p class=\"MsoNormal\" style=\"margin-bottom: 0.0001pt;\"><strong><span style=\"font-size: 14pt; font-family: Garamond, serif;\">Programma del corso di Intelligenza Artificiale 1</span></strong></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 1; height: 18.75pt;\">\n<td style=\"width: 512.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 18.75pt;\" valign=\"bottom\" width=\"683\">\n<p class=\"MsoNormal\" style=\"margin-bottom: 0.0001pt;\">Presentazione: argomenti, introduzione\u00a0</p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 2; height: 18.75pt;\">\n<td style=\"width: 512.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 18.75pt;\" valign=\"bottom\" width=\"683\">\n<p class=\"MsoNormal\" style=\"margin-bottom: 0.0001pt;\">Rappresentazione della conoscenza e ragionamento automatico</p>\n<p class=\"MsoNormal\" style=\"margin-bottom: 0.0001pt;\">Logica del primo ordine</p>\n<p class=\"MsoNormal\" style=\"margin-bottom: 0.0001pt;\">Basi di conoscenza: ontologie, inferenza</p>\n<p class=\"MsoNormal\" style=\"margin-bottom: 0.0001pt;\">Sistemi di ragionamento logico: frame e reti semantiche</p>\n<p class=\"MsoNormal\" style=\"margin-bottom: 0.0001pt;\">Introduzione al Semantic Web</p>\n<p class=\"MsoNormal\" style=\"margin-bottom: 0.0001pt;\">RDF/RDFS</p>\n<p class=\"MsoNormal\" style=\"margin-bottom: 0.0001pt;\">\u00a0</p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 3; height: 20.25pt;\">\n<td style=\"width: 512.0pt; border-top: solid gray 1.5pt; border-left: none; border-bottom: solid gray 1.0pt; border-right: none; padding: 0cm 3.5pt 0cm 3.5pt; height: 20.25pt;\" valign=\"top\" width=\"683\">\n<p class=\"MsoNormal\" style=\"margin-bottom: 0.0001pt;\"><strong><span style=\"font-size: 14pt; font-family: Garamond, serif;\">Esercitazioni del corso di Intelligenza Artificiale 1</span></strong></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 4; height: 26.25pt;\">\n<td style=\"width: 512.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 26.25pt;\" valign=\"bottom\" width=\"683\">\n<p class=\"MsoNormal\" style=\"margin-bottom: 0.0001pt;\">OWL: struttura del linguaggio\u00a0 \u00a0</p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 5; height: 16.5pt;\">\n<td style=\"width: 512.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 16.5pt;\" valign=\"bottom\" width=\"683\">\n<p class=\"MsoNormal\" style=\"margin-bottom: 0.0001pt;\">Esercizi su gestione conoscenza \u00a0</p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 6; height: 16.5pt;\">\n<td style=\"width: 512.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 16.5pt;\" valign=\"bottom\" width=\"683\">\n<p class=\"MsoNormal\" style=\"margin-bottom: 0.0001pt;\">Linguaggi di Interrogazione per il Web Semantico\u00a0 \u00a0</p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 7; height: 15.0pt;\">\n<td style=\"width: 512.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 15.0pt;\" valign=\"bottom\" width=\"683\">\n<p class=\"MsoNormal\" style=\"margin-bottom: 0.0001pt;\">Strumenti per lo sviluppo e la gestione di Ontologie \u00a0</p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 8; height: 15.0pt;\">\n<td style=\"width: 512.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 15.0pt;\" valign=\"bottom\" width=\"683\">\n<p class=\"MsoNormal\" style=\"margin-bottom: 0.0001pt;\"><span lang=\"EN-US\">Thesauri and Concept Scheme Development: SKOS &amp; SKOS-XL </span></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 9; height: 15.0pt;\">\n<td style=\"width: 512.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 15.0pt;\" valign=\"bottom\" width=\"683\">\n<p class=\"MsoNormal\" style=\"margin-bottom: 0.0001pt;\">Esercizi su gestione conoscenza</p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 10; height: 15.0pt;\">\n<td style=\"width: 512.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 15.0pt;\" valign=\"bottom\" width=\"683\">\n<p class=\"MsoNormal\" style=\"margin-bottom: 0.0001pt;\">Tecnologie per la gestione di repository RDF \u00a0</p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 11; mso-yfti-lastrow: yes; height: 15.0pt;\">\n<td style=\"width: 512.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 15.0pt;\" valign=\"bottom\" width=\"683\">\n<p class=\"MsoNormal\" style=\"margin-bottom: 0.0001pt;\">Linked Open Data\u00a0 \u00a0</p>\n</td>\n</tr>\n</tbody>\n</table>\n<p class=\"MsoNormal\"><span lang=\"EN-US\">\u00a0</span></p>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"MsoNormalTable\" style=\"width: 512.0pt; margin-left: 3.5pt; border-collapse: collapse; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 3.5pt 0cm 3.5pt;\" width=\"683\">\n<tbody>\n<tr style=\"mso-yfti-irow: 0; mso-yfti-firstrow: yes; mso-yfti-lastrow: yes; height: 20.25pt;\">\n<td style=\"width: 512.0pt; border-top: solid gray 1.5pt; border-left: none; border-bottom: solid gray 1.0pt; border-right: none; padding: 0cm 3.5pt 0cm 3.5pt; height: 20.25pt;\" valign=\"top\" width=\"683\">\n<p class=\"MsoNormal\" style=\"margin-bottom: 0.0001pt;\"><strong><span style=\"font-size: 14pt; font-family: Garamond, serif;\">Obiettivi formativi del corso di Intelligenza Artificiale 1</span></strong></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p class=\"MsoNormal\" style=\"text-align: justify;\">Fornire agli studenti che seguono questo corso le motivazioni e la conoscenza di base relative alla modellazione dei sistemi intelligenti; in particolare la gestione della conoscenza (Knowledge Management) e le basi dell\u2019apprendimento automatico oltre alla possibilit\u00e0 del loro uso per risolvere problemi complessi (Knowledge Based Systems) anche nel contesto del Semantic Web.</p>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"MsoNormalTable\" style=\"width: 512.0pt; margin-left: 3.5pt; border-collapse: collapse; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 3.5pt 0cm 3.5pt;\" width=\"683\">\n<tbody>\n<tr style=\"mso-yfti-irow: 0; mso-yfti-firstrow: yes; mso-yfti-lastrow: yes; height: 20.25pt;\">\n<td style=\"width: 512.0pt; border-top: solid gray 1.5pt; border-left: none; border-bottom: solid gray 1.0pt; border-right: none; padding: 0cm 3.5pt 0cm 3.5pt; height: 20.25pt;\" valign=\"top\" width=\"683\">\n<p class=\"MsoNormal\" style=\"margin-bottom: 0.0001pt;\"><strong><span style=\"font-size: 14pt; font-family: Garamond, serif;\">Testo consigliato del corso di Intelligenza Artificiale 1</span></strong></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p class=\"MsoNormal\" style=\"text-align: justify;\"><span lang=\"EN-US\">\u201cKnowledge representation and reasoning\u201d, \u00a0Brachman\u00a0e Levesque:, Morgan Kaufmann, Cap. 1,2,3,4.1,4.2,5,8,9,10\u00a0(solo capitoli\u00a0selezionati)\u00a0</span></p>\n<p class=\"MsoNormal\"><span lang=\"EN-US\">\u00a0</span></p>\n<p>\u00a0</p>\n<p class=\"MsoNormal\"><span lang=\"EN-US\">\u00a0</span></p></td></tr></table>",
+  "testiRiferimento": "<table><tr><td><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"MsoNormalTable\" style=\"width: 512pt; margin-left: 3.5pt; border-collapse: collapse;\" width=\"683\">\n<tbody>\n<tr style=\"height: 20.25pt;\">\n<td style=\"width: 512pt; border-style: solid none; border-top-color: gray; border-top-width: 1.5pt; border-bottom-color: gray; border-bottom-width: 1pt; padding: 0cm 3.5pt; height: 20.25pt;\" valign=\"top\" width=\"683\">\n<p class=\"MsoNormal\" style=\"margin-bottom: 0.0001pt;\"><strong><span style=\"font-size: 14pt; font-family: Garamond, serif;\">Testo consigliato del corso di Intelligenza Artificiale 1</span></strong></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p class=\"MsoNormal\" style=\"text-align: justify;\"><span lang=\"EN-US\">\u201cKnowledge representation and reasoning\u201d, \u00a0Brachman\u00a0e Levesque:, Morgan Kaufmann, Cap. 1,2,3,4.1,4.2,5,8,9,10\u00a0(solo capitoli\u00a0selezionati)\u00a0</span></p></td></tr></table>",
+  "ricevimento": "<table><tr><td><p>subito dopo la lezione; inviando una mail al docente: pazienza@info.uniroma2.it \u00e8 possibile fissare un ricevimento in data ed ora da concordare con il docente</p></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td><p class=\"MsoNormal\"><span data-mce-mark=\"1\" lang=\"EN-US\">\u00a0</span></p>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"MsoNormalTable\" style=\"width: 512.0pt; margin-left: 3.5pt; border-collapse: collapse; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 3.5pt 0cm 3.5pt;\" width=\"683\">\n<tbody>\n<tr style=\"mso-yfti-irow: 0; mso-yfti-firstrow: yes; mso-yfti-lastrow: yes; height: 20.25pt;\">\n<td style=\"width: 512.0pt; border-top: solid gray 1.5pt; border-left: none; border-bottom: solid gray 1.0pt; border-right: none; padding: 0cm 3.5pt 0cm 3.5pt; height: 20.25pt;\" valign=\"top\" width=\"683\">\n<p class=\"MsoPlainText\"><strong><span data-mce-mark=\"1\" style=\"font-size: 14pt; font-family: Garamond, serif;\">Modalit\u00e0 di accertamento del corso di Intelligenza Artificiale 1</span></strong></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p class=\"MsoNormal\">\u00a0</p>\n<p>\u00a0</p>\n<p class=\"MsoNormal\">Esame scritto con domande a risposta libera ed esercizi</p>\n<p class=\"MsoNormal\">\u00a0</p>\n<p class=\"MsoNormal\">****************</p>\n<p class=\"MsoNormal\">\u00a0</p>\n<p class=\"MsoNormal\">Per gli studenti che frequentano e studiano costantemente \u00e8 prevista una verifica scritta alla fine di ciascun ciclo di lezioni relative ad un argomento; tale verifica sar\u00e0 valutata dal docente ed i risultati comunicati agli studenti.</p>\n<p class=\"MsoNormal\">\u00a0</p>\n<p class=\"MsoNormal\">Alla fine del corso il docente, alla luce dei risultati conseguiti in tutte le verifiche parziali, proporr\u00e0 un voto finale. Lo studente potr\u00e0 accettarlo come voto d'esame o presentarsi alle prove ufficiali d'esame previste sostenendo la prova d'esame.</p>\n<p class=\"MsoNormal\">\u00a0</p>\n<p class=\"MsoNormal\">Non sono previsti esoneri parziali.</p>\n<p class=\"MsoNormal\">\u00a0</p>\n<p class=\"MsoNormal\">****************</p></td></tr></table>"
+}

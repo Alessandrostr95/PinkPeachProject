@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Sicurezza informatica e cooperazione",
+  "docente": [
+    {
+      "first_name": "Maurizio",
+      "second_name": "Talamo"
+    }
+  ],
+  "annoAccademico": "2008-2009",
+  "crediti": "12",
+  "settore": "",
+  "anno": "2",
+  "semestre": "1-2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td><b>Prerequisiti</b><ul><li>Corso di \"Sicurezza dei Sistemi Informativi (SSI)\" - Prof. Arcieri</li><li>Teoria dei grafi</li><li>Architetture orientate ai servizi (paradigma SOA)</li><li>Tecnologie per la rappresentazione di architetture SOA (Web Service Standard)</li></ul><b>Parte I - Strumenti tecnologici per la sicurezza</b><ul><li><i>Network Security</i>: algoritmi a chiave simmetrica e asimmetrica</li> <li>Definizione di identificazione e autenticazione</li><li>Strumenti tecnologici per l'identificazione e l'autenticazione: <i>username/password</i>, <i>cookies</i>, firma digitale, <i>smart card</i>,\r\nbiometria, <i>Strong Authentication</i>, <i>CAPTCHA</i></li><li>Gestione delle credenziali digitali: certificati digitali, <i>Public Key Infrastructure (PKI)</i>, <i>Certification Authority (CA)</i>,\r\nesercitazione su OpenSSL</li><li>Sicurezza dei dati: definizioni, <i>smart card</i> crittografiche, funzioni di <i>Hashing</i>, <i>digital watermark</i></li><li>Cooperazione su rete: definizione di transazione (sicura), protocollo <i>HTTPS</i> (SSL), evoluzione dei sistemi informativi\r\n(da <i>client/server</i> a <i>web service</i>), sicurezza del <i>client</i> (tipologie di attacco, come i browser gestiscono i certificati), problematiche\r\ndi composizione e coordinazione (definizione di servizio, accenni di <i>workflow</i>)</li></ul><b>Parte II - Metodologie di sicurezza</b><ul><li>Processi di cooperazione</li><li>Organizzazioni virtuali (VO): gerarchiche, non gerarchiche (<i>social networks</i>)</li><li>Relazioni di fiducia: il trust nei modelli di cooperazione, definizioni e propriet\u00e0, delega e mansioni, esempi</li><li>Rappresentazione di una VO: grafo di contesto, grafo delle transazioni, <i>workflow</i>, criticit\u00e0</li><li>Rappresentazione di un <i>business process</i> cooperativo: tecnologie, problematiche, modello ibrido, strategie</li></ul></td></tr></table>",
+  "testiRiferimento": "<table><tr><td>Si possono usare le dispense, le slide delle lezioni e gli articoli che verranno segnalati durante il corso.</td></tr></table>",
+  "ricevimento": "<table><tr><td>Su appuntamento da concordare con il docente tramite email: <b>talamo</b>[at]<b>nestor</b>[dot]<b>uniroma2</b>[dot]<b>it</b></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Metodi di verifica di sistemi",
+  "docente": [
+    {
+      "first_name": "Benedetto",
+      "second_name": "Intrigila"
+    }
+  ],
+  "annoAccademico": "2014-2015",
+  "crediti": "6",
+  "settore": "INF/01",
+  "anno": "2",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td><p>Model checking. Approccio esplicito e simbolico.</p>\n<p>Nella parte avanzata del corso verranno considerati: l'uso del model checking nel planning e/o per i sistemi ibridi.</p>\n<p>\u00a0</p></td></tr></table>",
+  "testiRiferimento": "<table><tr><td><h1>Systems and Software Verification</h1>\n<h2>Model-Checking Techniques and Tools</h2>\n<p>Authors: <strong>Berard</strong>, B., <strong>Bidoit</strong>, M., <strong>Finkel</strong>, A., <strong>Laroussinie</strong>, F., <strong>Petit</strong>, A., <strong>Petrucci</strong>, L., <strong>Schnoebelen</strong>, P.</p></td></tr></table>",
+  "ricevimento": "<table><tr><td>null</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

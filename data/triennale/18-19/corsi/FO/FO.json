@@ -1,0 +1,596 @@
+{
+  "nomeCorso": "Fondamenti di informatica",
+  "docente": [
+    {
+      "first_name": "Giorgio",
+      "second_name": "Gambosi"
+    },
+    {
+      "first_name": "Miriam",
+      "second_name": "Di Ianni"
+    }
+  ],
+  "annoAccademico": "2018-2019",
+  "crediti": "12",
+  "settore": "INF/01",
+  "anno": "2",
+  "semestre": "1-2",
+  "propedeuticit\u00e0": "Matematica discreta.",
+  "comunicazioni": [
+    {
+      "titolo": "Risultati prova scritta 1 modulo del 24-9-2019",
+      "data": "26-09-2019 10:32",
+      "contenuto": "<p><span style=\"caret-color: #000000; color: #000000; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; font-family: 'Helvetica Neue'; font-size: 12px;\">Pubblicazione dei risultati della prova scritta relativa al 1 modulo del corso, tenuta il 24-9-2019. Si ricorda che la prova orale si terr\u00e0 il 30-9-2019 alle ore 10 nello studio del docente. Si ricorda inoltre che gli studenti che hanno ottenuto la sufficienza (18 o pi\u00f9) allo scritto possono sostenere l\u2019orale o, se preferiscono, mantenere la valutazione ottenuta. Coloro che hanno ottenuto un voto compreso tra 15 e 17 hanno la possibilit\u00e0, se lo desiderano, di sostenere l\u2019orale per tentare di raggiungere la sufficienza. Si pregano gli studenti interessati a sostenere l\u2019orale di comunicarlo inviando una mail al docente all\u2019indirizzo<span style=\"text-align: justify; caret-color: #000000; font-family: 'Helvetica Neue'; font-size: 12px;\">\u00a0</span></span><a href=\"mailto:giorgio.gambosi@uniroma2.it\" style=\"color: #003399; font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 11px; font-weight: normal; text-decoration: none; font-style: normal; font-variant-caps: normal; letter-spacing: normal; orphans: auto; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\"><span style=\"text-align: justify; caret-color: #000000; font-family: 'Helvetica Neue'; font-size: 12px;\">giorgio.gambosi@uniroma2.it</span></a><span style=\"caret-color: #000000; color: #000000; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; font-family: 'Helvetica Neue'; font-size: 12px;\">. In assenza di indicazioni, il voto ottenuto sar\u00e0 comunque memorizzato per tutti gli studenti che hanno ottenuto la sufficienza, al fine della valutazione finale mediante media con il voto ottenuto nel 2 modulo. E\u2019 possibile, in appelli successivi e fino alla verbalizzazione finale, sostenere nuovamente la prova scritta, tenendo presente che ci\u00f2 comporta, in caso di valutazione del relativo elaborato, la perdita del voto gi\u00e0 acquisito.</span></p><hr/>"
+    },
+    {
+      "titolo": "Prova scritta primo modulo del 24-9-2019",
+      "data": "23-09-2019 16:23",
+      "contenuto": "<p><span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">La prova scritta di esame per il primo modulo del corso, prevista per il 24-9-2019, avr\u00e0 luogo in aula T6 alle ore 15.00</span></p><hr/>"
+    },
+    {
+      "titolo": "Risultati prova scritta 1 modulo del 13-9-2019",
+      "data": "16-09-2019 12:12",
+      "contenuto": "<p><span style=\"text-align: justify; caret-color: #000000; text-size-adjust: auto; font-family: 'Helvetica Neue'; font-size: 12px;\">Pubblicazione dei risultati della prova scritta relativa al 1 modulo del corso, tenuta il 13-9-2019. Si ricorda che la prova orale si terr\u00e0 il 18-9-2019 alle ore 10 nello studio del docente. Si ricorda inoltre che gli studenti che hanno ottenuto la sufficienza (18 o pi\u00f9) allo scritto possono sostenere l\u2019orale o, se preferiscono, mantenere la valutazione ottenuta. Coloro che hanno ottenuto un voto compreso tra 15 e 17 hanno la possibilit\u00e0, se lo desiderano, di sostenere l\u2019orale per tentare di raggiungere la sufficienza. Si pregano gli studenti interessati a sostenere l\u2019orale di comunicarlo inviando una mail al docente all\u2019indirizzo<span style=\"text-align: justify; caret-color: #000000; text-size-adjust: auto; font-family: 'Helvetica Neue'; font-size: 12px;\">\u00a0</span></span><a href=\"mailto:giorgio.gambosi@uniroma2.it\" style=\"text-align: justify; text-size-adjust: auto;\"><span style=\"text-align: justify; caret-color: #000000; text-size-adjust: auto; font-family: 'Helvetica Neue'; font-size: 12px;\">giorgio.gambosi@uniroma2.it</span></a><span style=\"text-align: justify; caret-color: #000000; text-size-adjust: auto; font-family: 'Helvetica Neue'; font-size: 12px;\">. In assenza di indicazioni, il voto ottenuto sar\u00e0 comunque memorizzato per tutti gli studenti che hanno ottenuto la sufficienza, al fine della valutazione finale mediante media con il voto ottenuto nel 2 modulo. E\u2019 possibile, in appelli successivi e fino alla verbalizzazione finale, sostenere nuovamente la prova scritta, tenendo presente che ci\u00f2 comporta, in caso di valutazione del relativo elaborato, la perdita del voto gi\u00e0 acquisito.</span></p><hr/>"
+    },
+    {
+      "titolo": "Prova scritta primo modulo del 13-9-2019",
+      "data": "03-08-2019 10:49",
+      "contenuto": "<p><span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">La prova scritta di esame per il primo modulo del corso, prevista per il 13-9-2019, avr\u00e0 luogo in aula T4 alle ore 15.00</span></p><hr/>"
+    },
+    {
+      "titolo": "Risultati prova scritta 1 modulo del 4-7-2019",
+      "data": "07-07-2019 16:46",
+      "contenuto": "<p><span style=\"caret-color: #000000; color: #000000; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; font-family: 'Helvetica Neue'; font-size: 12px; background-color: #ffffff; float: none; display: inline !important;\">Pubblicazione dei risultati della prova scritta relativa al 1 modulo del corso, tenuta il 4-7-2019. Si ricorda che la prova orale si terr\u00e0 il 10-7-2019 alle ore 10 nello studio del docente. Si ricorda inoltre che gli studenti che hanno ottenuto la sufficienza (18 o pi\u00f9) allo scritto possono sostenere l\u2019orale o, se preferiscono, mantenere la valutazione ottenuta. Coloro che hanno ottenuto un voto compreso tra 15 e 17 hanno la possibilit\u00e0, se lo desiderano, di sostenere l\u2019orale per tentare di raggiungere la sufficienza. Si pregano gli studenti interessati a sostenere l\u2019orale di comunicarlo inviando una mail al docente all\u2019indirizzo<span class=\"Apple-converted-space\">\u00a0</span></span><a href=\"mailto:giorgio.gambosi@uniroma2.it\" style=\"color: #003399; font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 11px; font-weight: normal; text-decoration: none; font-style: normal; font-variant-caps: normal; letter-spacing: normal; orphans: auto; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\"><span style=\"color: #dca10d;\">giorgio.gambosi@uniroma2.it</span></a><span style=\"caret-color: #000000; color: #000000; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; font-family: 'Helvetica Neue'; font-size: 12px; background-color: #ffffff; float: none; display: inline !important;\">. In assenza di indicazioni, il voto ottenuto sar\u00e0 comunque memorizzato per tutti gli studenti che hanno ottenuto la sufficienza, al fine della valutazione finale mediante media con il voto ottenuto nel 2 modulo. E\u2019 possibile, in appelli successivi e fino alla verbalizzazione finale, sostenere nuovamente la prova scritta, tenendo presente che ci\u00f2 comporta, in caso di valutazione del relativo elaborato, la perdita del voto gi\u00e0 acquisito.</span></p><hr/>"
+    },
+    {
+      "titolo": "Prova scritta primo modulo del 4-7-2019",
+      "data": "01-07-2019 17:58",
+      "contenuto": "<p><span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">La prova scritta di esame per il primo modulo del corso, prevista per il 4-7-2019, avr\u00e0 luogo in aula T4 alle ore 15.00</span></p><hr/>"
+    },
+    {
+      "titolo": "Risultati prova scritta 1 modulo del 19-6-2019",
+      "data": "21-06-2019 13:37",
+      "contenuto": "<p><span style=\"caret-color: #000000; color: #000000; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; font-family: 'Helvetica Neue'; font-size: 12px; background-color: #ffffff; float: none; display: inline !important;\">Pubblicazione dei risultati della prova scritta relativa al 1 modulo del corso, tenuta il 19-6-2019. Si ricorda che la prova orale si terr\u00e0 il 25-6-2019 alle ore 10 nello studio del docente. Si ricorda inoltre che gli studenti che hanno ottenuto la sufficienza (18 o pi\u00f9) allo scritto possono sostenere l\u2019orale o, se preferiscono, mantenere la valutazione ottenuta. Coloro che hanno ottenuto un voto compreso tra 15 e 17 hanno la possibilit\u00e0, se lo desiderano, di sostenere l\u2019orale per tentare di raggiungere la sufficienza. Si pregano gli studenti interessati a sostenere l\u2019orale di comunicarlo inviando una mail al docente all\u2019indirizzo<span class=\"Apple-converted-space\">\u00a0</span></span><a href=\"mailto:giorgio.gambosi@uniroma2.it\" style=\"color: #003399; font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 11px; font-weight: normal; text-decoration: none; font-style: normal; font-variant-caps: normal; letter-spacing: normal; orphans: auto; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\"><span style=\"color: #dca10d;\">giorgio.gambosi@uniroma2.it</span></a><span style=\"caret-color: #000000; color: #000000; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; font-family: 'Helvetica Neue'; font-size: 12px; background-color: #ffffff; float: none; display: inline !important;\">. In assenza di indicazioni, il voto ottenuto sar\u00e0 comunque memorizzato per tutti gli studenti che hanno ottenuto la sufficienza, al fine della valutazione finale mediante media con il voto ottenuto nel 2 modulo. E\u2019 possibile, in appelli successivi e fino alla verbalizzazione finale, sostenere nuovamente la prova scritta, tenendo presente che ci\u00f2 comporta, in caso di valutazione del relativo elaborato, la perdita del voto gi\u00e0 acquisito.</span></p><hr/>"
+    },
+    {
+      "titolo": "Prova scritta primo modulo del 19-6-2019",
+      "data": "16-06-2019 12:58",
+      "contenuto": "<p>La prova scritta di esame per il primo modulo del corso, prevista per il 19-6-2019, avr\u00e0 luogo in aula T4 alle ore 15.00</p><hr/>"
+    },
+    {
+      "titolo": "Risultati prova scritta 1 modulo del 6-2-2019",
+      "data": "09-02-2019 14:34",
+      "contenuto": "<p><span style=\"caret-color: #000000; color: #000000; font-family: 'Helvetica Neue'; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration: none; display: inline !important; float: none;\">Pubblicazione dei risultati della prova scritta relativa al 1 modulo del corso, tenuta il 6-2-2019. Si ricorda che la prova orale si terr\u00e0 il 12-2-2019 alle ore 10 nello studio del docente. Si ricorda inoltre che gli studenti che hanno ottenuto la sufficienza (18 o pi\u00f9) allo scritto possono sostenere l\u2019orale o, se preferiscono, mantenere la valutazione ottenuta. Coloro che hanno ottenuto un voto compreso tra 15 e 17 hanno la possibilit\u00e0, se lo desiderano, di sostenere l\u2019orale per tentare di raggiungere la sufficienza. Si pregano gli studenti interessati a sostenere l\u2019orale di comunicarlo inviando una mail al docente all\u2019indirizzo<span class=\"Apple-converted-space\">\u00a0</span></span><a href=\"mailto:giorgio.gambosi@uniroma2.it\" style=\"color: #003399; font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 11px; font-weight: normal; text-decoration: none; font-style: normal; font-variant-caps: normal; letter-spacing: normal; orphans: auto; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\"><span style=\"color: #dca10d;\">giorgio.gambosi@uniroma2.it</span></a><span style=\"caret-color: #000000; color: #000000; font-family: 'Helvetica Neue'; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration: none; display: inline !important; float: none;\">. In assenza di indicazioni, il voto ottenuto sar\u00e0 comunque memorizzato per tutti gli studenti che hanno ottenuto la sufficienza, al fine della valutazione finale mediante media con il voto ottenuto nel 2 modulo. E\u2019 possibile, in appelli successivi e fino alla verbalizzazione finale, sostenere nuovamente la prova scritta, tenendo presente che ci\u00f2 comporta, in caso di valutazione del relativo elaborato, la perdita del voto gi\u00e0 acquisito.</span></p><hr/>"
+    },
+    {
+      "titolo": "Risultati prova scritta 1 modulo del 21-1-2019",
+      "data": "24-01-2019 13:07",
+      "contenuto": "<p style=\"font-stretch: normal; font-size: 12px; line-height: normal; font-family: 'Helvetica Neue';\">Pubblicazione dei risultati della prova scritta relativa al 1 modulo del corso, tenuta il 21-1-2019. Si ricorda che la prova orale si terr\u00e0 il 28-1-2019 alle ore 10 nello studio del docente. Si ricorda inoltre che gli studenti che hanno ottenuto la sufficienza (18 o pi\u00f9) allo scritto possono sostenere l\u2019orale o, se preferiscono, mantenere la valutazione ottenuta. Coloro che hanno ottenuto un voto compreso tra 15 e 17 hanno la possibilit\u00e0, se lo desiderano, di sostenere l\u2019orale per tentare di raggiungere la sufficienza. Si pregano gli studenti interessati a sostenere l\u2019orale di comunicarlo inviando una mail al docente all\u2019indirizzo <a href=\"mailto:giorgio.gambosi@uniroma2.it\"><span style=\"color: #dca10d;\">giorgio.gambosi@uniroma2.it</span></a>. In assenza di indicazioni, il voto ottenuto sar\u00e0 comunque memorizzato per tutti gli studenti che hanno ottenuto la sufficienza, al fine della valutazione finale mediante media con il voto ottenuto nel 2 modulo. E\u2019 possibile, in appelli successivi e fino alla verbalizzazione finale, sostenere nuovamente la prova scritta, tenendo presente che ci\u00f2 comporta, in caso di valutazione del relativo elaborato, la perdita del voto gi\u00e0 acquisito.</p><hr/>"
+    },
+    {
+      "titolo": "Iscrizione prove 1 modulo",
+      "data": "15-01-2019 16:08",
+      "contenuto": "<p>Coloro che intendono sostenere le prove di esame/esonero relative al 1 modulo del corso sono invitati ad inviare comunicazione al docente, nei giorni immediatamente precedenti la prova di interesse, mediante mail a giorgio.gambosi@uniroma2.it, specificando nome, cognome e matricola.</p><hr/>"
+    },
+    {
+      "titolo": "Prove scritte di esame/esonero",
+      "data": "15-01-2019 16:06",
+      "contenuto": "<p>Le prove scritte di esame/esonero di Gennaio-Febbraio 2019 avranno luogo per il primo modulo in data 21-1 alle ore 15\u00a0 e in data 6-2 alle ore 15 in entrambi i casi in aula 4PP2. Per quanto riguarda il secondo modulo, le prove avranno luogo in data 21-1 alle ore 10\u00a0 in aula 4PP2 e in data 6-2 alle ore 10 in aula T4.</p><hr/>"
+    },
+    {
+      "titolo": "Lezioni annullate",
+      "data": "26-11-2018 17:42",
+      "contenuto": "<p>Per cause di forza maggiore le lezioni previste per marted\u00ec 27-11-2018 e mercoled\u00ec 28-11-2018 sono annullate. Saranno recuperate in data da definire</p><hr/>"
+    },
+    {
+      "titolo": "Lezione annullata",
+      "data": "15-10-2018 20:27",
+      "contenuto": "<p>Per cause di forza maggiore la lezione prevista per marted\u00ec 16-10-2018 \u00e8 annullata. Sar\u00e0 recuperata in data da definire</p><hr/>"
+    },
+    {
+      "titolo": "Aula",
+      "data": "08-10-2018 18:24",
+      "contenuto": "<p>A partire da mercoled\u00ec 9 le lezioni avranno luogo in aula 6 edificio PP2</p>"
+    }
+  ],
+  "lezioni": [
+    {
+      "id": "48",
+      "data": "05-06-2019",
+      "contenuto": "<p>NP-completezza di Dominating set. Esercitazione: prove di NP-completezza</p>"
+    },
+    {
+      "id": "47",
+      "data": "30-05-2019",
+      "contenuto": "<p>NP-completezza di Percorso Hamiltoniano e Long Path. NP-completezza dei problemi 3-Colorabilit\u00e0, k-Colorabilit\u00e0 e Colorabilit\u00e0</p>"
+    },
+    {
+      "id": "46",
+      "data": "29-05-2019",
+      "contenuto": "<p>NP-completezza di Independent set e Clique. Il problema Partizione. Problemi numerici e algoritmi pseudopolinomiali. NP-completezza in senso debole e in senso forte. Il problema ciclo Hamiltoniano. NP-completezza in senso forte di TSP.</p>"
+    },
+    {
+      "id": "45",
+      "data": "23-05-2019",
+      "contenuto": "<p>Modulo 2. Dimostrazioni di NP-completezza: 3SAT e Vertex Cover.</p>"
+    },
+    {
+      "id": "44",
+      "data": "22-05-2019",
+      "contenuto": "<p>Modulo 2. Il teorema di Cook-Levini.</p>"
+    },
+    {
+      "id": "43",
+      "data": "16-05-2019",
+      "contenuto": "<p>Modulo 2. La caratterizzazione alternativa della classe NP. Dimostrazioni di appartenenza di problemi ad NP.</p>"
+    },
+    {
+      "id": "42",
+      "data": "15-05-2019",
+      "contenuto": "<p>Modulo2. La classe NP. Appartenenza ad NP dei problemi SAT, CLIQUE, LONG PATH. Il problema 2QBF</p>"
+    },
+    {
+      "id": "41",
+      "data": "09-05-2019",
+      "contenuto": "<p>Modulo 2. Codifiche ragionevoli e irragionevoli. Linguaggio delle istanze. Differenze fra complessit\u00e0 di problemi e complessit\u00e0 dei linguaggi e dipendeza dalla complessit\u00e0 del linguaggio delle istanze: linguaggi complemento e problemi complemento.</p>"
+    },
+    {
+      "id": "40",
+      "data": "08-05-2019",
+      "contenuto": "<p>Modulo 2. Problemi e complessit\u00e0: tipologie di problemi (di ottimizzazione, di ricerca, di enumerazione, di decisione). Problemi di decisione e codifiche. Esempio il problema SAT.</p>"
+    },
+    {
+      "id": "39",
+      "data": "02-05-2019",
+      "contenuto": "<p>Modulo 2. Riduzioni polinomiali, chiusura, completezza, linguaggi separatori. Classi complemento. P=coP. La classe coNP e la seconda congettura della teoria della complessit\u00e0 computazionale.</p>"
+    },
+    {
+      "id": "38",
+      "data": "18-04-2019",
+      "contenuto": "<p>Modulo 2. Le classi P, NP, EXP, NEXP, PSPACE, NPSPACE e loro relazioni. P diverso da EXP. PSPACE=NPSPACE. Congettura fondamentale della teoria della complessit\u00e0 computazionale.</p>"
+    },
+    {
+      "id": "37",
+      "data": "17-04-2019",
+      "contenuto": "<p>Modulo 2. Relazioni fra classi NTIME e DTIME. Teorema di compressione. Teorema di accelerazione.</p>"
+    },
+    {
+      "id": "36",
+      "data": "11-04-2019",
+      "contenuto": "<p>Modulo 2.\u00a0<span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Classi di complessit\u00e0 DTIME[f(n)], DSPACE[f(n)], NTIME[f(n)], NSPACE[f(n)]: definizioni e relazioni fra classi detereministiche e fra classi non detreministiche. Funzioni space- e time-constructible (definizione) e loro relazione con la definizione delle classi non deterministiche. Il Gap-Theorem (solo enunciato)</span></p>"
+    },
+    {
+      "id": "35",
+      "data": "10-04-2019",
+      "contenuto": "<p>Modulo 2. Misure di complessit\u00e0: misure statiche e misure dinamiche. Gli assiomi di Blum. Le misure dtime, dspace, ntime, nspace e loro relazioni. Correlazione polinomiale dei diversi modelli di macchine di Turing e di macchine di Turing e programmi in Pascal minimo.</p>"
+    },
+    {
+      "id": "34",
+      "data": "04-04-2019",
+      "contenuto": "<p>Modulo 2.\u00a0<span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Riducibilit\u00e0 many-to-one fra linguaggi ed applicazioni alle porve di accettabilit\u00e0/decidibilit\u00e0 o non accettabilit\u00e0/decidibilit\u00e0.</span></p>\n<p><span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Introduzione alla Teoria della Complessit\u00e0 Computazionale: la torre di Hanoi.</span></p>"
+    },
+    {
+      "id": "33",
+      "data": "03-04-2019",
+      "contenuto": "<p>Modulo 2. I<span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">nsiemi non numerabili:non numerabilit\u00e0 dell'insieme dei linguaggi su un alfabeto finito.\u00a0</span><span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Halting problem: accettabilit\u00e0 e non decidibilit\u00e0.</span></p>"
+    },
+    {
+      "id": "32",
+      "data": "28-03-2019",
+      "contenuto": "<p>Modulo 2.\u00a0<span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Esercitazione: programma in Pascal minimo che simula una computazione non deterministica.\u00a0</span><span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Cardinalit\u00e0 di insiemi e numeri transfiniti. Insiemi numerabili:numerabilit\u00e0 dell'insieme delle macchina di Turing.</span></p>"
+    },
+    {
+      "id": "31",
+      "data": "27-03-2019",
+      "contenuto": "<p>Modulo 2.\u00a0<span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">La tesi di Church-Turing. Il linguaggio Pascal minimo e sua equivalenza con il modello di calcolo Macchina di Turing. Descrizione della Macchina di Turing Universale in Pascal minimo</span></p>"
+    },
+    {
+      "id": "30",
+      "data": "21-03-2019",
+      "contenuto": "<p>Modulo 2. Linguaggi, linguaggi complemento. Linguaggi e riconoscitori: linguaggi accettabili, linguaggi decidibili. Funzioni e trasduttori: funzioni (totali o meno) calcolabili. Relazioni fra decidibilit\u00e0 di un linguaggio e calcolabilit\u00e0 di una funzione.</p>"
+    },
+    {
+      "id": "29",
+      "data": "20-03-2019",
+      "contenuto": "<p>Modulo 2. La Macchina di Turing Universale.</p>"
+    },
+    {
+      "id": "28",
+      "data": "14-03-2019",
+      "contenuto": "<p>Modulo 2. Equivalenza fra macchine ad alfabeto generico e macchine ad alfabeto binario. Totalit\u00e0 dell'insieme delle quintuple. Macchine non deterministiche, equivalenza fra il modello deterministico e quello non deterministico.</p>"
+    },
+    {
+      "id": "27",
+      "data": "13-03-2019",
+      "contenuto": "<p>Modulo 2. \u00a0Equivalenza dei modelli a testine indipendenti e a testine solidali: descrizione delle quintuple. Equivalenza dei modelli a k nastri e a un nastro. Equivalenza dei modelli ad alfabeto generico e ad alfabeto binario: codifica dell'alfabeto generico.</p>"
+    },
+    {
+      "id": "26",
+      "data": "07-03-2019",
+      "contenuto": "<p>Modulo 2. Macchina di Turing che verifica se una data parola \u00e8 una palindromia. Macchine di Turing: trasduttori e riconoscitori. stato globale, transizione, computazione. Equivalenza dei modelli a testine indipendenti e a testine solidali (descrizione ad alto livello.</p>"
+    },
+    {
+      "id": "25",
+      "data": "06-03-2019",
+      "contenuto": "<p>Modulo 2. Introduzione alla calcolabilit\u00e0: problemi e istanze, procedimenti risolutivi, il concetto di operazione elementare. Esempio dell'addizione: descrizione informale della macchina di Turing a tre nastri che calcola la somma di due numeri. Definizione di macchina di Turing.</p>"
+    },
+    {
+      "id": "24",
+      "data": "11-01-2019",
+      "contenuto": "<p>Struttura di un parser. Parsing top-down e bottom-up. Linguaggi LL(k).</p>"
+    },
+    {
+      "id": "23",
+      "data": "09-01-2019",
+      "contenuto": "<p>Algoritmo CYK. Strttura di un compilatore. Analisi lessicale e semantica</p>"
+    },
+    {
+      "id": "22",
+      "data": "08-01-2019",
+      "contenuto": "<p>L'algoritmo Cocke-Yunger-Kasami</p>"
+    },
+    {
+      "id": "21",
+      "data": "19-12-2018",
+      "contenuto": "<p>NPDA, e grammatiche in Forma normale di Greibach</p>"
+    },
+    {
+      "id": "20",
+      "data": "18-12-2018",
+      "contenuto": "<p>PDA, condizioni di accettazione</p>"
+    },
+    {
+      "id": "19",
+      "data": "14-12-2018",
+      "contenuto": "<p>Forma normale di Greibach</p>"
+    },
+    {
+      "id": "18",
+      "data": "12-12-2018",
+      "contenuto": "<p>Pumping lemma per linguaggi CF. Propriet\u00e0 di chiusra dei linguaggi CF. Decidibilit\u00e0 di predicati su linguaggi CF</p>"
+    },
+    {
+      "id": "17",
+      "data": "11-12-2018",
+      "contenuto": "<p style=\"font-stretch: normal; font-size: 12px; line-height: normal; font-family: 'Helvetica Neue';\">Forma normale di chomsky. Pumping lemma per i linguaggi CF</p>"
+    },
+    {
+      "id": "16",
+      "data": "07-12-2018",
+      "contenuto": "<p style=\"font-stretch: normal; font-size: 12px; line-height: normal; font-family: 'Helvetica Neue';\">Grammatiche in forma ridotta</p>"
+    },
+    {
+      "id": "15",
+      "data": "05-12-2018",
+      "contenuto": "<p style=\"font-stretch: normal; font-size: 12px; line-height: normal; font-family: 'Helvetica Neue';\">Grammatiche e linguaggi context free. Derivazioni destre e sinistre, alberi sintattici</p>"
+    },
+    {
+      "id": "14",
+      "data": "04-12-2018",
+      "contenuto": "<p style=\"font-stretch: normal; font-size: 12px; line-height: normal; font-family: 'Helvetica Neue';\">Minimizzazione di ASF</p>"
+    },
+    {
+      "id": "13",
+      "data": "21-11-2018",
+      "contenuto": "<p style=\"font-stretch: normal; font-size: 12px; line-height: normal; font-family: 'Helvetica Neue';\">Relazioni tra grammatiche di tipo 3 e ASF, trasformazione di grammatiche di tipo 3 in espressioni regolari equivalenti</p>"
+    },
+    {
+      "id": "12",
+      "data": "20-11-2018",
+      "contenuto": "<p style=\"font-stretch: normal; font-size: 12px; line-height: normal; font-family: 'Helvetica Neue';\">Predicati definibili dei linguaggi regolari; relazioni tra grammatiche di tipo 3 e ASF</p>"
+    },
+    {
+      "id": "11",
+      "data": "14-11-2018",
+      "contenuto": "<p>Relazione tra espressioni regolari e ASF. Pumping lemma per il linguaggi regolari.</p>"
+    },
+    {
+      "id": "10",
+      "data": "13-11-2018",
+      "contenuto": "<p>Propriet\u00e0 dei chiusura dei linguaggi regolari. Relazione tra espressioni regolari e ASF</p>"
+    },
+    {
+      "id": "9",
+      "data": "07-11-2018",
+      "contenuto": "<p>Automi con epsilon-transizioni. Equivalenza tra ASFD, ASFND e epsilon-ASFND</p>"
+    },
+    {
+      "id": "8",
+      "data": "06-11-2018",
+      "contenuto": "<p>Automi a stati finiti non deterministici</p>"
+    },
+    {
+      "id": "7",
+      "data": "31-10-2018",
+      "contenuto": "<p>Automi a stati finiti deterministici</p>"
+    },
+    {
+      "id": "6",
+      "data": "24-10-2018",
+      "contenuto": "<p>Automi e riconoscimento di linguaggi. Configurazioni. Computazioni. Condizioni di accettazione</p>"
+    },
+    {
+      "id": "5",
+      "data": "17-10-2018",
+      "contenuto": "<p style=\"font-stretch: normal; font-size: 12px; line-height: normal; font-family: 'Helvetica Neue';\">Derivazioni in grammatiche formali. Linguaggi generati. Gerarchia di Chomsky</p>"
+    },
+    {
+      "id": "4",
+      "data": "10-10-2018",
+      "contenuto": "<p style=\"font-stretch: normal; font-size: 12px; line-height: normal; font-family: 'Helvetica Neue';\">Grammatiche formali. Alfabeti di terminali e di non terminali. Produzioni</p>"
+    },
+    {
+      "id": "3",
+      "data": "09-10-2018",
+      "contenuto": "<p style=\"font-stretch: normal; font-size: 12px; line-height: normal; font-family: 'Helvetica Neue';\">Espressioni regolari: sintassi e semantica. Rappresentazione di linguaggi</p>"
+    },
+    {
+      "id": "2",
+      "data": "03-10-2018",
+      "contenuto": "<p>Diagonalizzazione e suo utilizzo per mostrare l'eistenza di problemi non risolubili in modo algoritmico. Alfabeti, stringhe, linguaggi. Operazioni sui linguaggi.</p>"
+    },
+    {
+      "id": "1",
+      "data": "02-10-2018",
+      "contenuto": "<p>Introduzione al corso. Algoritmi, modelli di calcolo, programmi. Esistenza di problemi non risolubili in modo algoritmico</p>"
+    }
+  ],
+  "materiale": [
+    {
+      "titolo": "Risultati prova scritta primo modulo, del 24-9-2019",
+      "dataUpload": "26.09.2019 10:30:42",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/FO/risultati240919.pdf",
+      "dimensione": "10 KB"
+    },
+    {
+      "titolo": "Testo prova scritta primo modulo, del 24-9-2019",
+      "dataUpload": "26.09.2019 10:16:07",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/FO/esame240919.pdf",
+      "dimensione": "40 KB"
+    },
+    {
+      "titolo": "Risultati prova scritta 1 modulo, del 13-9-2019",
+      "dataUpload": "16.09.2019 12:09:28",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/FO/risultati130919.pdf",
+      "dimensione": "10 KB"
+    },
+    {
+      "titolo": "Testo prova scritta 1 modulo, del 13-9-2019",
+      "dataUpload": "16.09.2019 12:08:54",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/FO/esame130919.pdf",
+      "dimensione": "39 KB"
+    },
+    {
+      "titolo": "Risultati prova scritta primo modulo, del 4-7-2019",
+      "dataUpload": "07.07.2019 16:44:37",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/FO/risultati040719.pdf",
+      "dimensione": "10 KB"
+    },
+    {
+      "titolo": "Testo prova scritta primo modulo, del 4-7-2019",
+      "dataUpload": "07.07.2019 16:43:44",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/FO/esame040719.pdf",
+      "dimensione": "62 KB"
+    },
+    {
+      "titolo": "<span style=\"background-color: #f3f3f3;\">Testo prova di esonero del 19-6-2019, con soluzioni esercizi</span>",
+      "dataUpload": "04.07.2019 16:48:41",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/FO/esame190619.pdf",
+      "dimensione": "59 KB"
+    },
+    {
+      "titolo": "Risultati prova scritta 1 modulo, del 19-6-2019",
+      "dataUpload": "21.06.2019 13:35:11",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/FO/risultati190619.pdf",
+      "dimensione": "10 KB"
+    },
+    {
+      "titolo": "Mod. 2, esercitazione del 31/05/2019",
+      "dataUpload": "04.06.2019 18:33:50",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/FO/Esercitazione del 31-05-2019.pdf",
+      "dimensione": "496 KB"
+    },
+    {
+      "titolo": "Mod. 2, esercitazione del 24/05/2019",
+      "dataUpload": "30.05.2019 18:23:05",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/FO/Esercitazione del 24-05-2019.pdf",
+      "dimensione": "458 KB"
+    },
+    {
+      "titolo": "Mod. 2, esercitazione del 03/05/2019",
+      "dataUpload": "30.05.2019 18:21:50",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/FO/Esercitazione del 03-05-2019.pdf",
+      "dimensione": "386 KB"
+    },
+    {
+      "titolo": "Mod. 2, esercitazione del 17/05/2019",
+      "dataUpload": "22.05.2019 08:50:28",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/FO/SATconChi1.pdf",
+      "dimensione": "105 KB"
+    },
+    {
+      "titolo": "Mod. 2, esercitazione del 10/05/2019",
+      "dataUpload": "13.05.2019 18:20:29",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/FO/Esercitazione del 10-05-2019.pdf",
+      "dimensione": "431 KB"
+    },
+    {
+      "titolo": "Mod. 2, esercitazione del 12/04/2019",
+      "dataUpload": "17.04.2019 18:59:06",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/FO/Esercitazione12-04-2019.pdf",
+      "dimensione": "404 KB"
+    },
+    {
+      "titolo": "Mod. 2, esercitazione del 05/04/2019",
+      "dataUpload": "17.04.2019 18:58:49",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/FO/Esercitazione05-04-2019.pdf",
+      "dimensione": "367 KB"
+    },
+    {
+      "titolo": "Mod. 2, esecitaztione del 20/03/2019",
+      "dataUpload": "03.04.2019 19:55:10",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/FO/Esercitazione29-03-2019.pdf",
+      "dimensione": "181 KB"
+    },
+    {
+      "titolo": "Modulo 2. Esercizi: linguaggi e complessit\u00e0",
+      "dataUpload": "19.03.2019 17:55:48",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/FO/Es-LinguaggiEComplessita.pdf",
+      "dimensione": "117 KB"
+    },
+    {
+      "titolo": "Modulo 2. Esercizi: cardinalit\u00e0 di insiemi",
+      "dataUpload": "19.03.2019 17:54:57",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/FO/EsCardinalitaInsiemi.pdf",
+      "dimensione": "91 KB"
+    },
+    {
+      "titolo": "Modulo 2. Esercizi: la classe NP",
+      "dataUpload": "19.03.2019 17:54:00",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/FO/EsClasseNP.pdf",
+      "dimensione": "267 KB"
+    },
+    {
+      "titolo": "Modulo 2. Esercizi: la classe P",
+      "dataUpload": "19.03.2019 17:53:31",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/FO/EsClasseP.pdf",
+      "dimensione": "181 KB"
+    },
+    {
+      "titolo": "Modulo 2. Esercizi: accettabilit\u00e0, decidibilit\u00e0, calcolabilit\u00e0",
+      "dataUpload": "19.03.2019 17:52:45",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/FO/EsLinguaggiDecidibili.pdf",
+      "dimensione": "99 KB"
+    },
+    {
+      "titolo": "Modulo 2. Esercizi: Macchine di Turing",
+      "dataUpload": "19.03.2019 17:51:43",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/FO/EsMacchineTuring.pdf",
+      "dimensione": "139 KB"
+    },
+    {
+      "titolo": "Mod. 2, dispensa 9: la casse NP",
+      "dataUpload": "05.03.2019 17:49:07",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/FO/D09ClasseNP.pdf",
+      "dimensione": "330 KB"
+    },
+    {
+      "titolo": "Mod. 2, dispensa 8: la casse P",
+      "dataUpload": "05.03.2019 17:48:40",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/FO/D08ClasseP.pdf",
+      "dimensione": "146 KB"
+    },
+    {
+      "titolo": "Mod. 2, dispensa 7: linguaggi e problemi",
+      "dataUpload": "05.03.2019 17:48:07",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/FO/D07LinguaggiEProblemi.pdf",
+      "dimensione": "153 KB"
+    },
+    {
+      "titolo": "Mod. 2, dispensa 6: linguaggi e complessit\u00e0",
+      "dataUpload": "05.03.2019 17:47:39",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/FO/D06LinguaggiEComplessita.pdf",
+      "dimensione": "236 KB"
+    },
+    {
+      "titolo": "Mod. 2, dispensa 5: accettabilit\u00e0, decidibilit\u00e0 e l'Halting Problem",
+      "dataUpload": "05.03.2019 17:47:00",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/FO/D05HaltingProblem.pdf",
+      "dimensione": "130 KB"
+    },
+    {
+      "titolo": "Mod. 2, dispensa 4: ordini di infinito",
+      "dataUpload": "05.03.2019 17:46:35",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/FO/D04Infinito.pdf",
+      "dimensione": "143 KB"
+    },
+    {
+      "titolo": "Mod. 2, dispensa 3: calcolabilit\u00e0, decidibilit\u00e0 e tesi di Church-Turing",
+      "dataUpload": "05.03.2019 17:44:20",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/FO/D03TesiDiChurchTuring.pdf",
+      "dimensione": "169 KB"
+    },
+    {
+      "titolo": "Mod. 2, dispensa 2: macchine di Turing e Macchina di Turing Universale",
+      "dataUpload": "05.03.2019 17:42:04",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/FO/D02MacchineTuring.pdf",
+      "dimensione": "151 KB"
+    },
+    {
+      "titolo": "Mod. 2, dispensa 1: introduzione alla calcolabilit\u00e0",
+      "dataUpload": "05.03.2019 17:41:01",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/FO/D01Introduzione.pdf",
+      "dimensione": "165 KB"
+    },
+    {
+      "titolo": "<span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Testo prova di esonero del 6-2-2019, con soluzioni esercizi</span>",
+      "dataUpload": "09.02.2019 14:32:28",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/FO/esonero060219.pdf",
+      "dimensione": "56 KB"
+    },
+    {
+      "titolo": "<span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Risultati prova scritta 1 modulo, del 6-2-2019</span>",
+      "dataUpload": "09.02.2019 14:32:11",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/FO/risultati060219.pdf",
+      "dimensione": "20 KB"
+    },
+    {
+      "titolo": "Risultati prova scritta 1 modulo, del 21-1-2019",
+      "dataUpload": "24.01.2019 13:05:59",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/FO/risultati210119.pdf",
+      "dimensione": "9 KB"
+    },
+    {
+      "titolo": "Testo prova di esonero del 21-1-2019, con soluzioni esercizi",
+      "dataUpload": "22.01.2019 15:06:43",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/FO/esonero210119.pdf",
+      "dimensione": "58 KB"
+    },
+    {
+      "titolo": "Slides sul parsing",
+      "dataUpload": "15.01.2019 16:00:08",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/FO/slides parsing.pdf",
+      "dimensione": "94 KB"
+    },
+    {
+      "titolo": "ASF con epsilon-transizioni",
+      "dataUpload": "07.11.2018 09:33:55",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/FO/asfeps.pdf",
+      "dimensione": "36 KB"
+    },
+    {
+      "titolo": "Esercizi sugli automi a pila",
+      "dataUpload": "28.10.2018 19:32:14",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/FO/quiz_pda.pdf",
+      "dimensione": "40 KB"
+    },
+    {
+      "titolo": "Esercizi su grammatiche e linguaggi context free",
+      "dataUpload": "28.10.2018 19:31:03",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/FO/quiz_cfg.pdf",
+      "dimensione": "62 KB"
+    },
+    {
+      "titolo": "Esercizi su linguaggi ed espressioni regolari",
+      "dataUpload": "28.10.2018 19:30:34",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/FO/quiz_regolari.pdf",
+      "dimensione": "63 KB"
+    },
+    {
+      "titolo": "Esercizi sugli automi a stati finiti",
+      "dataUpload": "28.10.2018 19:30:09",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/FO/quiz_asf.pdf",
+      "dimensione": "79 KB"
+    },
+    {
+      "titolo": "Raccolta di quesiti proposti all'esame svolti",
+      "dataUpload": "28.10.2018 19:29:24",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/FO/prove esame.pdf",
+      "dimensione": "279 KB"
+    }
+  ],
+  "programma": "<table><tr><td><p><span style=\"text-decoration: underline;\"><strong>Primo modulo</strong></span></p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Introduzione al corso: algoritmi, problemi, modelli di calcolo</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Caratteristiche elementari dei linguaggi</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Grammatiche di Chomsky e loro gerarchia</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Generazione ed accettazione di linguaggi</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Riconoscimento di linguaggi: automi</p>\n<p>\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Automi a stati finiti determinitici e non deterministici; equivalenza tra essi</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Relazioni tra automi a stati finiti e grammatiche di tipo 3 (regolari)</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Pumping lemma per i linguaggi regolari</p>\n<p>- Propriet\u00e0 di chiusura dei linguaggi regolari</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Predicati decidibili sui linguaggi regolari</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Espressioni regolari e loro equivalenza con gli automi a stati finiti e con le grammatiche regolari</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Minimizzazione di automi a stati finiti</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Linguaggi context free</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Grammatiche di tipo 2: forme ridotte e forme normali (Chomsky, Greibach)</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Propreit\u00e0 di chiusura dei linguaggi CF</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Decidibilit\u00e0 di predicati su linguaggi CF</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Pumping lemma per i linguaggi context free</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Automi a pila e linguaggi context free</p>\n<p>- Automi a pila deterministici</p>\n<p>- Ambiguit\u00e0 e sua indecidibilit\u00e0</p>\n<p>- L'algoritmo CYK</p>\n<p>- Analisi sintattica in un compilatore, linguaggi LL(k) e LR(k) (cenni)</p>\n<p>\u00a0</p>\n<p>\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"><span style=\"text-decoration: underline;\"><strong>Secondo modulo</strong></span></p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"><strong>Parte 1, calcolabilit\u00e0:</strong></p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Ancora sulle Macchine di Turing: trasduttori e riconoscitori, Macchine ad un nastro e a k nastri, Macchine\u00a0 deterministiche e non deterministiche. Macchina di Turing universale.\u00a0<br>- Linguaggi e funzioni. Linguaggi e linguaggi complemento. Accettabilit\u00e0 e decidibilit\u00e0 di linguaggi. Calcolabilit\u00e0 di funzioni. La tesi di Church-Turing e modello di calcolo equivalenti alla macchina di Turing.</br></p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Cardinalit\u00e0 di insiemi. Insiemi numerabili e non numerabili. Diagonalizzazione.<br>- Linguaggi non decidibili.\u00a0</br></p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Riducibilit\u00e0 tra linguaggi</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"><strong>Parte 2, complessit\u00e0:</strong></p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Misure di complessit\u00e0: DTIME, DSPACE, NTIME, NSPACE.\u00a0<br>- Classi di linguaggi. Gap theorem e funzioni time-constructible.\u00a0Teoremi di compressione e di accelerazione.\u00a0Definizione delle classi di complessit\u00e0 spaziale e temporale: P, NP, PSPACE, NPSPACE, EXP, coNP. Inclusione, inclusione propria, coincidenza. Completezza.</br></p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Problemi e codifiche. Problemi decisionali e loro complemento.\u00a0<br>- La classe P. Riducibilit\u00e0 polinomiale e chiusura di P rispetto alla riducibilit\u00e0 polinomiale. Problemi in P: 2-SAT, 2-COLORABILITA'. Funzioni in FP: trasformazione di una funzione booleana in forma congiuntiva normale.\u00a0<br>- La classe NP. Linguaggi NP-completi e Teorema di Cook. Chiusura rispetto alla riduzione polinomiale. Esempi di dimostrazioni di NP-completezza: 3-SAT, Vertex Cover, 3-Colorability, Colorability, Independent Set, Clique, Hamiltonian Circuit/Path, Longest Path, Commesso Viaggiatore. Problemi NP-intermedi: il teorema di Ladner.</br></br></p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Algoritmi pseudo-polinomiali, problemi numerici e NP-completezza in senso forte; il problema PARTIZIONE.</p></td></tr></table>",
+  "testiRiferimento": "<table><tr><td><p><strong><span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Modulo 1</span></strong></p>\n<p><span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">G. Ausiello, F. D'Amore, G. Gambosi, L. Laura \"Linguaggi, Modelli, Complessit\u00e0\" nuova edizione. Franco Angeli, 2014. ISBN 978-88-917-0553-2.</span></p>\n<p>\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"><strong>Modulo 2</strong></p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Dispense a cura del docente, disponibili in questa pagina.</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Per consultazione: il testo utilizzato nel modulo 1.</p></td></tr></table>",
+  "ricevimento": "<table><tr><td><p><span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"><strong>Modulo 1</strong></span></p>\n<p><span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Al termine delle lezioni. E' possibile inoltre richiedere un appuntamento via mail.</span></p>\n<p>\u00a0</p>\n<p><span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"><strong>Modulo 1</strong></span></p>\n<p>\u00a0</p>\n<p><span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Al termine della lezione del mercoled\u00ec. E' possibile (e preferibile) richiedere un appuntamento via mail.</span></p></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td><p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">L'esame prevede una coppia di prove (scritto e colloquio orale) relative al primo modulo e una coppia di prove (scritto e colloquio orale) relative al secondo modulo. Ciascuna coppia di prove pu\u00f2 essere sostenuta indipendentemente dall'altra. Si richiede per\u00f2 che scritto e orale di ciascun modulo siano sostenuti nello stesso appello. Il voto finale verr\u00e0 calcolato come media dei voti conseguiti nelle prove relative ai due moduli. Per l'iscrizione all'esame \u00e8 richiesta la prenotazione sul sito delphi.uniroma2.it</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Sono previsti per il corso di Fondamenti di Informatica due appelli di esame per ciascuna sessione. Tuttavia, per ognuno dei due moduli ciascuno studente potr\u00e0 sostenere un numero massimo di quattro prove di esame nel corso di un anno accademico. In particolare, potr\u00e0 sostenere l'esame relativo ad un modulo in entrambi gli appelli della sessione immediatamente successiva al termine delle lezioni del modulo stesso. Per quanto riguarda le altre sessioni, le date a disposizione saranno due, ma lo studente potr\u00e0 sostenere l'esame in una sola delle due date.</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Nel dettaglio:</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Modulo 1:</p>\n<ul style=\"font-family: verdana, arial, helvetica, sans-serif; font-size: 11px;\">\n<li>due appelli di esame a disposizione nella sessione estiva anticipata (febbraio) - ciascuno studente pu\u00f2 sostenere l'esame in entrambi gli appelli</li>\n<li>due appelli di esame a disposizione nella sessione estiva (giugno) - ciascuno studente pu\u00f2 sostenere l'esame in un solo appello a sua scelta</li>\n<li>due appelli di esame a disposizione nella sessione autunnale (settembre) - ciascuno studente pu\u00f2 sostenere l'esame in un solo appello a sua scelta</li>\n</ul>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Modulo 2:</p>\n<ul style=\"font-family: verdana, arial, helvetica, sans-serif; font-size: 11px;\">\n<li>due appelli di esame a disposizione nella sessione estiva (giugno) - ciascuno studente pu\u00f2 sostenere l'esame in entrambi gli appelli</li>\n<li>due appelli di esame a disposizione nella sessione autunnale (settembre) - ciascuno studente pu\u00f2 sostenere l'esame in un solo appello a sua scelta</li>\n<li>due appelli di esame a disposizione nella sessione invernale (febbraio) - ciascuno studente pu\u00f2 sostenere l'esame in un solo appello a sua scelta</li>\n</ul>\n<p><strong>Informazioni specifiche alla prova di esame per il 1 modulo</strong></p>\n<p><strong><br/></strong>La prova scritta di esame prevede l'assegnazione di un punteggio compreso tra 0 e 33. Gli studenti che otterranno un punteggio maggiore o uguale a 18 potranno, se vorranno, mantenere tale punteggio come voto per il modulo (30 e lode se il punteggio \u00e8 maggiore di 30), non sostenendo la prova orale. Gli studenti con punteggio della prova scritta pari a 15, 16 o 17 dovranno necessariamente, per superare l'esame, sostenere la prova orale e raggiungere, nella valutazione scritto+orale, la sufficienza.</p>\n<p>\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"><strong>Informazioni specifiche alla prova di esame per il 2 modulo</strong></p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"><strong><br/></strong>La prova scritta di esame prevede l'assegnazione di un punteggio compreso tra 0 e 30. Gli studenti che otterranno un punteggio compreso fra 18 e 24 potranno, se vorranno, mantenere tale punteggio come voto per il modulo, non sostenendo la prova orale. Gli studenti che otterranno un punteggio compreso fra 25 e 30 potranno, se vorranno, avere riconosciuto il voto 24, non sostenendo la prova orale. In entrambi i casi, gli studenti hanno facolt\u00e0 di sostenere la prova orale se intendono provare ad incrementare il voto.</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Infine, gli studenti con punteggio della prova scritta pari a 15, 16 o 17 dovranno necessariamente, per superare l'esame, sostenere la prova orale e raggiungere, nella valutazione scritto+orale, la sufficienza.</p></td></tr></table>"
+}

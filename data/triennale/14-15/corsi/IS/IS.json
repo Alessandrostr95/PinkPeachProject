@@ -1,0 +1,47 @@
+{
+  "nomeCorso": "Ingegneria del software",
+  "docente": [
+    {
+      "first_name": "Benedetto",
+      "second_name": "Intrigila"
+    },
+    {
+      "first_name": "Andrea",
+      "second_name": "D'Ambrogio"
+    }
+  ],
+  "annoAccademico": "2014-2015",
+  "crediti": "12",
+  "settore": "INF/01",
+  "anno": "3",
+  "semestre": "1-2",
+  "propedeuticit\u00e0": "Linguaggi e metodologie di programmazione.",
+  "comunicazioni": [
+    {
+      "titolo": "Risultati prova 10 settembre 2015",
+      "data": "15-09-2015 22:28",
+      "contenuto": "<p>Parte Intrigila:<br>Tribuzi Matteo: 25/26</br></p>\n<p>\u00a0</p>\n<p>Parte D'Ambrogio:</p>\n<p><br> - PIACENTINI MATTEO:\u00a0 \u00a0 28<br> - POMPILI VALERIO: 18<br/> - TEMPESTA MATTEO: 25<br/> - ZOMPETTA ANDREA: 18</br></br></p><hr/>"
+    },
+    {
+      "titolo": "Risultati prova 6 luglio 2015",
+      "data": "15-07-2015 00:15",
+      "contenuto": "<p>Modulo Intrigila:<br>- Maceratesi Ivan 17/18<br/>- Tribuzi Matteo Insufficiente</br></p>\n<p>Modulo D'Ambrogio vedi file sulla pagina del corso.</p><hr/>"
+    },
+    {
+      "titolo": "Risultati prova 9 giugno 2015",
+      "data": "19-06-2015 22:04",
+      "contenuto": "<p>Modulo Intrigila:<br>- Maceratesi Ivan Insufficiente<br/>- Tribuzi Matteo Insufficiente</br></p>\n<p>Modulo D'Ambrogio vedi file sulla pagina del corso.</p><hr/>"
+    },
+    {
+      "titolo": "Gruppi",
+      "data": "07-10-2014 01:46",
+      "contenuto": "<p>Tutti gli studenti (indipendentemente dalla frequenza) devono formare dei gruppi e darne comunicazione al docente.</p>"
+    }
+  ],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td><p>Programma <br>Prima Parte: <br>Il ciclo di vita del software <br>Gestione dei requisiti software (Principalmente). <br>Design (Cenni). <br/>Sviluppo (Cenni). <br/>Verifica e validazione (Cenni). <br/>Il linguaggio di modellazione UML e il suo uso nell'analisi dei requisiti. </br></br></br></br></p></td></tr></table>",
+  "testiRiferimento": "<table><tr><td><p>I. Sommerville <br>Software Engineering 7 <br/>(o edizioni successive) <br/> <br/>(come integrazione consultare anche: <br/>MACIASZEK, L.A. and LIONG, B.L. (2005): <br/>Practical Software Engineering. A Case Study Approach <br/>Addison Wesley) <br/> <br/>Per UML: <br/>L. Baresi, L. Lavazza, M. Pianciamore <br/>Dall'idea al codice con UML 2 <br/>Addison Wesley</br></p>\n<p>\u00a0</p>\n<p><a href=\"http://www.visual-paradigm.com/product/vp\" target=\"_blank\"><img alt=\"\" src=\"http://images.visual-paradigm.com/images/media/product/vp_logo.gif\"/></a><br/>University of Rome 2 is provided with the use of <a href=\"http://www.visual-paradigm.com/product/vp\" target=\"_blank\">VP</a> for educational purpose by the <a href=\"http://www.visual-paradigm.com/partner/academic/\" target=\"_blank\">Academic Partner Program</a> from <a href=\"http://www.visual-paradigm.com/\" target=\"_blank\">Visual Paradigm</a>.</p></td></tr></table>",
+  "ricevimento": "<table><tr><td><p>Studio 1212 Dente B (tel. 0672594670) Lunedi ore 17-18, Mercoledi ore 17-18 <br>email:intrigil@mat.uniroma2.it</br></p></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

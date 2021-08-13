@@ -1,0 +1,154 @@
+{
+  "nomeCorso": "Calcolo delle probabilit\u00e0",
+  "docente": [
+    {
+      "first_name": "Antonella",
+      "second_name": "Calzolari"
+    }
+  ],
+  "annoAccademico": "2016-2017",
+  "crediti": "6",
+  "settore": "MAT/06",
+  "anno": "1",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [
+    {
+      "titolo": "",
+      "data": "09-05-2017 15:52",
+      "contenuto": "<p>Gioved\u00ec 11 maggio in orario di lezione si svolger\u00e0 la prova d'esonero.</p><hr/>"
+    },
+    {
+      "titolo": "",
+      "data": "04-04-2017 16:12",
+      "contenuto": "<p>Le note del corso e\u00a0i testi delle esercitazioni sono pubblicati sulla mia pagina web\u00a0</p>\n<p><a href=\"mailto:calzolar@mat.uniroma2.it\">calzolar@mat.uniroma2.it</a></p>"
+    }
+  ],
+  "lezioni": [
+    {
+      "id": "23",
+      "data": "30-05-2017",
+      "contenuto": "<p>Parametri infinitesimali ed equazioni di Kolmogorov, calcolo della funzione di transizione della catena a due stati</p>"
+    },
+    {
+      "id": "22",
+      "data": "25-05-2017",
+      "contenuto": "<p>Catene di Markov a tempo continuo: descrzione mediante i tempi di soggiono negli stati e le probabilit\u00e0 di salto. Dimostrazione del fatto che dalla propriet\u00e0 della perdita di memoria segue che la legge dei tempi di soggiorno\u00a0\u00e8 esponenziale.</p>"
+    },
+    {
+      "id": "21",
+      "data": "23-05-2017",
+      "contenuto": "<p>Processi di rinnovo e tasso di rischio di una legge di variabile aleatoria non negativa\u00a0con densit\u00e0.</p>"
+    },
+    {
+      "id": "20",
+      "data": "18-05-2017",
+      "contenuto": "<p>Distribuzione dei tempi di salto del processo di Poisson condizionata al numero di eventi e problema del costo di attesa. Media condizionata\u00a0 al numero di eventi degli intertempi di salto e rappresentazione del valore medio di una variabile aleatoria non negativa.</p>\n<p>\u00a0</p>"
+    },
+    {
+      "id": "19",
+      "data": "16-05-2017",
+      "contenuto": "<p><span style=\"font-family: 'Arial','sans-serif';\"><span style=\"font-size: small;\">Dimostrazione dello splitting, coda con flusso di ingresso Poisson e infiniti sportelli con tempo di servizio a due <span style=\"mso-spacerun: yes;\">\u00a0</span></span><span style=\"font-size: small;\">valori, processo di Poisson composto.</span></span></p>\n<p>\u00a0</p>\n<p>\u00a0</p>"
+    },
+    {
+      "id": "18",
+      "data": "11-05-2017",
+      "contenuto": "<p>Esonero</p>"
+    },
+    {
+      "id": "17",
+      "data": "09-05-2017",
+      "contenuto": "<p>Il processo di Poisson come modello per un flusso di eventi \"rari\".</p>\n<p>Probabilita` che una variabile esponenziale sia pi\u00f9 piccola di un'altra esponenziale ed indipendente. Conclusione\u00a0del \"problema della scorta\" (sulle Note).</p>"
+    },
+    {
+      "id": "16",
+      "data": "04-05-2017",
+      "contenuto": "<p>\u00a0</p>\n<p style=\"margin: 0cm 0cm 0pt; line-height: 150%;\"><span style=\"font-family: 'Arial','sans-serif';\"><span style=\"font-size: small;\">Indipendenza degli incrementi del processo di Poisson.\u00a0Problema della multa.</span></span></p>\n<p style=\"margin: 0cm 0cm 0pt; line-height: 150%;\"><span style=\"font-family: 'Arial','sans-serif';\"><span style=\"font-size: small;\">Somma di due processi di Poisson indipendenti (merging)</span></span><span style=\"font-family: 'Arial','sans-serif';\"><span style=\"font-size: small;\">.\u00a0Problema della scorta.</span></span></p>\n<p>\u00a0</p>"
+    },
+    {
+      "id": "15",
+      "data": "02-05-2017",
+      "contenuto": "<p>\u00a0</p>\n<p style=\"margin: 0cm 0cm 0pt; line-height: 150%;\"><span style=\"font-family: Arial;\"><span style=\"font-size: small;\">Definizione del processo di Poisson e calcolo della legge in un tempo generico, dimostrazione della perdita di memoria del processo di Poisson</span></span></p>\n<p>\u00a0</p>"
+    },
+    {
+      "id": "14",
+      "data": "27-04-2017",
+      "contenuto": "<p>Esercitazione: correzione esoneri a.a. 2009/10 e a.a. 2010/11</p>"
+    },
+    {
+      "id": "13",
+      "data": "20-04-2017",
+      "contenuto": "<p>Dimostrazione della condizione sufficiente per la regolarit\u00e0.</p>\n<p>Dimostrazione dell'unicit\u00e0 del periodo.</p>\n<p>Un caso di\u00a0dinamica markoviana\u00a0a stati finiti non irriducibile ergodica.</p>\n<p>Un caso di dinamica markoviana a stati finiti non irriducibile e\u00a0non ergodica: calcolo del\u00a0limite della potenza n-ma della matrice di transizione e, data la legge al tempo 0, calcolo del limite della legge al tempo n.</p>\n<p>\u00a0</p>\n<p>\u00a0</p>"
+    },
+    {
+      "id": "12",
+      "data": "18-04-2017",
+      "contenuto": "<p>Esercizi</p>\n<p>Enunciato dei principali risultati sull'ergodicit\u00e0</p>"
+    },
+    {
+      "id": "11",
+      "data": "13-04-2017",
+      "contenuto": "<p>Misura invarinte: definizione, esempi, spazio degli stati finito \u00e8 CS per l'esistenza di almeno una, valore sugli stati transienti, esistenza di almeno uno stato persistente \u00e8 CN per l'esistenza, caso irriducibile persistente positivo.</p>\n<p>Definizione di ergodicit\u00e0 e conseguenze.</p>"
+    },
+    {
+      "id": "10",
+      "data": "06-04-2017",
+      "contenuto": "<p>Persistenza e transienza di una catena di nascita e morte con infiniti stati</p>\n<p>Coda con arrivi e partenza con legge bernoulliana</p>\n<p>Comportamento asintotico della\u00a0catena\u00a0a 2 stati</p>"
+    },
+    {
+      "id": "9",
+      "data": "04-04-2017",
+      "contenuto": "<p>Tempi medi di assorbimento nella classe di tutt gli stati persistenti</p>\n<p>Probabilit\u00e0 di estinzione nella catena di nascita e morte con estremi assorbenti</p>\n<p>Esercitazione in classe</p>"
+    },
+    {
+      "id": "8",
+      "data": "30-03-2017",
+      "contenuto": "<p>Condizione necessaria affinch\u00e9 uno stato sia transiente nel caso spazio degli stati finito</p>\n<p>Equazione di Chapman-Kolmogorov</p>\n<p>Transitivit\u00e0 della propriet\u00e0 di comunicazione tra stati</p>\n<p>Decomposizione dello spazio degli stati</p>\n<p>Uscita certa dalla classe degli stati transienti quando ha cardinalita finita</p>\n<p>Legge e valor medio del numero dei passaggi per uno stato</p>\n<p>La probabilit\u00e0 di raggiungere uno stato transiente in un grande numero di passi</p>\n<p>Correzione esercizio</p>"
+    },
+    {
+      "id": "7",
+      "data": "28-03-2017",
+      "contenuto": "<p>Probabilit\u00e0 di assorbimento.</p>\n<p>Condizione sufficiente per la transienza di uno stato.</p>\n<p>Condizione sufficiente per la persistenza di uno stato (non dimostrata).</p>\n<p>Esistenza di almeno uno stato persistente in una classe chiusa finita\u00a0e persistenza delle classi irriducibili finite.</p>"
+    },
+    {
+      "id": "6",
+      "data": "23-03-2017",
+      "contenuto": "<p>Dimostrazione Teorema degli infiniti ritorni</p>\n<p>Tempo di primo ingresso in uno stato</p>\n<p>Legge\u00a0e valore medio del numero di visite ad uno stato</p>\n<p>Esercizi\u00a0</p>"
+    },
+    {
+      "id": "5",
+      "data": "21-03-2017",
+      "contenuto": "<p>Correzione esercizio.</p>\n<p>Catena di una fila di attesa.</p>\n<p>Rappresentazione in forma ricorsiva di una catena.</p>\n<p>Grafico di una catena.</p>\n<p>Stati comunicanti e classi irriducibili.</p>\n<p>Definizione di transienza e persistenza di uno stato.</p>\n<p>Lemma di continuit\u00e0 della misura di probabilit\u00e0</p>\n<p>\u00a0</p>"
+    },
+    {
+      "id": "4",
+      "data": "16-03-2017",
+      "contenuto": "<p>Probabilit\u00e0 di transizione in uno e pi\u00f9 passi.</p>\n<p>Densit\u00e0 di probabilit\u00e0 ad uno\u00a0 pi\u00f9 \u00a0tempi.</p>\n<p>Caratterizzazione di una catena.</p>\n<p>Rovina del giocatore, nascita e morte, urna di Ehrenfest.</p>"
+    },
+    {
+      "id": "3",
+      "data": "14-03-2017",
+      "contenuto": "<p>Richiami su indipendenza di famiglie di eventi e famiglie di variabili aleatorie.</p>\n<p>Definizione di catene di Markov a tempo discreto e spazio discreto.</p>\n<p>Passeggiata aleatoria sugli interi.\u00a0</p>"
+    },
+    {
+      "id": "2",
+      "data": "09-03-2017",
+      "contenuto": ""
+    },
+    {
+      "id": "1",
+      "data": "07-03-2017",
+      "contenuto": "<p>Test di autovalutazione e richiami di probabilit\u00e0</p>\n<p>\u00a0</p>"
+    },
+    {
+      "id": "0",
+      "data": "null",
+      "contenuto": "<p><strong>7 marzo </strong></p>\n<p>Test di autovalutazione e richiami di probabilit\u00e0</p>"
+    }
+  ],
+  "materiale": [],
+  "programma": "<table><tr><td><p>Catene di Markov a tempo discreto e a stati numerabili.</p>\n<p>Processo di Poisson.</p>\n<p>Elementi della teoria dei processi di rinnovo.</p>\n<p>Catene di Markov a tempo continuo.</p>\n<p>\u00a0</p></td></tr></table>",
+  "testiRiferimento": "<table><tr><td><p><span><span style=\"color: #646464; font-family: Arial; font-size: 9pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: IT; mso-fareast-language: IT; mso-bidi-language: AR-SA;\"><span><span style=\"color: #646464; font-family: Arial; font-size: 9pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: IT; mso-fareast-language: IT; mso-bidi-language: AR-SA;\">A.Calzolari, \"Modelli stocastici a valori discreti, Note del corso di CP per la LM in Informatica\"</span></span></span></span></p>\n<p>\u00a0</p>\n<p><span><span style=\"color: #646464; font-family: Arial; font-size: 9pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: IT; mso-fareast-language: IT; mso-bidi-language: AR-SA;\">H.C.Tijms, \"A First Course in Stochastic Models\" </span></span></p>\n<p>\u00a0</p>\n<p><span><span style=\"color: #646464; font-family: Arial; font-size: 9pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: IT; mso-fareast-language: IT; mso-bidi-language: AR-SA;\"><span><span style=\"color: #646464; font-family: Arial; font-size: 9pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: IT; mso-fareast-language: IT; mso-bidi-language: AR-SA;\">P.Baldi, \"Calcolo delle probabilit\u00e0\" </span></span></span></span></p>\n<p>\u00a0</p>\n<p>\u00a0</p></td></tr></table>",
+  "ricevimento": "<table><tr><td><p>Per appuntamento, marted\u00ec\u00a0o gioved\u00ec ore 14, in studio</p></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td><p>Esame scritto in due moduli affrontabili\u00a0in una sola prova o\u00a0in due prove separate e con voto che si conserva per un anno a partire dalla prima prova affrontata. Il primo modulo consiste in uno\u00a0 o pi\u00f9 esercizi sulle catene di Markov a tempo discreto, mentre il secondo modulo sostituisce una prova orale e quindi propone quesiti sulla rimanente parte del programma ai quali occorre rispondere in modo discorsivo ma rigoroso. Il voto finale \u00e8 la media dei due voti.</p>\n<p>In accordo con il regolamento del corso di laurea, lo studente potr\u00e0 accedere a 4 dei 6 appelli proposti (2 appelli per ogni sessione) ma\u00a0ad uno solo nelle sessioni autunnali e invernali.\u00a0</p>\n<p>\u00a0</p>\n<p>\u00a0</p></td></tr></table>"
+}

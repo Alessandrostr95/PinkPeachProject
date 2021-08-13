@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Laboratorio di basi di dati",
+  "docente": [
+    {
+      "first_name": "Antonello",
+      "second_name": "Romaniello"
+    }
+  ],
+  "annoAccademico": "2007-2008",
+  "crediti": "6",
+  "settore": "",
+  "anno": "2",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>1. Introduzione\r\n\r\n2 L'organizzazione fisica dei dati (testo (1), cap. 1 da pag. 3 a pag. 26 escluso paragrafo 1.5)\r\n2.1. Memoria secondaria e gestione del buffer\r\n2.2. Record, blocchi e file\r\n2.3. Accesso sequenziale\r\n2.4. Accesso calcolato e funzioni hash\r\n2.5. Indici primari e secondari\r\n2.6. Strutture ad albero dinamiche: B-tree, B+-tree\r\nnota: per i B-tree e B+-tree si consiglia la lettura del cap. 14 del testo (3) e dell'esempio a pag. 579.\r\n\r\n3. Le transazioni (testo (1), cap. 2) \r\n3.1. Anomalie\r\n3.2. Propriet\u00e0 ACID\r\n3.3. Teoria del controllo della concorrenza\r\n3.4. Tecniche del controllo della concorrenza: two phase locking e MVCC\r\nnota: per MVCC vedere il testo (5), par. 2.2.\r\n\r\n4. L'architettura di MySQL (testo (5) cap. 2)\r\n4.1. La struttura del database\r\n4.2. Le \"storage engines\"\r\n4.3. Il repository dei dati\r\n\r\n5. Programmazione avanzata di basi di dati\r\n5.1. Basi di dati attive e Trigger (testo (1) cap. 5 eccetto 5.6 e 5.8)\r\n5.3. Stored procedure (testo (2))\r\n\r\n6. Ottimizzare le istruzioni SQL (testo (2), testo (5) cap. 5)\r\n6.1. Il piano di esecuzione\r\n6.2. L'ottimizzatore\r\n6.3. Le statistiche\r\n6.4. Il comando EXPLAIN\r\n6.5. Le subquery\r\n6.6. Il Join\r\n6.7. Gli Hint\r\n\r\n7. Ottimizzare l'uso degli indici (testo (2) cap, 6.2)\r\n7.1. Indici e selettivita'\r\n7.2. Query per prefisso\r\n7.3. Indici e distribuzione dei dati\r\n7.4. Indici e funzioni\r\n7.5. Indexed-only columns\r\n7.6. Indici e DML\r\n7.7. Indici e Sort\r\n\r\n9. Accesso ai dati in Java\r\n9.1. JDBC\r\n9.2. Il pattern DAO</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>(1) Basi di dati, Architetture e linee di evoluzione, seconda edizione - McGraw-Hill - Atzeni, Ceri, Fraternali, Paraboschi, Torlone.\r\n\r\n(2) MySQL Reference Manual (versione 5.1)\r\ndisponibile sul sito: www.mysql.com\r\n\r\nAltri testi di consultazione:\r\n(3) Elmasri - Navathe, Sistemi di basi di dati Fondamenti, quinta edizione, Addison Wesley (capitoli 13, 14, 15);\r\n(4) Elmasri - Navathe, Sistemi di basi di dati Complementi, quinta edizione, Addison Wesley;\r\n(5) High Performance MySQL: Optimization, Backups, Replication &amp; Load Balancing - O'Reilly - Jeremy D. Zawodny and Derek J. Balling - ISBN: 0596003064 </td></tr></table>",
+  "ricevimento": "<table><tr><td>In aula dopo la lezione.</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

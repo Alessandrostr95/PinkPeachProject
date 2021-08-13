@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Basi di dati",
+  "docente": [
+    {
+      "first_name": "Loredana",
+      "second_name": "Vigliano"
+    }
+  ],
+  "annoAccademico": "2009-2010",
+  "crediti": "12",
+  "settore": "",
+  "anno": "2",
+  "semestre": "1-2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td> Introduzione \r\n- Modello relazionale \r\n- Algebra relazionale \r\n- Calcolo relazionale \r\n- Flusso di progetto e visione dei dati \r\n- Modello concettuale dei dati \r\n- Disegno logico DB \r\nSchema Entity-relationship \r\n- Disegno fisico DB \r\n- Forme normali \r\n- Query language e implementazioni su mySQL \r\nDML \r\nSQL \r\n\r\n-\tOrganizzazione fisica dei dati\r\n-       Ottimizzazione degli indici\r\n-       Modellazione dei dati in UML\r\n-      Normalizzazione e Denormalizzazione\r\n-\tOttimizzazione delle interrogazioni\r\n       o\tMySQL e ottimizzazioni\r\n-\tTransazioni\r\n       o        Locking a due fasi\r\n       o\tMySQL e Storage Engine\r\n-\tBasi di dati attive\r\n       o\tTrigger e Stored Procedure\r\n       o\tCursor, Trigger e Stored Procedure in MySQL\r\n- \tAltre caratteristiche per le performance di MySQL\r\n-\tBasi di dati a oggetti\r\n       o\tBasi di dati geospaziali e GIS\r\n-\tBasi di dati per XML (lettura) \r\n-\tBasi di dati su architetture distribuite\r\n       o\tCommit a due fasi\r\n-\tArchitetture dei sistemi informativi su Web (lettura)\r\n-\tArchitetture per l' analisi dei dati\r\n       o\tData Warehouse\r\n       o\tData Mining\r\n- Simulazione progetto </td></tr></table>",
+  "testiRiferimento": "<table><tr><td>- Atzeni, Ceri,Parboschi, Torlone Basi di dati, modelli e linguaggi di interrogazione McGraw-Hill ;\r\n- Welling-Thomson MySQL Tutorial (opzionale) ; \r\n- Atzeni,Ceri,Fraternali,Paraboschi,Torlone      Basi di dati - Architetture e linee di evoluzione     ed. McGraw-Hill  2nd edition\r\n- Schwartz,Zaitsev,Tkachenko,Zawodny, Lentz &amp; Balling    High Performance MySQL  ed. O'Reilly   2nd edition\r\n- lucidi di L. Vigliano presentati a Lezione </td></tr></table>",
+  "ricevimento": "<table><tr><td>in aula dopo le lezioni o previo appuntamento via mail</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

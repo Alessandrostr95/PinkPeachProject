@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Gestione aziendale e ricerca operativa",
+  "docente": [
+    {
+      "first_name": "Massimiliano",
+      "second_name": "Caramia"
+    }
+  ],
+  "annoAccademico": "2008-2009",
+  "crediti": "6",
+  "settore": "",
+  "anno": "1",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>Programma del corso di Gestione Aziendale e Ricerca Operativa\r\nDocente: Prof. Massimiliano Caramia\r\n\r\n- Richiami di Ricerca Operativa.\r\n\r\n- La Gestione dei Progetti.\r\nOrganizzazione industriale e gestione progetti.\r\nProblemi d?interfaccia.\r\nLa pianificazione delle attivit\u00e0 in presenza di risorse illimitate con vincoli di precenza e vincoli di precendenza generalizzati.\r\nLa pianificazione delle attivit\u00e0 in presenza di risorse limitate.\r\nLa pianificazione delle attivit\u00e0 in presenza di risorse limitate e finestre temporali.\r\n\r\n- La Gestione della Produzione e la Logistica Produttiva\r\nSistemi in linea (?flow-shop?).\r\nProgettazione e dimensionamento di una linea di produzione.\r\nBilanciamento dei carichi in un sistema produttivo in linea.\r\nLa linea mono-prodotto e multi-prodotto.\r\nIl sequenziamento nel flow-shop.\r\nSistemi per reparti (?job-shop?).\r\nProgettazione di un sistema produttivo per reparti.\r\nLe incompatibilit\u00e0 tra lavorazioni e la loro risoluzione.\r\nIl sequenziamento nel job-shop.\r\nCelle manifatturiere.\r\nLa ?group technology?.\r\nProblemi di attrezzaggio nelle celle robotizzate.\r\nIl sequenziamento nelle celle robotizzate.</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>Bibliografia consigliata\r\n- Ahuja, R.K., Magnanti, T.L., Orlin, J.B., Network Flows: Theory, Algorithms, and Applications, Prentice-Hall, 1993. \r\n- Askin, R., Standridge, C., Modeling and Analysis of Manufacturing Systems, John Wiley &amp; Sons, 1993.\r\n- Bianco, L., Caramia, M., Metodi quantitativi per la gestione dei progetti, Hoepli, 2006.\r\n- Bertsimas, D., Tsitsiklis,  J., ?Introduction to Linear Optimization? Athena Scientific, Belmont, MA 1997.\r\n</td></tr></table>",
+  "ricevimento": "<table><tr><td>Dopo lezione o su appuntamento (inviare e-mail a caramia@disp.uniroma2.it)</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

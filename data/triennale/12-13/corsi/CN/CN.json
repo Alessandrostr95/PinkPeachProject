@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Calcolo numerico",
+  "docente": [
+    {
+      "first_name": "Francesca",
+      "second_name": "Pelosi"
+    }
+  ],
+  "annoAccademico": "2012-2013",
+  "crediti": "6",
+  "settore": "MAT/08",
+  "anno": "3",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Analisi Matematica. Matematica discreta. Algoritmi e strutture di dati con laboratorio.",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td></td></tr></table>",
+  "testiRiferimento": "<table><tr><td></td></tr></table>",
+  "ricevimento": "<table><tr><td></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

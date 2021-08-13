@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Fondamenti di informatica",
+  "docente": [
+    {
+      "first_name": "Dora",
+      "second_name": "Giammarresi"
+    }
+  ],
+  "annoAccademico": "2004-2005",
+  "crediti": "6",
+  "settore": "",
+  "anno": "1",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>NOTA BENE I RIFERIMENTI SONO AL LIBRO DI TESTO\r\n\r\nCAPITOLO 1. Concetti matematici di base\r\n1.1 Insiemi, relazioni e funzioni\r\n1.4 Caratteristiche elementari dei linguaggi\r\n\r\nCAPITOLO 2. Linguaggi formali\r\n2.1 Grammatiche di Chomsky\r\n2.2 Grammatiche con epsilon-produzioni (solo per le grammatiche\r\ndi tipo 2 e 3)\r\n\r\nCAPITOLO 3. Linguaggi regolari\r\n3.1 Automi a stati finiti\r\n3.2 Automi a stati finiti non deterministici\r\n3.3 Relazioni fra ASFD, ASFND e grammatiche di tipo 3\r\n3.4 Il \"pumping lemma\" per i linguaggi regolari\r\n3.5 Propriet\u00e0 di chiusura dei linguaggi regolari\r\n3.6 Espressioni regolari e grammatiche regolari\r\n3.7 Predicati decidibili sui linguaggi regolari\r\n\r\nCAPITOLO 4. Linguaggi non contestuali \r\n4.1 Forme ridotte e forme normali\r\n4.2 Il \"pumping lemma\" per i linguaggi non contestuali\r\n4.3 Propriet\u00e0 di chiusura dei linguaggi non contestuali \r\n4.4 Predicati decidibili sui linguaggi non contestuali \r\n4.5 Automi a pila e linguaggi non contestuali \r\n4.8 Grammatiche e linguaggi ambigui (cenni)\r\n\r\nCAPITOLO 5. Macchine di Turing\r\n5.1 Macchine di Turing a nastro singolo\r\n5.3 Calcolabilit\u00e0 secondo Turing (cenni)\r\n5.8 La macchina di Turing universale (cenni)\r\n5.9 Il problema della terminazione (cenni) \r\n\r\n\r\n\r\n\r\n</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>G. Ausiello, F. D'Amore, G. Gambosi LINGUAGGI MODELLI COMPLESSIT\u00c0  Franco Angeli 2003</td></tr></table>",
+  "ricevimento": "<table><tr><td>null</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

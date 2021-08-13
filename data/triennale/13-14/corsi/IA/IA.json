@@ -1,0 +1,73 @@
+{
+  "nomeCorso": "Intelligenza artificiale 1",
+  "docente": [
+    {
+      "first_name": "Maria Teresa",
+      "second_name": "Pazienza"
+    }
+  ],
+  "annoAccademico": "2013-2014",
+  "crediti": "6",
+  "settore": "ING-INF/05",
+  "anno": "3",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Programmazione.",
+  "comunicazioni": [
+    {
+      "titolo": "esame Intelligenza Artificiale 8 settembre 2014",
+      "data": "11-09-2014 17:47",
+      "contenuto": "<p>sono stati pubblicati i risulultati della prova d'esame</p><hr/>"
+    },
+    {
+      "titolo": "programma corso IA da 12 crediti",
+      "data": "10-04-2014 15:22",
+      "contenuto": "<p>Come ho avuto modo di dire sia in aula che direttamente agli studenti che me lo hanno chiesto per mail, il programma dell\u2019esame da 12 crediti \u00e8 pari agli argomenti del corso da 6 crediti (tutte le info sul sito del corso) a cui si aggiunge una conoscenza generale dei primi 5 capitoli\u00a0 del libro di Grigoris Antoniou e Frank van Harmelen: A Semantic Web Primer.</p>\n<p class=\"MsoPlainText\">Gli argomenti ivi trattati sono stati anche oggetto delle esercitazioni.</p>\n<p class=\"MsoPlainText\">Eccoli:</p>\n<p class=\"MsoPlainText\">1 The Semantic Web Vision</p>\n<p class=\"MsoPlainText\">2 Structured Web Documents: XML</p>\n<p class=\"MsoPlainText\">3 Describing Web Resources: RDF</p>\n<p class=\"MsoPlainText\">4 Web Ontology Language: OWL\u00a0</p>\n<p class=\"MsoPlainText\">5 Logic and Inference: Rules\u00a0</p><hr/>"
+    },
+    {
+      "titolo": "",
+      "data": "20-03-2014 16:48",
+      "contenuto": "<p>mi fa piacere pubblicare la seguente ricerca di personale da parte di una software house qualificata:</p>\n<p class=\"MsoPlainText\"><span lang=\"EN-US\">Viseo </span><span lang=\"FR\"><a href=\"http://www.viseo.net/\"><span lang=\"EN-US\">http://www.viseo.net/</span></a> </span><span lang=\"EN-US\">the French leader in information systems is looking for an exceptional researcher in the field of data mining with strong skills in\u00a0 machine learning and statistics at their research and development centre located in Grenoble, France </span><span lang=\"FR\"><a href=\"http://www.viseo.net/viseo-recherche-et-developpement\"><span lang=\"EN-US\">http://www.viseo.net/viseo-recherche-et-developpement</span></a></span><span lang=\"EN-US\">\u00a0</span></p><hr/>"
+    },
+    {
+      "titolo": "corso di Intelligenza Artificiale",
+      "data": "29-01-2014 16:16",
+      "contenuto": "<p>con l'esercitazione di oggi 29 gennaio si sono concluse le lezioni del corso</p><hr/>"
+    },
+    {
+      "titolo": "esami Intelligenza Artificiale corrente sessione",
+      "data": "27-01-2014 18:38",
+      "contenuto": "<p>Gli studenti potranno presentarsi ad entrambi gli appelli di questa sessione.</p>\n<p>Il risultato della prova d'esonero vale per entrambi gli appelli di questa sessione.</p><hr/>"
+    },
+    {
+      "titolo": "date esami Intelligenza Artificiale",
+      "data": "24-01-2014 16:14",
+      "contenuto": "<p class=\"MsoNormal\"><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #1f497d;\">Ricordo che le date d\u2019esame sono:</span></p>\n<p class=\"MsoNormal\"><span style=\"font-size: 11pt; font-family: Calibri, sans-serif; color: #1f497d;\">\u00a0</span></p>\n<p class=\"MsoPlainText\">07/02/2014 ore 10,00 aula C6 Didattica Macroarea Ing.</p>\n<p class=\"MsoPlainText\">24/02/2014 ore 10,00 aula 2\u00a0\u00a0 Didattica Macroarea Ing</p><hr/>"
+    },
+    {
+      "titolo": "",
+      "data": "17-01-2014 11:22",
+      "contenuto": "<p class=\"MsoNormal\">Gli argomenti relativi a \u00a0risoluzione, frames, logiche descrittive ed ereditariet\u00e0 servono a comprendere meglio le esercitazioni.\u00a0Basta averne una conoscenza di base e limitatamente a ci\u00f2 che serve per seguire le esercitazioni.</p>\n<p>\u00a0</p>\n<p class=\"MsoNormal\"><span style=\"font-size: 11.0pt; font-family: 'Calibri','sans-serif'; color: #1f497d;\">Non verranno poste domande esplicite agli esami.</span></p><hr/>"
+    },
+    {
+      "titolo": "materiale didattico corso IA",
+      "data": "13-01-2014 17:40",
+      "contenuto": "<p>Per il materiale di riferimento delle esercitazioni del corso di Intelligenza Artificiale 1 si prega di far riferimento al sito: \u00a0<a href=\"http://art.uniroma2.it/teaching/gdc/part_II/\">http://art.uniroma2.it/teaching/gdc/part_II/</a>\u00a0\u00a0</p>\n<p>Le presentazioni degli argomenti trattati dal docente sono state pubblicate ad ogni lezione sul sito del corso di Intelligenza Artificiale 1, laurea in Informatica.</p><hr/>"
+    },
+    {
+      "titolo": "nuove aule per le lezioni",
+      "data": "27-11-2013 17:28",
+      "contenuto": "<p>Si comunica che a partire dal 2 dicembre prossimo le lezioni di Intelligenza Artificiale 1 si terranno in aula B2 il luned\u00ec ed in aula C11 il mercoled\u00ec; entrambe le aule sono situate presso i nuovi edifici della didattica di Ingegneria.</p>\n<p>Gli orari delle lezioni rimangono invariati.\u00a0</p><hr/>"
+    },
+    {
+      "titolo": "esonero 27 novembre",
+      "data": "18-11-2013 17:26",
+      "contenuto": "<p>Si avvisano gli studenti che l'esonero sugli argomenti del corso gi\u00e0 svolti a lezione:</p>\n<p>Ricerca di soluzioni,</p>\n<p>Ricerca Informata,</p>\n<p>Conoscenza e ragionamento</p>\n<p>Conoscenza incerta e ragionamento</p>\n<p>si terr\u00e0 il giorno 27 novembre nell'aula e nelle ore solitamente dedicate alle lezioni del corso.</p>"
+    }
+  ],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>Presentazione: argomenti, introduzione  \r<br/>Strategie di ricerca \r<br/>Rappresentazione della conoscenza e ragionamento automatico\r<br/>Logica del primo ordine\r<br/>Basi di conoscenza: ontologie, inferenza\r<br/>Sistemi di ragionamento logico: frame e reti semantiche\r<br/>Introduzione al Semantic Web\r<br/>RDF/RDFS\r<br/> <br/>OWL: struttura del linguaggio   \r<br/>Esercizi su gestione conoscenza  \r<br/>Linguaggi di Interrogazione per il Web Semantico   \r<br/>Strumenti per lo sviluppo e la gestione di Ontologie  \r<br/>Thesauri and Concept Scheme Development: SKOS &amp; SKOS-XL \r<br/>Esercizi su gestione conoscenza\r<br/>Tecnologie per la gestione di repository RDF  \r<br/>Linked Open Data   \r<br/></td></tr></table>",
+  "testiRiferimento": "<table><tr><td>Libro di testo\r<br/>-Intelligenza artificiale: un approccio moderno-, Russel e Norvig; Prentice Hall, vol 1, capitoli 3,7,12\r<br/>-Knowledge representation and reasoning-, Brachman e Levesque, MK editors.</td></tr></table>",
+  "ricevimento": "<table><tr><td>null</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

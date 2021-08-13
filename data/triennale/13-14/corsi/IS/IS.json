@@ -1,0 +1,67 @@
+{
+  "nomeCorso": "Ingegneria del software",
+  "docente": [
+    {
+      "first_name": "Benedetto",
+      "second_name": "Intrigila"
+    },
+    {
+      "first_name": "Andrea",
+      "second_name": "D'Ambrogio"
+    }
+  ],
+  "annoAccademico": "2013-2014",
+  "crediti": "12",
+  "settore": "INF/01",
+  "anno": "3",
+  "semestre": "1-2",
+  "propedeuticit\u00e0": "Linguaggi e metodologie di programmazione.",
+  "comunicazioni": [
+    {
+      "titolo": "Risultati prova 17/2/2015",
+      "data": "22-02-2015 19:31",
+      "contenuto": "<p>I risultati all'Url:</p>\n<p>http://www.mat.uniroma2.it/~intrigil/risultati_prova_17_2_15.pdf</p><hr/>"
+    },
+    {
+      "titolo": "Risultato prova 11/9/2014",
+      "data": "14-09-2014 23:25",
+      "contenuto": "<p>Dell'Oste Alessandro 26/30</p>\n<p>Manfredi Dennis\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 19/30</p>\n<p>Mazza Davide\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 28/30</p>\n<p>Violetto Marco\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 20/30</p><hr/>"
+    },
+    {
+      "titolo": "Risultato prova 17/7/2014",
+      "data": "23-07-2014 00:46",
+      "contenuto": "<p>Il risultato della prova all'url:</p>\n<p>http://www.mat.uniroma2.it/~intrigil/risultati_17_7_14.pdf</p><hr/>"
+    },
+    {
+      "titolo": "Risultato prova 19/6/2014",
+      "data": "25-06-2014 00:56",
+      "contenuto": "<p>Il risultato della prova all'url:</p>\n<p>http://www.mat.uniroma2.it/~intrigil/risultati_19_6_14.pdf</p><hr/>"
+    },
+    {
+      "titolo": "Risultati prova 18/2/2014",
+      "data": "29-03-2014 22:03",
+      "contenuto": "<p>I risultati all'Url:</p>\n<p>http://www.mat.uniroma2.it/~intrigil/Risultati_Prova_18_2_2014.pdf</p><hr/>"
+    },
+    {
+      "titolo": "Risultati prova 4/2/2014",
+      "data": "09-02-2014 20:21",
+      "contenuto": "<p>I risultati all'Url:</p>\n<p>http://www.mat.uniroma2.it/~intrigil/Risultati_Prova_4_2_2014.pdf</p><hr/>"
+    },
+    {
+      "titolo": "Formazione dei gruppi e attivit\u00e0 di laboratorio (2)",
+      "data": "08-11-2013 22:12",
+      "contenuto": "<p>1) si ricorda agli studenti che non l'avessero fatto, di formare dei gruppi e di darne comunicazione per email al docente.</p>\n<p>2) l'attivit\u00e0 di laboratorio come attivit\u00e0 aggiuntiva d\u00e0 luogo (ove svolta adeguatamente) a 3 crediti D/F per il primo blocco di attivit\u00e0 (svolto in linea di massima nel primo semestre) e ad altri 3 crediti D/F per il secondo blocco di attivit\u00e0 (svolto in linea di massima nel secondo semestre; tutti gli studenti con adeguati prerequisiti possono svolgere tali attivit\u00e0: per maggiori dettagli contattare il docente per email.</p><hr/>"
+    },
+    {
+      "titolo": "Attivit\u00e0 di laboratorio",
+      "data": "07-11-2013 15:29",
+      "contenuto": "<p>Si informano gli studenti che l'attivit\u00e0 di laboratorio avr\u00e0 luogo di norma il venerd\u00ec pomeriggio alle ore 16, 30 all'aula 3a o all'aula laboratorio.\u00a0</p>"
+    }
+  ],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>Programma\r<br/>Prima Parte:\r<br/>Il ciclo di vita del software\r<br/>Gestione dei requisiti software (Principalmente).\r<br/>Design (Cenni).\r<br/>Sviluppo (Cenni).\r<br/>Verifica e validazione (Cenni).\r<br/>Il linguaggio di modellazione UML e il suo uso nell'analisi dei requisiti.\r<br/> <br/>Seconda Parte:\r<br/>(a) Architetture, Applicazioni Web, Android\r<br/>- Design Pattern GOF (Adapter, Factory, Abstract Factory, Lazy Factory, Factory Method, Singleton, Strategy, Observer, Template Methods)\r<br/>- Tecnologie Java per lo sviluppo di applicazioni Web (JSP, Servlet, JDBC)\r<br/>- Design Pattern per la progettazione di applicazioni Web (MVC, Model 1, Model 2, Abstract Dao Factory, Service Locator, Business Delegate)\r<br/>- Framework a 5 layer per lo sviluppo di applicazioni WEB\r<br/>- Framework Open Source per applicazioni WEB (Struts, Spring, Hibernate)\r<br/>- Sviluppo di Apps su Android\r<br/>(b) Testing, Progetto SW, Social Network\r<br/>processo di testing, livelli di test, test management, functional testing, structural testing, non functional testing, test automation, configuration management\r<br/>- introduzione alle metodologie agili (XP,Scrum)\r<br/>- introduzione alla pianificazione di progetto: diagramma di Gantt\r<br/>- definizione ed uso dei software open source: la metodologia QSOS per la valutazione comparativa dei software open source\r<br/>- introduzione alle reti sociali. </td></tr></table>",
+  "testiRiferimento": "<table><tr><td>I. Sommerville\r<br/>Software Engineering 7\r<br/>(o edizioni successive)\r<br/> <br/>(come integrazione consultare anche:\r<br/>MACIASZEK, L.A. and LIONG, B.L. (2005):\r<br/>Practical Software Engineering. A Case Study Approach\r<br/>Addison Wesley)\r<br/> <br/>Per UML:\r<br/>L. Baresi, L. Lavazza, M. Pianciamore\r<br/>Dall'idea al codice con UML 2\r<br/>Addison Wesley </td></tr></table>",
+  "ricevimento": "<table><tr><td>Studio 1212 Dente B (tel. 0672594670) Mercoledi ore 17-18, Venerdi ore 17-18\r<br/>email:intrigil@mat.uniroma2.it </td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

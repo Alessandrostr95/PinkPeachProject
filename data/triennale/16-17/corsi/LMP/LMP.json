@@ -1,0 +1,26 @@
+{
+  "nomeCorso": "Linguaggi e metodologie di programmazione",
+  "docente": [
+    {
+      "first_name": "Fabio Massimo",
+      "second_name": "Zanzotto"
+    },
+    {
+      "first_name": "Armando",
+      "second_name": "Stellato"
+    }
+  ],
+  "annoAccademico": "2016-2017",
+  "crediti": "12",
+  "settore": "ING-INF/05",
+  "anno": "2",
+  "semestre": "1-2",
+  "propedeuticit\u00e0": "Programmazione dei calcolatori con laboratorio.",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td><p><a href=\"http://didattica.uniroma2.it/informazioni/index/insegnamento/166604-Linguaggi-E-Metodologie-Di-Programmazione\">Sito del corso su didattica web</a></p>\n<p>\u00a0</p>\n<p><a href=\"http://art.uniroma2.it/teaching/lmp/\">Sito del corso nella pagina dei docenti</a></p></td></tr></table>",
+  "testiRiferimento": "<table><tr><td><p><a href=\"http://didattica.uniroma2.it/informazioni/index/insegnamento/166604-Linguaggi-E-Metodologie-Di-Programmazione\">Sito del corso su didattica web</a></p>\n<p>\u00a0</p>\n<p><a href=\"http://art.uniroma2.it/teaching/lmp/\">Sito del corso nella pagina dei docenti</a></p></td></tr></table>",
+  "ricevimento": "<table><tr><td><p>Ricevimento: <a href=\"http://didattica.uniroma2.it/docenti/curriculum/5312-Fabio-Massimo-Zanzotto\">Prof. Fabio Massimo Zanzotto</a></p></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td><p><a href=\"http://didattica.uniroma2.it/informazioni/index/insegnamento/166604-Linguaggi-E-Metodologie-Di-Programmazione\">Sito del corso su didattica web</a></p>\n<p>\u00a0</p>\n<p><a href=\"http://art.uniroma2.it/teaching/lmp/\">Sito del corso nella pagina dei docenti</a></p></td></tr></table>"
+}

@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Ricerca operativa",
+  "docente": [
+    {
+      "first_name": "Stefano",
+      "second_name": "Fanelli"
+    }
+  ],
+  "annoAccademico": "2005-2006",
+  "crediti": "6",
+  "settore": "",
+  "anno": "2",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td> Introduzione alla R.O. : modelli matematici deterministici, \r\n probabilistici, continui e discreti. \r\n Fasi di sviluppo di un progetto R.O. \r\n Alcuni esempi di modelli di interesse operativo. Modelli \r\n di LP di tipo finanziario e di tipo commerciale. Integrazione\r\n dei modelli LP nel Model Base di un DSS. Modelli logistici.\r\n Problema dei trasporti e problema dello zaino. \r\n Modelli reticolari per la programmazione di progetti. \r\n La tecnica PERT nel caso deterministico ed in quello \r\n probabilistico. Il PERT costi. Cenni sui modelli GERTS/Q-GERT \r\n Modelli di ottimizzazione classica.\r\n Elementi di geometria convessa in R^n. Varieta' Affini, Coni, \r\n Poliedri, Politopi: loro caratterizzazioni ed interpretazioni \r\n algebriche.\r\n Punti estremi, vertici e facce di poliedri: definizioni e\r\n caratterizzazioni. Il teorema di risoluzione dei poliedri.\r\n Introduzione alla Programmazione Matematica: il caso Lineare(PPL)\r\n Caratterizzazione dei punti di minimo e di massimo.\r\n Interpretazione algebrica dei PPL: soluzioni basiche, forme \r\n canoniche ammissibili. Il teorema-ponte della PPL.  \r\n L'algoritmo del simplesso: versione classica e versione di Blandt\r\n Dualit\u00e0: dualit\u00e0 debole, dualit\u00e0 forte. \r\n L'algoritmo duale del simplesso. \r\n</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>Si possono consultare le dispense all'indirizzo: \r\nhttp://informatica.spettinato.com/forum//index.php\r\ned il testo \"Lezioni di Ricerca Operativa\" di M. Fischetti, \r\nEdizioni Libreria Progetto, Padova, 1995. \r\n</td></tr></table>",
+  "ricevimento": "<table><tr><td></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

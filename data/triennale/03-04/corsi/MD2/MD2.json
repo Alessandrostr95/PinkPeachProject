@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Matematica discreta 2",
+  "docente": [
+    {
+      "first_name": "Franco",
+      "second_name": "Ghione"
+    }
+  ],
+  "annoAccademico": "2003-2004",
+  "crediti": "6",
+  "settore": "",
+  "anno": "1",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>Il programma del corso \u00e8 articolato in 11 unit\u00e0 ognuna delle quali comprende 4 ore di lezione frontale e un'ora di esercizi di laboratorio. Il corso \u00e8 diviso in due parti. Alla fine della prima parte \u00e8 prevista una prova di esonero. \r\n\r\nI parte \r\n1. I vettori geometrici, combinazioni lineari di vettori geometrici, dipendenza e indipendenza lineare. I vettori numerici, combinazioni lineari di vettori numerici, dipendenza e indipendenza lineare. Algoritmo per stabilire se due vettori numerici sono linearmente dipendenti. \r\n2.Prodotti scalari di vettori geometrici. Propriet\u00e0 del prodotto scalare, vettori ortogonali. Prodotti scalari tra vettori numerici, algoritmo per il calcolo del prodotto scalare. La ricerca di vettori ortogonali ad un sistema di vettori dato. Sistemi di equazioni lineari omogenei. La struttura delle soluzioni. \r\n3. Il concetto di spazio vettoriale. Spazi vettoriali su IR e su un campo finito. \r\nEsempi di spazio vettoriali: spazi vettoriali geometrici e numerici, spazio delle soluzioni di un sistema di equazioni lineare omogeneo, spazio delle soluzioni di una relazione ricorsiva omogenea di grado k. Dipendenza ed indipendenza lineare in uno spazio vettoriale. Sottospazi generati da un sistema di vettori. Basi e dimensione di uno spazio vettoriale. \r\n4. Il prodotto scalare in uno spazio vettoriale. Vettori ortogonali. Basi ortonormali.Coordinate cartesiane nello spazio tridimensionale. Base standard per lo spazio dei vettori geometrici. Base canonica dello spazio dei vettori geometrici. Decomposizione ortonormale di un vettore. Spazio ortogonale a un dato sottospazio. Dimensione dello spazio ortogonale. Equazione di un piano nello spazio euclideo tridimensionale. Equazioni di una retta. \r\n5. Sistemi di equazioni lineari ed omogenee. Rango di una matrice. La riduzione di Gauss. Algoritmi per la riduzione di una matrice. Calcolo di una base dello spazio delle soluzioni di un sistema di equazioni lineari omogeneo e algoritmi relativi. \r\n\r\nII parte \r\n6. Matrici e operazioni sulle matrici. Matrici invertibili. Trasformazioni lineari tra spazi vettoriali. Trasformazioni invertibili. \r\n7. Area di un parallelogramma e volume di un parallelepipedo. Determinante di una matrice. \r\n8. Immagine e nucleo di una matrice. Immagine e nucleo di una applicazione lineare. Calcolo di una base per l'immagine e il nucleo di una matrice. Algoritmi per il calcolo del nucleo e dell'immagine. Teorema di Rouch\u00e9-Capelli. \r\n9.Matrice associata ad una applicazione lineare tramite due basi. Matrici coniugate. Il problema della diagonalizzazione di una matrice quadrata. \r\n10. Autovettori e autovalori. Il polinomio caratteristico.. Diagonalizzazione di matrici semplici. Potenze successive di una matrice. Algoritmi per il calcolo degli autovalori. \r\n11. Matrici simmetriche. Diagonalizzazione di matrice simmetriche. Coniche e quadriche a centro e loro forma canonica. \r\n\r\n\r\n\r\n\r\n</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>Un qualunque testo di Algebra Lineare o anche le dispense in rete del Dott. G Marini all'indirizzo http://www.mat.uniroma2.it/~marini/ \r\nSono inoltre utili i complementi e gli esercizi relativi al corso che si trovano al sito http://mat.uniroma2.it/~ghione/Testi/Indice.html</td></tr></table>",
+  "ricevimento": "<table><tr><td>Nello studio del prof F. Ghione presso il dipartimento di Matematica, piano terra, stanza 0112, tel 4641. \r\nLuned\u00ec 11-13</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

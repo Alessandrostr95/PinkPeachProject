@@ -1,0 +1,63 @@
+{
+  "nomeCorso": "Architettura degli elaboratori",
+  "docente": [
+    {
+      "first_name": "Alessandra",
+      "second_name": "Pieroni"
+    }
+  ],
+  "annoAccademico": "2013-2014",
+  "crediti": "6",
+  "settore": "ING-INF/05",
+  "anno": "1",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [
+    {
+      "titolo": "Verbalizzazione appello del 12/09/2014 AE",
+      "data": "12-09-2014 11:39",
+      "contenuto": "<p>La verbalizzazione dell'appello di settembre \u00e8 fissata per Luned\u00ec 22 Settembre 2014 dalle ore 12.00 alle ore 13.00, atrio terzo piano edificio Ing. dell'Informazione. \u00a0</p><hr/>"
+    },
+    {
+      "titolo": "Verbalizzazione appello del 10/07/2014 AE",
+      "data": "17-07-2014 13:39",
+      "contenuto": "<p>La verbalizzazione si terr\u00e0 Merc 23 Luglio 2014 dalle ore 11 alle ore 12.</p>\n<p>Facolt\u00e0 di Ingegneria, edificio Ingegneria dell'Informazione, atrio terzo piano.</p>\n<p>\u00a0</p>\n<p>I risultati dell'appello del 10 luglio saranno pubblicati entro marted\u00ec 22 Luglio 2014.</p><hr/>"
+    },
+    {
+      "titolo": "Verbalizzazione appello del 28/02/2014 AE",
+      "data": "08-04-2014 17:53",
+      "contenuto": "<p>La verbalizzazione si terr\u00e0 lun 28/04 ore 10:00 Facolt\u00e0 Ingegneria, Ed. Ingegneria dell'Informazione, primo piano, stanza A1-07. \u00a0</p>\n<p>\u00a0</p>\n<p>Gli studenti che intendono verbalizzare Architettura + Reti Logiche devono necessariamente <strong>entro il 19 Aprile</strong> inviare una mail al docente, comunicando il tipo di verbalizzazione, al fine di creare il relativo verbale di esame.</p><hr/>"
+    },
+    {
+      "titolo": "ATTENZIONE VARIAZIONE DATA SECONDO APPELLO",
+      "data": "29-01-2014 13:39",
+      "contenuto": "<p>Si avvisano tutti gli studenti del corso che <span style=\"text-decoration: underline;\">la data del secondo appello della sessione esiva anticipata \u00e8 stata modificata</span>:</p>\n<p>\u00a0</p>\n<p>vecchia data: 27/02/2014 ore 10:00 aula T5</p>\n<p><span style=\"background-color: #ffff00;\"><strong>nuova data: \u00a028/02/2014 ore 10:00 aula T5</strong></span></p><hr/>"
+    },
+    {
+      "titolo": "Visione Compiti INSUFFICIENTI",
+      "data": "23-01-2014 10:02",
+      "contenuto": "<p>La visione compiti Insuff. della prima e della seconda prova in itinere \u00e8 rinviata a marted\u00ec 28 ore 11:00 aulta T5</p><hr/>"
+    },
+    {
+      "titolo": "APPELLI DI FINE CORSO",
+      "data": "09-01-2014 10:09",
+      "contenuto": "<p>Come previsto dal regolamento di Ateneo, alla fine del corso saranno disponibili due appelli a cui tutti gli studenti correttamente prenotati sul sito di delphi potranno partecipare.</p>\n<p>Le date sono le seguenti:</p>\n<p>\u00a0</p>\n<p>PRIMO APPELLO: VENERDI' 7 FEBBRAIO 2014 ORE 10:00 AULA T5</p>\n<p>\u00a0</p>\n<p>SECONDO APPELLO: GIOVEDI' 27 FEBBRAIO 2014 ORE 10:00 AULA T5</p>\n<p>\u00a0</p>\n<p>Gli studenti che hanno gi\u00e0 superato le due prove in itinere, saranno tenuti a rispondere solo sulla parte di programma riguardante la terza parte del corso (dettaglio nella sezione \"programma\").</p>\n<p>\u00a0</p>\n<p>Gli studenti che non hanno partecipato alle prove in itinere risponderanno invece sull'intero programma del corso.</p>\n<p>\u00a0</p>\n<p><strong>ATTENZIONE:</strong></p>\n<p><strong>come da regolamento di Ateneo, possono partecipare agli appelli di fine corso solo ed esclusivamente gli studenti che al momento degli esami non abbiamo debiti formativi.</strong></p><hr/>"
+    },
+    {
+      "titolo": "Prova in Itinere 2",
+      "data": "22-11-2013 10:51",
+      "contenuto": "<p class=\"p1\">mart 10 e giov 12 dicembre si svolger\u00e0 la seconda prova in itinere.</p>\n<p class=\"p1\">Gli argomenti della seconda prova in itinere sono i seguenti:<br><br><em><strong>Programma seconda prova in itinere (10-12/12/2013):</strong></em></br></br></p>\n<p>Libro\u00a0<strong>Tanenbaum</strong>: cap. 2.3.6 (RAID)<br>Libro\u00a0<strong>Iazeolla</strong>:<br>cap. 1.1, 1.1.1, 1.1.2, 1.1.3<br>cap. 1.2, 1.2.1, 1.2.2<br>cap. 2.1, 2.2, 2.3, 2.4, 2.5<br>cap. 3.1, 3.1.1, 3.1.2, 3.1.2.1</br></br></br></br></br></p>\n<p>Vista la numerosit\u00e0 della classe, gli studenti saranno ripartiti in due date in base al proprio cognome.</p>\n<p>Cognome dalla <strong>A</strong> alla <strong>L</strong> \u00a0--&gt; mart. 10 ore 11 Aula T5<br>Cognome dalla <strong>M</strong> alla <strong>Z</strong> --&gt; giov. \u00a012 ore 11 Aula T5</br></p>\n<p>\u00a0</p><hr/>"
+    },
+    {
+      "titolo": "Prova in Itinere 1",
+      "data": "11-11-2013 10:24",
+      "contenuto": "<p>Marted\u00ec 12 Novembre alle ore 11 in aula T5 si terr\u00e0 la prima prova in itinere del corso. \u00a0</p>\n<p>Questa prova potr\u00e0 essere sostenuta da tutti gli studenti del corso al fine di testare la preparazione raggiunta sugli argomenti finora trattati in aula.</p>\n<p>Programma prima prova in itinere: Libro Tanenbaum cap.1 e 2 (fino al 2.4.2 incluso)\u00a0\u00a0</p>"
+    }
+  ],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td><p>Programma del corso <br> <br>Organizzazione dei sistemi di calcolo <br> Processori <br> Memorie principali e Memorie secondarie <br> Input/output <br/> <br/>Descrizione dei sistemi di calcolo <br/> Descrizione orizzontale <br/> Descrizione verticale <br/> Descrizione del livello logico digitale <br/> Processore <br/> Memorie <br/> Bus <br/> <br/>Architettura e Governo di sistemi di calcolo <br/> Tipi di architettura <br/> Tipi di Governo <br/> Strumenti di governo <br/> <br/>Sistemi a configurazione multiprocessor <br/> Legge di Grosch <br/> Legge di Moore <br/> <br/>Reti di interconnesione <br/> Reti intraprocessor <br/> Reti interprocessor <br/> Computer networks <br/> LAN, MAN e WAN <br/> <br/>Caratterizzazione Unit\u00e0 e Reti <br/> Caratterizzazione CPU <br/> Esempi di CPU <br/> Caratterizzazione Reti <br/> Caratterizzazione Reti Intraprocessor <br/> Caratterizzazione Reti Iterprocessor <br/> Reti Statiche e Reti Dinamiche <br/> Caratterizzazione Computer Network <br/> Legge Metcalfe <br/> Legge delle Reti <br/> <br/> *****************************************<br/><em><strong>Programma prima prova in itinere (12/11/2013):</strong> </em><br/>Libro <strong>Tanenbaum</strong> cap.1 e 2 (fino al 2.4.2 incluso)</br></br></br></br></br></p>\n<p>*****************************************<br/><em><strong>Programma seconda prova in itinere (10-12/12/2013):<br/></strong></em>Libro <strong>Tanenbaum</strong>: cap. 2.3.6 (RAID)<br/>Libro <strong>Iazeolla</strong>:<br/>cap. 1.1, 1.1.1, 1.1.2, 1.1.3<br/>cap. 1.2, 1.2.1, 1.2.2<br/>cap. 2.1, 2.2, 2.3, 2.4, 2.5<br/>cap. 3.1, 3.1.1, 3.1.2, 3.1.2.1</p>\n<p>*****************************************</p>\n<p class=\"p1\"><strong>Programma della terza ed ultima parte del corso:\u00a0</strong></p>\n<p class=\"p1\">Libro\u00a0<strong>Iazeolla</strong>:</p>\n<p class=\"p1\">cap. 3.2, 3.2.1, 3.2.1.1, 3.2.1.2, 3.2.2, 3.3, 3.3.1, 3.3.1.1, 3.3.1.2, 3.3.2</p>\n<p>\u00a0</p>\n<p class=\"p1\">cap. 4 tutto</p></td></tr></table>",
+  "testiRiferimento": "<table><tr><td>Testi consigliati: \r<br/> <br/>1) Tanenbaum Andrew S., Architettura dei calcolatori: Un approccio \t\t   strutturale,  5a Ed., Pearson Education, 2006\r<br/> <br/>2) Giuseppe Iazeolla, Impianti, Reti e Sistemi Informatici, 2a Ed., \t\t\tFrancoAngeli 2008\r<br/></td></tr></table>",
+  "ricevimento": "<table><tr><td>In aula dopo lezione</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td><p>Durante il corso si svolgeranno due prove in itinere. \u00a0Lo scopo di tali prove \u00e8 dare allo studente un mezzo per (auto) valutare il proprio grado di preparazione sugli argomenti trattati.</p>\n<p>Alla fine del corso, tutti gli studenti avranno a disposizione due appelli in cui sostenere l'esame completo.\u00a0</p>\n<p>\u00a0</p>\n<p>*****************************************<br><em><strong>Programma prima prova in itinere (12/11/2013):</strong>\u00a0</em><br>Libro\u00a0<strong>Tanenbaum</strong>\u00a0cap.1 e 2 (fino al 2.4.2 incluso)\u00a0</br></br></p>\n<p>*****************************************<br><em><strong>Programma seconda prova in itinere (10-12/12/2013):<br/></strong></em>Libro\u00a0<strong>Tanenbaum</strong>: cap. 2.3.6 (RAID)<br>Libro\u00a0<strong>Iazeolla</strong>:<br>cap. 1.1, 1.1.1, 1.1.2, 1.1.3<br>cap. 1.2, 1.2.1, 1.2.2<br>cap. 2.1, 2.2, 2.3, 2.4, 2.5<br/>cap. 3.1, 3.1.1, 3.1.2, 3.1.2.1</br></br></br></br></br></p>\n<p>*****************************************</p></td></tr></table>"
+}

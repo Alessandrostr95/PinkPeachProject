@@ -1,0 +1,289 @@
+{
+  "nomeCorso": "Algoritmi e strutture dati",
+  "docente": [
+    {
+      "first_name": "Luciano",
+      "second_name": "Guala"
+    }
+  ],
+  "annoAccademico": "2017-2018",
+  "crediti": "12",
+  "settore": "INF/01",
+  "anno": "2",
+  "semestre": "1-2",
+  "propedeuticit\u00e0": "Analisi Matematica. Matematica discreta. Programmazione dei calcolatori con laboratorio.",
+  "comunicazioni": [
+    {
+      "titolo": "Appelli settembre ASD",
+      "data": "07-09-2018 21:56",
+      "contenuto": "<p>Si avvisano gli studenti che gli appelli di settembre relativi al corso di Algoritmi e Strutture Dati sono esclusivi, per entrambi i moduli. Lo studente pu\u00f2 invece sostenere i moduli separatamente, uno in ogni appello. E' possibile inoltre presentarsi al secondo appello qualora non si consegnasse lo scritto al primo.\u00a0</p><hr/>"
+    },
+    {
+      "titolo": "sospensione ricevimento studenti (prof. Clementi)",
+      "data": "11-07-2018 18:25",
+      "contenuto": "<p><span style=\"color: #222222; font-family: arial, sans-serif; font-size: 12.8px;\">Si comunica che, durante le sessioni di esame,\u00a0 il ricevimento studenti</span><br style=\"color: #222222; font-family: arial, sans-serif; font-size: 12.8px;\"><span style=\"color: #222222; font-family: arial, sans-serif;\"><span style=\"font-size: 12.8px;\">del prof. Clementi \u00e8 sospeso. Tutti le informazioni circa il programma dettagliato, le singole lezioni svolte con gli appunti (slides) ed i riferimenti ai testi sono disponibili sul sito ufficiale del corso:</span></span><br><span style=\"color: #222222; font-family: arial, sans-serif;\"><span style=\"font-size: 12.8px;\">http://www.mat.uniroma2.it/~guala/ASDL_2017.htm.</span></span></br></br></p><hr/>"
+    },
+    {
+      "titolo": "Lezione luned\u00ec 30/04 ASD",
+      "data": "27-04-2018 09:35",
+      "contenuto": "<p>La lezione in oggetto non si terr\u00e0.\u00a0</p><hr/>"
+    },
+    {
+      "titolo": "Prova parziale ASD mod. 1",
+      "data": "10-01-2018 15:50",
+      "contenuto": "<p>La <strong>prova parziale</strong> relativa al modulo 1 del corso di <strong>Algoritmi e Strutture Dati</strong> (dot. Gual\u00e0) relativo all'a.a. 2017/18 si terr\u00e0 il giorno <strong>12 febbraio 2018</strong>, alle ore 11,30 in aula T5. Gli studenti che intendo partecipare sono invitati a iscriversi alla prova sul portale Delphi.</p><hr/>"
+    },
+    {
+      "titolo": "Annullate lezioni ASD settimana del 18/12-22/12.",
+      "data": "14-12-2017 18:39",
+      "contenuto": "<p>Si comunica che le ultime due lezioni di Algoritmi e Strutture Dati relative al primo modulo si terranno dopo le vacanze di natale, nei giorni luned\u00ec 8 gennaio e gioved\u00ec 11. Pertanto non ci sar\u00e0 lezione nella settimana del 18/12-22/12.\u00a0</p>"
+    }
+  ],
+  "lezioni": [
+    {
+      "id": "48",
+      "data": "04-06-2018",
+      "contenuto": "<div style=\"color: #222222; font-family: arial, sans-serif; font-size: 12.8px;\">Esercitazione su programmazione dinamica</div>\n<div style=\"color: #222222; font-family: arial, sans-serif; font-size: 12.8px;\">- Es 3 dell'appello del 12/02/18 (<a data-saferedirecturl=\"https://www.google.com/url?hl=it&amp;q=http://www.mat.uniroma2.it/~guala/ASD_compito12_02_18_mod1.pdf&amp;source=gmail&amp;ust=1528556345704000&amp;usg=AFQjCNHE8wUk5DMQdMNZDfmCg6BOYReL-g\" href=\"http://www.mat.uniroma2.it/~guala/ASD_compito12_02_18_mod1.pdf\" style=\"color: #1155cc;\" target=\"_blank\">http://www.mat.uniroma2.it/~guala/ASD_compito12_02_18_mod1.pdf</a>)<br>- Es 3 dell'appello del 19/09/17 (<a data-saferedirecturl=\"https://www.google.com/url?hl=it&amp;q=http://www.mat.uniroma2.it/~guala/ASD_compito19_09_17_mod1.pdf&amp;source=gmail&amp;ust=1528556345704000&amp;usg=AFQjCNEZrcuOhKfgwP9-VCCnWCqlKEdSBA\" href=\"http://www.mat.uniroma2.it/~guala/ASD_compito19_09_17_mod1.pdf\" style=\"color: #1155cc;\" target=\"_blank\">http://www.mat.uniroma2.it/~guala/ASD_compito19_09_17_mod1.pdf</a>).</br></div>"
+    },
+    {
+      "id": "47",
+      "data": "31-05-2018",
+      "contenuto": "<p>Algoritmi di approssimazione</p>\n<div style=\"color: #222222; font-family: arial, sans-serif; font-size: 12.8px;\">- Problema del Load Balancing\r\n<div>- Algoritmo 2-approssimato</div>\n<div>- Algoritmo 3/2-approssimato</div>\n<div>- Problema del Knapsack<br>- Algoritmo (1-epsilon)-approssimato.</br></div>\n</div>"
+    },
+    {
+      "id": "46",
+      "data": "28-05-2018",
+      "contenuto": "<p>- Concetto di equivalenza fra problemi NP-completi (ripasso)</p>\n<p>- Problemi di Ottimizzazione: definizione formale ed esempi</p>\n<p>- Relazione tra problemi di ottimizzazione e loro versione decisionale</p>\n<p>- Problemi di ottimizzazione NP-Hard</p>\n<p>- Concetto di algoritmo approssimante: definizione formale</p>\n<p>- Un algoritmo 2-approssimante per VC</p>\n<p>\u00a0</p>\n<p>Testo: KT.</p>"
+    },
+    {
+      "id": "45",
+      "data": "24-05-2018",
+      "contenuto": "<p>- Problemi NP-completi</p>\n<p>- Il problema 3-SAT \u00e8 in NP</p>\n<p>- NP-completezza di 3-SAT (senza dimostrazione)</p>\n<p>- Il problema Independent Set \u00e8 in NP</p>\n<p>- La riduzione polinomiale 3-SAT &lt; IS: la tecnica dei GADGETS</p>\n<p>- Il problema Vertex Cover</p>\n<p>- Relazione tra VC e IS: equivalenza.</p>\n<p>\u00a0</p>\n<p>Testo: KT.</p>"
+    },
+    {
+      "id": "44",
+      "data": "21-05-2018",
+      "contenuto": "<p>Il problema dell\u2019accesso ad una risorsa condivisa (Contention Resolution). Un protocollo distribuito. Analisi del protocollo.</p>\n<p>Un (sorprendente) algoritmo di approssimazione per il problema di max 3SAT. Analisi dell\u2019algoritmo. Stima del numero atteso di clausule soddisfatte. Accenno al metodo probabilistico. Stima del numero atteso di tentatvi prima di trovare una soluzione che soddisfa i 7/8 delle clausule.\u00a0</p>\n<p>\u00a0</p>\n<p>Testo: KT, pag 708-714, 719-721, 724-727.</p>\n<p>\u00a0</p>"
+    },
+    {
+      "id": "43",
+      "data": "17-05-2018",
+      "contenuto": "<p>Lezione del 17/05</p>\n<p>\u00a0</p>\n<p>-Introduzione agli algoritmi randomizzati.\u00a0</p>\n<p>-Il problema del calcolo del global mini-cut.\u00a0</p>\n<p>-Algoritmo di Karger. Dimostrazione che il numero di global min-cut di un grafo di n nodi \u00e8 al pi\u00f9 n(n-1)/2.\u00a0</p>\n<p>\u00a0</p>\n<p>Testo: KT, pag 714-719.</p>"
+    },
+    {
+      "id": "42",
+      "data": "14-05-2018",
+      "contenuto": "<p>- Definizione formale di Certificatori efficienti</p>\n<p>- Definizione formale della classe NP</p>\n<p>- Relazione di NP con P ed EXP</p>\n<p>- Esempi di problemi e di certificatori per essi</p>\n<p>- Riducibilit\u00e0 polinomiale: versioni di Cook e Karp</p>\n<p>- Propriet\u00e0 della riducibilit\u00e0 di Karp: chiusura rispetto a P</p>\n<p>\u00a0</p>\n<p>Testo: KT.</p>"
+    },
+    {
+      "id": "41",
+      "data": "10-05-2018",
+      "contenuto": "<p>- Programmazione dinamica: il problema del Sequence Alignment</p>\n<p>- Modellazione del Problema e principali applicazioni</p>\n<p>- Un primo approccio sbagliato di Programmazione Dinamica ad una variabile</p>\n<p>- L'approccio a due variabili corretto</p>\n<p>- Complessit\u00e0 e correttezza: lo spazio utilizzato</p>\n<p>- La trasformazione a problemi di cammini minimi</p>\n<p>\u00a0</p>\n<p>- Introduzione alla classe NP</p>\n<p>- Problemi efficientemente verificabili: esempi</p>\n<p>- Ripasso della Pseudopolinomialit\u00e0</p>\n<p>\u00a0</p>\n<p>Testo: KT.</p>"
+    },
+    {
+      "id": "40",
+      "data": "07-05-2018",
+      "contenuto": "<p>Esercitazione sulla programmazione dinamica. I due esercizi discussi possono essere trovati nelle seguenti note:<br>http://www.mat.uniroma2.it/~guala/discussi_2017.pdf</br></p>"
+    },
+    {
+      "id": "39",
+      "data": "03-05-2018",
+      "contenuto": "<p>- programmazione dinamica: calcolare cammini minimi in grafi con pesi negativi</p>\n<p>- cammini minimi in grafi pesati</p>\n<p>- problema dei cammini minimi a singola sorgente (o singola destinazione)</p>\n<p>- grafi con pesi negativi: false partenze</p>\n<p>- un algoritmo di programmazione dinamica: algoritmo di Bellman-Ford (BF) con complessit\u00e0 temporale O(mn) e spaziale O(n^2)</p>\n<p>- ridurre la memoria a O(n)</p>\n<p>- modificare l'algoritmo di BF per rilevare cicli di peso negativo</p>\n<p>\u00a0</p>\n<p>Testo: KT.</p>"
+    },
+    {
+      "id": "38",
+      "data": "26-04-2018",
+      "contenuto": "<p>- Programmazione dinamica: ripasso degli esempi precedenti e valutazioni generali sulle condizioni di applicabilit\u00e0</p>\n<p>- Programmazione dinamica: Il problema della Bisaccia.</p>\n<p>- Un approccio di programazione dinamica con un parametro che non funziona</p>\n<p>- Un approccio a due parametri che funziona</p>\n<p>- Analisi dell'ottimalit\u00e0</p>\n<p>- Implementazione dell'algoritmo ricorsivo</p>\n<p>- Analisi della complessit\u00e0</p>\n<p>- Gli algoritmi pseudopolinomiali</p>\n<p>\u00a0</p>\n<p>Testo: KT.</p>"
+    },
+    {
+      "id": "37",
+      "data": "23-04-2018",
+      "contenuto": "<p>- Il problema Weighted Interval Scheduling (continua)</p>\n<p>- Come calcolare la soluzione ottima da OPT(J)</p>\n<p>- La versione ricorsiva efficiente dell'algoritmo di programmazione dinamica: analisi della complessit\u00e0 mediante la misura progresso \u03a6.</p>\n<p>- Il problema Segmented Least Squares</p>\n<p>- Introduzione informale e definizione rigorosa.</p>\n<p>- Esempi</p>\n<p>- Formulazione del problema in termini di programmazione dinamica</p>\n<p>- L'algoritmo ottimale: versione iterativa ed analisi della complessit\u00e0</p>\n<p>\u00a0</p>\n<p>Testo: KT.</p>"
+    },
+    {
+      "id": "36",
+      "data": "19-04-2018",
+      "contenuto": "<p>- La programmazione dinamica</p>\n<p>- cenni storici ed applicazioni principali</p>\n<p>- Descrizione informale</p>\n<p>- Il problema Weighted Interval Scheduling</p>\n<p>- Non ottimalit\u00e0 di alcuni approcci greedy</p>\n<p>- Un possibile ordinamento dell'istanza e relativi sottoproblemi</p>\n<p>- La struttura dell'ottimo OPT(j)</p>\n<p>- Formulazione ricorsiva di OPT(j)</p>\n<p>- Un algoritmo di programmazione dinamica ricorsivo non efficiente: analisi del caso peggiore.</p>\n<p>- Un algoritmo iterativo efficiente: analisi del caso peggiore.</p>\n<p>\u00a0</p>\n<p>Testo: KT.</p>"
+    },
+    {
+      "id": "35",
+      "data": "16-04-2018",
+      "contenuto": "<p>- Compressione dati (Riepilogo lezione precendente)</p>\n<p>- La struttura dell'ottimo: propriet\u00e0</p>\n<p>- L'approccio BOTTOM-UP</p>\n<p>- Algoritmo e codici di Huffman</p>\n<p>- Esempi di esecuzione dell'Algoritmo di Huffman</p>\n<p>- Analisi della complessit\u00e0 dell'Algoritmo</p>\n<p>- Implementazione efficiente dell'Algoritmo mediante struttura Heap</p>\n<p>\u00a0</p>\n<p>Testo: KT.</p>"
+    },
+    {
+      "id": "34",
+      "data": "12-04-2018",
+      "contenuto": "<p>- Compressione dati mediante codici prefissi: definizione formale</p>\n<p>- Rappresentazione di codici prefissi mediante alberi binari etichettati</p>\n<p>- La funzione ABL(C) definita su codici ed alberi associati</p>\n<p>- Progetto di algoritmi greedy per la costruzione di codici ottimali</p>\n<p>- La struttura dell'ottimo: alberi full</p>\n<p>- L'approccio TOP-DOWN (Codici di Shannon-Fano)</p>\n<p>\u00a0</p>\n<p>Testo: KT.</p>"
+    },
+    {
+      "id": "33",
+      "data": "09-04-2018",
+      "contenuto": "<p>- Il problema del k-clustering: Definizione formale &amp; Esempi</p>\n<p>- Il modellamento dell\u2019istanza come grafo completo pesato</p>\n<p>- L\u2019approccio Greedy basato sul MST e l\u2019algoritmo di Kruskal</p>\n<p>- Dimostrazione dell\u2019ottimalit\u00e0 dell\u2019Algoritmo Greedy</p>\n<p>- Il problema della Compressione Dati</p>\n<p>- Cenni storici, motivazioni, applicazioni moderne</p>\n<p>- Il problema della codifica: definizione informale</p>\n<p>- La codifica binaria di un testo a lunghezza variabile e la sua inefficienza su testi ridondanti</p>\n<p>- I codici prefissi: definizione.</p>\n<p>\u00a0</p>\n<p>Testo: KT.</p>"
+    },
+    {
+      "id": "32",
+      "data": "05-04-2018",
+      "contenuto": "<p>- Maximum Latency: definizione del problema di ottimizzazione</p>\n<p>- Approcci greedy</p>\n<p>- L'algoritmo greedy deadline-first D</p>\n<p>- Struttura dell'ottimo</p>\n<p>- Ottimalit\u00e0 dell'algoritmo D</p>\n<p>- Riepilogo dei tools generali di progettazione ed analisi di algoritmi greedy</p>\n<p>- Il problema del CLUSTERING</p>\n<p>- Motivazioni e considerazioni generali.</p>\n<p>- Una possibile definizione formale di problema in termini di spazi metrici e k-partizioni.<br><br>Fonte: KT.</br></br></p>"
+    },
+    {
+      "id": "31",
+      "data": "29-03-2018",
+      "contenuto": "<p><span style=\"color: #222222; font-family: arial, sans-serif; font-size: 12.8px;\">Esercitazione sul metodo greedy e sulle sue tecniche di analisi.</span><br style=\"color: #222222; font-family: arial, sans-serif; font-size: 12.8px;\"><span style=\"color: #222222; font-family: arial, sans-serif; font-size: 12.8px;\">L\u2019esempio del grafo con i pesi al quadrato (Es. 2a, KT, pag 189).</span><br style=\"color: #222222; font-family: arial, sans-serif; font-size: 12.8px;\"><span style=\"color: #222222; font-family: arial, sans-serif; font-size: 12.8px;\">L\u2019esercizio del minimizzare il n. di tappe di un percorso lineare (Solved Exercise 1, KT pag. 183).</span><br style=\"color: #222222; font-family: arial, sans-serif; font-size: 12.8px;\"><span style=\"color: #222222; font-family: arial, sans-serif; font-size: 12.8px;\">Considerazioni generali sull\u2019approccio greedy.</span></br></br></br></p>"
+    },
+    {
+      "id": "30",
+      "data": "26-03-2018",
+      "contenuto": "<p>Il problema Interval Partitioning.</p>\n<p>il concetto di Depth(I) di una istanza I.</p>\n<p>Un utile lower bound per Depth(I).</p>\n<p>Un algoritmo Greedy ottimale.</p>\n<p>Implementazione ed analisi della complessit\u00e0.</p>\n<p>Dimostrazione di ottimalit\u00e0: confronto con il lower bound su depth(I).</p>\n<p>\u00a0</p>\n<p>Fonti: capitolo su GREEDY ALGORITHMS del KT.</p>"
+    },
+    {
+      "id": "29",
+      "data": "22-03-2018",
+      "contenuto": "<p>1. Introduzione ai problemi di scheduling</p>\n<p>2. Descrizione tecnica Greedy</p>\n<p>3. Il problema Interval Scheduling</p>\n<p>4. Approcci Greedy</p>\n<p>5. L'Algoritmo Greedy ottimale basato sul finish time</p>\n<p>6. Analisi della complessit\u00e0</p>\n<p>7. Dimostrazione di ottimalit\u00e0: \"Greedy stays ahead''</p>\n<p>8. La riduzione del problema al problema Max Independent Set su (Interval) Graphs</p>\n<p>\u00a0</p>\n<p>Fonti: capitolo su GREEDY ALGORITHMS del KT.</p>"
+    },
+    {
+      "id": "28",
+      "data": "19-03-2018",
+      "contenuto": "<p><span style=\"color: #222222; font-family: arial, sans-serif;\"><span style=\"font-size: 12.8px;\">1. Riepilogo Algoritmo A(G,e)</span></span></p>\n<p><span style=\"color: #222222; font-family: arial, sans-serif;\"><span style=\"font-size: 12.8px;\">2. La Struttura Dati Union-Find</span></span></p>\n<p><span style=\"color: #222222; font-family: arial, sans-serif;\"><span style=\"font-size: 12.8px;\">3. Definizione delle operazioni ammesse</span></span></p>\n<p><span style=\"color: #222222; font-family: arial, sans-serif;\"><span style=\"font-size: 12.8px;\">4. Esempi</span></span></p>\n<p><span style=\"color: #222222; font-family: arial, sans-serif;\"><span style=\"font-size: 12.8px;\">5. Soluzione mediante Foreste</span></span></p>\n<p><span style=\"color: #222222; font-family: arial, sans-serif;\"><span style=\"font-size: 12.8px;\">6. Una soluzione non efficiente</span></span></p>\n<p><span style=\"color: #222222; font-family: arial, sans-serif;\"><span style=\"font-size: 12.8px;\">7. La struttura Quick-Find</span></span></p>\n<p><span style=\"color: #222222; font-family: arial, sans-serif;\"><span style=\"font-size: 12.8px;\">8. Analisi della complessit\u00e0 ammortizzata della struttura Quick-Find</span></span></p>\n<p><span style=\"color: #222222; font-family: arial, sans-serif;\"><span style=\"font-size: 12.8px;\">9. Applicazione: L'Algoritmo di Kruskal K</span></span></p>\n<p><span style=\"color: #222222; font-family: arial, sans-serif;\"><span style=\"font-size: 12.8px;\">10. Implementazione di K mediante Quick-Find</span></span></p>\n<p><span style=\"color: #222222; font-family: arial, sans-serif;\"><span style=\"font-size: 12.8px;\">11. Analisi della complessit\u00e0 e della correttezza di K</span></span></p>\n<p><span style=\"color: #222222; font-family: arial, sans-serif;\"><span style=\"font-size: 12.8px;\">\u00a0</span></span></p>\n<p><span style=\"color: #222222; font-family: arial, sans-serif;\"><span style=\"font-size: 12.8px;\">Fonti: Union-Find: libro di Demetrescu et al (si vedano anche le slide a.a.2016-17). Algoritmo di Kruskal: libro KT.</span></span></p>"
+    },
+    {
+      "id": "27",
+      "data": "14-03-2018",
+      "contenuto": "<p>Esercitazione.</p>\n<p>1. La relazione tra Shortest Path Tree (SPT) e Minimum Spanning Tree (MST).</p>\n<p>2. Esempi di grafi che evidenziano la differenza.</p>\n<p>3. Algoritmo A(G,e) per la verifica dell\u2019appartenenza di un fissato arco ad un MST di un grafo pesato connesso (Es. n 3, p. 187 di [KT]).</p>\n<p>4. Dimostrazione della correttezza ed analisi della complessit\u00e0 dell\u2019Algoritmo A(G,e).</p>"
+    },
+    {
+      "id": "26",
+      "data": "12-03-2018",
+      "contenuto": "<p><span style=\"color: #222222; font-family: arial, sans-serif; font-size: 12.8px;\">1.\u00a0 \u00a0 \u00a0 IL problema del MST</span><br style=\"color: #222222; font-family: arial, sans-serif; font-size: 12.8px;\"><span style=\"color: #222222; font-family: arial, sans-serif; font-size: 12.8px;\">2.\u00a0 \u00a0 \u00a0 Definizione formale come probl. di ott.</span><br style=\"color: #222222; font-family: arial, sans-serif; font-size: 12.8px;\"><span style=\"color: #222222; font-family: arial, sans-serif; font-size: 12.8px;\">3.\u00a0 \u00a0 \u00a0 Applicazioni principali (cenni)</span><br style=\"color: #222222; font-family: arial, sans-serif; font-size: 12.8px;\"><span style=\"color: #222222; font-family: arial, sans-serif; font-size: 12.8px;\">4.\u00a0 \u00a0 \u00a0 Propriet\u00e0 del Taglio e MST</span><br style=\"color: #222222; font-family: arial, sans-serif; font-size: 12.8px;\"><span style=\"color: #222222; font-family: arial, sans-serif; font-size: 12.8px;\">5.\u00a0 \u00a0 \u00a0 Propriet\u00e0 del Ciclo e MST</span><br style=\"color: #222222; font-family: arial, sans-serif; font-size: 12.8px;\"><span style=\"color: #222222; font-family: arial, sans-serif; font-size: 12.8px;\">6.\u00a0 \u00a0 \u00a0 Propriet\u00e0 dell'intersezione tra Cicli e Tagli</span><br style=\"color: #222222; font-family: arial, sans-serif; font-size: 12.8px;\"><span style=\"color: #222222; font-family: arial, sans-serif; font-size: 12.8px;\">7.\u00a0 \u00a0 \u00a0 Tre approcci Greedy</span><br style=\"color: #222222; font-family: arial, sans-serif; font-size: 12.8px;\"><span style=\"color: #222222; font-family: arial, sans-serif; font-size: 12.8px;\">8.\u00a0 \u00a0 \u00a0 l'Algoritmo di Prim (Visita)</span><br style=\"color: #222222; font-family: arial, sans-serif; font-size: 12.8px;\"><span style=\"color: #222222; font-family: arial, sans-serif; font-size: 12.8px;\">9.\u00a0 \u00a0 \u00a0 Correttezza dell'algoritmo di Prim mediante la Propr. 4</span><br style=\"color: #222222; font-family: arial, sans-serif; font-size: 12.8px;\"><span style=\"color: #222222; font-family: arial, sans-serif; font-size: 12.8px;\">10.\u00a0 \u00a0 \u00a0Implementazione dell'Algoritmo</span><br style=\"color: #222222; font-family: arial, sans-serif; font-size: 12.8px;\"><span style=\"color: #222222; font-family: arial, sans-serif; font-size: 12.8px;\">11.\u00a0 \u00a0 \u00a0Esempio di esecuzione</span><br style=\"color: #222222; font-family: arial, sans-serif; font-size: 12.8px;\"><span style=\"color: #222222; font-family: arial, sans-serif; font-size: 12.8px;\">12.\u00a0 \u00a0 \u00a0Analisi della complessit\u00e0 temporale</span><br style=\"color: #222222; font-family: arial, sans-serif; font-size: 12.8px;\"><span style=\"color: #222222; font-family: arial, sans-serif; font-size: 12.8px;\">13.\u00a0 \u00a0 \u00a0Testo: Keliberg &amp; Tardos, Algorithm Design</span><br style=\"color: #222222; font-family: arial, sans-serif; font-size: 12.8px;\"><span style=\"color: #222222; font-family: arial, sans-serif; font-size: 12.8px;\">14.\u00a0 \u00a0 \u00a0Slides del Prof. Clementi (file mst-andy-lesson1.pdf)</span></br></br></br></br></br></br></br></br></br></br></br></br></br></p>"
+    },
+    {
+      "id": "25",
+      "data": "08-03-2018",
+      "contenuto": "<p><span style=\"color: #222222; font-family: arial, sans-serif; font-size: 12.8px;\">1.\u00a0 \u00a0 \u00a0 Introduzione generale al II modulo, modalit\u00e0 dell'esame.</span><br style=\"color: #222222; font-family: arial, sans-serif; font-size: 12.8px;\"><span style=\"color: #222222; font-family: arial, sans-serif; font-size: 12.8px;\">2.\u00a0 \u00a0 \u00a0 Def. del problema dei cammini minimi come problema di ottimizzazione.</span><br style=\"color: #222222; font-family: arial, sans-serif; font-size: 12.8px;\"><span style=\"color: #222222; font-family: arial, sans-serif; font-size: 12.8px;\">3.\u00a0 \u00a0 \u00a0 Propriet\u00e0 dei cammini minimi e dei loro sottocammini.</span><br style=\"color: #222222; font-family: arial, sans-serif; font-size: 12.8px;\"><span style=\"color: #222222; font-family: arial, sans-serif; font-size: 12.8px;\">4.\u00a0 \u00a0 \u00a0 Algoritmo di Dijkstra per cammini minimi.</span><br style=\"color: #222222; font-family: arial, sans-serif; font-size: 12.8px;\"><span style=\"color: #222222; font-family: arial, sans-serif; font-size: 12.8px;\">5.\u00a0 \u00a0 \u00a0 Correttezza e Complessit\u00e0 dell'Algoritmo.</span><br style=\"color: #222222; font-family: arial, sans-serif; font-size: 12.8px;\"><span style=\"color: #222222; font-family: arial, sans-serif; font-size: 12.8px;\">6.\u00a0 \u00a0 \u00a0 Libro: Demetrescu, Finocchi, Italiano, Algoritmi e Strutture Dati, McGraw-Hill.</span><br style=\"color: #222222; font-family: arial, sans-serif; font-size: 12.8px;\"><span style=\"color: #222222; font-family: arial, sans-serif; font-size: 12.8px;\">7.\u00a0 \u00a0 \u00a0 Slides del Dr. Gual\u00e0 (file Dijkstra2017).</span></br></br></br></br></br></br></p>"
+    },
+    {
+      "id": "24",
+      "data": "11-01-2018",
+      "contenuto": "<p>Discussione (ancora) sull\u2019esercizio 3 del Problem Set 3 e correzione Esercizio 2. Esercizio: andare allo stadio con un amico spendendo il meno possibile (Esercizio 10).</p>"
+    },
+    {
+      "id": "23",
+      "data": "08-01-2018",
+      "contenuto": "<p>Correzione Esercizio 1 e Esercizio 3 del Problem Set 3.</p>"
+    },
+    {
+      "id": "22",
+      "data": "14-12-2017",
+      "contenuto": "<p>Esercitazione. Spendere il meno possibile per andare ad una festa con regalo (Esercizio 9). Una soluzione di costo O(mn+n^2 log n). Una migliore soluzione di costo O(m+n log n). Una soluzione alternativa di costo O(m+n log n): tecnica della riduzione e utilizzo di grafi ausiliari.</p>"
+    },
+    {
+      "id": "21",
+      "data": "11-12-2017",
+      "contenuto": "<p>Cammini minimi in grafi pesati. Il problema del calcolo dei cammini minimi a singola sorgente. Un algoritmo veloce quando il grafo ha pesi non negativi: l'algoritmo di Dijkstra.\u00a0</p>"
+    },
+    {
+      "id": "20",
+      "data": "07-12-2017",
+      "contenuto": "<p>Discussione sul Problem Set 2: correzione Esercizio 3; discussione Esercizio 4.</p>"
+    },
+    {
+      "id": "19",
+      "data": "04-12-2017",
+      "contenuto": "<p>Usi meno comuni della visita DFS. Catalogare per tipo gli archi del grafo. Individuare un ciclo in grafi diretti. Grafi diretti aciclici (DAG) e ordinamento topologico. Usare la visita DFS per trovare un ordinamento topologico di un DAG. Componenti fortemente connesse: un algoritmo lineare per calcolarle.</p>"
+    },
+    {
+      "id": "18",
+      "data": "30-11-2017",
+      "contenuto": "<p>Strutture dati per rappresentare un grafo. Matrice di adiacenza e Liste di adiacenza. Visite di un grafo. Visita in ampiezza (BFS): cammini minimi da una sorgente. Visita in profondit\u00e0 (DFS): uscire da un labirinto.</p>"
+    },
+    {
+      "id": "17",
+      "data": "27-11-2017",
+      "contenuto": "<p>I Grafi (diretti, non diretti, pesati). Nozioni preliminari. Cammini, distanze, diametro. Alberi. Grafi Euleriani. I grafi come linguaggio potente per descrivere scenari e problemi. Esempi di scenari/problematiche descrivibili come grafi/problemi su grafi (reti stradali/di trasporto, reti sociali, reti \u201cdelle dipendenze\u201d).</p>"
+    },
+    {
+      "id": "16",
+      "data": "23-11-2017",
+      "contenuto": "<p>Il problema della Coda con priorit\u00e0. d-Heap, Heap Binomiali, (cenni sugli) Heap di Fibonacci.</p>"
+    },
+    {
+      "id": "15",
+      "data": "20-11-2017",
+      "contenuto": "<p>Esercitazione. Progettare un algoritmo che, dato un vettore ordinato A[1:n] di n bit, trova il numero k di zero presenti in A. Algoritmo con complessit\u00e0 O(log n). Un miglior algoritmo con tempo O(log k) (Es. 7). Progettare un algoritmo con complessit\u00e0 lineare che, dato un vettore A[1:n] di n bit, trova l\u2019indice k tale che il numero di zeri in A[1:k] \u00e8 uguale al numero di uni in A[k+1:n] (Es. 8).</p>"
+    },
+    {
+      "id": "14",
+      "data": "16-11-2017",
+      "contenuto": "<p>Il problema del Dizionario: secondo episodio. Alberi AVL: definizione ed esempi. Dimostrazione della delimitazione superiore dell\u2019altezza di un albero AVL (che usa la nozione di albero di Fibonacci). Operazioni sugli alberi AVL: search, insert, delete.</p>"
+    },
+    {
+      "id": "13",
+      "data": "13-11-2017",
+      "contenuto": "<p>Il problema del Dizionario. Alberi binari di ricerca. Definizione. Visita in ordine simmetrico di un BST. Ricerca, inserimento, cancellazione (ricerca del massimo, del minimo, del predecessore e del successore di un nodo). Correzione Esercizio 3 del Problem Set 1.</p>"
+    },
+    {
+      "id": "12",
+      "data": "09-11-2017",
+      "contenuto": "<p>Esercitazione sulle visite di alberi. Progettazione di un algoritmo che, preso un albero con valori e colori (rosso e nero), trova il valore del cammino rosso di tipo nodo-radice di valore massimo (Es 4). Altro esercizio: progettare un algoritmo che,\u00a0 preso un albero e in intero h, restituisce il numero di nodi dell'albero di profondit\u00e0 almeno h (Es 5). Altro esercizio: preso un albero binario con valori, calcola il numero di nodi per cui la somma dei valori degli antenati \u00e8 uguale alla somma dei valori dei discendenti (Es. 6).</p>"
+    },
+    {
+      "id": "11",
+      "data": "06-11-2017",
+      "contenuto": "<p>Strutture dati elementari: rappresentazioni indicizzate e rappresentazioni collegate. Implementazione di un dizionario con array ordinato/non ordinato e lista ordinata/non ordinata. Rappresentazioni di alberi. Algoritmi di visita di un albero: profondit\u00e0 versione iterativa, profondit\u00e0 versione ricorsiva (preordine, postordine, ordine simmetrico), ampiezza. Algoritmo per calcolare l\u2019altezza di un albero.</p>"
+    },
+    {
+      "id": "10",
+      "data": "02-11-2017",
+      "contenuto": "<p>Esercitazione. Primo esercizio: dato un array di n interi compresi fra 1 e k, costruire in tempo O(n+k) un <em>oracolo</em> (struttura dati) che sia in grado di rispondere in tempo costante a domande del tipo \"quanti interi nell'array sono compresi fra a e b?\"(Esercizio e soluzioni a fine delle slide sull'IntegerSort). Secondo esercizio: dato un vettore A di n numeri, progettare un algoritmo che in tempo O(n) trova due indici i e j con i&lt;j che massimizzano A[j]-A[i] (Es. 3).</p>"
+    },
+    {
+      "id": "9",
+      "data": "30-10-2017",
+      "contenuto": "<p>Delimitazioni superiori e inferiori di algoritmi e problemi. Un lower bound alla complessit\u00e0 temporale necessaria per ordinare n elementi (per una classe di algoritmi ragionevoli, quelli basati su confronti). Algoritmi veloci per ordinare interi: IntegerSort, BucketSort, RadixSort.</p>"
+    },
+    {
+      "id": "8",
+      "data": "26-10-2017",
+      "contenuto": "<p>Esercitazione. Esercizio: dimostrare o confutare una relazione asintotica (Es. 1). Esercizio di progettazione di un algoritmo che, dato un vettore ordinato A di n interi distinti e un valore x, trova (se esistono) due elementi di A che sommano a x. Soluzione banale con complessit\u00e0 quadratica, soluzione di complessit\u00e0 O(n log n) e soluzione con tempo O(n) (Es. 2).</p>"
+    },
+    {
+      "id": "7",
+      "data": "23-10-2017",
+      "contenuto": "<p>Progettare algoritmi efficienti attraverso la progettazione di strutture dati efficienti. Un esempio: l'HeapSort - che ordina in loco n elementi in tempo O(n log n) nel caso peggiore.</p>"
+    },
+    {
+      "id": "6",
+      "data": "19-10-2017",
+      "contenuto": "<p>Il Problema dell\u2019ordinamento. Un algoritmo semplice ma inefficiente: il Selection Sort. Un algoritmo migliore: il MergeSort. Un altro algoritmo che usa la tecnica divide et impera: il QuickSort: analisi del caso peggiore, migliore, e intuizioni sul caso medio. Discussione versione randomizzata del QuickSort e differenza fra complessit\u00e0 nel caso medio e tempo atteso di un algoritmo randomizzato.</p>"
+    },
+    {
+      "id": "5",
+      "data": "16-10-2017",
+      "contenuto": "<p>Ancora sulle equazioni di ricorrenza. Metodo della sostituzione. Teorema Fondamentale delle Ricorrenze (Master). Semplici esempi. Quando non si pu\u00f2 applicare. Metodo del cambiamento di variabile.</p>"
+    },
+    {
+      "id": "4",
+      "data": "12-10-2017",
+      "contenuto": "<p>Analisi della complessit\u00e0 nel caso medio: un esempio. Il problema della ricerca di un elemento in un insieme: ricerca sequenziale e ricerca binaria. Equazioni di ricorrenza. Metodo dell\u2019iterazione. Metodo che usa l\u2019albero della ricorsione.</p>"
+    },
+    {
+      "id": "3",
+      "data": "09-10-2017",
+      "contenuto": "<p>Modello di calcolo RAM. Costi uniformi e logaritmici. Complessit\u00e0 caso peggiore, migliore, medio. Notazioni asintotiche: O-grande, Omega-grande, Theta. O-piccolo, Omega-piccolo. Definizioni e semplici esempi. Propriet\u00e0. Usare la notazione asintotica nelle analisi della complessit\u00e0 computazionale degli algoritmi.</p>"
+    },
+    {
+      "id": "2",
+      "data": "05-10-2017",
+      "contenuto": "<p>Il problema del calcolo dell\u2019n-esimo numero di Fibonacci. Un algoritmo numerico e un algoritmo ricorsivo. Analisi della complessit\u00e0 temporale dell\u2019algoritmo ricorsivo. Un algoritmo iterativo di complessit\u00e0 temporale O(n) e di complessit\u00e0 spaziale O(n) (Fibonacci3). Portare la memoria a O(1): Fibonacci4. Introduzione informale alla notazione asintotica. Algoritmo con complessit\u00e0 O(log n) per il calcolo dell\u2019n-simo numero di Fibonacci. Discussione della complessit\u00e0 spaziale degli algoritmi ricorsivi Fibonacci2 e Fibonacci6.</p>"
+    },
+    {
+      "id": "1",
+      "data": "02-10-2017",
+      "contenuto": "<p>Introduzione al corso. Motivazioni e concetti fondamentali. Un primo esempio: il problema di trovare una moneta falsa (pi\u00f9 pesante) fra n monete usando una bilancia a due piatti.</p>"
+    }
+  ],
+  "materiale": [],
+  "programma": "<table><tr><td><p>http://www.mat.uniroma2.it/~guala/ASDL_2017.htm</p></td></tr></table>",
+  "testiRiferimento": "<table><tr><td><p>http://www.mat.uniroma2.it/~guala/ASDL_2017.htm</p></td></tr></table>",
+  "ricevimento": "<table><tr><td><p>http://www.mat.uniroma2.it/~guala/ASDL_2017.htm</p></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td><p>Una prova scritta e prova orale, per ognuno dei due moduli. Si vedano anche le slide introduttive al corso alla pagina:</p>\n<p>http://www.mat.uniroma2.it/~guala/ASDL_2017.htm</p></td></tr></table>"
+}

@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Matematica discreta",
+  "docente": [
+    {
+      "first_name": "Giulia Maria Piacentini",
+      "second_name": "Cattaneo"
+    }
+  ],
+  "annoAccademico": "2005-2006",
+  "crediti": "6",
+  "settore": "",
+  "anno": "1",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>Si prega di far riferimento alla pagina web del docente:\r\nhttp://www.mat.uniroma2.it/~piacenti</td></tr></table>",
+  "testiRiferimento": "<table><tr><td> G.M.Piacentini Cattaneo, Algebra, un approccio algoritmico, Decibel Zanichelli</td></tr></table>",
+  "ricevimento": "<table><tr><td> </td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

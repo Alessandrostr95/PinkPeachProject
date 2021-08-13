@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Analisi Matematica",
+  "docente": [
+    {
+      "first_name": "Florin",
+      "second_name": "Radulescu"
+    }
+  ],
+  "annoAccademico": "2010-2011",
+  "crediti": "9",
+  "settore": "",
+  "anno": "1",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>Il testo consigliato e: \r\nMatematica, Bramanti, Pagani, Salsa  ed. Zanichelli \r\nprogramma del corso e; \r\nINSIEMI NUMERICI \r\nInsiemi, numeri naturali, interi, razionali, principio di induzione, progressione geometrica, binomio di Newton, \r\ngli \r\nassiomi dei numeri reali, massimo e minimo, estremo inferiore ed estremo superiore. Funzioni e \r\nrappresentazione \r\ncartesiana, funzioni iniettive, suriettive, biettive, funzioni composte, funzioni invertibili, monotone, lineari, \r\nsimmetriche, periodiche, limitate. Estremo superiore, estremo inferiore, massimo e minimo di una funzione. \r\nFunzione \r\nvalore assoluto, potenze, radicali, esponenziali, logaritmi, funzioni iperboliche, funzioni trigonometriche. \r\nOperazioni \r\nsui gra\ufb01ci. \r\nSUCCESSIONI \r\nIntroduzione al calcolo in\ufb01nitesimale, successioni, limiti di successioni, teorema di unicit\u00e0 del limite, \r\nsuccessioni \r\nlimitate, operazioni con i limiti, teorema della permanenza del segno e conseguenze, teorema dei carabinieri, \r\nsuccessioni in\ufb01nitesime, teorema sul limite del prodotto di successioni limitate per successioni convergenti. \r\nForme \r\nindeterminate. Successioni monotone, teorema sul limite di successioni monotone, limiti notevoli, confronti e \r\nstime \r\nasintotiche, in\ufb01niti di ordine crescente, criterio del rapporto per successioni(s.d.). \r\nSerie Criteri: Raporto, Radice \r\nFUNZIONI DI UNA VARIABILE: LIMITI E CONTINUITA' \r\nDe\ufb01nizione di limite nei diversi casi, teorema sul legame tra limiti di successioni e limiti di funzioni, limiti \r\nnotevoli, \r\noperazioni con i limiti di funzioni. Funzioni continue, discontinuit\u00e0, teorema sulla permanenza del segno, \r\nteorema degli \r\nzeri, teorema di valori intermedi, \r\nCALCOLO DIFFERENZIALE PER FUNZIONI DI UNA VARIABILE \r\nDerivata di una funzione, signi\ufb01cato geometrico, equazione della retta tangente, derivate di funzioni \r\nelementari, punti \r\ndi non derivabilit\u00e0, operazioni con le derivate, teorema di derivazione delle funzioni composte e delle funzioni \r\ninverse. \r\nDifferenziale e approssimazione lineare. Punti stazionari, massimi e minimi locali, teorema di Fermat, teoremi \r\ndi Rolle \r\ne di Lagrange, criterio di monotonia, teorema di caratterizzazione delle funzioni costanti su un intervallo. \r\nRicerca dei \r\nmassimi e minimi. funzioni concave e funzioni convesse, criterio di convessit\u00e0 per funzioni derivabili (s.d.). \r\nTeorema di \r\nDe L'Hospital (s.d.). Studio del gra\ufb01co di una funzione.  Sviluppo Taylor \r\nCALCOLO INTEGRALE PER FUNZIONI  DI UNA VARIABILE \r\nIl metodo di esaustione, introduzione all'integrazione secondo Riemann: de\ufb01nizioni e notazioni, propriet\u00e0 \r\ndelle somme \r\nintegrali,  de\ufb01nizione di integrale de\ufb01nito, criterio di integrabilit\u00e0(s.d.), propriet\u00e0 dell'integrale de\ufb01nito, \r\nintegrabilit\u00e0 \r\ndelle funzioni continue e delle funzioni monotone(s.d.), teorema della media integrale. Integrale inde\ufb01nito, \r\nde\ufb01nizione \r\ndi primitiva, caratterizzazione delle primitive di una funzione in un intervallo, la funzione integrale,  primo e \r\nsecondo \r\nteorema fondamentale del calcolo integrale, metodi elementari per la ricerca di una primitiva,  calcolo di \r\nintegrali \r\nde\ufb01niti e inde\ufb01niti,  integrazione per parti e per sostituzione, integrazione di funzioni razionali fratte, \r\nintegrazione di \r\nfunzioni irrazionali. Applicazioni geometriche dell'integrale de\ufb01nito.  Integrali impropri \r\nCURVE \r\n Lunghezza di una curva \r\nEquazioni Differenziale \r\n_Primo e secondo grado con coef\ufb01cienti constanti</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>Matematica, Bramanti, Pagani, Salsa  ed. Zanichelli</td></tr></table>",
+  "ricevimento": "<table><tr><td>Martedi 14-16 , studio 0207</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

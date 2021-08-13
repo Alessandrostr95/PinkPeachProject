@@ -1,0 +1,26 @@
+{
+  "nomeCorso": "Calcolo delle probabilit\u00e0",
+  "docente": [
+    {
+      "first_name": "Antonella",
+      "second_name": "Calzolari"
+    },
+    {
+      "first_name": "Antonella",
+      "second_name": "Calzolari"
+    }
+  ],
+  "annoAccademico": "2003-2004",
+  "crediti": "6",
+  "settore": "",
+  "anno": "3",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>Catene di Markov\r\nConvergenza di successioni di variabili aleatorie \r\nSimulazione di variabili aleatorie discrete e continue \r\nMetodi Monte-Carlo \r\n\r\nIl programma potra' subire variazioni durante il corso. \r\n\r\nNelle comunicazioni si trovano comunque gli argomenti svolti lezione per lezione. \r\n</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>\r\nnote a mano del docente distribuite a lezione \r\n\r\ntesti di riferimento:\r\nP.Baldi, Calcolo delle Probabilita' e statistica, McGraw-Hill \r\nP.Baldi,R.Giuliano,L.Ladelli, Laboratorio di statistica e probabilita'\r\n\r\naltri testi utili:\r\nKoch G., La Matematica del Probabile\r\nHoel P.G., Port S.C, Stone C.J., Introduction to Stochastic Processes\r\nBremaud P., Markov Chains, Gibbs Fields, Monte-Carlo Simulation and Queues\r\n\r\n\r\n\r\n</td></tr></table>",
+  "ricevimento": "<table><tr><td>su appuntamento</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

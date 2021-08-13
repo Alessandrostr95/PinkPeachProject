@@ -1,0 +1,26 @@
+{
+  "nomeCorso": "Calcolo numerico",
+  "docente": [
+    {
+      "first_name": "Daniele",
+      "second_name": "Bertaccini"
+    },
+    {
+      "first_name": "Daniele",
+      "second_name": "Bertaccini"
+    }
+  ],
+  "annoAccademico": "2007-2008",
+  "crediti": "6",
+  "settore": "",
+  "anno": "3",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>Programma sintetico:\r\nAlgoritmi e risoluzione numerica dei Modelli continui\r\nAritmetica in precisione finita\r\nCondizionamento e Stabilita'\r\nRichiami di Algebra Lineare\r\nMetodi numerici per sistemi lineari\r\nMetodi numerici per equazioni non lineari\r\nInterpolazione ed approssimazione\r\nApprossimazione di  integrali definiti\r\nCenni al trattamento di equazioni differenziali\r\nCenni all'approssimazione di autovalori e autovettori di matrici\r\n\r\nPer maggiori informazioni consultate\r\nhttp://www.mat.uniroma2.it/bertaccini/studenti/didattica-TorVergata.html</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>D. Bini, M. Capovani, O. Menchi,  Metodi numerici per l'Algebra Lineare, Zanichelli, Bologna, 1988\r\n\r\nR. Bevilacqua, D. Bini, M. Capovani, O. Menchi,  Metodi Numerici,  Zanichelli, Bologna, 1992\r\nJ. F. Epperson, Introduzione all'Analisi Numerica, McGraw-Hill Italia, 2003\r\nGiuseppe Rodriguez, Dispense di Calcolo Numerico, scaricabili dal sito del docente. \r\n</td></tr></table>",
+  "ricevimento": "<table><tr><td>Su appuntamento tramite email.</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

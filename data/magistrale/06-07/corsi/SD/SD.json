@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Sistemi distribuiti",
+  "docente": [
+    {
+      "first_name": "Giorgio",
+      "second_name": "Gambosi"
+    }
+  ],
+  "annoAccademico": "2006-2007",
+  "crediti": "6",
+  "settore": "",
+  "anno": "2",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>Problematiche fondamentali dei sistemi distribuiti. Il ruolo del middleware. Chiamate di procedure remote (RPC), RMI, CORBA. TP-monitor. Middleware message-oriented (MOM). Problematiche di Enterprise Application Integration (EAI), sistemi di workflow. Il World Wide Web come infrastruttura di comunicazione e scambio di servizi. B2C (Business to Consumer) e B2B (Business to Business). Architettura fondamentale dei web services. SOAP (Simple Object Access Protocol). WSDL (Web Services Description Language). UDDI (Universal Description, Discovery and Integration).</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>Alonso G., Casati F., Kuno H., Machiraju V. \"Web services: Concepts, Architectures, and Applications\" Springer Verlag, 2004.\r\n\r\nSito web del libro: http://www.inf.ethz.ch/personal/alonso/WebServicesBook\r\nContiene ulteriore materiale didattico, tra cui gli originali di parte dei lucidi utilizzati.</td></tr></table>",
+  "ricevimento": "<table><tr><td>Studio docente Giovedi 16.00-17.00 </td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

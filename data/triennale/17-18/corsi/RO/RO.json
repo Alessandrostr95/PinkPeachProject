@@ -1,0 +1,222 @@
+{
+  "nomeCorso": "Ricerca operativa",
+  "docente": [
+    {
+      "first_name": "Massimiliano",
+      "second_name": "Caramia"
+    }
+  ],
+  "annoAccademico": "2017-2018",
+  "crediti": "6",
+  "settore": "MAT/09",
+  "anno": "2",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [
+    {
+      "titolo": "Prove in itinere",
+      "data": "30-05-2018 13:09",
+      "contenuto": "<p>Le prove in itinere del corso di Ricerca Operativa si terranno nei giorni</p>\n<p>- 15 maggio 2018 in aula T7 dalle ore 13:30 alle 16:00</p>\n<p>- 5 giugno 2018 in aula T7 dalle ore 13:30 alle ore 16:00</p><hr/>"
+    },
+    {
+      "titolo": "Recupero prima prova in itinere",
+      "data": "23-05-2018 11:18",
+      "contenuto": "<p>Coloro che sono risultati insufficienti o non avessero partecipato alla prima prova in itinere del 15 maggio 2018, possono recuperare/sostenere la prova il giorno 29 maggio 2018 alle ore 13:30 in aula 3A.</p>"
+    }
+  ],
+  "lezioni": [
+    {
+      "id": "23",
+      "data": "30-05-2018",
+      "contenuto": "<p>Esercitazione su AMPL</p>"
+    },
+    {
+      "id": "22",
+      "data": "29-05-2018",
+      "contenuto": "<p>Recupero della prova in itinere</p>"
+    },
+    {
+      "id": "21",
+      "data": "23-05-2018",
+      "contenuto": "<p>Il linguaggio AMPL + correzione prova in itinere</p>"
+    },
+    {
+      "id": "20",
+      "data": "22-05-2018",
+      "contenuto": "<p>Il linguaggio AMPL</p>"
+    },
+    {
+      "id": "19",
+      "data": "16-05-2018",
+      "contenuto": "<p>Il linguaggio AMPL</p>"
+    },
+    {
+      "id": "18",
+      "data": "15-05-2018",
+      "contenuto": "<p>Prima prova in itinere</p>"
+    },
+    {
+      "id": "17",
+      "data": "09-05-2018",
+      "contenuto": "<p>Esercitazione di riepilogo della prima parte del corso</p>"
+    },
+    {
+      "id": "16",
+      "data": "08-05-2018",
+      "contenuto": "<p>L'algoritmo Primale-Duale</p>"
+    },
+    {
+      "id": "15",
+      "data": "02-05-2018",
+      "contenuto": "<p>Il Simplesso Duale</p>"
+    },
+    {
+      "id": "14",
+      "data": "24-04-2018",
+      "contenuto": "<p>Introduzione al metodo Primale-Duale</p>"
+    },
+    {
+      "id": "13",
+      "data": "18-04-2018",
+      "contenuto": "<p>Esercitazione</p>"
+    },
+    {
+      "id": "12",
+      "data": "17-04-2018",
+      "contenuto": "<p>Esercitazione sul metodo del Simplesso in due fasi</p>"
+    },
+    {
+      "id": "11",
+      "data": "11-04-2018",
+      "contenuto": "<p>Verifica di ottimalit\u00e0 di un punto ammissibile primale attraverso la teoria della dualit\u00e0.</p>"
+    },
+    {
+      "id": "10",
+      "data": "10-04-2018",
+      "contenuto": "<p>La teoria della dualit\u00e0. Il teorema della dualit\u00e0 debole. Il teorema della dualit\u00e0 forte. Il Teorema degli scarti complemantari.</p>"
+    },
+    {
+      "id": "9",
+      "data": "04-04-2018",
+      "contenuto": "<p>Esercitazione sul metodo del simplesso in due fasi</p>"
+    },
+    {
+      "id": "8",
+      "data": "28-03-2018",
+      "contenuto": "<p>Il metodo del simplesso in due fasi</p>"
+    },
+    {
+      "id": "7",
+      "data": "27-03-2018",
+      "contenuto": "<p><span style=\"font-family: verdana, arial, helvetica; font-size: 11px;\">Il metodo del simplesso in due fasi</span></p>"
+    },
+    {
+      "id": "6",
+      "data": "21-03-2018",
+      "contenuto": "<p>Esercitazione sul metodo del simplesso</p>"
+    },
+    {
+      "id": "5",
+      "data": "20-03-2018",
+      "contenuto": "<p>Il metodo del simplesso</p>"
+    },
+    {
+      "id": "4",
+      "data": "14-03-2018",
+      "contenuto": "<p>Il metodo del simplesso</p>"
+    },
+    {
+      "id": "3",
+      "data": "13-03-2018",
+      "contenuto": "<p>Teoria della programmazione lineare. Concetto di soluzione di base e corrispondenza tra vertici della regione ammissibile e soluzioni di base. La programmazione lineare come problema di ottimizzazione combinatoria. Introduzione al metodo del simplesso.</p>"
+    },
+    {
+      "id": "2",
+      "data": "07-03-2018",
+      "contenuto": "<p>Introduzione alla Programmazione Lineare. Variabile decisionale, regione ammisibile, funzione obiettivo.</p>"
+    },
+    {
+      "id": "1",
+      "data": "06-03-2018",
+      "contenuto": "<p>Introduzione alla Ricerca Operativa</p>"
+    }
+  ],
+  "materiale": [
+    {
+      "titolo": "Codici AMPL lezione 30 maggio 2018",
+      "dataUpload": "04.06.2018 13:41:16",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/RO/AMPL_Lezione_30_maggio_2018.zip",
+      "dimensione": "1 KB"
+    },
+    {
+      "titolo": "Voti prima prova in itinere",
+      "dataUpload": "30.05.2018 13:08:20",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/RO/Voti_RO_INFO_Esonero_15_Maggio_2018.pdf",
+      "dimensione": "55 KB"
+    },
+    {
+      "titolo": "Voti recupero prima prova in itinere",
+      "dataUpload": "30.05.2018 13:07:26",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/RO/Voti_RO_INFO_Esonero_29_Maggio_2018.pdf",
+      "dimensione": "56 KB"
+    },
+    {
+      "titolo": "Codici AMPL lezione 23 maggio 2018",
+      "dataUpload": "24.05.2018 12:40:16",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/RO/Es_AMPL_network_23_maggio_2018.zip",
+      "dimensione": "0 KB"
+    },
+    {
+      "titolo": "Testo prima prova in itinere del 15 maggio 2018 e svolgimento",
+      "dataUpload": "24.05.2018 12:39:37",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/RO/Esonero_RO_svolgimento_15_maggio_2018.pdf",
+      "dimensione": "777 KB"
+    },
+    {
+      "titolo": "Codici AMPL della lezione del 22 maggio 2018",
+      "dataUpload": "23.05.2018 11:25:48",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/RO/Codici_Lezione_AMPL_22_Maggio_2018.zip",
+      "dimensione": "1 KB"
+    },
+    {
+      "titolo": "Teoria della dualit\u00e0",
+      "dataUpload": "23.05.2018 11:12:37",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/RO/Lezioni_Teoria_Dualita.pdf",
+      "dimensione": "4115 KB"
+    },
+    {
+      "titolo": "Teoria della programmazione lineare",
+      "dataUpload": "03.05.2018 10:06:20",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/RO/Lezioni_Teoria_Programmazione_Lineare.pptx",
+      "dimensione": "6140 KB"
+    },
+    {
+      "titolo": "Esercizi di riepilogo",
+      "dataUpload": "03.05.2018 10:03:43",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/RO/Esercizi_RO.pdf",
+      "dimensione": "196 KB"
+    },
+    {
+      "titolo": "L'algoritmo del Simplesso Duale e l'algoritmo Primale-Duale",
+      "dataUpload": "03.05.2018 10:02:58",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/RO/Lezioni_Algoritmo_Simplesso_Duale_e_Algoritmo_Primale_Duale.ppt",
+      "dimensione": "802 KB"
+    },
+    {
+      "titolo": "L'algoritmo del Simplesso primale e del Simplesso con le variabili artificiali",
+      "dataUpload": "03.05.2018 09:55:22",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/RO/Lezioni_Algortimo_Simplesso_Primale_e_Variabili_Artificiali.pptx",
+      "dimensione": "10444 KB"
+    },
+    {
+      "titolo": "Esempi di formulazioni lineari di problemi decisionali",
+      "dataUpload": "03.05.2018 09:51:52",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/RO/Lezioni_Esempi_Programmazione_Lineare.pptx",
+      "dimensione": "8559 KB"
+    }
+  ],
+  "programma": "<table><tr><td><p>Introduzione alla Ricerca Operativa.</p>\n<p>Formulazione di problemi decisionali in termini di programmazione matematica.</p>\n<p>Classificazione dei problemi di programmazione matematica.</p>\n<p>Teoria della programmazione lineare.</p>\n<p>Il metodo del simplesso primale.</p>\n<p>Il metodo delle variabili articificiali.</p>\n<p>Teoria della dualit\u00e0 nella programmazione lineare.</p>\n<p>Il metodo del simplesso duale.</p>\n<p>Il metodo primale-duale.</p>\n<p>Il linguaggio AMPL.</p>\n<p>La libreria di algoritmi CPLEX.</p></td></tr></table>",
+  "testiRiferimento": "<table><tr><td><p><span style=\"font-family: verdana, arial, helvetica; font-size: 11px;\">Caramia M., Giordani S., Guerriero F., Musmanno R., Pacciarelli D., \"Ricerca Operativa\", De Agostini Editore, 2014.</span></p></td></tr></table>",
+  "ricevimento": "<table><tr><td><p>Il marted\u00ec e il mercoled\u00ec al termine della lezione</p></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td><p>Il corso prevede una prova d'esame scritta e orale</p></td></tr></table>"
+}

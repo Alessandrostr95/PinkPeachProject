@@ -1,0 +1,136 @@
+{
+  "nomeCorso": "Basi di dati e di conoscenza",
+  "docente": [
+    {
+      "first_name": "Loredana",
+      "second_name": "Vigliano"
+    }
+  ],
+  "annoAccademico": "2016-2017",
+  "crediti": "12",
+  "settore": "INF/01",
+  "anno": "2",
+  "semestre": "1-2",
+  "propedeuticit\u00e0": "Matematica discreta. Programmazione dei calcolatori con laboratorio.",
+  "comunicazioni": [
+    {
+      "titolo": "APPELLI",
+      "data": "20-09-2017 17:54",
+      "contenuto": "<p>\u00a0<strong>IV Appello</strong>\u00a0(V Appello per Bioinformatici)</p>\n<p>21 Settembre orale aula 3A ore 11 : Rubino, Fois-Lazzarini, Margiotta</p>\n<p>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 ore 15 : Perfetto, Rogo, De Luise, Macari</p><hr/>"
+    },
+    {
+      "titolo": "",
+      "data": "14-09-2016 14:25",
+      "contenuto": "<p>\u00a0</p>\n<table cellpadding=\"0\" cellspacing=\"0\">\n<tbody>\n<tr>\n<td class=\"td1\" valign=\"middle\">\n<p class=\"p1\"><strong>ATTENZIONE !!!!!!</strong>\u00a0: per poter sostenere l' esame (anche solo orale) \u00e8 necessario prenotarsi sul sito \u00a0delphi.uniroma2.it.</p>\n<p class=\"p1\"><span class=\"s1\"><strong>ATTENZIONE !!!!!!\u00a0 :\u00a0useremo la verbalizzazione automatica e quindi non sar\u00e0 pi\u00f9 possibile sostenere l'esame senza prenotazione!!!!!</strong></span><br> \u00a0<br> ESAMI PROPEDEUTICI : MD e PR\u00a0</br></br></p>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "lezioni": [
+    {
+      "id": "0",
+      "data": "null",
+      "contenuto": "<p>Orario secondo semestre :</p>\n<p>\u00a0</p>\n<p>Luned\u00ec ore 14-16 aula 3A o 17</p>\n<p>Venerd\u00ec ore 14-16 aula 3A o 17</p>"
+    }
+  ],
+  "materiale": [
+    {
+      "titolo": "Risultati dello scritto del 18 Settembre",
+      "dataUpload": "18.09.2017 19:10:23",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/BDC/risIVappello.pdf",
+      "dimensione": "58 KB"
+    },
+    {
+      "titolo": "13 GIS Sistemi Informativi Geografici",
+      "dataUpload": "08.05.2017 18:04:11",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/BDC/GISnew.pdf",
+      "dimensione": "4594 KB"
+    },
+    {
+      "titolo": "12 Architettura MySQL e Storage Engines",
+      "dataUpload": "04.05.2017 13:07:04",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/BDC/4Architettura_MySQL.pdf",
+      "dimensione": "226 KB"
+    },
+    {
+      "titolo": "11 Database NoSQL e MongoDb",
+      "dataUpload": "07.04.2017 16:33:27",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/BDC/12Database_NoSQL_en2.pdf",
+      "dimensione": "165 KB"
+    },
+    {
+      "titolo": "10 Ottimizzazione Query",
+      "dataUpload": "29.03.2017 12:45:57",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/BDC/07SqlTuning.pdf",
+      "dimensione": "5132 KB"
+    },
+    {
+      "titolo": "09 Ottimizzazione Query in MySQL",
+      "dataUpload": "29.03.2017 12:44:00",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/BDC/2terQuery_performance_optimization.pdf",
+      "dimensione": "170 KB"
+    },
+    {
+      "titolo": "08 Ottimizzazione indici",
+      "dataUpload": "21.03.2017 17:37:34",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/BDC/08IndexTuning.pdf",
+      "dimensione": "6845 KB"
+    },
+    {
+      "titolo": "07 Organizzazione fisica dei dati (senza figure)",
+      "dataUpload": "21.03.2017 17:33:03",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/BDC/1organizzazione_fisica_dei_dati_senza_figure.pdf",
+      "dimensione": "445 KB"
+    },
+    {
+      "titolo": "<span style=\"background-color: #f3f3f3;\">lineee guida progetto database (cfu 12 Informatica)</span>",
+      "dataUpload": "20.03.2017 13:50:52",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/BDC/guidaprogettoBasididati2017.pdf",
+      "dimensione": "70 KB"
+    },
+    {
+      "titolo": "linee guida progetto database (cfu 6 Bioinformatica)",
+      "dataUpload": "02.02.2017 12:28:28",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/BDC/guidaprogettoBasididatibio.pdf",
+      "dimensione": "59 KB"
+    },
+    {
+      "titolo": "05 DataBase Management System e SQL",
+      "dataUpload": "21.12.2016 15:11:50",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/BDC/5DBMSeSQL.pdf",
+      "dimensione": "159 KB"
+    },
+    {
+      "titolo": "06 Comando Explain",
+      "dataUpload": "16.12.2016 13:12:51",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/BDC/07Explain.pdf",
+      "dimensione": "3082 KB"
+    },
+    {
+      "titolo": "",
+      "dataUpload": "14.11.2016 14:16:02",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/BDC/4Modconcettualeschemae-r.pdf",
+      "dimensione": "452 KB"
+    },
+    {
+      "titolo": "01 Introduzione, definizioni e storia",
+      "dataUpload": "26.10.2016 13:41:31",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/BDC/1definizioni_storia.pdf",
+      "dimensione": "166 KB"
+    },
+    {
+      "titolo": "03 Algebra relazionale e Calcolo relazionale",
+      "dataUpload": "24.10.2016 13:28:27",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/BDC/3algebra_calcolo_relazionale.pdf",
+      "dimensione": "302 KB"
+    },
+    {
+      "titolo": "02 Modello relazionale",
+      "dataUpload": "17.10.2016 13:51:23",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/BDC/2modello relazionale.pdf",
+      "dimensione": "74 KB"
+    }
+  ],
+  "programma": "<table><tr><td><table cellpadding=\"0\" cellspacing=\"0\">\n<tbody>\n<tr>\n<td class=\"td1\" valign=\"middle\">\n<p class=\"p1\">Introduzione\u00a0<br> <br> - Modello relazionale\u00a0<br> - Algebra relazionale\u00a0<br> - Calcolo relazionale\u00a0<br> - Flusso di progetto e visione dei dati\u00a0<br> - Modello concettuale dei dati\u00a0<br/> - Disegno logico DB\u00a0<br/> <br/> Schema Entity-relationship\u00a0<br/> - Disegno fisico DB\u00a0<br/> - Forme normali\u00a0<br/> - Query language e implementazioni su mySQL\u00a0<br/> DML\u00a0<br/> SQL\u00a0<br/> <br/> - Organizzazione fisica dei dati\u00a0<br/> - Ottimizzazione degli indici\u00a0<br/> - Normalizzazione e Denormalizzazione\u00a0<br/> - Ottimizzazione delle interrogazioni\u00a0<br/> <em>------ MySQL e ottimizzazioni\u00a0</em></br></br></br></br></br></br></p>\n<p class=\"p1\"><br/> - Transazioni\u00a0<br/> <em>------ Locking a due fasi, Timestamp,MVCC\u00a0<br/> ------ MySQL e Storage Engine</em>\u00a0<br/> <br/> - Basi di dati attive\u00a0<br/> <em>------ Trigger e Stored Procedure\u00a0<br/> ------ Cursor, Trigger e Stored Procedure in MySQL\u00a0</em></p>\n<p class=\"p1\">- Basi di dati\u00a0geospaziali e GIS\u00a0<br/> - Basi di dati su architetture distribuite\u00a0<br/> <em>------ Commit a due fasi\u00a0</em>\u00a0<br/> - Architetture per l' analisi dei dati\u00a0<br/> <em>------ Data Warehouse\u00a0<br/> ------ Data Mining</em>\u00a0</p>\n<p class=\"p1\">- Linked Open Data e DB NoSQL : MongoDB<br/> <br/> - Implementazione progetto</p>\n</td>\n</tr>\n</tbody>\n</table></td></tr></table>",
+  "testiRiferimento": "<table><tr><td><p>\u00a0</p>\n<table cellpadding=\"0\" cellspacing=\"0\">\n<tbody>\n<tr>\n<td class=\"td1\" valign=\"middle\">\n<p class=\"p1\">- Atzeni,Ceri,Fraternali,Paraboschi,Torlone\u00a0<em>Basi di dati -</em>\u00a0ed. McGraw-Hill 4nd edition\u00a0(59 euro)</p>\n<p class=\"p1\">\u00a0 \u00a0(chi gi\u00e0 possiede i precedenti 2 libri pu\u00f2 utilizzarli)\u00a0</p>\n<p class=\"p1\">\u00a0</p>\n<p class=\"p1\">- Schwartz,Zaitsev,Tkachenko,Zawodny, Lentz &amp; Balling<em>\u00a0High</em>\u00a0<em>Performance MySQL</em>\u00a0ed. O'Reilly 2nd edition</p>\n<p class=\"p1\">\u00a0</p>\n<p class=\"p1\">\u00a0</p>\n<p class=\"p1\">- lucidi di L. Vigliano presentati a Lezione\u00a0<br> <br/> Consigliati :\u00a0<br/> - Elmasri,Navathe <em>Fundamentals of database system</em>\u00a0Pearson 7th edition</br></p>\n</td>\n</tr>\n</tbody>\n</table></td></tr></table>",
+  "ricevimento": "<table><tr><td><p>\u00a0</p>\n<p class=\"p1\">Al termine di ogni lezione o previo appuntamento via mail</p></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td><p><span style=\"font-size: 12.0pt; mso-bidi-font-size: 12.0pt; font-family: 'Times New Roman'; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; mso-ansi-language: IT; mso-fareast-language: IT;\">L\u2019 esame comprende uno scritto, un progetto e un orale. Lo scritto pu\u00f2 essere conservato per un solo appello, eccetto per l\u2019 ultimo appello dell\u2019 anno accademico (non si pu\u00f2 conservare).</span></p>\n<p><!--[if gte mso 9]><xml>\r\n <o:OfficeDocumentSettings>\r\n  <o:AllowPNG/>\r\n </o:OfficeDocumentSettings>\r\n</xml><![endif]--><!--[if gte mso 9]><xml>\r\n <w:WordDocument>\r\n  <w:Zoom>0</w:Zoom>\r\n  <w:TrackMoves>false</w:TrackMoves>\r\n  <w:TrackFormatting/>\r\n  <w:HyphenationZone>14</w:HyphenationZone>\r\n  <w:PunctuationKerning/>\r\n  <w:DrawingGridHorizontalSpacing>18 pt</w:DrawingGridHorizontalSpacing>\r\n  <w:DrawingGridVerticalSpacing>18 pt</w:DrawingGridVerticalSpacing>\r\n  <w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery>\r\n  <w:DisplayVerticalDrawingGridEvery>0</w:DisplayVerticalDrawingGridEvery>\r\n  <w:ValidateAgainstSchemas/>\r\n  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>\r\n  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>\r\n  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>\r\n  <w:Compatibility>\r\n   <w:BreakWrappedTables/>\r\n   <w:DontGrowAutofit/>\r\n   <w:DontAutofitConstrainedTables/>\r\n   <w:DontVertAlignInTxbx/>\r\n  </w:Compatibility>\r\n </w:WordDocument>\r\n</xml><![endif]--><!--[if gte mso 9]><xml>\r\n <w:LatentStyles DefLockedState=\"false\" LatentStyleCount=\"276\">\r\n </w:LatentStyles>\r\n</xml><![endif]--> <!--[if gte mso 10]>\r\n<style>\r\n /* Style Definitions */\r\ntable.MsoNormalTable\r\n\t{mso-style-name:\"Tabella normale\";\r\n\tmso-tstyle-rowband-size:0;\r\n\tmso-tstyle-colband-size:0;\r\n\tmso-style-noshow:yes;\r\n\tmso-style-parent:\"\";\r\n\tmso-padding-alt:0cm 5.4pt 0cm 5.4pt;\r\n\tmso-para-margin:0cm;\r\n\tmso-para-margin-bottom:.0001pt;\r\n\tmso-pagination:widow-orphan;\r\n\tfont-size:12.0pt;\r\n\tfont-family:\"Times New Roman\";\r\n\tmso-ascii-font-family:Cambria;\r\n\tmso-ascii-theme-font:minor-latin;\r\n\tmso-fareast-font-family:\"Times New Roman\";\r\n\tmso-fareast-theme-font:minor-fareast;\r\n\tmso-hansi-font-family:Cambria;\r\n\tmso-hansi-theme-font:minor-latin;\r\n\tmso-bidi-font-family:\"Times New Roman\";\r\n\tmso-bidi-theme-font:minor-bidi;}\r\n</style>\r\n<![endif]--> <!--StartFragment--><span style=\"font-size: 10.0pt; mso-bidi-font-size: 12.0pt; font-family: 'Times New Roman'; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; mso-ansi-language: IT; mso-fareast-language: IT;\">Nello specifico :\u00a0</span><!--EndFragment--></p>\n<p><!--[if gte mso 9]><xml>\r\n <o:OfficeDocumentSettings>\r\n  <o:AllowPNG/>\r\n </o:OfficeDocumentSettings>\r\n</xml><![endif]--><!--[if gte mso 9]><xml>\r\n <w:WordDocument>\r\n  <w:Zoom>0</w:Zoom>\r\n  <w:TrackMoves>false</w:TrackMoves>\r\n  <w:TrackFormatting/>\r\n  <w:HyphenationZone>14</w:HyphenationZone>\r\n  <w:PunctuationKerning/>\r\n  <w:DrawingGridHorizontalSpacing>18 pt</w:DrawingGridHorizontalSpacing>\r\n  <w:DrawingGridVerticalSpacing>18 pt</w:DrawingGridVerticalSpacing>\r\n  <w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery>\r\n  <w:DisplayVerticalDrawingGridEvery>0</w:DisplayVerticalDrawingGridEvery>\r\n  <w:ValidateAgainstSchemas/>\r\n  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>\r\n  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>\r\n  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>\r\n  <w:Compatibility>\r\n   <w:BreakWrappedTables/>\r\n   <w:DontGrowAutofit/>\r\n   <w:DontAutofitConstrainedTables/>\r\n   <w:DontVertAlignInTxbx/>\r\n  </w:Compatibility>\r\n </w:WordDocument>\r\n</xml><![endif]--><!--[if gte mso 9]><xml>\r\n <w:LatentStyles DefLockedState=\"false\" LatentStyleCount=\"276\">\r\n </w:LatentStyles>\r\n</xml><![endif]--> <!--[if gte mso 10]>\r\n<style>\r\n /* Style Definitions */\r\ntable.MsoNormalTable\r\n\t{mso-style-name:\"Tabella normale\";\r\n\tmso-tstyle-rowband-size:0;\r\n\tmso-tstyle-colband-size:0;\r\n\tmso-style-noshow:yes;\r\n\tmso-style-parent:\"\";\r\n\tmso-padding-alt:0cm 5.4pt 0cm 5.4pt;\r\n\tmso-para-margin:0cm;\r\n\tmso-para-margin-bottom:.0001pt;\r\n\tmso-pagination:widow-orphan;\r\n\tfont-size:12.0pt;\r\n\tfont-family:\"Times New Roman\";\r\n\tmso-ascii-font-family:Cambria;\r\n\tmso-ascii-theme-font:minor-latin;\r\n\tmso-fareast-font-family:\"Times New Roman\";\r\n\tmso-fareast-theme-font:minor-fareast;\r\n\tmso-hansi-font-family:Cambria;\r\n\tmso-hansi-theme-font:minor-latin;\r\n\tmso-bidi-font-family:\"Times New Roman\";\r\n\tmso-bidi-theme-font:minor-bidi;}\r\n</style>\r\n<![endif]--> <!--StartFragment--><span style=\"font-size: 10.0pt; mso-bidi-font-size: 12.0pt; font-family: 'Times New Roman'; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; mso-ansi-language: IT; mso-fareast-language: IT;\">se supero lo scritto a Giugno posso portare il progetto a Luglio</span><!--EndFragment--></p>\n<p><!--[if gte mso 9]><xml>\r\n <o:OfficeDocumentSettings>\r\n  <o:AllowPNG/>\r\n </o:OfficeDocumentSettings>\r\n</xml><![endif]--><!--[if gte mso 9]><xml>\r\n <w:WordDocument>\r\n  <w:Zoom>0</w:Zoom>\r\n  <w:TrackMoves>false</w:TrackMoves>\r\n  <w:TrackFormatting/>\r\n  <w:HyphenationZone>14</w:HyphenationZone>\r\n  <w:PunctuationKerning/>\r\n  <w:DrawingGridHorizontalSpacing>18 pt</w:DrawingGridHorizontalSpacing>\r\n  <w:DrawingGridVerticalSpacing>18 pt</w:DrawingGridVerticalSpacing>\r\n  <w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery>\r\n  <w:DisplayVerticalDrawingGridEvery>0</w:DisplayVerticalDrawingGridEvery>\r\n  <w:ValidateAgainstSchemas/>\r\n  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>\r\n  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>\r\n  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>\r\n  <w:Compatibility>\r\n   <w:BreakWrappedTables/>\r\n   <w:DontGrowAutofit/>\r\n   <w:DontAutofitConstrainedTables/>\r\n   <w:DontVertAlignInTxbx/>\r\n  </w:Compatibility>\r\n </w:WordDocument>\r\n</xml><![endif]--><!--[if gte mso 9]><xml>\r\n <w:LatentStyles DefLockedState=\"false\" LatentStyleCount=\"276\">\r\n </w:LatentStyles>\r\n</xml><![endif]--> <!--[if gte mso 10]>\r\n<style>\r\n /* Style Definitions */\r\ntable.MsoNormalTable\r\n\t{mso-style-name:\"Tabella normale\";\r\n\tmso-tstyle-rowband-size:0;\r\n\tmso-tstyle-colband-size:0;\r\n\tmso-style-noshow:yes;\r\n\tmso-style-parent:\"\";\r\n\tmso-padding-alt:0cm 5.4pt 0cm 5.4pt;\r\n\tmso-para-margin:0cm;\r\n\tmso-para-margin-bottom:.0001pt;\r\n\tmso-pagination:widow-orphan;\r\n\tfont-size:12.0pt;\r\n\tfont-family:\"Times New Roman\";\r\n\tmso-ascii-font-family:Cambria;\r\n\tmso-ascii-theme-font:minor-latin;\r\n\tmso-fareast-font-family:\"Times New Roman\";\r\n\tmso-fareast-theme-font:minor-fareast;\r\n\tmso-hansi-font-family:Cambria;\r\n\tmso-hansi-theme-font:minor-latin;\r\n\tmso-bidi-font-family:\"Times New Roman\";\r\n\tmso-bidi-theme-font:minor-bidi;}\r\n</style>\r\n<![endif]--> <!--StartFragment--><span style=\"font-size: 10.0pt; mso-bidi-font-size: 12.0pt; font-family: 'Times New Roman'; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; mso-ansi-language: IT; mso-fareast-language: IT;\">se supero lo scritto a Luglio posso portare il progetto solo al primo appello di Settembre</span><!--EndFragment--></p>\n<p><!--[if gte mso 9]><xml>\r\n <o:OfficeDocumentSettings>\r\n  <o:AllowPNG/>\r\n </o:OfficeDocumentSettings>\r\n</xml><![endif]--><!--[if gte mso 9]><xml>\r\n <w:WordDocument>\r\n  <w:Zoom>0</w:Zoom>\r\n  <w:TrackMoves>false</w:TrackMoves>\r\n  <w:TrackFormatting/>\r\n  <w:HyphenationZone>14</w:HyphenationZone>\r\n  <w:PunctuationKerning/>\r\n  <w:DrawingGridHorizontalSpacing>18 pt</w:DrawingGridHorizontalSpacing>\r\n  <w:DrawingGridVerticalSpacing>18 pt</w:DrawingGridVerticalSpacing>\r\n  <w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery>\r\n  <w:DisplayVerticalDrawingGridEvery>0</w:DisplayVerticalDrawingGridEvery>\r\n  <w:ValidateAgainstSchemas/>\r\n  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>\r\n  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>\r\n  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>\r\n  <w:Compatibility>\r\n   <w:BreakWrappedTables/>\r\n   <w:DontGrowAutofit/>\r\n   <w:DontAutofitConstrainedTables/>\r\n   <w:DontVertAlignInTxbx/>\r\n  </w:Compatibility>\r\n </w:WordDocument>\r\n</xml><![endif]--><!--[if gte mso 9]><xml>\r\n <w:LatentStyles DefLockedState=\"false\" LatentStyleCount=\"276\">\r\n </w:LatentStyles>\r\n</xml><![endif]--> <!--[if gte mso 10]>\r\n<style>\r\n /* Style Definitions */\r\ntable.MsoNormalTable\r\n\t{mso-style-name:\"Tabella normale\";\r\n\tmso-tstyle-rowband-size:0;\r\n\tmso-tstyle-colband-size:0;\r\n\tmso-style-noshow:yes;\r\n\tmso-style-parent:\"\";\r\n\tmso-padding-alt:0cm 5.4pt 0cm 5.4pt;\r\n\tmso-para-margin:0cm;\r\n\tmso-para-margin-bottom:.0001pt;\r\n\tmso-pagination:widow-orphan;\r\n\tfont-size:12.0pt;\r\n\tfont-family:\"Times New Roman\";\r\n\tmso-ascii-font-family:Cambria;\r\n\tmso-ascii-theme-font:minor-latin;\r\n\tmso-fareast-font-family:\"Times New Roman\";\r\n\tmso-fareast-theme-font:minor-fareast;\r\n\tmso-hansi-font-family:Cambria;\r\n\tmso-hansi-theme-font:minor-latin;\r\n\tmso-bidi-font-family:\"Times New Roman\";\r\n\tmso-bidi-theme-font:minor-bidi;}\r\n</style>\r\n<![endif]--> <!--StartFragment--><span style=\"font-size: 10.0pt; mso-bidi-font-size: 12.0pt; font-family: 'Times New Roman'; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; mso-ansi-language: IT; mso-fareast-language: IT;\">se supero lo scritto a Settembre posso portare il progetto solo al primo appello di Febbraio, poi stop.</span></p>\n<p><span style=\"font-size: 12.0pt; mso-bidi-font-size: 12.0pt; font-family: 'Times New Roman'; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; mso-ansi-language: IT; mso-fareast-language: IT;\">Infine il primo appello di Settembre e il primo appello di Gennaio/Febbraio sono riservati ai soli studenti che hanno superato lo scritto nell' appello precedente.</span></p></td></tr></table>"
+}

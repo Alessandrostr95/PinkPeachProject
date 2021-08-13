@@ -1,0 +1,269 @@
+{
+  "nomeCorso": "Intelligenza artificiale 2",
+  "docente": [
+    {
+      "first_name": "Maria Teresa",
+      "second_name": "Pazienza"
+    }
+  ],
+  "annoAccademico": "2016-2017",
+  "crediti": "9",
+  "settore": "ING-INF/05",
+  "anno": "2",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [
+    {
+      "titolo": "orario Intelligenza Artificiale 2",
+      "data": "10-10-2016 15:02",
+      "contenuto": "<p>Si invitano gli studenti a contattare al pi\u00f9 presto il docente del corso prof. Maria Teresa Pazienza (pazienza@info.uniroma2.it) per concordare l'orario definitivo delle lezioni</p>"
+    }
+  ],
+  "lezioni": [
+    {
+      "id": "25",
+      "data": "25-01-2017",
+      "contenuto": "<p>analisi del progetto con gli studenti</p>"
+    },
+    {
+      "id": "24",
+      "data": "18-01-2017",
+      "contenuto": "<p><span style=\"font-size: 12.0pt; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: IT; mso-fareast-language: IT; mso-bidi-language: AR-SA;\">Analisi preliminare dei progetti e introduzione a RDF4J Workbench.</span></p>"
+    },
+    {
+      "id": "23",
+      "data": "19-12-2016",
+      "contenuto": "<p><span style=\"font-size: 12.0pt; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: IT; mso-fareast-language: IT; mso-bidi-language: AR-SA;\">- Costruzione di una ontologia sul dominio dell'universit\u00e0 (usando Prot\u00e9g\u00e9)<br> - Eccezioni e contesti in RDF4J</br></span></p>"
+    },
+    {
+      "id": "22",
+      "data": "19-12-2016",
+      "contenuto": "<p><span style=\"font-size: 12.0pt; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: IT; mso-fareast-language: IT; mso-bidi-language: AR-SA;\">- Uso della libreria su Lemon Design Patterns (state verb, intersective adjective)<br> - OWL 2<br> <!--[if !supportLineBreakNewLine]--><br> <!--[endif]--></br></br></br></span></p>"
+    },
+    {
+      "id": "21",
+      "data": "16-12-2016",
+      "contenuto": "<p><span style=\"font-size: 12.0pt; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: IT; mso-fareast-language: IT; mso-bidi-language: AR-SA;\"><br> - Uso della libreria su Lemon Design Patterns (proper noun, class noun, relational noun, state verb)<br> \u00a0 [<a href=\"https://github.com/jmccrae/lemon.patterns\">https://github.com/jmccrae/lemon.patterns</a>]</br></br></span></p>"
+    },
+    {
+      "id": "20",
+      "data": "14-12-2016",
+      "contenuto": "<ul type=\"disc\">\n<li class=\"MsoNormal\">Uso di una libreria per i DUDES</li>\n<li class=\"MsoNormal\">Cenni su SPIN (<a href=\"http://spinrdf.org/\">http://spinrdf.org/</a>)</li>\n</ul>"
+    },
+    {
+      "id": "19",
+      "data": "12-12-2016",
+      "contenuto": "<ul type=\"disc\">\n<li class=\"MsoNormal\">Ulteriore dettagli relativi ai progetti</li>\n<li class=\"MsoNormal\">Uso di una libreria per i DUDES</li>\n</ul>"
+    },
+    {
+      "id": "18",
+      "data": "05-12-2016",
+      "contenuto": "<ul type=\"disc\">\n<li class=\"MsoNormal\">Ripasso nuove feature Java 8</li>\n</ul>"
+    },
+    {
+      "id": "17",
+      "data": "07-12-2016",
+      "contenuto": "<ul type=\"disc\">\n<li class=\"MsoNormal\">Presentazione dei progetti IA2 a.a. 2016-2017</li>\n<li class=\"MsoNormal\">RDF4J QueryBuilderFactory e interrogazione endpoint remoto</li>\n<li class=\"MsoNormal\">Ulteriori info su TopBraid Composer Free Edition</li>\n<li class=\"MsoNormal\"></li>\n</ul>"
+    },
+    {
+      "id": "16",
+      "data": "02-12-2016",
+      "contenuto": "<p><span style=\"font-size: 12.0pt; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: IT; mso-fareast-language: IT; mso-bidi-language: AR-SA;\"><br> - Nuove feature di Java 8 (e Java 7) utili per RDF4J<br> - RDF4J Repository e query SPARQL<br> - Brevissima introduzione a TopBraid Composer Free Edition<br clear=\"all\"> <br> <!--[if !supportLineBreakNewLine]--><br> <!--[endif]--></br></br></br></br></br></br></span></p>"
+    },
+    {
+      "id": "15",
+      "data": "30-11-2016",
+      "contenuto": "<ul type=\"disc\">\n<li class=\"MsoNormal\">RDF4J (interfaccia Model, lettura e scrittura di RDF con Rio)</li>\n<li class=\"MsoNormal\">YASGUI</li>\n<li class=\"MsoNormal\"><span class=\"gmail-\">Linked Open Vocabularies</span></li>\n<li class=\"MsoNormal\"><span class=\"gmail-\">prefix.cc</span></li>\n<li class=\"MsoNormal\">WebVOWL: Web-based Visualization of Ontologies</li>\n</ul>"
+    },
+    {
+      "id": "14",
+      "data": "28-11-2016",
+      "contenuto": "<ul type=\"disc\">\n<li class=\"MsoNormal\">Pythia</li>\n<li class=\"MsoNormal\">DBpedia</li>\n<li class=\"MsoNormal\">Cenni su articolo: \"Template-Based Question Answering over RDF Data\"</li>\n<li class=\"MsoNormal\">Reasoning: Ambiguity</li>\n</ul>"
+    },
+    {
+      "id": "13",
+      "data": "25-11-2016",
+      "contenuto": "<ul type=\"disc\">\n<li class=\"MsoNormal\">Ripasso generazione della grammatica</li>\n<li class=\"MsoNormal\">Ripasso di Prot\u00e9g\u00e9 + spiegazione query tramite manchester syntax</li>\n<li class=\"MsoNormal\">SPARQL</li>\n<li class=\"MsoNormal\">QA su RDF (fino ad esempio di Pythia escluso)</li>\n</ul>"
+    },
+    {
+      "id": "12",
+      "data": "23-11-2016",
+      "contenuto": "<p><span style=\"font-size: 12.0pt; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: IT; mso-fareast-language: IT; mso-bidi-language: AR-SA;\">- Generazione della grammatica<br> - Approfondimento sull'uso di Prot\u00e9g\u00e9 Desktop (creazione di classi, descrizione in Manchester Syntax, inferenze)</br></span></p>"
+    },
+    {
+      "id": "11",
+      "data": "21-11-2016",
+      "contenuto": "<p><span style=\"font-size: 12.0pt; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: IT; mso-fareast-language: IT; mso-bidi-language: AR-SA;\">modellazione in Lemon di parole appartenenti a diverse categorie sintattiche</span></p>"
+    },
+    {
+      "id": "10",
+      "data": "18-11-2016",
+      "contenuto": "<p>lessici ontologici</p>"
+    },
+    {
+      "id": "9",
+      "data": "16-11-2016",
+      "contenuto": "<p>OWL</p>"
+    },
+    {
+      "id": "8",
+      "data": "14-11-2016",
+      "contenuto": "<p>richiami di RDF</p>"
+    },
+    {
+      "id": "7",
+      "data": "11-11-2016",
+      "contenuto": "<p>allineare la rappresentazione semantica di una frase ad una ontologia</p>"
+    },
+    {
+      "id": "6",
+      "data": "09-11-2016",
+      "contenuto": "<p>identificazione del significato di una sentence. LTAG</p>"
+    },
+    {
+      "id": "5",
+      "data": "07-11-2016",
+      "contenuto": "<p>interpretazione automatica di sentences</p>"
+    },
+    {
+      "id": "4",
+      "data": "04-11-2016",
+      "contenuto": "<p>Sistemi di IR/IE e Q/A</p>"
+    },
+    {
+      "id": "3",
+      "data": "02-11-2016",
+      "contenuto": "<p>Grammatiche per la descrizione ed analisi di frasi in linguaggio naturale</p>"
+    },
+    {
+      "id": "2",
+      "data": "26-10-2016",
+      "contenuto": "<p>Semantica del linguaggio naturale, ontologie e ragionamento automatico</p>\n<p><span style=\"font-size: 36pt; font-family: 'Times New Roman'; font-weight: bold; font-style: italic;\">\u00a0</span></p>"
+    },
+    {
+      "id": "1",
+      "data": "24-10-2016",
+      "contenuto": "<p>Introduzione agli argomenti del corso ed alle modalit\u00e0 di svolgimento di lezioni, esercitazioni ed esami</p>"
+    }
+  ],
+  "materiale": [
+    {
+      "titolo": "risultati prova d'esame del 20 giugno 2017",
+      "dataUpload": "23.06.2017 14:43:42",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/IA2/Appello_EstivoIA1.docx",
+      "dimensione": "14 KB"
+    },
+    {
+      "titolo": "Esercizio per la creazione di una ontologia",
+      "dataUpload": "11.01.2017 10:24:22",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/IA2/EsercizioProgettazioneOntologia.pdf",
+      "dimensione": "75 KB"
+    },
+    {
+      "titolo": "OWL2",
+      "dataUpload": "11.01.2017 10:23:12",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/IA2/OWL2 - EN.pdf",
+      "dimensione": "2249 KB"
+    },
+    {
+      "titolo": "descrizione del progetto da realizzare",
+      "dataUpload": "13.12.2016 16:35:25",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/IA2/progettoIA2_2016-17.pdf",
+      "dimensione": "531 KB"
+    },
+    {
+      "titolo": "link utili",
+      "dataUpload": "05.12.2016 12:15:51",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/IA2/Links lecture 2 December 2016.pdf",
+      "dimensione": "203 KB"
+    },
+    {
+      "titolo": "link richiamati nella lezione del 30 novembre",
+      "dataUpload": "01.12.2016 17:24:12",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/IA2/Links lecture 30 November 2016.pdf",
+      "dimensione": "238 KB"
+    },
+    {
+      "titolo": "link utili",
+      "dataUpload": "28.11.2016 16:13:36",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/IA2/Links lecture 28 November 2016.pdf",
+      "dimensione": "233 KB"
+    },
+    {
+      "titolo": "ontology based question answering",
+      "dataUpload": "28.11.2016 16:12:57",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/IA2/Day5_modificato.pdf",
+      "dimensione": "1110 KB"
+    },
+    {
+      "titolo": "ragionamento automatico su ambiguit\u00e0",
+      "dataUpload": "28.11.2016 16:12:10",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/IA2/Day4_modificato.pdf",
+      "dimensione": "789 KB"
+    },
+    {
+      "titolo": "links utili",
+      "dataUpload": "21.11.2016 16:19:34",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/IA2/Links lecture 21 November 2016.pdf",
+      "dimensione": "211 KB"
+    },
+    {
+      "titolo": "lessici ontologici",
+      "dataUpload": "18.11.2016 15:31:38",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/IA2/Day3_modificato.pdf",
+      "dimensione": "1137 KB"
+    },
+    {
+      "titolo": "esercizi RDF",
+      "dataUpload": "18.11.2016 15:30:43",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/IA2/RDF - Exercises - EN.pdf",
+      "dimensione": "674 KB"
+    },
+    {
+      "titolo": "OWL",
+      "dataUpload": "18.11.2016 15:30:20",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/IA2/OWL - EN.pdf",
+      "dimensione": "3426 KB"
+    },
+    {
+      "titolo": "richiami di RDF",
+      "dataUpload": "14.11.2016 15:44:04",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/IA2/RDF-RDFS - EN.pdf",
+      "dimensione": "2662 KB"
+    },
+    {
+      "titolo": "sintassi e semantica per la comprensione del significato dei testi",
+      "dataUpload": "09.11.2016 13:36:20",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/IA2/Day2.pdf",
+      "dimensione": "2076 KB"
+    },
+    {
+      "titolo": "interpretazione del linguaggio naturale",
+      "dataUpload": "09.11.2016 13:35:34",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/IA2/Day1.pdf",
+      "dimensione": "872 KB"
+    },
+    {
+      "titolo": "<span style=\"background-color: #d7ecfc;\">Elaborazione del linguaggio naturale: cenni</span>",
+      "dataUpload": "28.10.2016 12:52:05",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/IA2/2introElaborazLinguagNaturale.pptx",
+      "dimensione": "399 KB"
+    },
+    {
+      "titolo": "Semantica del linguaggio naturale, ontologie e ragionamento automatico",
+      "dataUpload": "24.10.2016 09:55:26",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/IA2/1IngegnConoscenza.ppt",
+      "dimensione": "1491 KB"
+    },
+    {
+      "titolo": "Informazioni generali sul corso di Intelligenza Artificiale 2",
+      "dataUpload": "03.10.2016 15:19:19",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/IA2/programmaIntelligenza Artificiale 2.docx",
+      "dimensione": "17 KB"
+    }
+  ],
+  "programma": "<table><tr><td><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"MsoNormalTable\" style=\"width: 512.0pt; margin-left: 3.5pt; border-collapse: collapse; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 3.5pt 0cm 3.5pt;\" width=\"683\">\n<tbody>\n<tr style=\"mso-yfti-irow: 0; mso-yfti-firstrow: yes; height: 18.75pt;\">\n<td style=\"width: 512.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 18.75pt;\" valign=\"top\" width=\"683\">\u00a0</td>\n</tr>\n<tr style=\"mso-yfti-irow: 1; mso-yfti-lastrow: yes; height: 18.75pt;\">\n<td style=\"width: 512.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 18.75pt;\" valign=\"top\" width=\"683\">\n<p style=\"margin-top: 3.35pt; margin-right: 0cm; margin-bottom: .0001pt; margin-left: 0cm; text-align: justify; vertical-align: baseline;\"><span style=\"font-size: 11.0pt; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-fareast-language: EN-US;\">Introduzione all\u2019elaborazione del linguaggio naturale (NLP simbolico)</span></p>\n<p style=\"margin-top: 3.35pt; margin-right: 0cm; margin-bottom: .0001pt; margin-left: 0cm; text-align: justify; vertical-align: baseline;\"><span style=\"font-size: 11.0pt; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-fareast-language: EN-US;\">Semantica, semantica lessicale, sistemi basati su semantica\u00a0 \u00a0</span></p>\n<p style=\"margin-top: 3.35pt; margin-right: 0cm; margin-bottom: .0001pt; margin-left: 0cm; text-align: justify; vertical-align: baseline;\"><span style=\"font-size: 11.0pt; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-fareast-language: EN-US;\">Analisi del discorso</span></p>\n<p style=\"margin-top: 3.35pt; margin-right: 0cm; margin-bottom: .0001pt; margin-left: 0cm; text-align: justify; vertical-align: baseline;\"><span style=\"font-size: 11.0pt; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-fareast-language: EN-US;\">Ontologie</span></p>\n<p style=\"margin-top: 3.35pt; margin-right: 0cm; margin-bottom: .0001pt; margin-left: 0cm; text-align: justify; vertical-align: baseline;\"><span style=\"font-size: 11.0pt; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-fareast-language: EN-US;\">Modelli, metodologie di rappresentazione di conoscenza concettuale, linguaggi, tecnologie</span></p>\n<p style=\"margin-top: 3.35pt; margin-right: 0cm; margin-bottom: .0001pt; margin-left: 0cm; text-align: justify; vertical-align: baseline;\"><span style=\"font-size: 11.0pt; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-fareast-language: EN-US;\">Logiche terminologiche, logiche descrittive</span></p>\n<p style=\"margin-top: 3.35pt; margin-right: 0cm; margin-bottom: .0001pt; margin-left: 0cm; text-align: justify; vertical-align: baseline;\"><span style=\"font-size: 11.0pt; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-fareast-language: EN-US;\">Semantic Web</span></p>\n<p style=\"margin-top: 3.35pt; margin-right: 0cm; margin-bottom: .0001pt; margin-left: 0cm; text-align: justify; vertical-align: baseline;\"><span style=\"font-size: 11.0pt; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-fareast-language: EN-US;\">Applicazioni\u00a0(es. IE, Q/A, reasoning) che traggono vantaggio\u00a0da approcci misti basati su\u00a0NLP e\u00a0ontologie</span></p>\n<p class=\"MsoNormal\" style=\"line-height: normal;\">Semantica e Big Data, linguaggi, tecnologie, applicazioni</p>\n</td>\n</tr>\n</tbody>\n</table></td></tr></table>",
+  "testiRiferimento": "<table><tr><td><p style=\"margin-top: 3.35pt; margin-right: 0cm; margin-bottom: .0001pt; margin-left: 27.35pt; text-align: justify; text-indent: -27.35pt; mso-line-height-alt: 7.4pt; vertical-align: baseline;\"><span lang=\"EN-US\" style=\"font-size: 11.0pt; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-US; mso-fareast-language: EN-US;\">\u201cOntology-based Interpretation of Natural Language\u201d</span></p>\n<p style=\"margin-top: 3.35pt; margin-right: 0cm; margin-bottom: .0001pt; margin-left: 27.35pt; text-align: justify; text-indent: -27.35pt; mso-line-height-alt: 7.4pt; vertical-align: baseline;\"><span style=\"font-size: 11.0pt; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-fareast-language: EN-US;\">Autori: P. Cimiano, C. Unger, J. McCrae</span></p>\n<p>\u00a0</p>\n<p style=\"margin: 0cm; margin-bottom: .0001pt; text-align: justify;\"><span style=\"font-size: 11.0pt; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-fareast-language: EN-US;\">Morgan &amp; Claypool\u00a0publishers, 2014\u00a0</span></p></td></tr></table>",
+  "ricevimento": "<table><tr><td><p>Il docente \u00e8 disponibile a ricevere gli studenti subito dopo ogni lezione.</p>\n<p>Inoltre si pu\u00f2 fissare un ricevimento personale in data ed ora da concordarsi inviando una mail al docente</p></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td><p class=\"MsoNormal\">Esame orale sulle tematiche svolte a lezione, e progetto.</p>\n<p>Informazioni sul progetto:</p>\n<p>\u00a0</p>\n<p><span style=\"font-family: 'Times New Roman', serif; font-size: 12pt;\">Il progetto consiste nello sviluppo di un sistema di question answering per basi di conoscenza aderenti agli standard di rappresentazione usati nel contesto del Semantic Web.</span></p>\n<p class=\"MsoNormal\"><span style=\"font-size: 12pt; font-family: 'Times New Roman', serif;\">Il sistema deve accettare domande formulate in lingua Inglese, tradurle nel linguaggio (formale) di interrogazione SPARQL e sottometterle alla base di conoscenza per recuperare i risultati.<br>Le prove saranno effettuate su una specifica base di conoscenza, costruita durante lo sviluppo del sistema. Ciononostante, il progetto del sistema deve supportare il suo adattamento ad ontologie differenti.<br>Il progetto pu\u00f2 essere svolto in gruppi formati al massimo da tre persone. Ciascun gruppo dovrebbe lavorare su un dominio specifico, o quantomeno su un aspetto specifico di uno stesso dominio.<br>Al termine del progetto, sar\u00e0 necessario consegnare con debito anticipo:<br>\u2022\u00a0\u00a0\u00a0 i sorgenti (accompagnati da istruzioni per compilare ed eseguire il sistema)<br>\u2022\u00a0\u00a0\u00a0 una relazione (del lavoro svolto)<br>Nel corso della prova orale, sar\u00e0 inoltre richiesto di mostrare e discutere<br>\u2022\u00a0\u00a0\u00a0 una presentazione sul progetto realizzato<br>L\u2019esecuzione del progetto deve essere basata sull\u2019approccio, le tecniche e le tecnologie che saranno discusse nell\u2019ambito del corso. Si suggerisce, pertanto, che il lavoro sul progetto sia svolto durante il corso, man mano che gli argomenti rilevanti sono stati introdotti.<br/></br></br></br></br></br></br></br></br></span></p></td></tr></table>"
+}

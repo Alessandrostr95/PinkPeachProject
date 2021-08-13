@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Laboratorio di ingegneria del software",
+  "docente": [
+    {
+      "first_name": "Andrea",
+      "second_name": "Bei"
+    }
+  ],
+  "annoAccademico": "2011-2012",
+  "crediti": "6",
+  "settore": "INF/01",
+  "anno": "3",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Ingegneria del software.",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>Parte I\r<br/>Progettazione di architetture software\r<br/>- Come si progetta una architettura software\r<br/>- Principi di progettazione Object Oriented\r<br/>- Design &amp; Architectural Pattern (GRASP, GOF, ?)\r<br/>- Analisi architetturale \r<br/> <br/>Parte II\r<br/>- Architetture, Framework e Tecnologie JEE\r<br/>- Modelli architetturali di riferimento \r<br/>- Architetture e tecnologie JEE (JDBC, Servlet, JSP, JSF, Web Services, EJB) \r<br/>- Framework: Hibernate, Struts, Spring\r<br/> <br/>Parte III\r<br/>Mobile development \r<br/>- ANDROID\r<br/>- LAYAR\r<br/> <br/></td></tr></table>",
+  "testiRiferimento": "<table><tr><td>Testi consigliati:\r<br/> <br/>- Applicare UML e I Pattern: Analisi e Progettazione Orientata Agli Oggetti  (Craig Larman)\r<br/>- Ingegneria del software (Ian Sommerville)\r<br/> <br/></td></tr></table>",
+  "ricevimento": "<table><tr><td>null</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

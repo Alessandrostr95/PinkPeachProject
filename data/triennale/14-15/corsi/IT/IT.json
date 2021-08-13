@@ -1,0 +1,28 @@
+{
+  "nomeCorso": "Informatica teorica",
+  "docente": [
+    {
+      "first_name": "Miriam",
+      "second_name": "Di Ianni"
+    }
+  ],
+  "annoAccademico": "2014-2015",
+  "crediti": "6",
+  "settore": "INF/01",
+  "anno": "3",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [
+    {
+      "titolo": "Informazioni sul corso.",
+      "data": "07-10-2014 16:55",
+      "contenuto": "<p>Il corso \u00e8 mutuato dal corso di <strong>Fondamenti di Informatica- modulo 2</strong> e sar\u00e0 tenuto nel secondo semestre. Tutte le informazioni (programma, testi, materiale didattico) sono (o saranno) disponibili sulla pagina del corso di <strong>Fondamenti di Informatica</strong>.</p>"
+    }
+  ],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>null</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>null</td></tr></table>",
+  "ricevimento": "<table><tr><td>null</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td><p>L'esame consta di una prova scritta e di una prova orale. Per essere ammessi alla prova orale \u00e8 necessario aver riportato nella prova scritta una votazione di almeno 18/30.</p>\n<p>\u00a0</p>\n<p><strong> La prenotazione all'esame (sul sito Delphi) \u00e8 obbligatoria. Non saranno ammessi a sostenere la prova scritta studenti che risulteranno non prenotati.</strong></p></td></tr></table>"
+}

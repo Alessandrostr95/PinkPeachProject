@@ -1,0 +1,26 @@
+{
+  "nomeCorso": "Laboratorio di programmazione dei calcolatori",
+  "docente": [
+    {
+      "first_name": "Loredana",
+      "second_name": "Vigliano"
+    },
+    {
+      "first_name": "Loredana",
+      "second_name": "Vigliano"
+    }
+  ],
+  "annoAccademico": "2004-2005",
+  "crediti": "6",
+  "settore": "",
+  "anno": "1",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>Cenni storici, caratteristiche e compilatori\r\nPrimo programma\r\nTipi di dati e operatori\r\nStrutture di controllo e cicli\r\nPuntatori\r\nFunzioni\r\nArray e strutture\r\nAllocazione di memoria\r\nGestione dei file\r\nListe</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>Deitel &amp; Deitel  Corso di programmazione C    Apogeo\r\n\r\nper sapere qualcosa di pi\u00f9 approfondito\r\n\r\nKelley-Pohl   A book on C       Fourth Edition</td></tr></table>",
+  "ricevimento": "<table><tr><td>marted\u00ec ore 14-15  studio Vigliano</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

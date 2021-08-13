@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Fisica 2",
+  "docente": [
+    {
+      "first_name": "Claudio",
+      "second_name": "Goletti"
+    }
+  ],
+  "annoAccademico": "2006-2007",
+  "crediti": "3",
+  "settore": "",
+  "anno": "3",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>(Il programma verr\u00e0 aggiornato dopo ogni lezione con gli argomenti svolti)</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>D. Resnick, R. Halliday, J. Walker\r\n\"Fondamenti di Fisica. Elettrologia, magnetismo, ottica\"\r\nCasa Editrice Ambrosiana, sesta edizione.</td></tr></table>",
+  "ricevimento": "<table><tr><td></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

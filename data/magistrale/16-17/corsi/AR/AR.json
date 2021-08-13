@@ -1,0 +1,164 @@
+{
+  "nomeCorso": "Analisi di reti",
+  "docente": [
+    {
+      "first_name": "Miriam",
+      "second_name": "Di Ianni"
+    }
+  ],
+  "annoAccademico": "2016-2017",
+  "crediti": "6",
+  "settore": "INF/01",
+  "anno": "1",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [
+    {
+      "titolo": "",
+      "data": "20-12-2016 17:24",
+      "contenuto": "<p>Si comunica che, per problemi di salute del docente, la lezione di Analisi di reti di mercoled\u00ec 21/12/2016 non si terr\u00e0</p><hr/>"
+    },
+    {
+      "titolo": "",
+      "data": "11-12-2016 21:11",
+      "contenuto": "<p>Causa stato influenzale della docente, la lezione di luned\u00ec 12 dicembre non avr\u00e0 luogo</p><hr/>"
+    },
+    {
+      "titolo": "",
+      "data": "08-11-2016 18:06",
+      "contenuto": "<p><span style=\"background-color: #f3f3f3;\">Si informano gli studenti che la lezione di Analisi di Reti di mercoled\u00ec 09/11/2016 non avr\u00e0 luogo.</span></p><hr/>"
+    },
+    {
+      "titolo": "",
+      "data": "06-11-2016 19:37",
+      "contenuto": "<p>La lezione del 07/11/2016 non avr\u00e0 luogo</p>"
+    }
+  ],
+  "lezioni": [
+    {
+      "id": "24",
+      "data": "25-01-2017",
+      "contenuto": "<p>Esercitazione</p>"
+    },
+    {
+      "id": "23",
+      "data": "23-01-2017",
+      "contenuto": "<p>Teorema del votante mediano. Voto come espressione di una preferenza e voto come metodo di ricostruzione di una informazione. Il \u00a0Teorema della giuria di Condorcet. Voto non sincero. Regola dell'unanimit\u00e0 e decisioni di giurie.</p>"
+    },
+    {
+      "id": "22",
+      "data": "18-01-2017",
+      "contenuto": "<p>Dimostrazione del Teorema di Arrow. Preferenze Single Peaked.</p>"
+    },
+    {
+      "id": "21",
+      "data": "16-01-2017",
+      "contenuto": "<p>Lezione di 3 ore. Ancora sull'analisi dell'algoritmo di ricerca miope: il caso in cui il coefficiente di clustering \u00e8 diverso dalla dimensione dello spazio.</p>\n<p>Sistemi di voto: espressione mediante relazioni binarie complete e mediante ranking e loro equivalenza, sistemi di voto posizionali e paradosso di Condorcet, tornei, sistemi di voto posizionali (Borda count) e ruolo delle alternative irrilevanti. Enunciato del Teorema di Arrow.</p>"
+    },
+    {
+      "id": "20",
+      "data": "11-01-2017",
+      "contenuto": "<p>Lezione di 3 ore. Il fenomeno small world: esperimento di Milgram e i sei gradi di separazione. Modelli per lo small world: il modello di Watt-Strogatz e i suoi limiti. Un modello per la ricerca decentralizzata. Ricerca miope. Analisi della ricerca miope nel modello per la ricerca decentralizzata con esponente di clustering ottimale nel caso unidimensionale. Cenni all'analisi del caso bidimensionale. Aderenza alla realt\u00e0 del modello.</p>"
+    },
+    {
+      "id": "19",
+      "data": "09-01-2017",
+      "contenuto": "<p>Questioni di compatibilit\u00e0 nei processi di diffusione. Modello. Analisi dell'occorrenza di cascate nella catena illimitata.</p>\n<p>Lezione interrotta a questo punto causa freddo insostenibile in aula dovuto ad inattivit\u00e0 dell'impianto di riscaldamento con una temperatura esterna inferiore allo zero.</p>"
+    },
+    {
+      "id": "18",
+      "data": "19-12-2016",
+      "contenuto": "<p>Il ruolo dei weaky ties nei processi di diffusione. Capacit\u00e0 di cascata di una rete. Azione e coscienza collettive: il ruolo della pubblicit\u00e0</p>"
+    },
+    {
+      "id": "17",
+      "data": "14-12-2016",
+      "contenuto": "<p>Introduzione ai processi di diffusione nelle reti. Diffusione come coordination game. Cascate e clusters. Generalizzazione del modello: soglie non omogenee.</p>"
+    },
+    {
+      "id": "16",
+      "data": "07-12-2016",
+      "contenuto": "<p>Analisi euristica del processo rich get richer per mostrare la power law. Effetti degli strumenti di ricerca e dei Recommendation Systems sul fenomeno Rich get richer</p>"
+    },
+    {
+      "id": "15",
+      "data": "05-12-2016",
+      "contenuto": "<p>Popolarit\u00e0 e fenomeno power law. Modelli Rich Get Richer. Impredicibilit\u00e0 degli effetti rich get richer. La lunga coda</p>"
+    },
+    {
+      "id": "14",
+      "data": "30-11-2016",
+      "contenuto": "<p>Un primo esperimento di herding ed un modello basilare generale nel quale definirlo. Cascate e decisioni sequenziali. Considerazioni generali sulle cascate.</p>"
+    },
+    {
+      "id": "13",
+      "data": "28-11-2016",
+      "contenuto": "<p>Ripetizione degli argomenti trattati durante la precedente lezione. Page Rank e Random Walk in un grafo orientato. Modern Web-search.</p>\n<p>\u00a0</p>\n<p>Introduzione agli effetti informativi di una rete: seguire la folla. La regola di Bayes e il suo utilizzo per lo spam filtering.</p>"
+    },
+    {
+      "id": "12",
+      "data": "25-11-2016",
+      "contenuto": "<p>Formalizzazione del Page Rank e dello Scaled Page Rank. Teorema di Perron e convergenza dello Scaled Page Rank.</p>"
+    },
+    {
+      "id": "11",
+      "data": "23-11-2016",
+      "contenuto": "<p>Termine della prova della convergenza\u00a0<span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">della procedura iterativa per il calcolo dei valori di hub e authority. Introduzione al Page Rank.</span></p>"
+    },
+    {
+      "id": "10",
+      "data": "21-11-2016",
+      "contenuto": "<p>Web search mediante link analysis. Hub e authorities. Convergenza della procedura iterativa per il calcolo dei valori di hub e authority: prima parte della prova.</p>"
+    },
+    {
+      "id": "9",
+      "data": "16-11-2016",
+      "contenuto": "<p>La struttura del Web: reti di informazioni, ipertesto, memoria associativa. Precursori del Web. Evoluzione del Web: il WEb 2.0. Il Web come grafo diretto e le suat struttura bow-tie. Introduzione ai problemi di ricerca sul web</p>"
+    },
+    {
+      "id": "8",
+      "data": "14-11-2016",
+      "contenuto": "<p>Grafi completi segnati approssimativamente bilanciati e loro caratterizzazione</p>"
+    },
+    {
+      "id": "7",
+      "data": "02-11-2016",
+      "contenuto": "<p>Definizioni di bilancio strutturale in grafi non completi e loro equivalenza. Caratterizzazione e algoritmo che verifica se un grafo (non completo) \u00e8 strutturalmente bilanciato.</p>"
+    },
+    {
+      "id": "6",
+      "data": "26-10-2016",
+      "contenuto": "<p>Relazioni positive e negative: grafi segnati. Definizione e caratterizzazione di bilancio strutturale in grafi completi. Definizione rilassata e sua caratterizzazione.</p>"
+    },
+    {
+      "id": "5",
+      "data": "24-10-2016",
+      "contenuto": "<p>Web-communities: definizione (Flake) e relazione fra web-communities e minimi tagli in un grafo. NP-completezza del problema di decidere dell'esistenza di una partizione di un grafo in due web-communities che separi una data coppia di nodi.</p>"
+    },
+    {
+      "id": "4",
+      "data": "19-10-2016",
+      "contenuto": "<p>Completamento del metodo di Girvan-Newman: calcolo diretto della betweenness di ogni arco, e metodo basato sul flusso. Richiami di teoria della complessit\u00e0 e del concetto di NP-completezza.</p>"
+    },
+    {
+      "id": "3",
+      "data": "17-10-2016",
+      "contenuto": "<p>Ricerca delle componenti coese in un grafo: graph partitioning, partizionamenti nidificati, metodi divisivi e metodi agglomerativi. Edge-betweennes e metodo di partizionamento di Girvan-Newman: introduzione. (Paragrafo 3.6 del testo)</p>"
+    },
+    {
+      "id": "2",
+      "data": "12-10-2016",
+      "contenuto": "<p>Esperimento di Granovetter: legami forti e deboli. Bridges e Local Bridges. Chiusura triadica, coefficiente di clustering e propriet\u00e0 della chiusura triadica forte (STCP). Local bridges incidenti su nodi che soddisfano la STCP. Generalizzazione del modello: grafi pesati e Neighborhood Overlap, esperimento di Onnela. Buchi strutturali e capitale sociale.</p>"
+    },
+    {
+      "id": "1",
+      "data": "10-10-2016",
+      "contenuto": "<p>Introduzione al corso. Grafi e grafi aleatori. Il modello di Erdos-Renyi: grado medio, grado, componenti connesse.</p>"
+    }
+  ],
+  "materiale": [],
+  "programma": "<table><tr><td><p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"><strong>Programma preventivato</strong>\u00a0(che potr\u00e0 subire variazioni nel corso di svolgimento delle lezioni):</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"><strong>1) Teoria dei grafi e delle reti sociali.</strong></p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0\u00a0\u00a0 - Grafi, percorsi, connettivit\u00e0, distanza, ricerca</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0\u00a0\u00a0 - Chiusura triadica, importanza dei collegamenti deboli, struttura di rete in insiemi di grandi dimensioni,</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0 \u00a0 \u00a0 - indici di centralit\u00e0 e partizionamenti</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0\u00a0\u00a0 - Bilancio strutturale</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"><strong>2)\u00a0</strong><strong>Dinamiche nelle reti: modelli di popolazione.</strong></p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0\u00a0\u00a0 - Cascate informative: il concetto \"segui la massa\", un modello di cascata, la regola di Bayes e le cascate</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0\u00a0\u00a0 - Effetti rete: economia con e senza gli effetti rete, il problema di El Farol Bar</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0 \u00a0 - Power Law e fenomeno rich-get-richer: la popolarit\u00e0 come un effetto rete, modelli rich-get-richer e la long tail</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"><strong>3)\u00a0</strong><strong>Dinamiche nelle reti: modelli strutturali.</strong></p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0\u00a0\u00a0 - Comportamento a cascata: diffusione, cascate e cluster, il ruolo dei weak ties, capacit\u00e0 di una cascata</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0\u00a0\u00a0 - Il fenomeno Small-world: i sei gradi di separazione, modelli per lo Small-world; ricerca decentralizzata: modelli e analisi</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"><strong>4) Reti di Informazione: il World Wide Web</strong></p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0 \u00a0 - Struttura del Web: reti di informazione, ipertesti e memoria associativa</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0 \u00a0 - Link analysis e ricerca nel Web: il problema del Ranking, Hubs e Authorities, il PageRank</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"><strong>5) Istituzioni e comportamento aggregato</strong></p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0- Meccanismi di voto: decisioni di gruppo e preferenze individuali; sistemi di voto a maggioranza e posizionale; Teorema di impossibilit\u00e0 di Arrow; Teorema del Voto Mediano</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0- Voto come forma di aggregazione dell'informazione: voto sincero e non sincero, la regolaa dell'unanimit\u00e0 e il problema del verdetto della giuria; voto sequenziale e cascate informative.</p></td></tr></table>",
+  "testiRiferimento": "<table><tr><td><p><span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">David Easley, Jon Kleinberg, \"Networks, Crowds, and Markets: Reasoning about a Highly Connected World\", Cambridge University Press</span></p></td></tr></table>",
+  "ricevimento": "<table><tr><td><p><span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Per appuntamento, da richiedere a mezzo posta elettronica</span></p></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td><p><span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Prova orale eventualmente corredata da tesine</span></p></td></tr></table>"
+}

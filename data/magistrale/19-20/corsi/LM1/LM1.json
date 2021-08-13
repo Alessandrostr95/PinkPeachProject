@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Logica matematica 1",
+  "docente": [
+    {
+      "first_name": "Paolo",
+      "second_name": "Lipparini"
+    }
+  ],
+  "annoAccademico": "2019-2020",
+  "crediti": "8",
+  "settore": "MAT/01",
+  "anno": "1",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>null</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>null</td></tr></table>",
+  "ricevimento": "<table><tr><td>null</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

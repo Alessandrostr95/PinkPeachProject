@@ -1,0 +1,179 @@
+{
+  "nomeCorso": "Architettura dei sistemi di elaborazione",
+  "docente": [
+    {
+      "first_name": "Alessandro",
+      "second_name": "Simonetta"
+    }
+  ],
+  "annoAccademico": "2015-2016",
+  "crediti": "6",
+  "settore": "ING-INF/05",
+  "anno": "1",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [
+    {
+      "titolo": "APPELLO DI SETTEMBRE",
+      "data": "26-08-2016 09:50",
+      "contenuto": "L'appello della sessione autunnale \u00e8 fissato il giorno Mercoled\u00ec 7 Settembre alle ore 15:30 presso l'aula T5.\r\n<br/>\r\nPer la prova \u00e8 necessario portare con s\u00e9 fogli bianchi formato A4.\r\n<br/>\r\nNon \u00e8 consentito l'utilizzo di strumenti elettronici n\u00e9 di testi o appunti.\r\n<br/>\n<hr/>"
+    },
+    {
+      "titolo": "Risultati Appello 20 GIU",
+      "data": "27-06-2016 11:00",
+      "contenuto": "<p>Matricola,votazione\u00a0</p>\n<p>0233528,28</p>\n<hr/>"
+    },
+    {
+      "titolo": "DOMANDE",
+      "data": "16-05-2016 15:47",
+      "contenuto": "<p><b>ESAME DI ARCHITETTURE DEI SISTEMI DI ELABORAZIONE</b></p>\n<p>\n<li> 1) Il teorema del campionamento assicura che l'approssimazione discreta di un segnale analogico a banda limitata, \u00e8 senza perdita di informazione utile se?\r\n<li> 2)\tLa macchina di von Neumann \u00e8 composta da?\r\n<li> 3)\tQuanti byte ci sono in 1 KB di memoria?\r\n<li> 4)\tCosa sono il Program Counter e l'Instruction Register?\r\n<li> 5)\tDa quanti passaggi si compone il ciclo fetch-decode-execute ?\r\n<li> 6)\t Quali sono i principi di progettazione per i computer moderni?\r\n<li> 7)\tUn processore SIMD \u00e8 costituito da?\r\n<li> 8)\tPer calcolare la distanza di Hamming tra due parole, quale operazione si deve utilizzare?\r\n<li> 9)\tIn un hard disk le prestazioni dipendono da?\r\n<li> 10)\tIn un CDROM un settore \u00e8 costituito da quanti frame? Cosa contengono?\r\n<li> 11)\tQuali sono la principale differenza tra DVD e CD?\r\n<li> 12)\tPer quali valori di A e B l'uguaglianza A+B = A B \u00e8 verificata?\r\n<li> 13)\tQuando si pu\u00f2 utilizzare un multiplexer per realizzare una qualsiasi funzione logica?\r\n<li> 14)\tUn decoder \u00e8 un circuito combinatorio che pu\u00f2 essere utilizzato per?\r\n<li> 15)\tIn un circuito digitale \u00e8 possibile collegare due uscite insieme?\r\n<li> 16)\tElencare le caratteristiche delle ROM\r\n<li> 17)\tPer incrementare la larghezza di banda di un bus occorre?\r\n<li> 18)\tIn un Pentium 4 i principali segnali di risposta del bus sono?\r\n<li> 19)\tNella UltraSPARC III, quale delle seguenti affermazioni non \u00e8 vera?\r\n<li> 20)\tDescrivere l'integrato 8051\r\n<li> 21)\tDescrivere il memory-mapped I/O\r\n<li> 22)\tQuali funzioni ha un Sistema Operativo?\r\n<li> 23)\tIn un Sistema Operativo le principali astrazioni sono?\r\n<li> 24)\tUn processo \u00e8 un concetto chiave presente in ogni Sistema Operativo, si pu\u00f2 definire come?\r\n<li> 25)\tI File in UNIX sono protetti con tre bit, a che servono?\r\n<li> 26)\tIn UNIX ogni processo ha uno spazio di memoria assegnato diviso in tre segmenti, quali?\r\n<li> 27)\tChe cos'\u00e8 un Sistema monolitico?\r\n<li> 28)\tIn quale circostanza sono creati nuovi processi? E in quale altra termina un processo?\r\n<li> 29)\tQuali sono gli stati di un processo?\r\n<li> 30)\tQuali informazioni non possono essere condivise tra processi?\r\n<li> 31)\tQuando accade una corsa critica?\r\n<li> 32)\tIn un ambiente concorrente per evitare le corse critiche si possono definire delle condizioni, quali?\r\n<li> 33)\tIn quale circostanza \u00e8 conveniente avviare lo scheduling?\r\n<li> 34)\tGli algoritmi di scheduling posso essere divisi in due categorie, quali?\r\n<li> 35)\tQuali sono gli algoritmi di scheduling nei sistemi batch?\r\n<li> 36)\tSupponendo di disporre dei seguenti tempi di esecuzione T0, T1, T2 e T3 nell'algoritmo shortest process next con tecnica di aging, quale sar\u00e0 la stima per T4?\r\n<li> 37)\tPer consentire a pi\u00f9 applicazioni di essere in memoria allo stesso tempo senza interferire devono essere risolti due problemi, quali?\r\n<li> 38)\tQuali sono i metodi per tenere traccia dell'utilizzo della memoria?\r\n<li> 39)\tQual \u00e8 la struttura di una riga della tabella delle pagine?\r\n<li> 40)\tNell'algoritmo Not Recently Used (NRU) la classe 0 \u00e8..\r\n<li> 41)\tQuando il sistema operativo non \u00e8 coinvolto con la paginazione?\r\n<li> 42)\tI programmatori sanno che tecnica di gestione della memoria (paginazione o segmentazione) \u00e8 utilizzata?\r\n<li> 43)\tPerch\u00e9 \u00e8 stata inventata la paginazione? \r\n<li> 44)\tPerch\u00e9 \u00e8 stata inventata la segmentazione? \r\n<li> 45)\tQuali sono le strutture di file pi\u00f9 comuni?\r\n<li> 46)\tQual \u00e8 la corretta sequenza dell'intestazione all'interno di un file eseguibile binario nelle prime versioni di UNIX?\r\n<li> 47)\tQual \u00e8 la chiamata di sistema UNIX per leggere gli attributi di un file?\r\n<li> 48)\tQual \u00e8 il separatore per i file utilizzato in MULTICS?\r\n<li> 49)\tIn un sistema di gestione del file system, qual \u00e8 la voce speciale che permette di riferirsi alla directory corrente?\r\n<li> 50)\tIn UNIX, qual \u00e8 la chiamata che permette di creare una directory vuota?\r\n<li> 51)\tIn un programma C, i parametri passati al programma principale, main(), sono passati attraverso?\r\n<li> 52)\tNel layout del file system, il master boot record \u00e8?\r\n<li> 53)\tNel layout del file system, il blocco di boot \u00e8 fatto di..\r\n<li> 54)\tChe cos'\u00e8 l'i-node in un sistema UNIX?\r\n<li> 55)\tI cambiamenti nella tecnologia spingono l'evoluzione dei file system: le CPU diventano pi\u00f9 veloci; i dischi, le memorie e le cache sono sempre pi\u00f9 grandi e economiche. Il collo di bottiglia diventa cos\u00ec il tempo di ricerca su disco (per quelli meccanici). Quali file system sono stati progettati per ridurre questo problema?\r\n<li> 56)\tQuali sono le principali categorie di dispositivi di I/O?\r\n<li> 57)\tQuali sono gli svantaggi del port-mapped I/O?\r\n<li> 58)\tQuali sono gli svantaggi del memory-mapped I/O?\r\n<li> 59)\tQuali sono le 4 propriet\u00e0 di un interrupt preciso?\r\n<li> 60)\tQuali sono i principali obiettivi del software di I/O?\r\n<li> 61)\tQuali sono le tecniche di gestione degli I/O?\r\n<li> 62)\tQuali sono i livelli software per la gestione dell'I/O?\r\n<li> 63)\tQuali sono i fattori che compromettono il tempo necessario a leggere o scrivere un blocco del disco?\r\n<li> 64)\tQuali sono le modalit\u00e0 di funzionamento di un clock programmabile?\r\n<li> 65)\tIn un computer con un clock di 10 GHz che distanza possono percorrere i segnali elettrici?\r\n<li> 66)\tPer incrementare drasticamente le performance di un calcolatore che architetture occorre progettare?\r\n<li> 67)\tIn un'architettura UMA con rete di commutazione a pi\u00f9 stadi di tipo omega con n CPU, n memorie and log2n stadi, con n/2 switch per stadio, complessivamente di quanti switch abbiamo bisogno?\r\n<li> 68)\tQuali sono le caratteristiche chiave di una macchina con accesso non uniforme alla memoria?\r\n<li> 69)\tQuali sono gli approcci per il Sistema Operativo adottati dai multiprocessori?\r\n<li> 70)\tQual \u00e8 un potenziali problema in un algoritmo di scheduling a condivisione del tempo su un multiprocessore?\r\n<li> 71)\tChe cosa si intende per diametro in un multicomputer?\r\n<li> 72)\tQual \u00e8 il vantaggio di utilizzare un'architettura di multicomputer ad ipercubo?\r\n<li> 73)\tQuali sono i vantaggi della virtualizzazione? \r\n<hr/></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></p>"
+    },
+    {
+      "titolo": "Risultati Appello 24 FEB",
+      "data": "07-03-2016 15:47",
+      "contenuto": "<p>Matricola,votazione\u00a0</p>\n<p>235022,20</p>\n<p>231841,26</p>\n<p>228245,18</p>\n<p>229804,24</p>\n<p>213348,18</p>\n<p>227310,24</p>\n<p>229893,18</p>\n<p>229771,18</p>\n<p>226205,20</p>\n<p>233584,30</p>\n<p>232234,18</p>\n<p>228761,24</p>\n<p>227580,24</p>\n<p>\r\nProceder\u00f2 con la registrazione su verbale elettronico se non ricever\u00f2 comunicazione scritta entro Venerd\u00ec 11/3.\r\n</p>\n<p>\r\nI giudizi non positivi verranno inseriti come assenti. SI precisa che molti studenti si presentano all'esame impreparati quindi dal prossimo appello chi consegner\u00e0 un compito con punteggio inferirore a 10/30 (2 domande) verr\u00e0 comunque verbalizzato.\r\n</p>\n<hr/>"
+    },
+    {
+      "titolo": "Risultati Appello 1 FEB",
+      "data": "01-02-2016 18:51",
+      "contenuto": "<p>Matricola,votazione\u00a0</p>\n<p style=\"font-size: 12px; line-height: normal; font-family: Helvetica; color: #454545;\">0233262,30</p>\n<p style=\"font-size: 12px; line-height: normal; font-family: Helvetica; color: #454545;\">0227764,27</p>\n<p style=\"font-size: 12px; line-height: normal; font-family: Helvetica; color: #454545;\">0230978,21</p>\n<p style=\"font-size: 12px; line-height: normal; font-family: Helvetica; color: #454545;\">0233086,18</p>\n<p style=\"font-size: 12px; line-height: normal; font-family: Helvetica; color: #454545;\">0213487,18</p>\n<p style=\"font-size: 12px; line-height: normal; font-family: Helvetica; color: #454545;\">0230438,18</p>\n<p style=\"font-size: 12px; line-height: normal; font-family: Helvetica; color: #454545;\">0231256,18</p>\n<p style=\"font-size: 12px; line-height: normal; font-family: Helvetica; color: #454545;\">0231598,18</p>\n<p>0232578,18</p>\n<p>\u00a0</p><hr/>"
+    },
+    {
+      "titolo": "Sessione di Esame Estiva anticipata",
+      "data": "08-01-2016 09:43",
+      "contenuto": "Sul sito Delphi troverete i due appelli programmati,\r\nho accolto richiesta degli studenti di spostare il primo\r\nappello nella prima settimana di Febbraio.\r\n\r\nPRIMO   APPELLO  1/2/2016 Ore 8:00 Aula T5\r\n\r\nSECONDO APPELLO 24/2/2016 Ore 8:00 Aula T5\r\n<hr/>"
+    },
+    {
+      "titolo": "Dispensa su Algebra di Boole",
+      "data": "22-12-2015 13:30",
+      "contenuto": "Ho pubblicato le prime 50 pagine di un mio libro\r\n(edizione del 2005), che forse potrebbe essere ancora dispobile al prezzo di costo di 10 euro presso le librerie Kappa (oppure quelle del comprensorio di Tor Vergata). Nell'estratto troverete gli argomenti non coperti dal testo di Tanenbaum relativamente all'Algebra di Boole."
+    }
+  ],
+  "lezioni": [
+    {
+      "id": "24",
+      "data": "14-01-2016",
+      "contenuto": "LEZIONE CONCLUSIVA\r\nESERCITAZIONI\r\n\r\n--- FINE CORSO ---"
+    },
+    {
+      "id": "23",
+      "data": "12-01-2016",
+      "contenuto": "PARALLEL COMPUTER ARCHITECTURES (CAP 8 LIBRO 1 e CAP 8 LIBRO 2)\r\n- MULTICOMPUTER\r\n- VIRTUALIZATION"
+    },
+    {
+      "id": "22",
+      "data": "7-01-2016",
+      "contenuto": "PARALLEL COMPUTER ARCHITECTURES (CAP 8 LIBRO 1 e CAP 8 LIBRO 2)\r\n- MULTIPROCESSOR"
+    },
+    {
+      "id": "21",
+      "data": "17-12-2015",
+      "contenuto": "Introduzione alle architetture parallele"
+    },
+    {
+      "id": "20",
+      "data": "15-12-2015",
+      "contenuto": "Linguaggio assembly"
+    },
+    {
+      "id": "19",
+      "data": "10-12-2015",
+      "contenuto": "Correzione prova del 10 dic"
+    },
+    {
+      "id": "18",
+      "data": "03-12-2015",
+      "contenuto": "Simulazione di esame (svolta il 10 dic)"
+    },
+    {
+      "id": "17",
+      "data": "01-12-2015",
+      "contenuto": "INTRODUCTION\r\nMULTIPROCESSORS\r\nHardware\r\nOperating System Types\r\nSynchronization\r\nScheduling\r\nMULTICOMPUTERS\r\nHardware\r\nLow-Level Communication software\r\nUser-Level Communication software \r\nRemote Procedure Call (RPC)\r\nDistributed Shared Memory\r\nScheduling\r\nLoad Balancing\r\nVIRTUALIZATION\r\nAdvantages\r\nHypervisors"
+    },
+    {
+      "id": "16",
+      "data": "26-11-2015",
+      "contenuto": "INTRODUCTION TO ASSEMBLY LANGUAGE\r\nWhy Use Assembly Language?\r\nFormat of an Assembly Language Statement\r\nPseudoinstructions\r\n\r\nMACROS \r\nMacros with Parameters \r\n\r\nTHE ASSEMBLY PROCESS \r\nTwo-Pass Assemblers \r\nPass On\r\nPass Two \r\nThe Symbol Table\r\n\r\nLINKING AND LOADING \r\nTasks Performed by the Linker\r\nStructure of an Object Module\r\nBinding Time and Dynamic Relocation\r\nDynamic Linking"
+    },
+    {
+      "id": "15",
+      "data": "24-11-2015",
+      "contenuto": "PAGE REPLACEMENT ALGORITHMS\r\nThe Optimal algorithm\r\nThe Not Recently Used (NRU)\r\nThe First-In First-Out (FIFO)\r\nThe Second-Chance\r\nThe Clock\r\nThe Least Recently Used (LRU) \r\nThe Working Set\r\nThe WSClock\r\nSummary of page replacement algorithm"
+    },
+    {
+      "id": "14",
+      "data": "19-11-2015",
+      "contenuto": "NO MEMORY ABSTRACTION\r\nRunning multiple programs without a memory abstraction\r\nA MEMORY ABSTRACTION: ADDRESS SPACES\r\nThe notion of an address space\r\nBase and limit registers\r\nSwapping\r\nManaging free memory\t\r\nMemory management with bitmaps\r\nMemory management with linked lists\r\nVIRTUAL MEMORY\r\nPaging\r\nPages table\r\nSpeeding up paging\r\nTranslation lookaside buffer\r\nSoftware TLB management\r\nPages table for large memories"
+    },
+    {
+      "id": "13",
+      "data": "17-11-2015",
+      "contenuto": "SCHEDULING\r\nIntroduction to scheduling\r\nProcess behavior\r\nWhen to schedule\r\nCategories of scheduling algorithms\r\nCategorie di algoritmi di scheduling\r\nScheduling in batch systems\r\nScheduling in interactive systems\r\nScheduling in real-time systems\r\nPolicy versus Mechanism\r\nThread scheduling"
+    },
+    {
+      "id": "12",
+      "data": "12-11-2015",
+      "contenuto": "INTERPROCESS COMMUNICATION \r\nRace conditions \r\nCritical regions\r\nMutual Exclusion with Busy Waiting\r\nSleep and wakeup \r\nSemaphores\r\nMutexes\r\nMutexes in Pthread\r\nMonitors\r\nMessage Passing \r\nBarriers"
+    },
+    {
+      "id": "11",
+      "data": "10-11-2015",
+      "contenuto": "PROCESSES\r\n\r\nThe process model\r\nProcess creation\r\nProcess termination\r\nProcess hierarchies\r\nProcess states\r\nImplementation of processes\r\nModeling multiprogramming\r\n\r\nTHREADS\r\n\r\nThread usage\r\nThe classical thread model\r\nPOSIX threads\r\nImplementing threads in user space and in the kernel\r\nScheduler activations"
+    },
+    {
+      "id": "10",
+      "data": "05-11-2015",
+      "contenuto": "What is an operating system?\r\nHistory of operation system\r\nComputer hardware review\r\nprocessors\r\nmemory\r\nI/O devices\r\nbuses\r\nOperating System concepts\r\nThe system calls \r\nthe Win32 API for Windows"
+    },
+    {
+      "id": "9",
+      "data": "03-11-2015",
+      "contenuto": "THE INSTRUCTION SET ARCHITECTURE LEVEL\r\n\r\nOVERVIEW OF THE ISA LEVEL\r\nDATA TYPES \r\nINSTRUCTION FORMATS \r\nADDRESSING \r\nINSTRUCTION TYPES\r\nFLOW OF CONTROL"
+    },
+    {
+      "id": "8",
+      "data": "29-10-2015",
+      "contenuto": "AN EXAMPLE ARCHITECTURE\r\nThe Data Path\r\nMicroinstructions\r\nThe microinstruction control: The Mic-1\r\n\r\nAN EXAMPLE ARCHITECTURE: IJVM\r\nStacks\r\nThe IJVM Memory Model\r\nThe IJVM Instruction Set"
+    },
+    {
+      "id": "7",
+      "data": "27-10-2015",
+      "contenuto": "Combinational Circuits: Comparators, Programmable Logic Arrays\r\nArithmetic Circuits: Shifters, Adders, Arithmetic Logic Units\r\nClocks"
+    },
+    {
+      "id": "6",
+      "data": "22-10-2015",
+      "contenuto": "Exercises and examples on Boolean Algebra\r\nCombinational Circuits: Multiplexers &amp; Decoders"
+    },
+    {
+      "id": "5",
+      "data": "20-10-2015",
+      "contenuto": "Seminario su Qualit\u00e0 e Standard"
+    },
+    {
+      "id": "4",
+      "data": "15-10-2015",
+      "contenuto": "BASIC DIGITAL LOGIC CIRCUITS\r\nIntegrated Circuits\r\nCombinational and Sequential circuits"
+    },
+    {
+      "id": "3",
+      "data": "13-10-2015",
+      "contenuto": "SISTEMI DI NUMERAZIONE\r\nTRASFORMAZIONE DI BASE (2, 8, 10, 16)\r\nOPERAZIONI IN BASE GENERICA\r\n\r\nGATES AND BOOLEAN ALGEBRA\r\nBoolean Algebra\r\nThe transformations in the Boole domain"
+    },
+    {
+      "id": "2",
+      "data": "08-10-2015",
+      "contenuto": "PROCESSORS\r\nInstruction execution\r\nCPU organization\r\nDesign principles for modern computers \r\nInstruction-level parallelism\r\nProcessor-level parallelism\r\n\r\nPRIMARY MEMORY\r\nByte ordening\r\nError-Correcting Codes\r\nCache memory\r\nMemory packaging and types"
+    },
+    {
+      "id": "1",
+      "data": "06-10-2015",
+      "contenuto": "The digital computer\r\nLanguages, levels and Virtual Machines\r\nHow execute a program\r\nEvolution of multilevel machines\r\nMilestones in computer architecture\r\nThe von Neumann machine\r\nThe computer spectrum\r\nMetric units"
+    }
+  ],
+  "materiale": [],
+  "programma": "<table><tr><td>INTRODUCTION TO COMPUTER SYSTEM ORGANIZATION (CAP 1 LIBRO 1)\r\n<br/>\r\n- Structured Computer Organization\r\n<br/>\r\n- Milestone in computer architecture\r\n<br/>\r\n- The computer zoo\r\n<br/>\r\n- Metric Unit\r\n<br/>\r\nCOMPUTER SYSTEM ORGANIZATION (CAP 2 LIBRO 1)\r\n<br/>\r\n- Processors\r\n<br/>\r\n- Primary Memory\r\n<br/>\r\n- Secondary Memory\r\n<br/>\r\n- Input/Output\r\n<br/>\r\nTHE DIGITAL LOGIC LEVEL (CAP 3 LIBRO 1)\r\n<br/>\r\n- Boolean Algebra\r\n<br/>\r\n- Basic logical circuits\r\n<br/>\r\n- Memory &amp; Computer Buses\r\n<br/>\r\n- example of CPU chips, Buses, Interfacing\r\n<br/>\r\nTHE MICROARCHITECTURE LEVEL\r\n<br/>\r\n- AN EXAMPLE MICROARCHITECTURE (CAP 4 LIBRO 1)\r\n<br/>\r\n- AN EXAMPLE ISA: IJVM \r\n<br/>\r\nTHE INSTRUCTION SET ARCHITECTURE LEVEL (CAP 5 LIBRO 1)\r\n<br/>\r\n- OVERVIEW OF THE ISA LEVEL \r\n<br/>\r\n- DATA TYPES \r\n<br/>\r\n- INSTRUCTION FORMATS \r\n<br/>\r\n- ADDRESSING \r\n<br/>\r\n- INSTRUCTION TYPES\r\n<br/>\r\n- FLOW OF CONTROL\r\n<br/>\r\nTHE OPERATING SYSTEM LEVEL (CAP 1,2,3,4,5 LIBRO 2)\r\n<br/>\r\n- INTRODUCTION\r\n<br/>\r\n- PROCESSES AND THREAD\r\n<br/>\r\n- MEMORY MANAGEMENT\r\n<br/>\r\n- FILE SYSTEM\r\n<br/>\r\n- INPUT/OUTPUT\r\n<br/>\r\nTHE ASSEMBLY LANGUAGE LEVEL (CAP 7 LIBRO 1)\r\n<br/>\r\n- INTRODUCTION TO ASSEMBLY LANGUAGE\r\n<br/>\r\n- MACROS\r\n<br/>\r\n- THE ASSEMBLY PROCESS\r\n<br/>\r\n- LINKING AND LOADING\r\n<br/>\r\nPARALLEL COMPUTER ARCHITECTURES (CAP 8 LIBRO 1 e CAP 8 LIBRO 2)\r\n<br/>\r\n- ON-CHIP PARALELISM\r\n<br/>\r\n- COPROCESSOR\r\n<br/>\r\n- MULTIPROCESSORS\r\n<br/>\r\n- MULTICOMPUTERS\r\n<br/>\r\n- VIRTUALIZATION\r\n<br/>\r\n- DISTRIBUITED SYSTEMS\r\n<br/></td></tr></table>",
+  "testiRiferimento": "<table><tr><td>1) Tanenbaum Andrew S., <b>Architettura dei calcolatori: Un approccio strutturale</b>, 6a Ed., Pearson Education, 2013<br/>\r\n2) Tanenbaum Andrew S., <b>I moderni sistemi operativi</b>, 3a Ed.\r\n<p><b>Testo Ausiliario</b> </p>\n<b>Informazione automatica e Java.</b> Compendio di informatica e di programmazione. Autori: Simonetta A. Sillano M. e Perna D., EDIZIONI KAPPA\r\n </td></tr></table>",
+  "ricevimento": "<table><tr><td>Al termine delle lezioni</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>prova scritta con 5/6 domande teoriche e pratiche</td></tr></table>"
+}

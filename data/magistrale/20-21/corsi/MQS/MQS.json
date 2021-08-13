@@ -1,6 +1,11 @@
 {
   "nomeCorso": "Modelli e qualit\u00e0 del SW",
-  "docente": "Giuseppe Iazeolla",
+  "docente": [
+    {
+      "first_name": "Giuseppe",
+      "second_name": "Iazeolla"
+    }
+  ],
   "annoAccademico": "2020-2021",
   "crediti": "9",
   "settore": "INF/01",
@@ -12,12 +17,12 @@
     {
       "id": "0",
       "data": "null",
-      "contenuto": "Il numero di leziojni \u00f2 come da Orario Ufficiale"
+      "contenuto": "<p>Il numero di leziojni \u00f2 come da Orario Ufficiale</p>"
     }
   ],
   "materiale": [],
-  "programma": "Vedi su Delphi",
-  "testiRiferimento": "Vedi su Delphi",
-  "ricevimento": "iazeolla@uniroma2.it",
-  "modalit\u00e0Esame": "Vedi su Delphi"
+  "programma": "<table><tr><td><p>Vedi su Delphi</p></td></tr></table>",
+  "testiRiferimento": "<table><tr><td><p>Vedi su Delphi</p></td></tr></table>",
+  "ricevimento": "<table><tr><td><p>iazeolla@uniroma2.it\u00a0 \u00a0</p></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td><p>Vedi su Delphi</p></td></tr></table>"
 }

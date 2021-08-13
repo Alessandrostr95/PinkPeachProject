@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Calcolo delle probabilit\u00e0",
+  "docente": [
+    {
+      "first_name": "Antonella",
+      "second_name": "Calzolari"
+    }
+  ],
+  "annoAccademico": "2005-2006",
+  "crediti": "6",
+  "settore": "",
+  "anno": "1",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>Catene di Markov tempo discreto e tempo continuo e elementi di simulazione di variabili aleatorie e processi stocastici.\r\n</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>Appunti distribuiti dal docente,  \r\nda integrare con \r\nP.Baldi, Calcolo delle Probabilita' e statistica,\r\nP.G.Hoel, S.C.Port, C.J.Stone, Introduction to Stochastic Processes\r\nS.M.Ross, Introduction to Probability Models\r\n\r\n \r\n</td></tr></table>",
+  "ricevimento": "<table><tr><td>null</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

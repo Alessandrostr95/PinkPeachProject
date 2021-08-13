@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Sicurezza dei sistemi informativi",
+  "docente": [
+    {
+      "first_name": "Franco",
+      "second_name": "Arcieri"
+    }
+  ],
+  "annoAccademico": "2007-2008",
+  "crediti": "9",
+  "settore": "",
+  "anno": "2",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>null</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>null</td></tr></table>",
+  "ricevimento": "<table><tr><td>null</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

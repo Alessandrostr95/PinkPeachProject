@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Calcolo numerico",
+  "docente": [
+    {
+      "first_name": "Carla",
+      "second_name": "Manni"
+    }
+  ],
+  "annoAccademico": "2016-2017",
+  "crediti": "6",
+  "settore": "MAT/08",
+  "anno": "3",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Analisi Matematica. Matematica discreta.",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td><ul>\n<li>Aritmetica in precisione finita</li>\n<li>Metodi numerici per equazioni non lineari</li>\n<li>Metodi numerici per\u00a0\u00a0sistemi lineari</li>\n<li>Interpolazione ed Approssimazione</li>\n<li>Integrazione Numerica</li>\n<li>Trattamento numerico di\u00a0\u00a0equazioni differenziali (cenni)</li>\n</ul></td></tr></table>",
+  "testiRiferimento": "<table><tr><td><ul>\n<li>D. Bini, M. Capovani, O. Menchi,\u00a0\u00a0Metodi numerici per l'Algebra Lineare, Zanichelli, Bologna, 1988</li>\n<li>R. Bevilacqua, D. Bini, M. Capovani, O. Menchi,\u00a0\u00a0Metodi Numerici,\u00a0\u00a0Zanichelli, Bologna, 1992.\u00a0</li>\n<li>A. Quarteroni, R. Sacco, F. Saleri,\u00a0\u00a0Matematica Numerica,\u00a0\u00a0Springer 2008.</li>\n</ul>\n<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 0.0001pt 18pt; font-size: medium; font-family: 'Times New Roman', serif;\">\u00a0</p></td></tr></table>",
+  "ricevimento": "<table><tr><td><p>da concordare direttamente con il docente via email.</p></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td><p>esame scritto e orale</p></td></tr></table>"
+}

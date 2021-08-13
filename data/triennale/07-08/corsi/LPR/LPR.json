@@ -1,0 +1,26 @@
+{
+  "nomeCorso": "Laboratorio di programmazione dei calcolatori",
+  "docente": [
+    {
+      "first_name": "Loredana",
+      "second_name": "Vigliano"
+    },
+    {
+      "first_name": "Loredana",
+      "second_name": "Vigliano"
+    }
+  ],
+  "annoAccademico": "2007-2008",
+  "crediti": "6",
+  "settore": "",
+  "anno": "1",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>Cenni storici, caratteristiche e compilatori\r\nIntroduzione a Linux\r\nPrimo programma\r\nTipi di dati e operatori\r\nStrutture di controllo e cicli\r\nFunzioni e ricorsivit\u00e0\r\nVettori e Array\r\nPuntatori e stringhe\r\nArray e strutture\r\nAllocazione dinamica della memoria\r\nListe\r\nGestione dei file\r\nGestione progetto\r\nMakefile\r\nDebugger </td></tr></table>",
+  "testiRiferimento": "<table><tr><td>Kelley-Pohl    A book on C    Fourth Edition \r\no in alternativa, ma meno consigliato\r\nDeitel &amp; Deitel    C corso di programmazione   Apogeo</td></tr></table>",
+  "ricevimento": "<table><tr><td>in aula alla fine delle lezioni</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

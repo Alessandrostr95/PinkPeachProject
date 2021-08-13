@@ -52,6 +52,8 @@ ENG_DIR_NAMES = {
     }
 }
 
+
+
 # Used to differentiate between first_name and last_name in case of
 # multiple words names.
 TEACHERS_NAME = {
@@ -135,7 +137,63 @@ TEACHERS_NAME = {
     "Giampaolo Scalia Tomba": {
         "first_name": "Gimpaolo",
         "second_name": "Scalia Tomba",
-    }    
+    },
+
+    # --------------
+
+    "Giulia Maria Piacentini Cattaneo": {
+        "first_name": "Giulia Maria Piacentini",
+        "second_name": "Cattaneo"
+    },
+
+    "Cattaneo Giulia Maria Piacentini": {
+        "first_name": "Giulia Maria Piacentini",
+        "second_name": "Cattaneo"        
+    },
+
+    # --------------
+
+    "Adriano Di Pasquale": {
+        "first_name": "Adriano",
+        "second_name": "Di Pasquale",
+    },
+
+    "Di Pasquale Adriano": {
+        "first_name": "Adriano",
+        "second_name": "Di Pasquale",
+    },
+
+    # --------------
+    
+    "Stefano De Luca": {
+        "first_name": "Stefano",
+        "second_name": "De Luca",
+    },
+
+    "De Luca Stefano": {
+        "first_name": "Stefano",
+        "second_name": "De Luca",        
+    },
+
+    # --------------
+
+    "Maria Teresa Pazienza": {
+        "first_name": "Maria Teresa",
+        "second_name": "Pazienza",
+    },
+
+    "Pazienza Maria Teresa": {
+        "first_name": "Maria Teresa",
+        "second_name": "Pazienza",        
+    },
+
+    # --------------
+
+    "Draoli": {
+        "first_name": "Draoli",
+        "second_name": "",
+    }
+    
 }
 
 # ----- Utils functions -----
@@ -435,7 +493,7 @@ class UniScraper(object):
                 # -- special name, use dict
                 res_name["first_name"] = TEACHERS_NAME[name]["first_name"]
                 res_name["second_name"] = TEACHERS_NAME[name]["second_name"]
-
+                    
             res.append(res_name)
                     
         return res
@@ -895,10 +953,8 @@ class UniScraper(object):
 
 if __name__ == "__main__":
     bachelor_scraper = UniScraper(Degree.BACHELOR)
-    # bachelor_scraper.get_course_data("AE", download=True)
-    # bachelor_scraper.get_teachers_list()
-    bachelor_scraper.get_all_data("20-21")
+    bachelor_scraper.get_all_data()
 
     master_scraper = UniScraper(Degree.MASTER)
-    # master_scraper.get_teachers_list()
-    # master_scraper.get_all_data("20-21")
+    master_scraper.get_all_data()
+    # master_scraper.get_course_data("OSI", scholar_year="15-16")

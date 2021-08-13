@@ -1,0 +1,28 @@
+{
+  "nomeCorso": "Informatica teorica",
+  "docente": [
+    {
+      "first_name": "Miriam",
+      "second_name": "Di Ianni"
+    }
+  ],
+  "annoAccademico": "2013-2014",
+  "crediti": "6",
+  "settore": "INF/01",
+  "anno": "3",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [
+    {
+      "titolo": "Appello straordinario.",
+      "data": "07-10-2014 16:50",
+      "contenuto": "<p><strong></strong>Si avvisano gli studenti interessati che \u00e8 previsto un appello straordinario per la prossiama sessione invernale (gennaio-febbraio 2015)</p>"
+    }
+  ],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td><p><strong> Programma svolto: </strong> (ove non diversamente specificato, le indicazioni sul programma si riferiscono al testo in italiano)<br> <br>Macchine di Turing. Definizioni ed esempi. Trasduttori e riconoscitori, Macchine ad un nastro e a k nastri. Macchine di Turing deterministiche e non deterministiche. Macchina di Turing universale. (Dispense 1 e 2) <br> <br>Linguaggi e funzioni. Linguaggi e linguaggi complemento. Accettabilit\u00e0 e decidibilit\u00e0 di linguaggi. Calcolabilit\u00e0 di funzioni. La tesi di Church-Turing e modello di calcolo equivalenti alla macchina di Turing. Macchine di Turing con oracolo. (Dispensa 3)</br></br></br></br></p>\n<p>\u00a0</p>\n<p>Cardinalit\u00e0 di insiemi. Insiemi numerabili e non numerabili. Diagonalizzazione.(Dispensa 4)</p>\n<p><br> Linguaggi non decidibili.\u00a0 Riducibilit\u00e0 tra linguaggi: m-riducibilit\u00e0 e sue propriet\u00e0. (Dispensa 5)</br></p>\n<p>\u00a0</p>\n<p>Misure di complessit\u00e0. Misure statiche e dinamiche. Assiomi di Blum. Misure di complessit\u00e0: DTIME, DSPACE, NTIME, NSPACE. (Cap. 4 del testo)<br> <br/>Classi di linguaggi. Inclusione, inclusione propria, completezza. Gap theorem (solo enunciato) e funzioni time-constructible (Dispensa 6). Definizione delle classi di complessit\u00e0 spaziale e temporale (da integrare co il testo in lingua inglese, pag. 44) . Teorema di accelerazione (Note del Prof. Gambosi). Classi di complessit\u00e0 temporale: classi complemento, chiusura rispetto a variazioni finite. (ove non diversamente specificato, Cap. 5 del testo)</br></p>\n<p>\u00a0</p>\n<p>Problemi e codifiche. Problemi decisionali. Problemi Problemi complementari. (Cap. 3)<br/> <br/>La classe P. Riducibilit\u00e0 polinomiale e chiusura di P rispetto alla riducibilit\u00e0 polinomiale. Problemi in P: 2-SAT, 2-COLORABILITA'. Funzioni in FP: trasformazione di una funzione booleana in forma congiuntiva normale. (Cap. 6 e Dispensa 7)<br/> <br/>La classe NP. Linguaggi NP-completi e Teorema di Cook. Chiusura rispetto alla riduzione polinomiale. Esempi di dimostrazioni di NP-completezza: 3-SAT, Vertex Cover, 3-COLORABILITA' (Dispensa 8), COLORABILITA', Independent Set, Clique, Hamiltonian Circuit/Path, Longest Path, Commesso Viaggiatore (per questa serie di riduzioni, Note del Prof. Gambosi). Problemi NP-intermedi: il teorema di Ladner (solo enunciato, Dispensa 9). (ove non diversamente specificato, Cap. 7)</p>\n<p>\u00a0</p>\n<p>Algoritmi pseudo-polinomiali, problemi numerici e NP-completezza in senso forte; il problema PARTIZIONE.\u00a0(pag. 151-153 del testo)<br/><br/>Oltre NP. La classe coNP. Definizione della gerarchia booleana e della gerarchia polinomiale. Definizione alternativa della gerarchia polinomiale (solo enunciato del Teorema 9.1).\u00a0(cap. 9)<br/><br/></p>\n<p>Problemi di ottimizzazione. Le classi PO e NPO. Linguaggi soggiacenti. La questione: \"PO = NPO?\" (Dispensa 10). La classe APX. Appartenenza ad APX di min-Vertex Cover. Inclusione propria di APX in NPO: non Appartenenza ad AXP di min-TSP (se P diverso da NP). Appartenenza ad AXP di min-TSP con disuguaglianza triangolare: algoritmo di Christofiedes (Dispensa 11).</p></td></tr></table>",
+  "testiRiferimento": "<table><tr><td><p>Bovet Daniel P., Crescenzi Pierluigi, \"Teoria della complessit\u00e0 computazionale\". Editore: Franco Angeli, collana \"Scienze e tecnologie informatiche\". ISBN: 8820465558 <br> <br/>D.P. Bovet e P. Crescenzi, \"Introduction to the theory of complexity\", scaricabile liberamente da Internet sotto licenza Creative Commons.</br></p>\n<p>\u00a0</p>\n<p>Dispense a cura del docente (disponibili in questa pagina).</p>\n<p>\u00a0</p>\n<p>Note a cura del Prof. Gambosi (disponibili in questa pagina).</p>\n<p>\u00a0</p></td></tr></table>",
+  "ricevimento": "<table><tr><td>Per appuntamento, da richiedere a mezzo posta elettronica</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td><p>Prova scritta e prova orale. Per essere ammessi a sostenere la prova orale \u00e8 necessario aver superato la prova scritta con una votazione di almeno 18/30.</p></td></tr></table>"
+}

@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Algoritmi e strutture di dati 2",
+  "docente": [
+    {
+      "first_name": "Andrea",
+      "second_name": "Clementi"
+    }
+  ],
+  "annoAccademico": "2010-2011",
+  "crediti": "6",
+  "settore": "",
+  "anno": "3",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>-    Programma Generale:\r\nStudio delle principali tecniche algoritmiche per problemi combinatorici provenienti da diversi ambienti applicativi (reti di comunicazione, scheduling di risorse, riconoscimento di sequenze del DNA, compressione dati).  Tale studio e' svolto mediante un insieme omogeneo di  esempi  globali dell'approccio matematico-informatico per la risoluzione di problemi (Problem Solving):\r\n\r\nAPPLICAZIONE dal MONDO REALE  ----&gt;  MODELLO MATEMATICO DEL PROBLEMA   ----&gt;  SOLUZIONE ALGORITMICA   ----&gt;  ANALISI MATEMATICA DELLA CORRETTEZZA E DELL'EFFICIENZA DELLA SOLUZIONE PROPOSTA\r\n\r\nQuesti esempi globali sono organizzati temporalmente in classi omogenee determinate dalla tecnica algoritmica utilizzata. Pertanto, lo scopo e' quello di individuare gli aspetti strutturali tipici di una tecnica algoritmica riscoprendoli nella risoluzione di diversi problemi di varia natura applicativa.\r\n\r\nLe tecniche fondamentali sono TRE:\r\nIl Metodo Goloso (GREEDY)\r\nLa Programmazione Dinamica\r\nLe Riduzioni Polinomiali\r\n\r\nInoltre, tempo permettendo,  un ciclo di alcune lezioni\r\nfinali saranno dedicate agli aspetti algoritmici della crittografia.\r\n\r\n-    Obiettivi formativi: \r\nLa figura professionale e/o accademica che si intende formare \u00e8 un esperto in Problem Solving: la situazione tipica negli ambienti lavorativi dove operano gli informatici ed i matematici \u00e8 quella in cui bisogna modellare un problema proveniente da un'applicazione reale e poi fornire una soluzione algoritmica efficiente per questo problema. L'expertise fornita da questo corso permette di (i) definire in modo opportuno le caratteristiche ed i vincoli pi\u00f9 importanti del problema sulla base della specifica applicazione; (ii) determinare le propriet\u00e0 strutturali del problema e, grazie ad esse, riconoscere con successo la tecnica algoritmica pi\u00f9 adeguata ed efficiente per quel particolare problema. \r\n\r\n\r\n-    Requisiti: \r\nL'approccio e l'analisi logico-matematica dei problemi adottati sono di livello medio/alto: si richiede quindi la conoscenza dei fondamenti di teoria degli algoritmi, fondamenti che si apprendono (per esempio) avendo seguito i due corsi fondamentali di Algoritmi del CdL in Informatica.\r\n</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>Testo Adottato: \r\n[KT05]: Jon Kleinberg, Eva Tardos. Algorithm Design. Addison Wesley, 2005. </td></tr></table>",
+  "ricevimento": "<table><tr><td>  appuntamento x email: clementi at mat uniroma2 it</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

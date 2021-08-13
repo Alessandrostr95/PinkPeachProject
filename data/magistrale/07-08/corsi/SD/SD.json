@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Sistemi distribuiti",
+  "docente": [
+    {
+      "first_name": "Giorgio",
+      "second_name": "Gambosi"
+    }
+  ],
+  "annoAccademico": "2007-2008",
+  "crediti": "6",
+  "settore": "",
+  "anno": "2",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>Sistemi informativi distribuiti: layers, architettura, comunicazione. Il Middleware: RPC, TP Monitor, Object Brokers, MOM. Enterprise Application Integration (EAI). Il World Wide Web come infrastruttura di comunicazione e scambio di servizi. Architettura fondamentale dei web services. SOAP (Simple Object Access Protocol). WSDL (Web Services Description Language). UDDI (Universal Description, Discovery and Integration). Coordinamento dei servizi: WS-Coordination. Composizione dei servizi Web.\r\n\r\nModalita' d'esame:\r\n\r\nL'esame prevede una prova orale e la presentazione, sotto forma di mini seminario, di un argomento concordato col docente. Tale presentazione deve avere durata massima di 20 minuti. Puo' svolgersi durante il giorno dell'esame oppure in aula prima del termine delle lezioni in un giorno da concordare col docente.\r\n\r\nI temi dei seminari verranno attribuiti a partire dalla seconda settimana di dicembre 2007. Gli studenti interessati sono pregati di contattare il docente.\r\n</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>Alonso G., Casati F., Kuno H., Machiraju V. \"Web services: Concepts, Architectures, and Applications\" Springer Verlag, 2004. </td></tr></table>",
+  "ricevimento": "<table><tr><td>Inviare una email per avere un appuntamento.</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

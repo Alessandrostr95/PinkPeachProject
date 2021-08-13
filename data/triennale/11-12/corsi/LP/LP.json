@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Linguaggi e metodologie di programmazione",
+  "docente": [
+    {
+      "first_name": "Marco",
+      "second_name": "Bianchi"
+    }
+  ],
+  "annoAccademico": "2011-2012",
+  "crediti": "12",
+  "settore": "INF/01",
+  "anno": "2",
+  "semestre": "1-2",
+  "propedeuticit\u00e0": "Programmazione dei calcolatori con laboratorio.",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td><b>Primo semestre</b> <br/><b>Linguaggi di programmazione (Bianchi):</b> <br/>Macchina astratta, interprete, linguaggio macchina.\r<br/>Realizzazione di una macchina astratta, implementazione di un linguaggio, implementazione interpretativa pura (definizione di interprete).\r<br/>Implementazione compilativa pura di un linguaggio (definizione di compilatore). Confronto tra implementazione compilativa pura e implementazione implementativa pura.\r<br/>Implementazione reale (con macchina intermedia) di un linguaggio, gerarchie di macchine astratte.\r<br/>Linguaggio visto come estensione della macchina astratta.\r<br/>Blocchi, regola di visibilit\u00e0 canonica, tipi di ambiente, modifiche dell'ambiente.\r<br/>Regole di scope statico.\r<br/>Regole di scope dinamico.\r<br/>Alcuni problemi di scope. \r<br/><b>Metodologie di programmazione (Tarquini):</b> <br/>-- \r<br/><hr/> <br/><b>Secondo semestre</b> <br/><b>Linguaggi di programmazione (Bianchi):</b> <br/>Sonar: una piattaforma open-source per il controllo della qualit\u00e0 del codice (http://www.sonarsource.org/). \r<br/>Ant: strumento di supporto allo sviluppo (http://ant.apache.org/).\r<br/>Codice duplicato: un indizio di cattiva progettazione.\r<br/><b>Metodologie di programmazione (Tarquini):</b> <br/>--</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>Linguaggi di programmazione. Principi e paradigmi (II edizione)- Gabbrielli Maurizio e Martini Simone - Editore McGraw-Hill Companies. </td></tr></table>",
+  "ricevimento": "<table><tr><td>Al termine delle lezioni o su appuntamento.</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

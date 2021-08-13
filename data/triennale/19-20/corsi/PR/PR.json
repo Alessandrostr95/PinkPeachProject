@@ -1,0 +1,28 @@
+{
+  "nomeCorso": "Programmazione dei calcolatori con laboratorio",
+  "docente": [
+    {
+      "first_name": "Gianluca",
+      "second_name": "Rossi"
+    }
+  ],
+  "annoAccademico": "2019-2020",
+  "crediti": "12",
+  "settore": "INF/01",
+  "anno": "1",
+  "semestre": "1-2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [
+    {
+      "id": "0",
+      "data": "null",
+      "contenuto": "<p>http://www.gianlucarossi.net/programmazione-dei-calcolatori/</p>"
+    }
+  ],
+  "materiale": [],
+  "programma": "<table><tr><td><p>Tutte le informazioni sono disponibili qui</p>\n<p>\u00a0</p>\n<p><a href=\"http://www.gianlucarossi.net/programmazione-dei-calcolatori/\" target=\"_blank\">http://www.gianlucarossi.net/programmazione-dei-calcolatori/</a></p></td></tr></table>",
+  "testiRiferimento": "<table><tr><td><p>Tutte le informazioni sono disponibili qui</p>\n<p>\u00a0</p>\n<p><a href=\"http://www.gianlucarossi.net/programmazione-dei-calcolatori/\" target=\"_blank\">http://www.gianlucarossi.net/programmazione-dei-calcolatori/</a></p></td></tr></table>",
+  "ricevimento": "<table><tr><td><p>Tutte le informazioni sono disponibili qui</p>\n<p>\u00a0</p>\n<p><a href=\"http://www.gianlucarossi.net/programmazione-dei-calcolatori/\" target=\"_blank\">http://www.gianlucarossi.net/programmazione-dei-calcolatori/</a></p></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td><p>Tutte le informazioni sono disponibili qui</p>\n<p>\u00a0</p>\n<p><a href=\"http://www.gianlucarossi.net/programmazione-dei-calcolatori/\" target=\"_blank\">http://www.gianlucarossi.net/programmazione-dei-calcolatori/</a></p></td></tr></table>"
+}

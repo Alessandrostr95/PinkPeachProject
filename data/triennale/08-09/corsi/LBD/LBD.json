@@ -1,0 +1,26 @@
+{
+  "nomeCorso": "Laboratorio di basi di dati",
+  "docente": [
+    {
+      "first_name": "Antonello",
+      "second_name": "Romaniello"
+    },
+    {
+      "first_name": "Antonello",
+      "second_name": "Romaniello"
+    }
+  ],
+  "annoAccademico": "2008-2009",
+  "crediti": "6",
+  "settore": "",
+  "anno": "2",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>-\tIntroduzione\r\n-\tAncora SQL : Viste e gestione Sicurezza\r\n-\tOrganizzazione fisica dei dati\r\n-       Ottimizzazione degli indici\r\n-       Modellazione dei dati in UML\r\n-      Normalizzazione e Denormalizzazione\r\n-\tOttimizzazione delle interrogazioni\r\n       o\tMySQL e ottimizzazioni\r\n-\tTransazioni\r\n       o        Locking a due fasi\r\n       o\tMySQL e Storage Engine\r\n-\tBasi di dati attive\r\n       o\tTrigger e Stored Procedure\r\n       o\tCursor, Trigger e Stored Procedure in MySQL\r\n- \tAltre caratteristiche per le performance di MySQL\r\n-\tBasi di dati a oggetti\r\n       o\tBasi di dati geospaziali e GIS\r\n-\tBasi di dati per XML (lettura) \r\n-\tBasi di dati su architetture distribuite\r\n       o\tCommit a due fasi\r\n-\tArchitetture dei sistemi informativi su Web (lettura)\r\n-\tArchitetture per l' analisi dei dati\r\n       o\tData Warehouse\r\n       o\tData Mining\r\n\r\n</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>Atzeni,Ceri,Fraternali,Paraboschi,Torlone      Basi di dati - Architetture e linee di evoluzione     ed. McGraw-Hill  2nd edition\r\n\r\nSchwartz,Zaitsev,Tkachenko,Zawodny, Lentz &amp; Balling    High Performance MySQL  ed. O'Reilly   2nd edition</td></tr></table>",
+  "ricevimento": "<table><tr><td>in aula al termine delle lezioni o previo appuntamento via mail</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

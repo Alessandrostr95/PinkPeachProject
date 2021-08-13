@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Algebra",
+  "docente": [
+    {
+      "first_name": "Franco",
+      "second_name": "Ghione"
+    }
+  ],
+  "annoAccademico": "2005-2006",
+  "crediti": "6",
+  "settore": "",
+  "anno": "1",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td> Il corso  fornira' le basi  e gli strumenti  algebrici necessari per la comprensione delle  tecniche attuali  della crittografia (soprattutto della crittografia a chiave pubblica). \r\nPresentazione della crittografia a chiave pubblica e delle sue problematiche.  \r\nFrazioni continue. Campi finiti. Radici primitive. Congruenze polinomiali. Residui quadratici. I  simboli di Legendre e di Jacobi. La legge di reciprocita' quadratica.  \r\nLa distribuzione dei primi. Test di primalita' e di fattorizzazione. Numeri pseudoprimi e test probabilistici. Un test di primalita' deterministico polinomiale: il test AKS.  Metodi di fattorizzazione: il metodo di Fermat, il metodo  delle basi di fattorizzazione, fattorizzazione e frazioni continue.  L'algoritmo del crivello quadratico.  Il metodo rho e variazione del metodo rho. \r\n Il problema del logaritmo discreto.  La  zero-knowledge proof: ossia convincere  che si conosce un risultato senza svelarne la dimostrazione. \r\nLe nuove frontiere: cenni di crittografia quantistica.\r\n</td></tr></table>",
+  "testiRiferimento": "<table><tr><td> M.W.Baldoni, C. Ciliberto, G.M.Piacentini Cattaneo, Aritmetica, Crittografia e codici, Unitext Springer 2006</td></tr></table>",
+  "ricevimento": "<table><tr><td> </td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

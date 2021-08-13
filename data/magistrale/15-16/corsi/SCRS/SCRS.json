@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Sistemi cooperativi e reti sociali",
+  "docente": [
+    {
+      "first_name": "Maurizio",
+      "second_name": "Talamo"
+    }
+  ],
+  "annoAccademico": "2015-2016",
+  "crediti": "6",
+  "settore": "INF/01",
+  "anno": "2",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td><p>1) Introduzione di Complex Web attraverso analisi di contesti.</p>\n<p>2) Definizione formale di Complex Web.</p>\n<p>3) Studio dell propriet\u00e0 di un complex web</p>\n<p>4) Definizione di meta regole per il riconoscimento di un sistema complesso.</p>\n<p>5) Richiamo dei concetti di protocollo su rete.</p>\n<p>6) Richiami sui protocolli IP, TCP, HTTP, SSL.</p>\n<p>7) Un linguaggio basato sul riconoscimento delle stringhe</p>\n<p>8) Ottenimento di sequenze elementari di eventi su WEB</p>\n<p>9) Il modello degli stati</p>\n<p>10) Il modello delle transizioni temporali</p>\n<p>11) Dipendenza e causalit\u00e0</p>\n<p>12) Il grafo causale.</p>\n<p>13) Rappresentazione di complex web come insieme di grafi causali.</p>\n<p>\u00a0</p>\n<p>Materiale didattico: dispense distribuite dal docente.</p></td></tr></table>",
+  "testiRiferimento": "<table><tr><td><p>Dispense a cura del docente, distribuite durante le lezioni.</p></td></tr></table>",
+  "ricevimento": "<table><tr><td><p>Su appuntamento da richiedere tramite email a maurizio.talamo@uniroma2.it</p></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td><p>L'esame \u00e8 orale. Durante la prova si discutono alcuni esercizi che sono assegnati agli studenti durante le lezioni.</p></td></tr></table>"
+}

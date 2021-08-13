@@ -1,0 +1,236 @@
+{
+  "nomeCorso": "Ricerca operativa",
+  "docente": [
+    {
+      "first_name": "Massimiliano",
+      "second_name": "Caramia"
+    }
+  ],
+  "annoAccademico": "2016-2017",
+  "crediti": "6",
+  "settore": "MAT/09",
+  "anno": "2",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [
+    {
+      "titolo": "Verbalizzazioni e orali",
+      "data": "06-06-2017 19:59",
+      "contenuto": "<p>Domani alle 14:30 in aula 3A sar\u00f2 presente per le verbalizzazioni. Chi volesse invece sostenere la prova orale pu\u00f2 mandarmi mail per marted\u00ec prossimo (ore 14:00 aula 3A).</p>\n<p>Saluti,</p>\n<p>Massimiliano Caramia</p><hr/>"
+    },
+    {
+      "titolo": "Recupero prima prova in itinere",
+      "data": "25-05-2017 08:10",
+      "contenuto": "<p>Coloro che fossero risultati insufficienti al primo esonero possono recuperarlo il giorno 30 maggio 2017 alle ore 14:30 in aula 3A.</p>\n<p>Coloro che fossero stati assenti al primo esonero e fossero interessati a sostenerlo il 30 maggio 2017 possono inviare richiesta via email al docente.</p><hr/>"
+    },
+    {
+      "titolo": "Seconda prova in itinere",
+      "data": "25-05-2017 08:04",
+      "contenuto": "<p>Buongiorno a tutti,</p>\n<p>\u00a0</p>\n<p>il secondo esonero di Ricerca Operativa si terr\u00e0 il giorno 31 maggio durante le ore di lezione in aula 4 PP2.</p>\n<p>Saluti,</p>\n<p>Massimiliano Caramia</p><hr/>"
+    },
+    {
+      "titolo": "Prova in itinere",
+      "data": "23-03-2017 10:50",
+      "contenuto": "<p>Buongiorno a tutti,</p>\n<p>\u00a0</p>\n<p>come concordato nella lezione del 22 marzo u.s., il 9 maggio si terr\u00e0 la prima prova in itinere del corso di Ricerca Operativa. L'aula verr\u00e0 comunicata appena possibile.</p>\n<p>Saluti,</p>\n<p>Massimiliano Caramia</p>"
+    }
+  ],
+  "lezioni": [
+    {
+      "id": "25",
+      "data": "07-06-2017",
+      "contenuto": "<p>Esercitazione di riepilogo sul corso</p>"
+    },
+    {
+      "id": "24",
+      "data": "06-06-2017",
+      "contenuto": "<p>Correzione secondo esonero</p>"
+    },
+    {
+      "id": "23",
+      "data": "31-05-2017",
+      "contenuto": "<p>Secondo esonero</p>"
+    },
+    {
+      "id": "22",
+      "data": "30-05-2017",
+      "contenuto": "<p>Recuperio primo esonero</p>"
+    },
+    {
+      "id": "21",
+      "data": "24-05-2017",
+      "contenuto": "<p>Esercitazione AMPL-CPLEX</p>"
+    },
+    {
+      "id": "20",
+      "data": "23-05-2017",
+      "contenuto": "<p>Correzione esonero</p>"
+    },
+    {
+      "id": "19",
+      "data": "17-05-2017",
+      "contenuto": "<p>Cicli, memoria dinamica e opzioni per l'utilizzo di algoritmi specifici in AMPL</p>"
+    },
+    {
+      "id": "18",
+      "data": "16-05-2017",
+      "contenuto": "<p>Esercitazione su PC con AMPL</p>"
+    },
+    {
+      "id": "17",
+      "data": "10-05-2017",
+      "contenuto": "<p>Linguaggio AMPL: il file .run</p>"
+    },
+    {
+      "id": "16",
+      "data": "09-05-2017",
+      "contenuto": "<p>Esonero prima parte del corso</p>"
+    },
+    {
+      "id": "15",
+      "data": "03-05-2017",
+      "contenuto": "<p>Introduzione al linguaggio AMPL: i file .mod e .dat</p>"
+    },
+    {
+      "id": "14",
+      "data": "26-04-2017",
+      "contenuto": "<p>Esercitazione</p>"
+    },
+    {
+      "id": "13",
+      "data": "19-04-2017",
+      "contenuto": "<p>Esercitazione</p>"
+    },
+    {
+      "id": "12",
+      "data": "12-04-2017",
+      "contenuto": "<p>Esercitazione</p>"
+    },
+    {
+      "id": "11",
+      "data": "11-04-2017",
+      "contenuto": "<p>Algoritmo Primale-Duale</p>"
+    },
+    {
+      "id": "10",
+      "data": "05-04-2017",
+      "contenuto": "<p>Introduzione all'algoritmo Primale-duale</p>"
+    },
+    {
+      "id": "9",
+      "data": "04-04-2017",
+      "contenuto": "<p>Verifica di ottimalit\u00e0 di un punto ammissibile primale attraverso la teoria della dualit\u00e0.</p>"
+    },
+    {
+      "id": "8",
+      "data": "29-03-2017",
+      "contenuto": "<p>Esercitazione sul Simplesso duale. Calcolo della soluzione duale ottima a partire dalla soluzione ottima primale.</p>"
+    },
+    {
+      "id": "7",
+      "data": "28-03-2017",
+      "contenuto": "<p>Il teorema della dualit\u00e0 debole. Il teorema della dualit\u00e0 forte. Il Teorema degli scarti complemantari. Il Simplesso duale.</p>"
+    },
+    {
+      "id": "6",
+      "data": "22-03-2017",
+      "contenuto": "<p>Esercitazione sul metodo del Simplesso in due fasi e introduzione alla teoria della dualit\u00e0.</p>"
+    },
+    {
+      "id": "5",
+      "data": "21-03-2017",
+      "contenuto": "<p>Il metodo del simplesso in due fasi.</p>"
+    },
+    {
+      "id": "4",
+      "data": "15-03-2017",
+      "contenuto": "<p>Il metodo del simplesso</p>"
+    },
+    {
+      "id": "3",
+      "data": "14-03-2017",
+      "contenuto": "<p>Teoria della programmazione lineare. Concetto di soluzione di base e corrispondenza tra vertici della regione ammissibile e soluzioni di base. La programmazione lineare come problema di ottimizzazione combinatoria. Introduzione al metodo del simplesso.</p>"
+    },
+    {
+      "id": "2",
+      "data": "08-03-2017",
+      "contenuto": "<p>Introduzione alla Programmazione Lineare. Variabile decisionale, regione ammisibile, funzione obiettivo.</p>"
+    },
+    {
+      "id": "1",
+      "data": "07-03-2017",
+      "contenuto": "<p>Introduzione alla Ricerca Operativa.</p>"
+    }
+  ],
+  "materiale": [
+    {
+      "titolo": "Voti finali RO",
+      "dataUpload": "06.06.2017 09:57:15",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/RO/Voti_RO_Informatica_Giugno_2017.pdf",
+      "dimensione": "43 KB"
+    },
+    {
+      "titolo": "Voti prova di esonero del 30 maggio 2017",
+      "dataUpload": "30.05.2017 19:46:22",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/RO/Voti_RO_Informatica_30_Maggio_2017.pdf",
+      "dimensione": "42 KB"
+    },
+    {
+      "titolo": "Voti primo esonero",
+      "dataUpload": "17.05.2017 19:10:19",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/RO/Voti_RO_Informatica_9_Maggio_2017.pdf",
+      "dimensione": "38 KB"
+    },
+    {
+      "titolo": "Esercizi su tutto il programma",
+      "dataUpload": "21.03.2017 19:46:36",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/RO/Esercizi_RO.pdf",
+      "dimensione": "196 KB"
+    },
+    {
+      "titolo": "AMPLCPLEX - Versione educational",
+      "dataUpload": "07.03.2017 18:48:53",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/RO/amplcplex.rar",
+      "dimensione": "2241 KB"
+    },
+    {
+      "titolo": "Teoria della dualit\u00e0",
+      "dataUpload": "07.03.2017 18:42:30",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/RO/Lezioni_Teoria_Dualit\u00e0.ppt",
+      "dimensione": "6691 KB"
+    },
+    {
+      "titolo": "Metodo del Simplesso duale e metodo Primale duale",
+      "dataUpload": "07.03.2017 18:40:04",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/RO/Lezioni_Algoritmo_Simplesso_Duale_e_Algoritmo_Primale_Duale.ppt",
+      "dimensione": "802 KB"
+    },
+    {
+      "titolo": "Metodo del Simplesso primale e metodo delle variabili artificiali",
+      "dataUpload": "07.03.2017 18:38:31",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/RO/Lezioni_Algortimo_Simplesso_Primale_e_Variabili_Artificiali.pptx",
+      "dimensione": "10444 KB"
+    },
+    {
+      "titolo": "Teoria della programmazione lineare",
+      "dataUpload": "07.03.2017 18:35:05",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/RO/Lezioni_Teoria_Programmazione_Lineare.pptx",
+      "dimensione": "6140 KB"
+    },
+    {
+      "titolo": "Qui sono contenuti alcuni esempi di formulazione di problemi decisionali in termini di programmazione lineare",
+      "dataUpload": "07.03.2017 18:33:21",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/RO/Lezioni_Esempi_Programmazione_Lineare.pptx",
+      "dimensione": "8559 KB"
+    },
+    {
+      "titolo": "Qui sono contenuti alcuni esempi di formulazione di problemi decisionali in termini di programmazione matematica",
+      "dataUpload": "07.03.2017 18:30:28",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/RO/Lezioni_Introduzione_Formulazione_Problemi_Decisionali.pptx",
+      "dimensione": "2961 KB"
+    }
+  ],
+  "programma": "<table><tr><td><p>Introduzione alla Ricerca Operativa.</p>\n<p>Formulazione di problemi decisionali in termini di programmazione matematica.</p>\n<p>Classificazione dei problemi di programmazione matematica.</p>\n<p>Teoria della programmazione lineare.</p>\n<p>Il metodo del simplesso primale.</p>\n<p>Il metodo delle variabili articificiali.</p>\n<p>Teoria della dualit\u00e0 nella programmazione lineare.</p>\n<p>Il metodo del simplesso duale.</p>\n<p>Il metodo primale-duale.</p>\n<p>Cenni sulla programmazione lineare intera.</p>\n<p>Il linguaggio AMPL.</p>\n<p>La libreria di algoritmi CPLEX.</p></td></tr></table>",
+  "testiRiferimento": "<table><tr><td><p>Caramia M., Giordani S., Guerriero F., Musmanno R., Pacciarelli D., \"Ricerca Operativa\", De Agostini Editore, 2014.</p></td></tr></table>",
+  "ricevimento": "<table><tr><td><p>Il marted\u00ec e il mercoled\u00ec al termine della lezione</p></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td><p>Il corso prevede una prova d'esame scritta e orale</p></td></tr></table>"
+}

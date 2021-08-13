@@ -1,0 +1,41 @@
+{
+  "nomeCorso": "Sistemi distribuiti cooperativi",
+  "docente": [
+    {
+      "first_name": "Franco",
+      "second_name": "Arcieri"
+    }
+  ],
+  "annoAccademico": "2017-2018",
+  "crediti": "9",
+  "settore": "INF/01",
+  "anno": "1",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [
+    {
+      "titolo": "RFC SMTP Aggiornamento del 2008",
+      "dataUpload": "10.06.2018 16:38:26",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/SDC/rfc5321.pdf",
+      "dimensione": "336 KB"
+    },
+    {
+      "titolo": "RFC SMTP",
+      "dataUpload": "10.06.2018 16:36:34",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/SDC/rfc821.pdf",
+      "dimensione": "124 KB"
+    },
+    {
+      "titolo": "Linguaggio golang (https://golang.org)",
+      "dataUpload": "10.06.2018 16:35:04",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/SDC/The Go Programming Language.pdf",
+      "dimensione": "7214 KB"
+    }
+  ],
+  "programma": "<table><tr><td><ul>\n<li><span style=\"color: #454545; font-family: 'Helvetica Neue'; font-size: 12px;\">Architetture SSO: il modello di identit\u00e0 federata FIDO</span></li>\n<li><span style=\"color: #454545; font-family: 'Helvetica Neue'; font-size: 12px;\">I documenti di definizione degli standard su Internet: RFC</span></li>\n<li><span style=\"color: #454545; font-family: 'Helvetica Neue'; font-size: 12px;\">Un esempio di RFC: il Simple mail transfer Protocol</span></li>\n<li><span style=\"color: #454545; font-family: 'Helvetica Neue'; font-size: 12px;\">Estensioni per la sicurezza e l\u2019autenticazione di SMTP</span></li>\n<li><span style=\"color: #454545; font-family: 'Helvetica Neue'; font-size: 12px;\">Un\u2019architettura http per la tracciatura di transazioni complesse, lil modello a Y</span></li>\n<li><span style=\"color: #454545; font-family: 'Helvetica Neue'; font-size: 12px;\">Le estensioni del protocollo HTTPS: SNI</span></li>\n<li><span style=\"color: #454545; font-family: 'Helvetica Neue'; font-size: 12px;\">Il modello a Y in presenza di un application gateway</span></li>\n<li><span style=\"color: #454545; font-family: 'Helvetica Neue'; font-size: 12px;\">Criticit\u00e0 di transazioni elementari: protocollo tcp e protocollo http</span></li>\n<li><span style=\"color: #454545; font-family: 'Helvetica Neue'; font-size: 12px;\">Esercitazioni e laboratorio</span></li>\n<ul>\n<li><span style=\"color: #454545; font-family: 'Helvetica Neue'; font-size: 12px;\">Implementazione in linguaggio go di un\u2019architettura http a Y</span></li>\n</ul>\n</ul></td></tr></table>",
+  "testiRiferimento": "<table><tr><td>null</td></tr></table>",
+  "ricevimento": "<table><tr><td><p>luned\u00ec e mercoled\u00ec, a studio su appuntamento.</p></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td><ul>\n<li style=\"margin: 0px; font-stretch: normal; font-size: 12px; line-height: normal; font-family: 'Helvetica Neue'; color: #454545;\">L\u2019esame prevede un prova ora sui temi tratati nel corso e sulle esercitazione svolte.</li>\n<li style=\"margin: 0px; font-stretch: normal; font-size: 12px; line-height: normal; font-family: 'Helvetica Neue'; color: #454545;\"></li>\n</ul>\n<p>Studenti lavoratori e studenti impossibilitati a seguire le lezioni sono pregati di contattare il docente per avere le dispense aggiornate.</p></td></tr></table>"
+}

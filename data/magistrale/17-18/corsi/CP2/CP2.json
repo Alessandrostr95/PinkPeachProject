@@ -1,0 +1,154 @@
+{
+  "nomeCorso": "Calcolo delle probabilit\u00e0",
+  "docente": [
+    {
+      "first_name": "Antonella",
+      "second_name": "Calzolari"
+    }
+  ],
+  "annoAccademico": "2017-2018",
+  "crediti": "6",
+  "settore": "MAT/06",
+  "anno": "1",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [
+    {
+      "titolo": "",
+      "data": "24-04-2018 14:59",
+      "contenuto": "<p>La lezione di mercoled\u00ec 21 marzo per motivi personali del docente in accordo con la classe \u00e8 stata rinviata a luned\u00ec 26 dalle 14 alle 16.</p>\n<p>\u00a0</p>\n<p>Gli esercizi assegnati per casa si trovano alla pagina</p>\n<p><a href=\"http://www.mat.uniroma2.it/~calzolar/corso_CPinf1718.html\">http://www.mat.uniroma2.it/~calzolar/corso_CPinf1718.html</a></p><hr/>"
+    },
+    {
+      "titolo": "",
+      "data": "14-03-2018 14:41",
+      "contenuto": "<p>Su richiesta dei presenti in aula il primo giorno, la lezione del gioved\u00ec \u00e8 stata spostata al mercoled\u00ec 11.30-13.30.</p>"
+    }
+  ],
+  "lezioni": [
+    {
+      "id": "24",
+      "data": "06-06-2018",
+      "contenuto": "<p>Tasso di rischio. Processi di rinnovo.</p>\n<p>\u00a0</p>"
+    },
+    {
+      "id": "23",
+      "data": "05-06-2018",
+      "contenuto": "<p>Code markoviane a tempo continuo: M/M/infinito e M/M/N.</p>\n<p>Calcolo della funzione di transizione e del suo limite al divergere del tempo.</p>"
+    },
+    {
+      "id": "22",
+      "data": "30-05-2018",
+      "contenuto": "<p>Calcolo della funzione di transizione per la catena a tempo continuo a due stati. Catene di nascita e morte.\u00a0Processi di ramificazione</p>"
+    },
+    {
+      "id": "21",
+      "data": "29-05-2018",
+      "contenuto": "<p>Matrice dei tassi di salto. Dimostrazione delle equazioni differenziali\u00a0soddisfatte dalla funzione di transizione.</p>"
+    },
+    {
+      "id": "20",
+      "data": "23-05-2018",
+      "contenuto": "<p><span style=\"font-family: 'Arial','sans-serif';\"><span style=\"font-size: small;\">Legge dei tempi di salto condizionata al numero degli eventi (senza dimostrazione) e applicazione al calcolo del costo di attesa</span></span></p>\n<p style=\"margin: 0cm 0cm 0pt; line-height: 150%;\"><span style=\"font-family: 'Arial','sans-serif';\"><span style=\"font-size: small;\"><span style=\"font-family: 'Arial','sans-serif';\"><span style=\"font-size: small;\">Dinamica markoviana a tempo continuo: i parametri dei tempi di permanenza negli stati e le probabilit\u00e0 di salto.</span></span></span></span></p>\n<p>\u00a0</p>"
+    },
+    {
+      "id": "19",
+      "data": "22-05-2018",
+      "contenuto": "<p>\u00a0</p>\n<p style=\"margin: 0cm 0cm 0pt; line-height: 150%;\"><span style=\"font-family: 'Arial','sans-serif';\"><span style=\"font-size: small;\">Processo di Poisson non stazionario</span></span></p>\n<p style=\"margin: 0cm 0cm 0pt; line-height: 150%;\">\u00a0</p>\n<p>\u00a0</p>"
+    },
+    {
+      "id": "18",
+      "data": "16-05-2018",
+      "contenuto": "<p><span style=\"font-family: 'Arial','sans-serif';\"><span style=\"font-size: small;\"><span style=\"font-family: 'Arial','sans-serif';\"><span style=\"font-size: small;\">Dimostrazione del merging</span></span><span style=\"font-family: 'Arial','sans-serif';\"><span style=\"font-size: small;\">.\u00a0Problema della scorta. S</span></span>plitting di un processo di Poisson. Coda con infiniti sportelli con tempo di servizio a due <span style=\"mso-spacerun: yes;\">\u00a0</span></span><span style=\"font-size: small;\">valori e flusso di ingresso Poisson. Processo di Poisson composto: definizione e media in un tempo fissato.</span></span></p>"
+    },
+    {
+      "id": "17",
+      "data": "15-05-2018",
+      "contenuto": "<p style=\"margin: 0cm 0cm 0pt; line-height: 150%;\"><span style=\"font-family: 'Arial','sans-serif';\"><span style=\"font-size: small;\">Probabilita` che una variabile esponenziale sia pi\u00f9 piccola di un'altra esponenziale ed indipendente. Indipendenza degli incrementi del processo di Poisson e loro legge.\u00a0Problema della multa. Il processo di Poisson come modello per un flusso di eventi \"rari\". Somma di due processi di Poisson indipendenti (merging).</span></span></p>\n<p style=\"margin: 0cm 0cm 0pt; line-height: 150%;\">\u00a0</p>\n<p><span style=\"font-family: 'Arial','sans-serif';\"><span style=\"font-family: 'Arial','sans-serif';\"></span></span></p>\n<p style=\"margin: 0cm 0cm 0pt; line-height: 150%;\">\u00a0</p>\n<p><span style=\"font-family: 'Arial','sans-serif';\"><span style=\"font-family: 'Arial','sans-serif';\"></span></span></p>\n<p style=\"margin: 0cm 0cm 0pt; line-height: 150%;\">\u00a0</p>\n<p style=\"margin: 0cm 0cm 0pt; line-height: 150%;\">\u00a0</p>"
+    },
+    {
+      "id": "16",
+      "data": "09-05-2018",
+      "contenuto": "<p>\u00a0</p>\n<p style=\"margin: 0cm 0cm 0pt; line-height: 150%;\"><span style=\"font-family: Arial;\"><span style=\"font-size: small;\">Definizione del processo di Poisson, calcolo della funzione di distribuzione di una\u00a0gamma\u00a0e calcolo della legge del processo di Poisson\u00a0in un tempo generico, perdita di memoria del processo di Poisson.</span></span></p>"
+    },
+    {
+      "id": "15",
+      "data": "08-05-2018",
+      "contenuto": "<p>Correzione esercizio per casa.</p>\n<p>Esercizio 4 tra quelli di riepilogo delle Note.</p>"
+    },
+    {
+      "id": "14",
+      "data": "02-05-2018",
+      "contenuto": "<p>Correzione esercizio.</p>\n<p>Dimostrazione dell'unicit\u00e0 del periodo in una catena irriducibile.</p>\n<p>Esercizio 10 e Esercizio 12 delle Note</p>"
+    },
+    {
+      "id": "13",
+      "data": "24-04-2018",
+      "contenuto": "<p>Correzione esercizio.</p>\n<p>Enunciato dei principali risultati sull'ergodicit\u00e0.</p>\n<p>Dimostrazione della condizione sufficiente per la regolarit\u00e0.</p>"
+    },
+    {
+      "id": "12",
+      "data": "18-04-2018",
+      "contenuto": "<p>Correzione esercizio.</p>\n<p>Misure stazionarie: caso catena irriducibile persistente positiva, caso irriducibile a stati finiti, caso nascita e morte irriducibile.</p>\n<p>Esercizio 17 delle note.</p>"
+    },
+    {
+      "id": "11",
+      "data": "17-04-2018",
+      "contenuto": "<p>Correzione esercizio su coda con arrivi e partenza con legge bernoulliana.</p>\n<p>Comportamento asintotico della\u00a0catena\u00a0a 2 stati.</p>\n<p>Misure stazionarie: definizione, caso dinamica bistocastica, nessuna, una o infinite, valore sugli stati transienti(da cui segue che l'esistenza di almeno uno stato persistente \u00e8 CN per l'esistenza).</p>\n<p>\u00a0</p>"
+    },
+    {
+      "id": "10",
+      "data": "11-04-2018",
+      "contenuto": "<p>Correzione esercizio.</p>\n<p>Esercizio 8 delle Note.</p>\n<p>Persistenza e transienza di una catena di nascita e morte con infiniti stati.</p>"
+    },
+    {
+      "id": "9",
+      "data": "10-04-2018",
+      "contenuto": "<p>Correzione esercizio.</p>\n<p>Probabilit\u00e0 di estizione per la catena di nascita e morte con estremi assorbenti.</p>\n<p>Catena del giocatore e probabilit\u00e0 di rovina.</p>\n<p>Tempo medio di assorbimento nella classe di tutti gli stati persistenti in una catena a stati finiti.</p>\n<p>Esercizio 7 delle Note.</p>"
+    },
+    {
+      "id": "8",
+      "data": "04-04-2018",
+      "contenuto": "<p>Correzione esercizio.</p>\n<p>Probabilit\u00e0 di assorbimento.</p>\n<p>Numero dei passaggi per la classe degli stati transienti e uscita certa dalla classe degli stati transienti quando\u00a0sono in numero\u00a0finito.</p>\n<p>Esercizio 3 degli esercizi di riepilogo delle note.</p>"
+    },
+    {
+      "id": "7",
+      "data": "03-04-2018",
+      "contenuto": "<p>Correzione esercizio.</p>\n<p>Tempo di primo passaggio in uno stato.</p>\n<p>Dimostrazione della condizione sufficiente per la transienza di uno stato.</p>\n<p>Condizione sufficiente per la persistenza di uno stato (non dimostrata).</p>\n<p>Classi irriducibili. La classe irriducibile che contiene uno stato persistente e tutti gli stati che con esso comunicano.</p>\n<p>Gli stati delle classi irriducibili finite sono persistenti.</p>\n<p>Decomposizione dello spazio degli stati.</p>\n<p>Nel caso spazio di stato finito, condizione necessaria affinch\u00e9 uno stato sia transiente.</p>"
+    },
+    {
+      "id": "6",
+      "data": "28-03-2018",
+      "contenuto": "<p>Correzione esercizio.</p>\n<p>Dimostrazione Teorema degli infiniti ritorni</p>\n<p>Legge del numero totale di visite ad uno stato.</p>\n<p>Valor medio del numero totale di visite ad uno stato transiente.</p>\n<p>Dimostrazione del fatto che la probabilit\u00e0 di raggiungere in k passi uno stato transiente partendo da uno stato qualsiasi \u00e8 infinitesima in k.\u00a0\u00a0</p>\n<p>Esistenza di almeno uno stato persistente quando lo spazio degli stati \u00e8 finito.\u00a0</p>"
+    },
+    {
+      "id": "5",
+      "data": "27-03-2018",
+      "contenuto": "<p>Correzione esercizio.</p>\n<p>Grafico di una catena.</p>\n<p>Stati comunicanti e classi chiuse.</p>\n<p>Definizione di transienza e persistenza di uno stato.</p>\n<p>Lemma di continuit\u00e0 della misura di probabilit\u00e0</p>"
+    },
+    {
+      "id": "4",
+      "data": "26-03-2018",
+      "contenuto": "<p>Passeggiata aleatoria sugli interi in forma ricorsiva.</p>\n<p>Catena di Ehrenfest.</p>\n<p>Matrice di transizione di una catena in uno e in pi\u00f9 passi.</p>\n<p>Calcolo della legge al tempo generico conoscendo la legge iniziale e la matrice di transizione.</p>\n<p>\u00a0</p>\n<p>\u00a0</p>"
+    },
+    {
+      "id": "3",
+      "data": "20-03-2018",
+      "contenuto": "<p>Richiami su probabilit\u00e0 condizionata di eventi, formula del prodotto e indipendenza di famiglie di eventi e variabili aleatorie.</p>\n<p>Definizione di Catena di Markov a tempo discreto e spazio discreto.</p>"
+    },
+    {
+      "id": "2",
+      "data": "14-03-2018",
+      "contenuto": "<p>II test di autovalutazione con correzione</p>"
+    },
+    {
+      "id": "1",
+      "data": "13-03-2018",
+      "contenuto": "<p>I test di autovalutazione con correzione</p>"
+    }
+  ],
+  "materiale": [],
+  "programma": "<table><tr><td><p>Catene di Markov a tempo discreto e a stati numerabili.</p>\n<p>Processo di Poisson.</p>\n<p>Elementi della teoria dei processi di rinnovo.</p>\n<p>Catene di Markov a tempo continuo.</p></td></tr></table>",
+  "testiRiferimento": "<table><tr><td><p><span style=\"color: #646464; font-family: Arial; font-size: 9pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: IT; mso-fareast-language: IT; mso-bidi-language: AR-SA;\">A.Calzolari, \"Modelli stocastici a valori discreti, Note del corso di CP per la LM in Informatica\" da scaricare da</span></p>\n<p><span style=\"color: #646464; font-family: Arial; font-size: 9pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: IT; mso-fareast-language: IT; mso-bidi-language: AR-SA;\"><a href=\"http://www.mat.uniroma2.it/~calzolar/corso_CPinf1718.html\">http://www.mat.uniroma2.it/~calzolar/corso_CPinf1718.html</a></span></p>\n<p>\u00a0</p>\n<p><span style=\"color: #646464; font-family: Arial; font-size: 9pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: IT; mso-fareast-language: IT; mso-bidi-language: AR-SA;\">H.C.Tijms, \"A First Course in Stochastic Models\"</span></p>\n<p>\u00a0</p>\n<p><span style=\"color: #646464; font-family: Arial; font-size: 9pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: IT; mso-fareast-language: IT; mso-bidi-language: AR-SA;\">P.Baldi, \"Calcolo delle probabilit\u00e0\"</span></p></td></tr></table>",
+  "ricevimento": "<table><tr><td><p>Per appuntamento, marted\u00ec ore 14, in studio</p></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td><p>Esame scritto in due moduli affrontabili\u00a0in una sola prova o\u00a0in due prove separate e con voto che si conserva per un anno a partire dalla prima prova affrontata. Il primo modulo consiste in uno\u00a0 o pi\u00f9 esercizi sulle catene di Markov a tempo discreto, mentre il secondo modulo sostituisce una prova orale e quindi propone quesiti sulla rimanente parte del programma ai quali occorre rispondere in modo discorsivo ma rigoroso. Il voto finale \u00e8 la media dei due voti. Ad ogni appello vengono proposti entrambi i moduli e il tempo assegnato e' 2 ore.</p>\n<p>In accordo con il regolamento del corso di laurea, lo studente potr\u00e0 accedere a 4 dei 6 appelli proposti (2 appelli per ogni sessione) ma\u00a0ad uno solo nelle sessioni autunnali e invernali.</p>\n<p>Ciascun modulo si pu\u00f2 ripetere fino ad un massimo di tre volte.</p>\n<p>\u00a0</p></td></tr></table>"
+}

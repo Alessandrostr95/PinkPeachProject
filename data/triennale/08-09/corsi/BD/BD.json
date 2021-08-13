@@ -1,0 +1,26 @@
+{
+  "nomeCorso": "Basi di dati",
+  "docente": [
+    {
+      "first_name": "Loredana",
+      "second_name": "Vigliano"
+    },
+    {
+      "first_name": "Loredana",
+      "second_name": "Vigliano"
+    }
+  ],
+  "annoAccademico": "2008-2009",
+  "crediti": "6",
+  "settore": "",
+  "anno": "2",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>- Introduzione \r\n- Modello relazionale \r\n- Algebra relazionale \r\n- Calcolo relazionale \r\n- Flusso di progetto e visione dei dati \r\n- Modello concettuale dei dati \r\n- Disegno logico DB \r\nSchema Entity-relationship \r\n- Disegno fisico DB \r\n- Forme normali \r\n- Query language e implementazioni su mySQL \r\nDML \r\nSQL \r\n- Simulazione progetto \r\n- Realizzazione progetto </td></tr></table>",
+  "testiRiferimento": "<table><tr><td>Atzeni, Ceri,Parboschi, Torlone Basi di dati, modelli e linguaggi di interrogazione McGraw-Hill ;\r\nWelling-Thomson MySQL Tutorial (opzionale) ; \r\nlucidi di L. Vigliano presentati a Lezione </td></tr></table>",
+  "ricevimento": "<table><tr><td>previo appuntamento via mail</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

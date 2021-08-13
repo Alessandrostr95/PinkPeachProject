@@ -1,0 +1,353 @@
+{
+  "nomeCorso": "Fondamenti di informatica",
+  "docente": [
+    {
+      "first_name": "Giorgio",
+      "second_name": "Gambosi"
+    },
+    {
+      "first_name": "Miriam",
+      "second_name": "Di Ianni"
+    }
+  ],
+  "annoAccademico": "2019-2020",
+  "crediti": "12",
+  "settore": "INF/01",
+  "anno": "2",
+  "semestre": "1-2",
+  "propedeuticit\u00e0": "Matematica discreta.",
+  "comunicazioni": [
+    {
+      "titolo": "Collegamento Teams appello modulo 1 del 22-9-2020",
+      "data": "31-07-2020 11:07",
+      "contenuto": "<div style=\"font-family: -webkit-standard;\"><a href=\"https://teams.microsoft.com/l/message/19:e017191eb6f144519f1c076eda9333d3@thread.tacv2/1596185503170?tenantId=24c5be2a-d764-40c5-9975-82d08ae47d0e&amp;groupId=83c1dc93-2104-416d-b327-88ce039ef14c&amp;parentMessageId=1596185503170&amp;teamName=DI%20IANNI-8066592-FONDAMENTI_DI_INFORMATICA&amp;channelName=Appelli%20di%20esame%20modulo%201&amp;createdTime=1596185503170\" title=\"https://teams.microsoft.com/l/message/19:e017191eb6f144519f1c076eda9333d3@thread.tacv2/1596185503170?tenantId=24c5be2a-d764-40c5-9975-82d08ae47d0e&amp;groupId=83c1dc93-2104-416d-b327-88ce039ef14c&amp;parentMessageId=1596185503170&amp;teamName=DI%20IANNI-8066592-FONDAMENTI_DI_INFORMATICA&amp;channelName=Appelli%20di%20esame%20modulo%201&amp;createdTime=1596185503170\">Link</a></div>\n<div style=\"font-family: -webkit-standard;\">Aprire in una nuova finestra</div>\n<div style=\"font-family: -webkit-standard;\">\u00a0</div><hr/>"
+    },
+    {
+      "titolo": "Collegamento Teams appello modulo 1 dell'8-9-2020",
+      "data": "31-07-2020 11:02",
+      "contenuto": "<div style=\"font-family: -webkit-standard;\"><a href=\"https://teams.microsoft.com/l/message/19:e017191eb6f144519f1c076eda9333d3@thread.tacv2/1596184788450?tenantId=24c5be2a-d764-40c5-9975-82d08ae47d0e&amp;groupId=83c1dc93-2104-416d-b327-88ce039ef14c&amp;parentMessageId=1596184788450&amp;teamName=DI%20IANNI-8066592-FONDAMENTI_DI_INFORMATICA&amp;channelName=Appelli%20di%20esame%20modulo%201&amp;createdTime=1596184788450\" title=\"https://teams.microsoft.com/l/message/19:e017191eb6f144519f1c076eda9333d3@thread.tacv2/1596184788450?tenantId=24c5be2a-d764-40c5-9975-82d08ae47d0e&amp;groupId=83c1dc93-2104-416d-b327-88ce039ef14c&amp;parentMessageId=1596184788450&amp;teamName=DI%20IANNI-8066592-FONDAMENTI_DI_INFORMATICA&amp;channelName=Appelli%20di%20esame%20modulo%201&amp;createdTime=1596184788450\">Link</a></div>\n<div style=\"font-family: -webkit-standard;\">Aprire in una nuova finestra</div>\n<div style=\"font-family: -webkit-standard;\">\u00a0</div><hr/>"
+    },
+    {
+      "titolo": "Prove di esame modulo 1 - sessione autunnale 2020",
+      "data": "31-07-2020 10:42",
+      "contenuto": "<p><span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Le prove di valutazione per il primo modulo del corso si terranno, in considerazione della situazione epidemiologica, sotto forma di orale, in via telematica. Le date previste sono l'8-9-2020 e il 22-9-2020, in entrambi i casi a partire dalle ore 15. Gli studenti che intendono sostenere le prove possono comunicare il loro interesse utilizzando i form all'indirizzo\u00a0https://forms.gle/BHjX5fWDxLPUDPsGA\u00a0(per l'8-9) e\u00a0</span><span style=\"font-family: verdana, arial, helvetica, sans-serif; font-size: 11px; text-align: justify;\">https://forms.gle/3ijQqzoAnvofovLe9</span><span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0(per il 22-9). Per ognuna delle due date, verr\u00e0 creata una sessione Teams dedicata, cui gli studenti prenotati (e altri che volessero assistere all'esame) saranno invitati.</span></p><hr/>"
+    },
+    {
+      "titolo": "Collegamento Teams appello modulo 1 del 20-7-2020",
+      "data": "02-06-2020 12:13",
+      "contenuto": "<div style=\"font-family: -webkit-standard;\"><a href=\"https://teams.microsoft.com/l/message/19:e017191eb6f144519f1c076eda9333d3@thread.tacv2/1591091203781?tenantId=24c5be2a-d764-40c5-9975-82d08ae47d0e&amp;groupId=83c1dc93-2104-416d-b327-88ce039ef14c&amp;parentMessageId=1591091203781&amp;teamName=DI%20IANNI-8066592-FONDAMENTI_DI_INFORMATICA&amp;channelName=Appelli%20di%20esame%20modulo%201&amp;createdTime=1591091203781\" title=\"https://teams.microsoft.com/l/message/19:e017191eb6f144519f1c076eda9333d3@thread.tacv2/1591091203781?tenantId=24c5be2a-d764-40c5-9975-82d08ae47d0e&amp;groupId=83c1dc93-2104-416d-b327-88ce039ef14c&amp;parentMessageId=1591091203781&amp;teamName=DI%20IANNI-8066592-FONDAMENTI_DI_INFORMATICA&amp;channelName=Appelli%20di%20esame%20modulo%201&amp;createdTime=1591091203781\">Link</a></div>\n<div style=\"font-family: -webkit-standard;\">Aprire in una nuova finestra</div>\n<div style=\"font-family: -webkit-standard;\">\u00a0</div><hr/>"
+    },
+    {
+      "titolo": "Collegamento Teams appello modulo 1 del 26-6-2020",
+      "data": "02-06-2020 12:11",
+      "contenuto": "<div style=\"font-family: -webkit-standard;\"><a href=\"https://teams.microsoft.com/l/message/19:e017191eb6f144519f1c076eda9333d3@thread.tacv2/1591090539043?tenantId=24c5be2a-d764-40c5-9975-82d08ae47d0e&amp;groupId=83c1dc93-2104-416d-b327-88ce039ef14c&amp;parentMessageId=1591090539043&amp;teamName=DI%20IANNI-8066592-FONDAMENTI_DI_INFORMATICA&amp;channelName=Appelli%20di%20esame%20modulo%201&amp;createdTime=1591090539043\" title=\"https://teams.microsoft.com/l/message/19:e017191eb6f144519f1c076eda9333d3@thread.tacv2/1591090539043?tenantId=24c5be2a-d764-40c5-9975-82d08ae47d0e&amp;groupId=83c1dc93-2104-416d-b327-88ce039ef14c&amp;parentMessageId=1591090539043&amp;teamName=DI%20IANNI-8066592-FONDAMENTI_DI_INFORMATICA&amp;channelName=Appelli%20di%20esame%20modulo%201&amp;createdTime=1591090539043\">Link</a></div>\n<div style=\"font-family: -webkit-standard;\">Aprire in una nuova finestra</div>\n<div style=\"font-family: -webkit-standard;\">\u00a0</div><hr/>"
+    },
+    {
+      "titolo": "Prove di esame modulo 1 - sessione estiva 2020",
+      "data": "25-05-2020 12:10",
+      "contenuto": "<p>Le prove di valutazione per il primo modulo del corso si terranno, in considerazione della situazione epidemiologica, sotto forma di orale, in via telematica. Le date previste sono il 26-6-2020 e il 20-7-2020, in entrambi i casi a partire dalle ore 15. Gli studenti che intendono sostenere le prove possono comunicare il loro interesse utilizzando i form all'indirizzo\u00a0https://forms.gle/fTMNA31rmJPvgBkB7 (per il 26-6) e\u00a0https://forms.gle/N6UnJDTr3rjFdT6c9 (per il 20-7). Per ognuna delle due date, verr\u00e0 creata una sessione Teams dedicata, cui gli studenti prenotati (e altri che volessero assistere all'esame) saranno invitati.</p><hr/>"
+    },
+    {
+      "titolo": "Lezioni a distanza modulo 2",
+      "data": "12-03-2020 17:26",
+      "contenuto": "<p>\u00a0</p>\n<p class=\"MsoNormal\" style=\"mso-pagination: none; mso-layout-grid-align: none; text-autospace: none;\"><span style=\"font-family: Helvetica; mso-bidi-font-family: Helvetica;\">Cari ragazzi, a partire dalla prossima settimana inizieremo con le lezioni a distanza.\u00a0Le terremo su Teams (spero vi siate iscritti tutti) il mercoled\u00ec e il gioved\u00ec, come da calendario, per\u00f2 varier\u00f2 l\u2019orario: ci incontreremo (su Teams) alle 18. Questo perch\u00e9 la mattina potrei avere problemi di connessione \u2013 e anche alcuni di voi, che hanno fratelli che seguono lezioni a distanza o genitori in smart working. Spero non vi crei problemi: in caso contrario, fatemelo sapere al pi\u00f9 presto.</span></p>\n<p>\u00a0</p>\n<p class=\"MsoNormal\" style=\"mso-pagination: none; mso-layout-grid-align: none; text-autospace: none;\"><span style=\"font-family: Helvetica; mso-bidi-font-family: Helvetica;\">Le lezioni che prevedo saranno di tipo <strong style=\"mso-bidi-font-weight: normal;\">proattivo</strong>: questo significa che, nella lezione online (che trovate su Teams) <span style=\"mso-spacerun: yes;\">\u00a0</span>vi indicher\u00f2 il materiale delle dispense che dovrete guardare prima dell\u2019incontro su Teams. Pertanto, durante il nostro incontro su Teams (il mercoled\u00ec e il gioved\u00ec alle 18) io mi metter\u00f2 in ascolto e mi porrete domande, chiederete chiarimenti, ecc. Insomma, questi incontri saranno un momento di discussione collettiva.</span></p>\n<p>\u00a0</p>\n<p class=\"MsoNormal\" style=\"mso-pagination: none; mso-layout-grid-align: none; text-autospace: none;\"><span style=\"font-family: Helvetica; mso-bidi-font-family: Helvetica;\">Cercher\u00f2 di fornirvi materiale che sia il pi\u00f9 possibile simile alle lezioni che ascoltereste in aula. Sto preparando del materiale (un power point per ciascuna lezione) e le prime due lezioni sono gi\u00e0 state caricate su Teams.</span></p>\n<p>\u00a0</p>\n<p class=\"MsoNormal\"><span style=\"font-family: Helvetica; mso-bidi-font-family: Helvetica;\">Ricapitolando. Il lavoro sar\u00e0 organizzato come segue: ad ogni lezione power point sar\u00e0 associata una data, e la lezione sar\u00e0 *sempre* disponibile qualche giorno prima di quella data. *Prima* di quella data, dovrete guardare sia la lezione power point che le dispense pdf su questo sito (in ogni lezione indico numero dispensa, paragrafi e pagine da considerare) in modo che alla data della lezione (un mercoled\u00ec o un gioved\u00ec alle 18) apro una sessione teams e *voi* mi fate domande sul materiale che avete guardato.</span></p>\n<p>\u00a0</p>\n<p class=\"MsoNormal\"><span style=\"font-family: Helvetica; mso-bidi-font-family: Helvetica;\">Spero di essere stata chiara. Sono sempre disponibile a mezzo posta elettronica.</span></p>\n<p>\u00a0</p>\n<p></p><hr/>"
+    },
+    {
+      "titolo": "Lezioni 5-11-12 marzo 2020",
+      "data": "04-03-2020 20:40",
+      "contenuto": "<p>In conseguenza del decreto del CdM che sospende le attivit\u00e0 didattiche in tutti gli Atenei fino al 15-3-2020, le lezioni previste per i giorni 5-3, 11-3 e 12-3 sono annullate.</p><hr/>"
+    },
+    {
+      "titolo": "Esame orale 1 modulo del 18-2-2020",
+      "data": "17-02-2020 12:02",
+      "contenuto": "<p>L'esame \u00e8 rimandato alle ore 15 dello stesso giorno, 18-2-2020.</p><hr/>"
+    },
+    {
+      "titolo": "Risultati prova scritta 1 modulo del 13-2-2020",
+      "data": "17-02-2020 00:37",
+      "contenuto": "<p>Pubblicazione dei risultati della prova scritta relativa al 1 modulo del corso, tenuta il 13-2-2020. Si ricorda che la prova orale si terr\u00e0 il 18-2-2020 alle ore 10 nello studio del docente. Si ricorda inoltre che gli studenti che hanno ottenuto la sufficienza (18 o pi\u00f9) allo scritto possono sostenere l\u2019orale o, se preferiscono, mantenere la valutazione ottenuta. Coloro che hanno ottenuto un voto compreso tra 15 e 17 hanno la possibilit\u00e0, se lo desiderano, di sostenere l\u2019orale per tentare di raggiungere la sufficienza. Si pregano gli studenti interessati a sostenere l\u2019orale di comunicarlo inviando una mail al docente all\u2019indirizzo\u00a0giorgio.gambosi@uniroma2.it. In assenza di indicazioni, il voto ottenuto sar\u00e0 comunque memorizzato per tutti gli studenti che hanno ottenuto la sufficienza, al fine della valutazione finale mediante media con il voto ottenuto nel 2 modulo. E\u2019 possibile, in appelli successivi e fino alla verbalizzazione finale, sostenere nuovamente la prova scritta, tenendo presente che ci\u00f2 comporta, in caso di valutazione del relativo elaborato, la perdita del voto gi\u00e0 acquisito.</p><hr/>"
+    },
+    {
+      "titolo": "Risultati prova scritta 1 modulo del 30-1-2020",
+      "data": "02-02-2020 19:29",
+      "contenuto": "<p>Pubblicazione dei risultati della prova scritta relativa al 1 modulo del corso, tenuta il 30-1-2020. Si ricorda che la prova orale si terr\u00e0 il 4-2-2020 alle ore 10 nello studio del docente. Si ricorda inoltre che gli studenti che hanno ottenuto la sufficienza (18 o pi\u00f9) allo scritto possono sostenere l\u2019orale o, se preferiscono, mantenere la valutazione ottenuta. Coloro che hanno ottenuto un voto compreso tra 15 e 17 hanno la possibilit\u00e0, se lo desiderano, di sostenere l\u2019orale per tentare di raggiungere la sufficienza. Si pregano gli studenti interessati a sostenere l\u2019orale di comunicarlo inviando una mail al docente all\u2019indirizzo\u00a0giorgio.gambosi@uniroma2.it. In assenza di indicazioni, il voto ottenuto sar\u00e0 comunque memorizzato per tutti gli studenti che hanno ottenuto la sufficienza, al fine della valutazione finale mediante media con il voto ottenuto nel 2 modulo. E\u2019 possibile, in appelli successivi e fino alla verbalizzazione finale, sostenere nuovamente la prova scritta, tenendo presente che ci\u00f2 comporta, in caso di valutazione del relativo elaborato, la perdita del voto gi\u00e0 acquisito.</p><hr/>"
+    },
+    {
+      "titolo": "Esonero 1 modulo del 13-2-2020",
+      "data": "29-01-2020 17:25",
+      "contenuto": "<p>A correzione della comunicazione precedente, la prova scritta per l'esonero relativo al 1 modulo del corso del 13-2-2020 si svolger\u00e0 in aula G2C alle ore 15.00.\u00a0</p>\n<p>Si invitano gli studenti interessati a sostenere le prove di esonero a comunicarlo all'indirizzo\u00a0<span style=\"font-family: 'Helvetica Neue'; font-size: 12px;\">https://forms.gle/w3t2x4ki3RpxEFHU7</span></p><hr/>"
+    },
+    {
+      "titolo": "Esonero 1 modulo",
+      "data": "21-01-2020 10:28",
+      "contenuto": "<p>Le prove scritte per l'esonero relativo al 1 modulo del corso si terranno il 30-1-2020 e il 13-2-2020 in aula 4PP2 alle ore 15.00. I corrispondenti colloqui orali si svolgeranno il 4-4-2020 e il 18-2-2020 nello studio del docente.</p>\n<p>Si invitano gli studenti interessati a sostenere le prove di esonero ad inviare comunicazione in tal senso via mail all'indirizzo giorgio.gambosi@uniroma2.it</p><hr/>"
+    },
+    {
+      "titolo": "Lezione rimandata",
+      "data": "28-11-2019 08:50",
+      "contenuto": "<p>Per problemi di salute del docente, la lezione prevista per il 28 novembre \u00e8 rimandata a data da definire.</p><hr/>"
+    },
+    {
+      "titolo": "Aula",
+      "data": "17-10-2019 10:11",
+      "contenuto": "<p>A partire da oggi, 17-10, le lezioni del primo modulo del corso si terranno in aula G2C, con il medesimo orario</p><hr/>"
+    },
+    {
+      "titolo": "Lucidi",
+      "data": "16-10-2019 15:14",
+      "contenuto": "<p>Copie dei lucidi utilizzati a lezione sono disponibili a questo <a href=\"https://www.dropbox.com/sh/yd1qikdyk2dfmvw/AACGbUapFvSybnD-gYeQ_X0Ta?dl=0\">indirizzo</a>\u00a0(aprire link in una nuova finestra del browser)</p><hr/>"
+    },
+    {
+      "titolo": "Raccolta esercizi",
+      "data": "16-10-2019 14:31",
+      "contenuto": "<p><span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">A questo <a href=\"https://www.dropbox.com/sh/rcxrmybngyoecje/AABsnpEcGN9kKerTeJtZZqlga?dl=0\">indirizzo</a> \u00e8 disponibile una raccolta di esercizi e di testi di prove di esame (aprire link in una nuova finestra del browser)</span></p>"
+    }
+  ],
+  "lezioni": [
+    {
+      "id": "1",
+      "data": "04-03-2020",
+      "contenuto": "<p>Introduzione al corso. Introduzione alla calcolabilit\u00e0: problemi e istanze, risoluzione automatica di problemi, procedimenti risolutivi, il concetto di \"passo elementare di calcolo\". Introduzione alle macchine di Turing: una macchina di Turing per addizionare due numeri.</p>"
+    }
+  ],
+  "materiale": [
+    {
+      "titolo": "Modulo 2: lezione del 04/06/2020",
+      "dataUpload": "03.06.2020 19:42:29",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/FO/Lezione23.pptx",
+      "dimensione": "4042 KB"
+    },
+    {
+      "titolo": "Modulo 2, Dispensa 6: linguaggi e complessit\u00e0",
+      "dataUpload": "03.06.2020 17:19:49",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/FO/D06LinguaggiEComplessita.pdf",
+      "dimensione": "252 KB"
+    },
+    {
+      "titolo": "Modulo 2: lezione del 28/05/2020",
+      "dataUpload": "28.05.2020 19:36:15",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/FO/Lezione22.pptx",
+      "dimensione": "3143 KB"
+    },
+    {
+      "titolo": "Modulo 2: lezione del 27/05/2020",
+      "dataUpload": "27.05.2020 21:08:51",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/FO/Lezione21.potx",
+      "dimensione": "3085 KB"
+    },
+    {
+      "titolo": "Modulo 2: lezione del 21/05/2020",
+      "dataUpload": "21.05.2020 19:41:38",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/FO/Lezione20.potx",
+      "dimensione": "2891 KB"
+    },
+    {
+      "titolo": "Modulo 2: lezione del 20/05/2020",
+      "dataUpload": "20.05.2020 19:42:57",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/FO/Lezione19.pptx",
+      "dimensione": "5892 KB"
+    },
+    {
+      "titolo": "Modulo 2: lezione del 14/05/2020",
+      "dataUpload": "14.05.2020 19:16:42",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/FO/Lezione18.potx",
+      "dimensione": "4337 KB"
+    },
+    {
+      "titolo": "Modulo 2, Esercizi: la classe P",
+      "dataUpload": "13.05.2020 19:33:15",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/FO/EsClasseP.pdf",
+      "dimensione": "181 KB"
+    },
+    {
+      "titolo": "Modulo 2, Esercizi: la classe NP",
+      "dataUpload": "13.05.2020 19:32:49",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/FO/EsClasseNP.pdf",
+      "dimensione": "267 KB"
+    },
+    {
+      "titolo": "Modulo 2: lezione del 13/05/2020",
+      "dataUpload": "13.05.2020 19:31:01",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/FO/Lezione17.potx",
+      "dimensione": "2194 KB"
+    },
+    {
+      "titolo": "Modulo 2, Dispensa 9: la classe NP",
+      "dataUpload": "08.05.2020 19:38:22",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/FO/D09ClasseNP.pdf",
+      "dimensione": "308 KB"
+    },
+    {
+      "titolo": "Modulo 2, Dispensa 8: la classe P",
+      "dataUpload": "08.05.2020 19:37:46",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/FO/D08ClasseP.pdf",
+      "dimensione": "146 KB"
+    },
+    {
+      "titolo": "Modulo 2: lezione del 07/05/2020",
+      "dataUpload": "07.05.2020 19:35:23",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/FO/Lezione16.potx",
+      "dimensione": "2674 KB"
+    },
+    {
+      "titolo": "Modulo 2: lezione del 06/05/2020",
+      "dataUpload": "06.05.2020 19:44:43",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/FO/Lezione15.pptx",
+      "dimensione": "3529 KB"
+    },
+    {
+      "titolo": "Modulo 2, Dispensa 7: linguaggi e problemi",
+      "dataUpload": "30.04.2020 19:11:10",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/FO/D07LinguaggiEProblemi.pdf",
+      "dimensione": "153 KB"
+    },
+    {
+      "titolo": "Modulo 2: lezione del 30/04/2020",
+      "dataUpload": "30.04.2020 19:08:13",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/FO/Lezione14.pptx",
+      "dimensione": "2139 KB"
+    },
+    {
+      "titolo": "Modulo 2: lezione del 29/04/2020",
+      "dataUpload": "29.04.2020 19:22:45",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/FO/Lezione13.pptx",
+      "dimensione": "2486 KB"
+    },
+    {
+      "titolo": "Modulo 2: lezione del 23/04/2020",
+      "dataUpload": "23.04.2020 19:37:13",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/FO/Lezione12.pptx",
+      "dimensione": "2323 KB"
+    },
+    {
+      "titolo": "Modulo 2: lezione del 22/04/2020",
+      "dataUpload": "22.04.2020 20:58:52",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/FO/Lezione11.pptx",
+      "dimensione": "2381 KB"
+    },
+    {
+      "titolo": "Modulo 2: lezione del 15/04/2020",
+      "dataUpload": "22.04.2020 20:58:13",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/FO/Lezione9.pptx",
+      "dimensione": "771 KB"
+    },
+    {
+      "titolo": "Modulo 2: lezione del 16/04/2020",
+      "dataUpload": "16.04.2020 20:59:58",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/FO/Lezione10.pptx",
+      "dimensione": "1818 KB"
+    },
+    {
+      "titolo": "Modulo 2, Esercizi: linguaggi e complessit\u00e0",
+      "dataUpload": "09.04.2020 19:09:45",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/FO/Es-LinguaggiEComplessita.pdf",
+      "dimensione": "117 KB"
+    },
+    {
+      "titolo": "Modulo 2: lezione del 09/04/2020",
+      "dataUpload": "09.04.2020 19:06:47",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/FO/Lezione8.pptx",
+      "dimensione": "1178 KB"
+    },
+    {
+      "titolo": "Modulo 2: lezione del 08/04/2020",
+      "dataUpload": "02.04.2020 19:18:46",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/FO/Lezione7.pptx",
+      "dimensione": "1375 KB"
+    },
+    {
+      "titolo": "Modulo 2, Dispensa 5:l'Halting Problem",
+      "dataUpload": "02.04.2020 19:17:39",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/FO/D05HaltingProblem.pdf",
+      "dimensione": "130 KB"
+    },
+    {
+      "titolo": "Modulo 2, Dispensa 4: cardinalit\u00e0 del numerabile e numeri transfiniti",
+      "dataUpload": "02.04.2020 19:16:54",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/FO/D04Infinito.pdf",
+      "dimensione": "143 KB"
+    },
+    {
+      "titolo": "Modulo 2: Lezione del 01/04/2020",
+      "dataUpload": "01.04.2020 19:29:45",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/FO/Lezione5.pptx",
+      "dimensione": "2282 KB"
+    },
+    {
+      "titolo": "Modulo 2, Esercizi: decidibilit\u00e0, accettabilit\u00e0, calcolabilit\u00e0",
+      "dataUpload": "27.03.2020 11:28:42",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/FO/EsLinguaggiDecidibili.pdf",
+      "dimensione": "99 KB"
+    },
+    {
+      "titolo": "Modulo 2, Esercizi: macchine di Turing",
+      "dataUpload": "27.03.2020 11:28:17",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/FO/EsMacchineTuring.pdf",
+      "dimensione": "139 KB"
+    },
+    {
+      "titolo": "Modulo 2, Dispensa 3: decidibilit\u00e0, accettabilit\u00e0, calcolabilit\u00e0 e la Tesi di Church-Turing",
+      "dataUpload": "27.03.2020 11:25:31",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/FO/D03TesiDiChurchTuring.pdf",
+      "dimensione": "224 KB"
+    },
+    {
+      "titolo": "Modulo 2: lezione del 02/04/2020",
+      "dataUpload": "27.03.2020 11:22:52",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/FO/Lezione6.pptx",
+      "dimensione": "160 KB"
+    },
+    {
+      "titolo": "Modulo 2: lezione del 26/03/2020",
+      "dataUpload": "27.03.2020 11:21:53",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/FO/Lezione4.pptx",
+      "dimensione": "1159 KB"
+    },
+    {
+      "titolo": "Modulo 2: Lezione del 25/03/2020",
+      "dataUpload": "25.03.2020 20:54:09",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/FO/Lezione3.pptx",
+      "dimensione": "515 KB"
+    },
+    {
+      "titolo": "Modulo 2: Lezione del 19/03/2020",
+      "dataUpload": "25.03.2020 20:53:44",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/FO/Lezione2.pptx",
+      "dimensione": "1002 KB"
+    },
+    {
+      "titolo": "Modulo 2: Lezione del 18/03/2020",
+      "dataUpload": "25.03.2020 20:53:19",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/FO/Lezione1.pptx",
+      "dimensione": "273 KB"
+    },
+    {
+      "titolo": "Modulo 2, Dispensa 2: Introduzione alla calcolabilit\u00e0 Macchine di Turing e macchina di Turing Universale",
+      "dataUpload": "04.03.2020 11:44:17",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/FO/D02MacchineTuring.pdf",
+      "dimensione": "163 KB"
+    },
+    {
+      "titolo": "Modulo 2, Dispensa 1: Introduzione alla calcolabilit\u00e0",
+      "dataUpload": "04.03.2020 11:43:20",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/FO/D01Introduzione.pdf",
+      "dimensione": "179 KB"
+    },
+    {
+      "titolo": "Risultati prova scritta 1 modulo del 13-2-2020",
+      "dataUpload": "17.02.2020 00:42:25",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/FO/risultati130220.pdf",
+      "dimensione": "11 KB"
+    },
+    {
+      "titolo": "Risultati prova scritta 1 modulo del 30-1-2020",
+      "dataUpload": "02.02.2020 19:27:54",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/FO/risultati300120.pdf",
+      "dimensione": "11 KB"
+    }
+  ],
+  "programma": "<table><tr><td><p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"><span style=\"text-decoration: underline;\"><strong>Primo modulo</strong></span></p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Introduzione al corso: algoritmi, problemi, modelli di calcolo</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Caratteristiche elementari dei linguaggi</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Grammatiche di Chomsky e loro gerarchia</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Generazione ed accettazione di linguaggi</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Riconoscimento di linguaggi: automi</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Automi a stati finiti determinitici e non deterministici; equivalenza tra essi</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Relazioni tra automi a stati finiti e grammatiche di tipo 3 (regolari)</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Pumping lemma per i linguaggi regolari</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Propriet\u00e0 di chiusura dei linguaggi regolari</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Predicati decidibili sui linguaggi regolari</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Espressioni regolari e loro equivalenza con gli automi a stati finiti e con le grammatiche regolari</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Minimizzazione di automi a stati finiti</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Linguaggi context free</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Grammatiche di tipo 2: forme ridotte e forme normali (Chomsky, Greibach)</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Propriet\u00e0 di chiusura dei linguaggi CF</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Decidibilit\u00e0 di predicati su linguaggi CF</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Pumping lemma per i linguaggi context free</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Automi a pila e linguaggi context free</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Automi a pila deterministici</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Ambiguit\u00e0 e sua indecidibilit\u00e0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- L'algoritmo CYK</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Analisi sintattica in un compilatore, linguaggi LL(k) e LR(k) (cenni)</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"><span style=\"text-decoration: underline;\"><strong>Secondo modulo</strong></span></p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"><strong>Parte 1, calcolabilit\u00e0:</strong></p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Ancora sulle Macchine di Turing: trasduttori e riconoscitori, Macchine ad un nastro e a k nastri, Macchine\u00a0 deterministiche e non deterministiche. Macchina di Turing universale.\u00a0<br>- Linguaggi e funzioni. Linguaggi e linguaggi complemento. Accettabilit\u00e0 e decidibilit\u00e0 di linguaggi. Calcolabilit\u00e0 di funzioni. La tesi di Church-Turing e modello di calcolo equivalenti alla macchina di Turing.</br></p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Cardinalit\u00e0 di insiemi. Insiemi numerabili e non numerabili. Diagonalizzazione.<br>- Linguaggi non decidibili.\u00a0</br></p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Riducibilit\u00e0 tra linguaggi</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"><strong>Parte 2, complessit\u00e0:</strong></p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Misure di complessit\u00e0: DTIME, DSPACE, NTIME, NSPACE.\u00a0<br>- Classi di linguaggi. Gap theorem e funzioni time-constructible.\u00a0Teoremi di compressione e di accelerazione.\u00a0Definizione delle classi di complessit\u00e0 spaziale e temporale: P, NP, PSPACE, NPSPACE, EXP, coNP. Inclusione, inclusione propria, coincidenza. Completezza.</br></p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Problemi e codifiche. Problemi decisionali e loro complemento.\u00a0<br>- La classe P. Riducibilit\u00e0 polinomiale e chiusura di P rispetto alla riducibilit\u00e0 polinomiale. Problemi in P: 2-SAT, 2-COLORABILITA'. Funzioni in FP: trasformazione di una funzione booleana in forma congiuntiva normale.\u00a0<br>- La classe NP. Linguaggi NP-completi e Teorema di Cook. Chiusura rispetto alla riduzione polinomiale. Esempi di dimostrazioni di NP-completezza: 3-SAT, Vertex Cover, 3-Colorability, Colorability, Independent Set, Clique, Hamiltonian Circuit/Path, Longest Path, Commesso Viaggiatore. Problemi NP-intermedi: il teorema di Ladner.</br></br></p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Algoritmi pseudo-polinomiali, problemi numerici e NP-completezza in senso forte; il problema PARTIZIONE.</p>\n<p>\u00a0</p></td></tr></table>",
+  "testiRiferimento": "<table><tr><td><p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"><strong>Modulo 1</strong></p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">G. Ausiello, F. D'Amore, G. Gambosi, L. Laura \"Linguaggi, Modelli, Complessit\u00e0\" nuova edizione. Franco Angeli, 2014. ISBN 978-88-917-0553-2.</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"><strong>Modulo 2</strong></p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Dispense a cura del docente, disponibili in questa pagina.</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Per consultazione: il testo utilizzato nel modulo 1.</p></td></tr></table>",
+  "ricevimento": "<table><tr><td><p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"><strong>Modulo 1</strong></p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Al termine delle lezioni. E' possibile inoltre richiedere un appuntamento via mail.</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p><span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"><strong>Modulo 2<br/></strong></span></p>\n<p>\u00a0</p>\n<p><span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Al termine della lezione del mercoled\u00ec. E' possibile (e preferibile) richiedere un appuntamento via mail.</span></p></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td><p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p class=\"MsoNormal\"><strong><span style=\"color: black; mso-themecolor: text1;\">Nuove modalit\u00e0 di esame adottate </span><span style=\"color: black; mso-themecolor: text1;\"><span style=\"color: black; mso-themecolor: text1;\">per il modulo 2 </span>a seguito dell\u2019emergenza COVID-19.</span></strong></p>\n<p>\u00a0</p>\n<p class=\"MsoNormal\"><span style=\"color: black; mso-themecolor: text1;\">A causa della nota emergenza coronavirus, gli esami verranno svolti in modalit\u00e0 telematica a<span style=\"mso-spacerun: yes;\">\u00a0 </span>mezzo Teams. </span></p>\n<p>\u00a0</p>\n<p class=\"MsoNormal\"><span style=\"color: black; mso-themecolor: text1;\">Per partecipare ad un appello, <strong>\u00e8 assolutamente necessario prenotarsi su delphi</strong>.</span></p>\n<p>\u00a0</p>\n<p class=\"MsoNormal\"><span style=\"color: black; mso-themecolor: text1;\">Ciascun appello consister\u00e0 di una prova scritta seguita da una prova orale e sar\u00e0 strutturato come di seguito descritto:</span></p>\n<p class=\"MsoListParagraphCxSpFirst\" style=\"text-indent: -18.0pt; mso-list: l0 level1 lfo1;\"><span style=\"mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: black; mso-themecolor: text1;\"><span style=\"mso-list: Ignore;\">1)<span style=\"font: 7.0pt 'Times New Roman';\">\u00a0\u00a0\u00a0 </span></span></span><span style=\"color: black; mso-themecolor: text1;\">PROVA SCRITTA: si tratta di una serie di domande a risposte multiple; la durata della prova sar\u00e0 di 10/15 minuti (pu\u00f2 variare da appello ad appello, dipendentemente dal numero e dalla complessit\u00e0 delle domande). Gli studenti che non conseguiranno un punteggio sufficiente (che sar\u00e0 comunicato prima dell\u2019inizio della prova) non saranno ammessi alla prova orale.</span></p>\n<p class=\"MsoNormal\"><span style=\"mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: black; mso-themecolor: text1;\"><span style=\"mso-list: Ignore;\">2)<span style=\"font: 7.0pt 'Times New Roman';\">\u00a0\u00a0\u00a0 </span></span></span><span style=\"color: black; mso-themecolor: text1;\">PROVA ORALE: obbligatoria per poter superare l\u2019esame corrispondente al modulo 2.</span></p>\n<p class=\"MsoNormal\">\u00a0</p>\n<p class=\"MsoNormal\"><span style=\"color: black; mso-themecolor: text1;\">PRIMA DELL\u2019INIZIO DELLA PROVA SCRITTA E DELLA PROVA ORALE: alla data e all\u2019ora prevista per l\u2019esame, gli studenti che intendono partecipare alla prova dovranno collegarsi su Teams (ove verr\u00e0 predisposto un canale della classe Fondamenti di Informatica), attivare videocamera e microfono e, quando richiesto dal docente, mostrare il proprio documento di riconoscimento.</span></p>\n<p>\u00a0</p>\n<p class=\"MsoNormal\"><span style=\"color: black; mso-themecolor: text1;\">\u00a0</span><strong><span style=\"color: black; mso-themecolor: text1;\">Videocamera e microfono dovranno rimanere attivi per tutta la durata della prova scritta, e il viso dello studente dovr\u00e0 essere inquadrato per tutta la durata della prova.</span></strong></p>\n<p class=\"MsoNormal\">\u00a0</p>\n<p class=\"MsoNormal\"><strong><span style=\"color: black; mso-themecolor: text1;\">LA PROVA ORALE AVRA' INIZIO NON APPENA TERMINATA LA PROVA SCRITTA. Dipendentemente dal numero di studenti, potr\u00e0 proseguire anche nei giorni successivi.</span></strong></p>\n<p class=\"MsoNormal\">\u00a0</p>\n<p>\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<hr>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<hr>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"><strong>Modalit\u00e0 di esame in vigore <span style=\"text-decoration: underline;\">prima</span> dell'emergenza COVID-19</strong></p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">L'esame prevede una coppia di prove (scritto e colloquio orale) relative al primo modulo e una coppia di prove (scritto e colloquio orale) relative al secondo modulo. Ciascuna coppia di prove pu\u00f2 essere sostenuta indipendentemente dall'altra. Si richiede per\u00f2 che scritto e orale di ciascun modulo siano sostenuti nello stesso appello. Il voto finale verr\u00e0 calcolato come media dei voti conseguiti nelle prove relative ai due moduli. Per l'iscrizione all'esame \u00e8 richiesta la prenotazione sul sito delphi.uniroma2.it</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Sono previsti per il corso di Fondamenti di Informatica due appelli di esame per ciascuna sessione. Tuttavia, per ognuno dei due moduli ciascuno studente potr\u00e0 sostenere un numero massimo di quattro prove di esame nel corso di un anno accademico. In particolare, potr\u00e0 sostenere l'esame relativo ad un modulo in entrambi gli appelli della sessione immediatamente successiva al termine delle lezioni del modulo stesso. Per quanto riguarda le altre sessioni, le date a disposizione saranno due, ma lo studente potr\u00e0 sostenere l'esame in una sola delle due date.</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Nel dettaglio:</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Modulo 1:</p>\n<ul style=\"font-family: verdana, arial, helvetica, sans-serif; font-size: 11px;\">\n<li>due appelli di esame a disposizione nella sessione estiva anticipata (febbraio) - ciascuno studente pu\u00f2 sostenere l'esame in entrambi gli appelli</li>\n<li>due appelli di esame a disposizione nella sessione estiva (giugno) - ciascuno studente pu\u00f2 sostenere l'esame in un solo appello a sua scelta</li>\n<li>due appelli di esame a disposizione nella sessione autunnale (settembre) - ciascuno studente pu\u00f2 sostenere l'esame in un solo appello a sua scelta</li>\n</ul>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Modulo 2:</p>\n<ul style=\"font-family: verdana, arial, helvetica, sans-serif; font-size: 11px;\">\n<li>due appelli di esame a disposizione nella sessione estiva (giugno) - ciascuno studente pu\u00f2 sostenere l'esame in entrambi gli appelli</li>\n<li>due appelli di esame a disposizione nella sessione autunnale (settembre) - ciascuno studente pu\u00f2 sostenere l'esame in un solo appello a sua scelta</li>\n<li>due appelli di esame a disposizione nella sessione invernale (febbraio) - ciascuno studente pu\u00f2 sostenere l'esame in un solo appello a sua scelta</li>\n</ul>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"><strong>Informazioni specifiche alla prova di esame per il 1 modulo</strong></p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"><strong><br/></strong>La prova scritta di esame prevede l'assegnazione di un punteggio compreso tra 0 e 33. Gli studenti che otterranno un punteggio maggiore o uguale a 18 potranno, se vorranno, mantenere tale punteggio come voto per il modulo (30 e lode se il punteggio \u00e8 maggiore di 30), non sostenendo la prova orale. Gli studenti con punteggio della prova scritta pari a 15, 16 o 17 dovranno necessariamente, per superare l'esame, sostenere la prova orale e raggiungere, nella valutazione scritto+orale, la sufficienza. Si invitano gli studenti a prenotarsi per l'esame inviando una mail cono Nome, Cognome e Matricola al docente, all'indirizzo giorgio.gambosi@uniroma2.it ; inoltre, se \u00e8 gi\u00e0 stato superato l'esame relativo al secondo modulo, si invita a prenotarsi sul sito delphi.uniroma2.it, per l'eventuale verbalizzazione finale.</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"><strong>Informazioni specifiche alla prova di esame per il 2 modulo</strong></p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"><strong><br/></strong><span style=\"text-decoration: underline;\">Per sostenere l'esame \u00e8 necessario prenotarsi sul sito delphi.uniroma2.it.</span></p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">La prova scritta di esame prevede l'assegnazione di un punteggio compreso tra 0 e 30. Gli studenti che otterranno un punteggio compreso fra 18 e 24 potranno, se vorranno, mantenere tale punteggio come voto per il modulo, non sostenendo la prova orale. Gli studenti che otterranno un punteggio compreso fra 25 e 30 potranno, se vorranno, avere riconosciuto il voto 24, non sostenendo la prova orale. In entrambi i casi, gli studenti hanno facolt\u00e0 di sostenere la prova orale se intendono provare ad incrementare il voto.</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Infine, gli studenti con punteggio della prova scritta pari a 15, 16 o 17 dovranno necessariamente, per superare l'esame, sostenere la prova orale e raggiungere, nella valutazione scritto+orale, la sufficienza.</p></hr></hr></td></tr></table>"
+}

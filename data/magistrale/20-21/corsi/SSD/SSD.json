@@ -1,6 +1,11 @@
 {
   "nomeCorso": "Sistemi di simulazione distribuita",
-  "docente": "Andrea D'Ambrogio",
+  "docente": [
+    {
+      "first_name": "Andrea",
+      "second_name": "D'Ambrogio"
+    }
+  ],
   "annoAccademico": "2020-2021",
   "crediti": "6",
   "settore": "ING-INF/05",
@@ -10,8 +15,8 @@
   "comunicazioni": [],
   "lezioni": [],
   "materiale": [],
-  "programma": "null",
-  "testiRiferimento": "null",
-  "ricevimento": "null",
-  "modalit\u00e0Esame": "null"
+  "programma": "<table><tr><td>null</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>null</td></tr></table>",
+  "ricevimento": "<table><tr><td>null</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
 }

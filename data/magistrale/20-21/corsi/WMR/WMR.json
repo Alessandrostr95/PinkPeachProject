@@ -1,6 +1,11 @@
 {
   "nomeCorso": "Web mining and retrieval",
-  "docente": "Roberto Basili",
+  "docente": [
+    {
+      "first_name": "Roberto",
+      "second_name": "Basili"
+    }
+  ],
   "annoAccademico": "2020-2021",
   "crediti": "9",
   "settore": "INF-ING/05",
@@ -11,13 +16,13 @@
     {
       "titolo": "",
       "data": "08-03-2021 10:39",
-      "contenuto": "La pagina Web del Corso \u00e8 all'indirizzo:\nhttp://sag.art.uniroma2.it/didattica/basili/WmIR_20_21/\n\nLa prima lezione del Corso si terr\u00e0 su MS Teams alle ore 14:00 dell'8 Marzo 2021."
+      "contenuto": "<p>La pagina Web del Corso \u00e8 all'indirizzo:</p>\n<p><a href=\"http://sag.art.uniroma2.it/didattica/basili/WmIR_20_21/\" target=\"_self\" title=\"Pagina Web del Corso e inizio delle lezioni\">http://sag.art.uniroma2.it/didattica/basili/WmIR_20_21/</a></p>\n<p>\u00a0</p>\n<p>La prima lezione del Corso si terr\u00e0 su MS Teams alle ore 14:00 dell'8 Marzo 2021.</p>\n<p>\u00a0</p>"
     }
   ],
   "lezioni": [],
   "materiale": [],
-  "programma": "null",
-  "testiRiferimento": "null",
-  "ricevimento": "null",
-  "modalit\u00e0Esame": "null"
+  "programma": "<table><tr><td>null</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>null</td></tr></table>",
+  "ricevimento": "<table><tr><td>null</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
 }

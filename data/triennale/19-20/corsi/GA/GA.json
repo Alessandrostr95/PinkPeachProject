@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Geometria ed algebra",
+  "docente": [
+    {
+      "first_name": "Filippo",
+      "second_name": "Bracci"
+    }
+  ],
+  "annoAccademico": "2019-2020",
+  "crediti": "6",
+  "settore": "MAT/03",
+  "anno": "1",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td><p><a href=\"https://www.mat.uniroma2.it/~fbracci/\" target=\"_blank\" title=\"bracci\">https://www.mat.uniroma2.it/~fbracci/</a></p></td></tr></table>",
+  "testiRiferimento": "<table><tr><td><p><a href=\"https://www.mat.uniroma2.it/~fbracci/\" target=\"_blank\" title=\"bracci\">https://www.mat.uniroma2.it/~fbracci/</a></p></td></tr></table>",
+  "ricevimento": "<table><tr><td><p>null</p></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

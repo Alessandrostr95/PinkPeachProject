@@ -1,0 +1,171 @@
+{
+  "nomeCorso": "Algoritmi distribuiti e reti complesse",
+  "docente": [
+    {
+      "first_name": "Andrea",
+      "second_name": "Clementi"
+    },
+    {
+      "first_name": "Luca",
+      "second_name": "Trevisan"
+    }
+  ],
+  "annoAccademico": "2017-2018",
+  "crediti": "9",
+  "settore": "INF/01",
+  "anno": "1",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [
+    {
+      "titolo": "APPELLI DI SETTEMBRE",
+      "data": "07-09-2018 12:36",
+      "contenuto": "<p>SI AVVISANO tutti gli studenti interessati che e' possibile da oggi prenotarsi su delphi per gli appelli autunnali.</p>\n<p>SI RICHIEDE cortesemente ad ogni studente interessato di inviare a clementi@mat.uniroma2.it \u00a0una email \u00a0in cui si specifica *quali* moduli intende fare nell'appello da lui prenotato.</p>\n<p>\u00a0</p><hr/>"
+    },
+    {
+      "titolo": "MODULO I:  APPELLO DI GIUGNO 2018",
+      "data": "14-06-2018 19:12",
+      "contenuto": "<p>Scusandomi per la situazione, informo gli studenti interessati che potranno svolgere la prova di esame relatica al I modulo del corso\u00a0</p>\n<p>il giorno martedi 19-06-2018 alle ore 15.00 nel mio uffcio a SOGENE. Prego gli studenti interessati di inviarmi una email entro domenica per prenotare l'esame. Inoltre li invito a seguire questo sito nei prossimi giorni per eventuali comunicazioni sulla\u00a0 situazione medica.\u00a0</p>\n<p>Andrea Clementi\u00a0</p><hr/>"
+    },
+    {
+      "titolo": "CAMBIAMENTO AULA MOD. III",
+      "data": "06-06-2018 14:32",
+      "contenuto": "<p>Si informa che la\u00a0 lezionie di\u00a0 gioved\u00ec 07/06 del prof Trevisan avra' luogo\u00a0 dalle 17.15 alle 18.30 in AULA T5.</p>\n<p>\u00a0</p><hr/>"
+    },
+    {
+      "titolo": "III modulo: SITO WEB",
+      "data": "03-05-2018 16:51",
+      "contenuto": "<p>Il prof. Trevisan ha aperto un sito relativo al modulo di ADRC che insegnera' in cui si possono trovare tutte le informazioni ed il materiale didattico relativi al suddetto modulo. Il sito e' :</p>\n<p>\u00a0</p>\n<p><a href=\"https://people.eecs.berkeley.edu/~luca/bwca18/\" rel=\"noreferrer\" style=\"color: #0186ba; font-family: monospace; font-size: 12px; text-size-adjust: auto;\" target=\"_blank\">https://people.eecs.berkeley.edu/~luca/bwca18/</a></p><hr/>"
+    },
+    {
+      "titolo": "III MODULO: PROF. TREVISAN II",
+      "data": "10-04-2018 11:49",
+      "contenuto": "<p>Si informano gli studenti che il modulo del Prof. Trevisan di ADRC avra' inizio GIOVEDI 17 MAGGIO\u00a0\u00a0</p>\n<p>con i seguenti orario E luogo:</p>\n<p>\u00a0</p>\n<p><span style=\"color: #333333; font-family: monospace; font-size: 12px; text-size-adjust: auto; white-space: nowrap;\">-\u00a0Luned\u00ec\u00a011/13\u00a0aula\u00a07PP2;</span><br style=\"color: #333333; font-family: monospace; font-size: 12px; text-size-adjust: auto;\"><span style=\"color: #333333; font-family: monospace; font-size: 12px; text-size-adjust: auto; white-space: nowrap;\">-\u00a0Gioved\u00ec\u00a017/19\u00a0aula\u00a07.</span></br></p>\n<p>\u00a0</p>\n<p>\u00a0</p>\n<p>\u00a0</p>\n<p>\u00a0</p>\n<p>\u00a0</p>\n<p>NOTA IMPORTANTE: Si informano gli\u00a0 studenti del II anno o fuoricorso che, al fine di non creare problemi di collisione con i corsi del II anno, essi\u00a0 *possono* anche portare come programma di esame quello dello scorso anno accademico che non prevede il modulo del Prof. Trevisan. E' sufficiente comunicarlo via email al Prof. Clementi o in sede di esame.</p><hr/>"
+    },
+    {
+      "titolo": "ESITO ESONERO DEL 01/2018",
+      "data": "15-01-2018 11:33",
+      "contenuto": "<p>RISULTATI ESONERO</p>\n<p>(Gli studenti che hanno consegnato il compito ma</p>\n<p>che non appaiono in questa lista hanno riportato un risultato non sufficiente)</p>\n<p>\u00a0</p>\n<p>MATRICOLA/NOME/NICKNAME\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 SCORE</p>\n<p>\u00a0</p>\n<p>0217260 ...............................\u00a0\u00a0\u00a0 18/30</p>\n<p>\u00a0</p>\n<p>0246425 ................................\u00a0\u00a0 28/30</p>\n<p>\u00a0</p>\n<p>BONAVITA D. ........................\u00a0\u00a0\u00a0\u00a0 25/30</p>\n<p>\u00a0</p>\n<p>0258412\u00a0\u00a0\u00a0\u00a0 ..........................\u00a0\u00a0\u00a0\u00a0\u00a0 20/30</p>\n<p>\u00a0</p>\n<p>0202133\u00a0\u00a0\u00a0 ...........................\u00a0\u00a0\u00a0\u00a0 18/30</p>\n<p>\u00a0</p>\n<p>\u00a0</p>\n<p>\u00a0</p>\n<p>\u00a0</p><hr/>"
+    },
+    {
+      "titolo": "ESONERO 11/01/18",
+      "data": "11-01-2018 10:25",
+      "contenuto": "<p>L'esonero avra' luogo alle ore 14.30 in aula 7. Si pregano gli studenti\u00a0 di arrivare 10 minuti prima per effettuare le operazioni iniziali in anticipo.</p>\n<p>\u00a0</p>\n<p>\u00a0</p><hr/>"
+    },
+    {
+      "titolo": "KOLMOGOROV MEETS TURING 2017",
+      "data": "16-11-2017 11:28",
+      "contenuto": "<p><span style=\"color: #000000; font-family: -webkit-standard; font-size: medium; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-left; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: #ffffff; display: inline !important; float: none;\">Per gli studenti della LM che vogliono farsi un'idea delle applicazioni pi\u00f9 avanzate dei metodi ed degli algoritmi probabilistici in Computer Science, c'e' un'ottima occasione a ROMA 3. La partecipazione e' gratuita ma, chi decide di venire, e' cortesemente pregato di inviare una email ad Andrea Clementi.\u00a0 Friday December 1st 2017, Roma Tre University</span></p>\n<div style=\"color: #000000; font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-left; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\"><br>\n<div><strong>\u00a0</strong></div>\n<div><strong>Kolmogorov meets Turing 4th edition</strong>,\u00a0</div>\n</br></div>\n<div style=\"color: #000000; font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-left; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\">a workshop on probabilistic methods for the analysis of stochastic processes and randomized algorithms.</div>\n<div style=\"color: #000000; font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-left; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\">\u00a0</div>\n<div style=\"color: #000000; font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-left; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\">\u00a0</div>\n<div style=\"color: #000000; font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-left; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\">Link:<span class=\"Apple-converted-space\">\u00a0</span><a href=\"http://www.mat.uniroma3.it/users/caputo/kmt2017.html\" target=\"_blank\" title=\"This external link will open in a new window\">http://www.mat.uniroma3.it/users/caputo/kmt2017.html</a></div>\n<div style=\"color: #000000; font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-left; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\">\u00a0</div>\n<div style=\"color: #000000; font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-left; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\">\u00a0</div>\n<div style=\"color: #000000; font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-left; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\">*********************************</div>\n<div style=\"color: #000000; font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-left; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\">Aula F, Dipartimento di Matematica e Fisica, Roma Tre</div>\n<div style=\"color: #000000; font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-left; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\">Largo S. Murialdo 1, 00146 Roma</div>\n<div style=\"color: #000000; font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-left; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\">\u00a0</div>\n<div style=\"color: #000000; font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-left; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\"><span style=\"color: #000000; font-family: Helvetica, Arial, sans-serif;\">\u00a0</span></div>\n<div style=\"color: #000000; font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-left; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\"><span style=\"color: #000000; font-family: Helvetica, Arial, sans-serif;\">14:30-15:20\u00a0</span></div>\n<div style=\"color: #000000; font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-left; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\"><span style=\"color: #000000; font-family: Helvetica,Arial,sans-serif;\">Chris Schwiegelshohn</span><span style=\"color: #000000; font-family: Helvetica, Arial, sans-serif;\">\u00a0</span></div>\n<div style=\"color: #000000; font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-left; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\"><em style=\"color: #000000; font-family: Helvetica, Arial, sans-serif;\">PCA for k-means: Preserving Cost, Clusters, And Beyond</em><span style=\"color: #000000; font-family: Helvetica, Arial, sans-serif;\">\u00a0</span></div>\n<div style=\"color: #000000; font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-left; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\">\n<h4 style=\"font-family: Helvetica, Arial, sans-serif;\"><span style=\"font-weight: normal;\"><span style=\"color: #000000;\"><br>15:25-16:15\u00a0<br><span style=\"color: #000000;\">Marco Scarsini</span>\u00a0<br><em>When is selfish routing bad? The price of anarchy in light and heavy traffic.\u00a0</em><br><br><br><a name=\"C\" target=\"_blank\" title=\"This external link will open in a new window\"></a>16:20-16:45 Coffe break\u00a0<br><br><br/>16:45-17:35\u00a0<br/>Francesco Pasquale\u00a0<br/><em>Rationality and Randomness.\u00a0</em><br/><br/><br/>17:40-18:30\u00a0<br/>Alexandre Stauffer\u00a0<br/><em>Multi-particle diffusion limited aggregation. </em></br></br></br></br></br></br></br></br></span></span></h4>\n</div>"
+    }
+  ],
+  "lezioni": [
+    {
+      "id": "18",
+      "data": "07-12-2017",
+      "contenuto": "<p>La dinamica del 3 majority</p>\n<p>Analisi in media del suo tempo di completamento</p>"
+    },
+    {
+      "id": "17",
+      "data": "04-12-2017",
+      "contenuto": "<p>Il modello Gossip</p>\n<p>Il problema del consenso binario</p>\n<p>Dinamiche di consenso</p>\n<p>il voter model</p>\n<p>Analisi in media del voter model</p>"
+    },
+    {
+      "id": "16",
+      "data": "30-11-2017",
+      "contenuto": "<p>Modifica del\u00a0 \u00a0 protocollo select ed analisi corretta</p>\n<p>Risultato negativo: il lower bound deterministico (senza prova)</p>\n<p>l'analisi del protocollo BGI randomizzato</p>\n<p>IL gap esponenziale</p>"
+    },
+    {
+      "id": "15",
+      "data": "27-11-2017",
+      "contenuto": "<p>Protocolli di Broadcast per Radio Networks efficienti nel caso di reti sparse.</p>\n<p>Le famiglie selettive</p>\n<p>Il protocollo di Broadcast basato sulle famiglie selettive</p>\n<p>Una prima analisi che non funziona</p>"
+    },
+    {
+      "id": "14",
+      "data": "23-11-2017",
+      "contenuto": "<p>IL protocollo Round Robin con D e/o n sconosciuti: indovinare i parametri in modo efficiente (ricerca binaria)</p>\n<p>Analisi del completamento e delle terminazione</p>\n<p>\u00a0</p>\n<p>Aspetti negativi del Round Robin</p>"
+    },
+    {
+      "id": "13",
+      "data": "20-11-2017",
+      "contenuto": "<p>Analisi della correttezza, convergenza e\u00a0 terminazione del protocollo</p>\n<p>Round Robin.</p>\n<p>Assunzioni sulla conoscenza dei parametri iniziali D e N della rete.</p>\n<p>Analisi del tempo di completamento e del numero di trasmissioni/lavoro di un nodo</p>"
+    },
+    {
+      "id": "12",
+      "data": "16-11-2017",
+      "contenuto": "<p>IL problema del Broodcast sulle Radio Networks.</p>\n<p>Risultati negativi per il protocollo Flooding</p>\n<p>Un primo algoritmo basato sul Round Robin</p>"
+    },
+    {
+      "id": "11",
+      "data": "13-11-2017",
+      "contenuto": "<p>IL Modello Radio Networks: Introduzione, esempi, il problema dell'Interferenza.</p>\n<p>Differenze con il modello link-based</p>"
+    },
+    {
+      "id": "10",
+      "data": "09-11-2017",
+      "contenuto": "<p>La Leader Election su un anello:</p>\n<p>La tecnica ''Controlled Distance'' in fasi</p>\n<p>Il protocollo Controlled Distance</p>\n<p>Correttezza e msg complexity</p>\n<p>Un semplice protocollo per Meshes</p>\n<p>Considerazioni finali per la Leader Election</p>"
+    },
+    {
+      "id": "9",
+      "data": "06-11-2017",
+      "contenuto": "<p>Il problema dell'elezione di un Leader</p>\n<p>Condizioni Iniziali</p>\n<p>Risultati di impossibilita'</p>\n<p>Condizione: Unique IDs</p>\n<p>Schemi di p\u00ecrotocolli per topologie\u00a0 generali</p>\n<p>Leader Election su anelli</p>\n<p>Due protocolli semplici ma non ottimali: All-to-All e All-to-All modificato</p>\n<p>Analisi della correttezza e msg complexity</p>"
+    },
+    {
+      "id": "8",
+      "data": "02-11-2017",
+      "contenuto": "<p>Il problema della DFS in distribuito</p>\n<p>condizioni iniziali</p>\n<p>Un protocollo di Traversal strettamente sequenziale</p>\n<p>Una sua variante ''parallela''</p>\n<p>Correttezza e Msg complexity</p>\n<p>Considerazioni nel caso Multiple Inititators</p>"
+    },
+    {
+      "id": "7",
+      "data": "30-10-2017",
+      "contenuto": "<p>IL problema dello Spanning Tree Distribuito</p>\n<p>Analsisi del Problema e condizioni iniziali</p>\n<p>Unique Initiator</p>\n<p>IL protocollo Shout e Shout+</p>\n<p>Risultati di impossibilita' nel caso multiple initiators</p>"
+    },
+    {
+      "id": "6",
+      "data": "26-10-2017",
+      "contenuto": "<p>IL protocollo HyperFlood su Hypercube</p>\n<p>Analisi\u00a0 della correttezza</p>\n<p>Analisi della\u00a0 msg complexity</p>"
+    },
+    {
+      "id": "5",
+      "data": "23-10-2017",
+      "contenuto": "<p>Il problema del Wake-Up</p>\n<p>Condizioni ed ipotesi</p>\n<p>Un protocollo ottimale</p>\n<p>analisi della msg complexity in funzione del numero di initiators</p>\n<p>Reti sparse, scalable, efficienti</p>\n<p>La struttura ad Hypercube</p>"
+    },
+    {
+      "id": "4",
+      "data": "16-10-2017",
+      "contenuto": "<p>Verifica dell'analisi della message complexitiydi FLOOD rispetto agli archi</p>\n<p>Le tecniche di Lower Bound nei sistemi distribuiti: l'ambiente e la localita'.</p>\n<p>Un lower bound banale per il Broadcast</p>\n<p>Un lower bound ottimo per il Broadcast: dimostrazione formale</p>"
+    },
+    {
+      "id": "3",
+      "data": "12-10-2017",
+      "contenuto": "<p>Il protocollo FLOOD: 2 versioni</p>\n<p>Analisi e dimostrazione della correttezza</p>\n<p>La Message complexity : analisi con due approcci diversi</p>\n<p>l'ideal time del protocollo</p>\n<p>\u00a0</p>"
+    },
+    {
+      "id": "2",
+      "data": "05-10-2017",
+      "contenuto": "<p>Il modello di calcolo distribuito.</p>\n<p>Le entita' locali: i nodi</p>\n<p>La comunicazione: i messaggi</p>\n<p>Le azioni locali</p>\n<p>Gli eventi</p>\n<p>I protocolli</p>\n<p>I concetti di Task, Processo,\u00a0 stato/configurazione del sistema</p>\n<p>Correttezza di un Protocollo</p>\n<p>La message complexity</p>\n<p>Sistemi asincroni e sincroni</p>\n<p>Le restrizioni standard</p>\n<p>Esempio di task: il Broadcast</p>\n<p>\u00a0</p>"
+    },
+    {
+      "id": "1",
+      "data": "02-10-2017",
+      "contenuto": "<p>- Presentazione del Corso</p>\n<p>- Collocazione del corso rispetto alla Laurea Magistrale</p>\n<p>- Informazioni generali</p>\n<p>- Introduzione informale ai modelli distribuiti di calcolo ed agli algoritmi distribuiti</p>\n<p>- L'esempio degli alunni in classe</p>"
+    }
+  ],
+  "materiale": [
+    {
+      "titolo": "Materiale didattico relativo al Modulo del Prof. Clementi",
+      "dataUpload": "19.12.2017 09:57:02",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/ADRC/ADRC CLEMENTI.zip",
+      "dimensione": "2215 KB"
+    },
+    {
+      "titolo": "Articoli sul modello Gossip relativo alle ultime lezioni del Prof. Clementi",
+      "dataUpload": "19.12.2017 09:54:23",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/ADRC/MATERIALE GOSSIP MODEL.zip",
+      "dimensione": "1203 KB"
+    }
+  ],
+  "programma": "<table><tr><td><p><strong>\u00a0</strong></p>\n<p>Il corso quest'anno avra' un'importante novita'.</p>\n<p>\u00a0</p>\n<p>\u00a0Oltre ai due moduli standard di:</p>\n<p>\u00a0</p>\n<p>\u00a0</p>\n<p>a) <strong>Calcolo Distribuito</strong>\u00a0 (Prof. Clementi)</p>\n<p>b) <strong>Teoria Algoritmica dei Giochi</strong> (Dr. Gual\u00e0)</p>\n<p>\u00a0</p>\n<p>vi sara' un ulteriore modulo (di circa 10 ore di lezione) (<strong>Modulo c)</strong> che verra' svolto dal <strong>Prof. Luca Trevisan\u00a0</strong>che sara' <strong>Visiting Professor</strong> nel nostro Dipartimento in cui verranno trattati argomenti fondamentali \u00a0dell'analisi di \u00a0grafi di grandi dimensioni.</p>\n<p>Luca Trevisan \u00e8 full professor all'<strong>Universit\u00e0 di Berkeley (CA - USA) e Senior Scientist al </strong></p>\n<p><a href=\"http://simons.berkeley.edu/\">Simons Institute for the Theory of Computing</a>.</p>\n<p>https://people.eecs.berkeley.edu/~luca/</p>\n<p>Il Prof. Trevisan\u00a0 rappresenta uno dei pi\u00f9 importanti\u00a0 scienziati \u00a0in Theoretical Computer Science in campo internazionale. Questa terza parte verr\u00e0 erogata nel mese di\u00a0 <strong>maggio 2018</strong> e sar\u00e0 parte integrante del corso ADRC. \u00a0</p>\n<p>\u00a0</p>\n<p>\u00a0</p>\n<p>L'esame del corso, pertanto, sar\u00e0 strutturato in due parti. \u00a0</p>\n<p>Negli appelli invernali (febbraio 2018) vi sar\u00e0 un test \u00a0intermedio sui moduli (a) e (b), mentre</p>\n<p>in tutti gli \u00a0appelli successivi, gli studenti potranno dare l'esame (ed i test relativi) su tutti e tre i moduli\u00a0</p>\n<p><strong>(a,b, e c).</strong></p>\n<p>\u00a0</p>\n<p><strong>\u00a0</strong></p>\n<p>\u00a0</p>\n<p><strong>Il modulo (a)</strong></p>\n<p>presenta i principi fondamentali del calcolo distribuito sia da un punto di vista dei modelli di comunicazione/computazione pi\u00f9 importanti che per quanto riguarda i metodi algoritmici fondamentali per tali modelli.\u00a0</p>\n<p>L'obiettivo formativo e' quello di fornire degli strumenti efficienti e rigorosi per il Problem Solving algoritmico in cui, rispetto ai corsi algoritmici della triennale, per la prima volta le entit\u00e0 computazionali (agenti)\u00a0 sono molteplici ed interagenti.<br>Questo nuovo paradigma offre ottime\u00a0 basi per progettare\u00a0 protocolli efficienti per problemi fondamentali ed estremamente attuali nel mondo dei moderni sistemi distribuiti.<br>Questa parte sar\u00e0 tenuta del Prof. Clementi e sar\u00e0 di 6 cfu.<br>\u00a0<br><strong>Nel modulo (b),</strong> il Dr. Gual\u00e0 tratter\u00e0 un altro aspetto fondamentale<br>dei sistemi distribuiti moderni: la presenza di comportamenti egoistici degli agenti di un sistema distribuito. Tale presenza ha portato negli ultimi decenni a sviluppare un'importante teoria:<br>l'Algorithmic Game Theory. Profondamente ispirata dalla famosa Game Theory (Nash Equilbria), questa teoria viene trattata nel corso per affrontare importanti problematiche nel campo dell'ottimizzazione di reti di comunicazione e di altre applicazioni.</br></br></br></br></br></br></p>\n<p>\u00a0</p>\n<p><strong>Il modulo (c)</strong> il prof. Trevisan introdurra' importanti tecniche di analisi e progettazione di algoritmi</p>\n<p>per problemi di ottimizzazione e/o detection su grafi di grandi dimensione. In particolare,</p>\n<p>vista la grande dimensione dei dati, verranno studiate tecniche di natura statistica che permettono l'analisi delle performance non nel ''worst-case''.\u00a0\u00a0 <br>\u00a0<br>Qui sotto vengono riportati i \u00a0programmi preliminari\u00a0per i 3 moduli.\u00a0<br>\u00a0<br><strong>Modulo (a):\u00a0</strong> <strong>Algoritmi Distribuiti \u00a0</strong><br>- Modelli di computazione distribuiti: paradigmi, algoritmi, misure di complessit\u00e0, comunicazione<br>- Un processo epidemico: Il\u00a0 Broadcast e l'Information Spreading<br>- Il problema del Wake-Up<br>- Il problema dello Spanning Tree<br>- Il problema del Leader Election<br>- Il Modello Wireless: il fenomeno delle collisioni<br>- Il Broadcast su Wireless Networks: protcolli\u00a0 deterministici e randomizzati<br>- Problemi distribuiti avanzati in\u00a0 Social Networks\u00a0\u00a0\u00a0 e Data Science<br>\u00a0<br><strong>Modulo (b) \u00a0Teoria Algoritmica dei Gioghi</strong><br>\u00a0<br/>**** - da inserire *****</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></p>\n<p>\u00a0</p>\n<p><strong>Modulo (c) (in inglese - versione preliminare)<br/></strong></p>\n<p>\u00a0Worst-case analysis sometimes overestimates the difficulty of certain problems in practice. In this course we will review more refined methods for the analysis of algorithms, including average-case analysis for random instances, analysis of distributions with a \"planted\" solution, semi-random models which combine random and adversarial choices, and machine learning problems in which the input is a collection of iid samples from an arbitrary unknown distribution. We will conclude with a brief overview of the theory of average-case complexity, and the evidence that we have that certain problems remain hard even when analyzed with respect to natural classes of distributions. Here is a tentative list of topics that we will cover:</p>\n<ul>\n<li>Properties of random graphs</li>\n<li>Cliques in random graphs</li>\n<li>Independent sets in random graphs</li>\n<li>Planted bisection and the stochastic block model</li>\n<li>Finding cuts in semi-random graph models</li>\n<li>Stable cuts and stable clustering</li>\n<li>An introduction to average-case complexity</li>\n</ul></td></tr></table>",
+  "testiRiferimento": "<table><tr><td><p>N. Santoro: Distributed Algorithms + slides ed appunti</p></td></tr></table>",
+  "ricevimento": "<table><tr><td><p>Su appuntamento per email con il Docente: clementi/guala@mat.uniroma2.it</p></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td><p>NOTA IMPORTANTE (del 23-05-18)</p>\n<p>le modalita' di esame della parte del Prof. Trevisan saranno definite entro pochi giorni anche sulla base di un feedback da parte degli studenti. In ogni caso:</p>\n<p>\u00a0</p>\n<p>- E' prevista *per tutti*\u00a0 (e in ogni appello) una prova orale (durante gli appelli previsti).</p>\n<p>\u00a0</p>\n<p>- Probabilmente, saranno proposti\u00a0 degli\u00a0 homework *facoltativi* a cui verranno\u00a0 dati un punteggio/ \"bonus\" da aggiungere eventualmente alla prova orale.</p>\n<p>\u00a0</p>\n<p>- Per gli studenti lavoratori valgono le stesse condizioni di cui sopra.</p></td></tr></table>"
+}

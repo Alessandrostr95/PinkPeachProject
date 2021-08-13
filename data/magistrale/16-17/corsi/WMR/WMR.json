@@ -1,0 +1,33 @@
+{
+  "nomeCorso": "Web mining and retrieval",
+  "docente": [
+    {
+      "first_name": "Roberto",
+      "second_name": "Basili"
+    }
+  ],
+  "annoAccademico": "2016-2017",
+  "crediti": "9",
+  "settore": "INF-ING/05",
+  "anno": "2",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [
+    {
+      "titolo": "Diario delle Lezioni",
+      "data": "24-03-2017 15:04",
+      "contenuto": "<p><img alt=\"\" height=\"20\" src=\"http://ai-nlp.info.uniroma2.it/basili/didattica/WmIR_16_17/newanim.gif\" width=\"50\"/><strong>Le lezioni del Corso di Web Mining and Retrieval per l'a.a. 2016-17 avranno inizio a partire da </strong></p>\n<p><strong>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Lunedi' 6 Marzo 2017 in Aula C2 alle ore 14:00.</strong></p>\n<ul>\n<li><strong>LUNEDI', h. 14:00-15:45 </strong> (<strong>Aula C2</strong> Edificio Aule Nuove Macroarea di Ingegneria)</li>\n<li><strong>MERCOLEDI', h. 16:00-17:45 </strong> (<strong>Aula C3</strong> Edificio Aule Nuove Macroarea di Ingegneria)</li>\n<li><strong>GIOVEDI', h. 11:30-13:15 </strong> (<strong>Aula C6</strong> Edificio Aule Nuove Macroarea di Ingegneria)</li>\n</ul>\n<p>\u00a0</p><hr/>"
+    },
+    {
+      "titolo": "Home Page del Corso",
+      "data": "24-03-2017 15:01",
+      "contenuto": "<p>Il Corso di Web Mining &amp; Retrieval pubblicher\u00e0 tutti i suoi avvisi e materiali didattici per la edizione 2016-17 presso la pagina Web al seguente indirizzo:</p>\n<p>\u00a0</p>\n<p><a href=\"http://ai-nlp.info.uniroma2.it/basili/didattica/WmIR_15_16/\" title=\"Web Mining &amp; Retrieval (2016-17)\">http://ai-nlp.info.uniroma2.it/basili/didattica/WmIR_16_17/</a></p>\n<p>\u00a0</p>\n<p>\u00a0</p>\n<p>\u00a0</p>\n<p>\u00a0</p>\n<p>\u00a0</p>"
+    }
+  ],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>null</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>null</td></tr></table>",
+  "ricevimento": "<table><tr><td>null</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

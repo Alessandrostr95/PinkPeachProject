@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Elementi di matematica",
+  "docente": [
+    {
+      "first_name": "Giulia Maria Piacentini",
+      "second_name": "Cattaneo"
+    }
+  ],
+  "annoAccademico": "2006-2007",
+  "crediti": "3",
+  "settore": "",
+  "anno": "1",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td> </td></tr></table>",
+  "testiRiferimento": "<table><tr><td> </td></tr></table>",
+  "ricevimento": "<table><tr><td> Anche dopo il termine del corso ogni lunedi' dalle 15.30 alle 16.30 sono a disposizione degli studenti in aula 29 per rispondere a domande o fare esercizi, in previsione del secondo appello che sara' verso il 10 gennaio.</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Laboratorio di sistemi distribuiti",
+  "docente": [
+    {
+      "first_name": "Marco",
+      "second_name": "Bianchi"
+    }
+  ],
+  "annoAccademico": "2007-2008",
+  "crediti": "3",
+  "settore": "",
+  "anno": "2",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td><b>Introduzione</b>\r\nIntroduzione ai Web services e alle architetture orientate ai servizi.\r\n\r\n<b>XML</b>\r\nIntroduzione a XML, elementi XML, attributi XML, namespaces XML.\r\nXML Schema: introduzione, definizione di tipi semplici e complessi, riusabilit\u00e0 degli schemi. Parsing di documenti XML: modelli di parsing, SAX, DOM, JAXB. \r\n\r\n<b>SOAP</b>\r\nIntroduzione a SOAP, il framework SOAP messagging, intermediari SOAP, il modello di processamento SOAP.\r\nGestione dei fault in SOAP, SOAP data model e SOAP encoding, SOAP-RPC, il transport binding framework di SOAP.\r\n\r\n<b>Web Services Description Language (WSDL)</b>\r\nIntroduzione a WSDL, struttura di un documento WSDL, interfaccia astratta e implementativa di un servizio, pattern operazionali supportati da WSDL.\r\n\r\n<b>Universal Description Discovery and Integration (UDDI)</b>\r\nIntroduzione alle tecniche di discovery per Web services, binding statico e binding dinamico, introduzione a UDDI, tipi di dato UDDI, API di UDDI, utilizzo di UDDI per la realizzazione di binding dinamico.\r\n\r\n<b>Creazione di un Web service con il framework Axis</b>\r\nIntroduzione ad Axis: architettura e principi di funzionamento di Axis con particolare riferimento agli handler.\r\nTecniche e strumenti per la programmazione di Web services: utilizzo dei package org.apache.axis.*, deploy istantaneo, deploy personalizzato attraverso il file WSDD, utilizzo dei tools wsdl2java e java2wsdl.\r\nRealizzazione di binding dinamico con strumenti di Axis. </td></tr></table>",
+  "testiRiferimento": "<table><tr><td>\"Building Web services with Java: making sense of XML, SOAP, WSDL, and UDDI - Second edition\" di S.Graham, D.Davis, et al.\r\nEdito da Sams Publishing. Serie: Developer's Library.\r\n\r\nPer quanto riguarda il SOAP engine Axis, si faccia riferimento anche alla documentazione pubblicata sul sito di Apache.</td></tr></table>",
+  "ricevimento": "<table><tr><td>Marted\u00ec dalle ore 13.00 alle ore 14.00 in aula 19 o in studio.</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

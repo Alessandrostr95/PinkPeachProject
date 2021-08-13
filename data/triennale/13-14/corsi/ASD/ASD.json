@@ -1,0 +1,38 @@
+{
+  "nomeCorso": "Algoritmi e strutture dati",
+  "docente": [
+    {
+      "first_name": "Luciano",
+      "second_name": "Guala"
+    }
+  ],
+  "annoAccademico": "2013-2014",
+  "crediti": "12",
+  "settore": "INF/01",
+  "anno": "2",
+  "semestre": "1-2",
+  "propedeuticit\u00e0": "Analisi Matematica. Matematica discreta. Programmazione.",
+  "comunicazioni": [
+    {
+      "titolo": "Modulo Prof. Clementi",
+      "data": "14-04-2014 14:14",
+      "contenuto": "<p>Le lezioni del modulo del corso tenute dal Prof. Clementi avranno luogo il luned\u00ec dalle ore 11 alle ore 13 in aula 3A.\u00a0</p><hr/>"
+    },
+    {
+      "titolo": "Modulo Prof. Di Ianni",
+      "data": "14-04-2014 14:13",
+      "contenuto": "<p>Le lezioni del modulo del corso tenute dalla Prof. Di Ianni avranno luogo il mercoled\u00ec dalle ore 9 alle ore 11 in aula 3A. Il modulo verter\u00e0 sui problemi di flusso (le dispense saranno rese disponibili nella pagina del corso).</p><hr/>"
+    },
+    {
+      "titolo": "Informazioni.",
+      "data": "14-04-2014 14:09",
+      "contenuto": "<p>Tutte le informazioni sul corso sono disponibili alla pagina\u00a0http://www.mat.uniroma2.it/%7Eguala/ASDL_2013.htm</p>"
+    }
+  ],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td></td></tr></table>",
+  "testiRiferimento": "<table><tr><td></td></tr></table>",
+  "ricevimento": "<table><tr><td></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

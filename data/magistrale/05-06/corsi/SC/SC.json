@@ -1,0 +1,26 @@
+{
+  "nomeCorso": "Sistemi concorrenti",
+  "docente": [
+    {
+      "first_name": "Gianni",
+      "second_name": "Campanile"
+    },
+    {
+      "first_name": "Gianni",
+      "second_name": "Campanile"
+    }
+  ],
+  "annoAccademico": "2005-2006",
+  "crediti": "6",
+  "settore": "",
+  "anno": "1",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td><dl><dt>Concorrenza</dt><dd>  Definizioni e origini</dd><dt>Processi</dt><dd>  Creazione di processi<br/>      Multitasking<br/>      Processi leggeri o Thread</dd><dt>Deadlock</dt><dd>  Deadlock avoidance<br/>      Cicli e Policicli \r\n</dd><dt>Programmazione concorrente</dt><dd>  Stati, Azioni, Storie<br/>      Sincronizzazione e atomicit\u00e0<br/>      Produttore/Consumatore<br/>      Propriet\u00e0 di sicurezza e esistenza<br/>      Politiche di scheduling </dd><dt>Locks e Barriere</dt><dd>  Il problema della sezione critica<br/>      Spin locks<br/>      Barriere di sincronizzazione</dd><dt>Semafori</dt><dd>  Operazioni P() e V()<br/>      Problemi classici di lock e tecniche<br/>      Filosofi a cena<br/>      Funzioni Pthread</dd><dt>Monitors</dt><dd>  Semantica dei monitor<br/>      Sincronizzazione in Java: Thread e synchronized<br/>      Readers e writers</dd><dt>Programmazione distribuita</dt><dd>  Client e servers<br/>      Protocollo TCP e UDP e Socket<br/>      Message Passing Interface<br/>      Socket in Java</dd><dt>Remote Procedure Calls</dt><dd>  Semantica delle RPC<br/>      RPC e rendez-vous<br/>      RPC in Java: RMI</dd><dt>Interazione tra processi</dt><dd>  Algoritmi heartbeat e pipeline<br/>      bag-of-tasks distribuito<br/>      semafori distribuiti</dd></dl></td></tr></table>",
+  "testiRiferimento": "<table><tr><td><b>Libro di Testo:</b>\r\n\"Multithreaded, Parallel and Distributed Programming\"\r\nGreg Andrews, Addison Wesley http://www.cs.arizona.edu/people/greg/mpdbook\r\n\r\nAltri testi:\r\n\r\n<b>Approfondimenti su sistemi operativi</b>\r\nA.S. Tanenbaum, \"Operating Systems - Design and Implementation'', Prentice-Hall \r\nA. Silberschatz, P.B. Gavin, \"Operating System Concepts\", Addison-Wesley \r\nH.M. Deitel, \"Operating Systems'', Addison-Wesley \r\nG. Nutt, \"Operating Systems: a Modern Perspective'', Addison-Wesley\r\n\r\n<b>Approfondimenti su Unix/Linux</b>\r\nM.J. Bach, \"The design of the Unix Operating System'', Prentice-Hall \r\nB. Goodheart, J. Cox, \"The Magic Garden Explained: The Internals of the Unix System V Release 4'', Prentice-Hall \r\nD.P. Bovet, M. Cesati, \"Understanding the Linux Kernel (2nd edition)'', O'Reilly &amp; Co.\r\n\r\n<b> Linguaggio C</b>\r\nB.W. Kernighan, D.M. Ritchie, \"Linguaggio C'', Jackson Libri \r\nH.M. Deitel, P.J. Deitel, \"C Corso completo di programmazione (seconda edizione)'', Apogeo \r\nW.R. Stevens, \"Advanced programming in the Unix environment'', Addison-Wesley\r\n\r\n<b>Client/Server computing</b>\r\nDouglas Comer, \"Internetworking with TCP/IP\"\r\n\r\n<b>RPC</b>\r\nJohn Bloomer, \"Power programming with RPC\", O'Reilly\r\n\r\n<b>Java e distributed computing</b>\r\nBruce Eckel, \"Thinking in Java 2\" (online) http://www.BruceEckel.com</td></tr></table>",
+  "ricevimento": "<table><tr><td>In aula dopo la lezione o via mail: <a href=\"mailto:campanil@mat.uniroma2.it\">campanil@mat.uniroma2.it </a></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

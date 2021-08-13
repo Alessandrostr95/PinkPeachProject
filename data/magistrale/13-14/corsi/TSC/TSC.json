@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Teoria della sicurezza e crittografia",
+  "docente": [
+    {
+      "first_name": "Maurizio",
+      "second_name": "Talamo"
+    }
+  ],
+  "annoAccademico": "2013-2014",
+  "crediti": "6",
+  "settore": "INF/01",
+  "anno": "1",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td><p><span style=\"color: #646464; font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 18px;\">Programma 2013-2014</span></p>\n<p>\u00a0</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm 5.75pt 0pt; padding: 0px; color: #646464; font-family: Arial, Helvetica, sans-serif; font-size: 12px; widows: 1; line-height: 15.6pt; background-color: #f0f0f0;\">Il programma \u00e8 cambiato. Fare riferimento al 2014-2015.</p></td></tr></table>",
+  "testiRiferimento": "<table><tr><td><p>Il programma \u00e8 cambiato. Contattare il docente.</p></td></tr></table>",
+  "ricevimento": "<table><tr><td><p><span style=\"color: #646464; font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 20.799999237060547px; widows: 1; background-color: #f0f0f0;\">Il programma \u00e8 cambiato.\u00a0</span><span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Contattare il docente.</span></p></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td><p>Il programma \u00e8 cambiato. Contattare il docente.</p></td></tr></table>"
+}

@@ -1,0 +1,319 @@
+{
+  "nomeCorso": "Sistemi operativi e reti",
+  "docente": [
+    {
+      "first_name": "Pietro",
+      "second_name": "Frasca"
+    }
+  ],
+  "annoAccademico": "2013-2014",
+  "crediti": "12",
+  "settore": "INF/01",
+  "anno": "2",
+  "semestre": "1-2",
+  "propedeuticit\u00e0": "Architettura degli elaboratori. Programmazione.",
+  "comunicazioni": [
+    {
+      "titolo": "Risultati esame SOR prova scritta appello3 - A.A. 2013/2014",
+      "data": "19-09-2014 19:27",
+      "contenuto": "<ul style=\"font-family: verdana, arial, helvetica, sans-serif; font-size: 11px;\">\n<li><a href=\"upload/2013/SOR/Risultati_SOR_A3_17-09-2014.pdf\" target=\"_blank\">Risultati</a>\u00a0esame SOR prova scritta appello3 -\u00a0A.A. 2013-2014</li>\n<li><a href=\"upload/2013/SOR/Esame_SOR_A3-17-09-2014.pdf\" target=\"_blank\">Testo</a> della prova scritta</li>\n</ul>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">La prova orale dell'esame di\u00a0SOR appello 3 si svolger\u00e0 Marted\u00ec\u00a023\u00a0Settembre 2014 alle ore 10:00 in aula 3A. Sosterranno l'esame gli studenti che hanno conseguito una votazione di almeno 18/30.</p><hr/>"
+    },
+    {
+      "titolo": "Risultati esame SOR prova scritta appello2 - A.A. 2013/2014",
+      "data": "11-07-2014 15:46",
+      "contenuto": "<ul style=\"font-family: verdana, arial, helvetica, sans-serif; font-size: 11px;\">\n<li><a href=\"upload/2013/SOR/Risultati_SOR_A2_9-07-2014.pdf\" target=\"_blank\">Risultati</a>\u00a0esame SOR prova scritta appello2 -\u00a0A.A. 2013-2014</li>\n<li><a href=\"upload/2013/SOR/Esame_SOR_A2-9-07-2014.pdf\" target=\"_blank\">Testo</a> della prova scritta</li>\n</ul>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">La prova orale dell'esame di\u00a0SOR appello\u00a02 si svolger\u00e0 Marted\u00ec 15\u00a0Luglio 2014 alle ore 10:00 in aula 3A. Sosterranno l'esame gli studenti che hanno conseguito una votazione di almeno 18/30.</p><hr/>"
+    },
+    {
+      "titolo": "Risultati esame SOR prova scritta appello1 - A.A. 2013/2014",
+      "data": "16-06-2014 17:00",
+      "contenuto": "<ul style=\"font-family: verdana, arial, helvetica, sans-serif; font-size: 11px;\">\n<li><a href=\"upload/2013/SOR/Risultati_SOR_A1_11-06-2014.pdf\" target=\"_blank\">Risultati</a>\u00a0esame SOR prova scritta appello1 -\u00a0A.A. 2013-2014</li>\n<li><a href=\"upload/2013/SOR/Esame_SOR_A1-11-06-2014.pdf\" target=\"_blank\">Testo</a> della prova scritta</li>\n</ul>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">La prova orale dell'esame di\u00a0SOR appello 1 si svolger\u00e0 Marted\u00ec 17 Giugno 2014 alle ore 10:00 in aula 3A. Sosterranno l'esame gli studenti che hanno conseguito una votazione di almeno 18/30.</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p><hr/>"
+    },
+    {
+      "titolo": "Fine corso SOR",
+      "data": "28-05-2014 10:23",
+      "contenuto": "<p>Le lezioni di SOR sono terminate il 27-05-2014.</p><hr/>"
+    },
+    {
+      "titolo": "Seconda esercitazione in laboratorio (aula 17)",
+      "data": "19-04-2014 20:51",
+      "contenuto": "<p>Marted\u00ec\u00a022 Aprile dalle ore\u00a014:00 alle 17:00, si svolger\u00e0 nell'aula 17 una seconda esercitazione sulla programmazione delle socket.</p>\n<p>\u00a0</p><hr/>"
+    },
+    {
+      "titolo": "Esercitazione in laboratorio (aula 17)",
+      "data": "03-04-2014 16:22",
+      "contenuto": "<p>Marted\u00ec 8 Aprile dalle ore\u00a014:00 alle 17:00, si svolger\u00e0 nell'aula 17 un'esercitazione sulla programmazione delle socket.</p><hr/>"
+    },
+    {
+      "titolo": "Risultati esonero SOR a.a. 2013-2014",
+      "data": "26-02-2014 20:11",
+      "contenuto": "<ul>\n<li><a href=\"upload/2013/SOR/Risultati%20esame%20parziale%202013-14%20(2).pdf\" target=\"_blank\">Risultati</a> dell'esonero di Sistemi operativi e reti A.A. 2013-2014</li>\n</ul>\n<p>\u00a0</p>\n<p>Il\u00a0secondo (e ultimo) turno\u00a0della prova orale dell'esonero\u00a0di\u00a0SOR si svolger\u00e0\u00a0Venerd\u00ec 28 febbraio 2014 alle ore 10:00 in aula 3A. Sosterranno l'esame gli studenti che hanno conseguito una votazione di almeno 18/30.</p>\n<p>\u00a0</p><hr/>"
+    },
+    {
+      "titolo": "Risultati esonero SOR a.a. 2013-2014 (I turno)",
+      "data": "24-02-2014 19:15",
+      "contenuto": "<ul>\n<li><a href=\"upload/2013/SOR/Risultati%20esame%20parziale%202013-14.pdf\" target=\"_blank\">Risultati</a> dell'esonero di Sistemi operativi e reti A.A. 2013-2014</li>\n</ul>\n<p>\u00a0</p>\n<p>La prova orale per gli studenti che hanno superato la prova scritta dell'esonero si svolger\u00e0 in pi\u00f9\u00a0turni. Il primo turno si svolger\u00e0 Marted\u00ec 25 febbraio 2014 alle ore 10:00 in aula 3A. Sosterranno il primo turno gli studenti che hanno\u00a0conseguito una votazione maggiore o uguale a 18/30.\u00a0Gli studenti che non hanno avuto ancora il voto sosterranno la prova orale nel giorno\u00a0che sar\u00e0 indicato nel prossimo avviso.\u00a0</p>\n<p>\u00a0</p><hr/>"
+    },
+    {
+      "titolo": "Risultati esame appello 4 del 18-02-2014",
+      "data": "20-02-2014 18:21",
+      "contenuto": "<ul>\n<li><a href=\"upload/2013/SOR/Risultati_SOR_A4_18-02-2014.pdf\" target=\"_blank\">Risultati</a> della prova scritta dell'applello 4 A.A. 2012-2013.</li>\n<li><a href=\"upload/2013/SOR/Esame_SOR_A4-18-02-2014.pdf\" target=\"_blank\">Testo </a>della prova scritta dell'appello 4 A.A. 2012-2013.</li>\n</ul>\n<p>La prova orale di Sistemi operativi e reti, Sistemi operativi con laboratorio e Reti di calcolatori relativi all'A.A. 2012-1013 si svolger\u00e0 Venerd\u00ec 21-02-2014 alle ore 10:00 nell'aula 3 del PP2.</p>\n<p>\u00a0</p>\n<p>I risultati della prova scritta dell'esonero di Sistemi operativi e reti A.A. 2013-2014, con le relative date di esame della prova orale saranno pubblicati nei primi giorni della prossima settimana.</p><hr/>"
+    },
+    {
+      "titolo": "Esonero Sistemi operativi e reti",
+      "data": "14-02-2014 16:54",
+      "contenuto": "<p>La prova scritta dell'esonero (esame parziale) di Sistemi operativi e reti si svolger\u00e0 il 18-02-2014 alle ore 10:00 in aula 3 del PP2. La prova orale si svolger\u00e0 a partire dal 21-02-2014. Tutte le informazioni sull'esonero sono riportate in questa pagina nella sezione \"Modalit\u00e0 di esame\".</p>\n<p>\u00a0</p><hr/>"
+    },
+    {
+      "titolo": "Fine della prima parte di SOR",
+      "data": "16-01-2014 12:20",
+      "contenuto": "<p>La prima parte del corso \u00e8 terminata il 14-01-2014.</p>"
+    }
+  ],
+  "lezioni": [
+    {
+      "id": "48",
+      "data": "27-05-2014",
+      "contenuto": "<p>CSMA/CA. RTS e CTS. Utilizzo di IEEE 802.11 come collegamento punto-punto. Formato del frame 802.11. \u00a0Esempio di progettazione LAN.</p>"
+    },
+    {
+      "id": "47",
+      "data": "22-05-2014",
+      "contenuto": "<p>Reti wireless. Collegamenti wireless e caratteristiche di rete. Wi-Fi 802.11. Canali e associazioni.</p>"
+    },
+    {
+      "id": "46",
+      "data": "20-05-2014",
+      "contenuto": "<p>Ethernet. Struttura del frame Ethernet. CSMA/CD di Ethernet. Efficienza di Ethernet. Tecnologie Ethernet. Hub. Switch dello strato di collegamento. Confronto tra switch e router.</p>"
+    },
+    {
+      "id": "45",
+      "data": "15-05-2014",
+      "contenuto": "<p>Protocolli a turno. Reti LAN. Indirizzi LAN. ARP. Invio di datagram a nodi interni ed esterni alla LAN.</p>"
+    },
+    {
+      "id": "44",
+      "data": "13-05-2014",
+      "contenuto": "<p>Tecniche di rilevazione e correzione degli errori. Controllo di parit\u00e0. Controllo di parit\u00e0 a due dimensioni. Somma di controllo. Controllo a ridondanza ciclica. Protocolli di accesso multiplo. Protocolli a suddivisione di canale. Protocolli di accesso casuale. CSMA e CSMA/CD.</p>"
+    },
+    {
+      "id": "43",
+      "data": "08-05-2014",
+      "contenuto": "<p>IGMP. Algoritmi di instradamento multicast (solo conclusioni). Lo strato di collegamento. Servizi offerti dallo strato di collegamento. Adattatori (schede di rete).</p>\n<p>\u00a0</p>"
+    },
+    {
+      "id": "42",
+      "data": "06-05-2014",
+      "contenuto": "<p>OSPF. Instradamento tra sistemi autonomi. BGP. Instradamento multicast.</p>\n<p>\u00a0</p>"
+    },
+    {
+      "id": "41",
+      "data": "29-04-2014",
+      "contenuto": "<p>Algoritmi di instradamento. Algoritmi di instradamento LS. Algoritmi di instradamento DV. Confronto tra LS e DV. Instradamento gerarchico. Instradamento in Internet. Instradamento intra-sistema. RIP.</p>\n<p>\u00a0</p>"
+    },
+    {
+      "id": "40",
+      "data": "24-04-2014",
+      "contenuto": "<p>Traduzione degli indirizzi di rete (NAT). UPnP. ICMP. IPv6. Formato del datagram IPv6. Passaggio da IPv4 a IPv6. Metodo dual-stack. Metodo del tunneling. ICMP. ICMP per IPv6.</p>"
+    },
+    {
+      "id": "39",
+      "data": "22-04-2014",
+      "contenuto": "<p>Indirizzamento IPv4. Indirizzamento per classe. Indirizzamento CIDR. Assegnazione di indirizzi IP. Configurazione delle interfacce di rete di host e router. DHCP.</p>\n<p>\u00a0</p>"
+    },
+    {
+      "id": "38",
+      "data": "17-04-2014",
+      "contenuto": "<p>Strato di rete. Reti a circuito virtuale e a datagram. Il protocollo IP. Formato dei datagram IPv4. Frammentazione IP.</p>\n<p>\u00a0</p>"
+    },
+    {
+      "id": "37",
+      "data": "15-04-2014",
+      "contenuto": "<p>Instaurazione della connessione TCP. Controllo del flusso. Controllo della congestione TCP. AIMD. Partenza lenta. Reazione a eventi di timeout. Prevenzione della congestione. Descrizione macroscopica del throughput TCP.</p>\n<p>\u00a0</p>"
+    },
+    {
+      "id": "36",
+      "data": "10-04-2014",
+      "contenuto": "<p>Struttura del segmento TCP. Numeri di sequenza e numeri di riscontro.</p>\n<p>Stima del tempo di andata e ritorno e di timeout. Intervallo di timeout per le ritrasmissioni. Trasferimento affidabile dei dati. Raddoppio del timeout. Ritrasmissione rapida.</p>\n<p>\u00a0</p>"
+    },
+    {
+      "id": "35",
+      "data": "08-04-2014",
+      "contenuto": "<p>Programmazione delle socket con UDP. Esempio di applicazione Client/Server con UDP in Java. Lo strato di trasporto. Multiplexing e demultiplexing. UDP. Struttura del segmento UDP. Checksum di UDP. Trasporto orientato alla connessione. TCP. La connessione TCP.</p>\n<p>\u00a0</p>"
+    },
+    {
+      "id": "34",
+      "data": "03-04-2014",
+      "contenuto": "<p>Reti per la distribuzione dei contenuti (CDN). Programmazione delle Socket. Programmazione delle Socket con TCP. Esempio di applicazione Client/Server con TCP in Java.</p>"
+    },
+    {
+      "id": "33",
+      "data": "01-04-2014",
+      "contenuto": "<p>Condivisione di file P2P. Directory centralizzata. Directory decentralizzata. Query flooding. Confronto architetture C/S e P2P. Calcolo semplificato del tempo di distribuzione di un file per C/S e P2P. Distribuzione di contenuti. Server proxy. Esempio d'uso dei proxy.</p>\n<p>\u00a0</p>"
+    },
+    {
+      "id": "32",
+      "data": "27-03-2014",
+      "contenuto": "<p>Protocolli di accesso alla posta. POP3. IMAP. Posta elettronica con HTTP. DNS. Servizi forniti dal DNS. Funzionamento del DNS. Record DNS. Messaggi DNS.</p>\n<p>\u00a0</p>"
+    },
+    {
+      "id": "31",
+      "data": "25-03-2014",
+      "contenuto": "<p>Il protocollo FTP. Posta Elettronica. SMTP. Formati dei messaggi di posta e MIME. Estensioni MIME per dati non ascii. Esempi di messaggi con intestazioni MIMe. Esempi di messaggi multipart/mixed.</p>"
+    },
+    {
+      "id": "30",
+      "data": "20-03-2014",
+      "contenuto": "<p>Formato del messaggio di risposta HTTP. Get condizionato. Interazione utente-server: i cookie. Connessione non persistente e persistente. Connessione persistente senza parallelismo e con parallelismo.</p>\n<p>\u00a0</p>"
+    },
+    {
+      "id": "29",
+      "data": "18-03-2014",
+      "contenuto": "<p>Livello di applicazione. I principi delle applicazioni di rete. Lati client e server di un applicazione. Indirizzamento dei processi. Processi di comunicazione nella rete. Servizi formiti dai protocolli di trasporto alle applicazioni. Applicazioni di rete. Web. Il protocollo HTTP. Formato del messaggio di richiesta HTTP.</p>\n<p>\u00a0</p>"
+    },
+    {
+      "id": "28",
+      "data": "13-03-2014",
+      "contenuto": "<p>Ritardi e perdite nelle reti a commutazione di pacchetto. Tipi di ritardo: trasmissione, propagazione, elaborazione, coda.\u00a0Ritardo totale. Ritardo da host a host. Ritardi e percorsi in Internet. Traceroute e tracert. Perdita di pacchetti. Intensit\u00e0 del traffico. Lo stack protocollare di Internet e il modello ISO OSI. Gli strati di Internet e i servizi che forniscono.</p>\n<p>\u00a0</p>"
+    },
+    {
+      "id": "27",
+      "data": "11-03-2014",
+      "contenuto": "<p>Accesso aziendale. Accesso wireless. Mezzi trasmissivi. Doppini in rame. Cavi coassiali. Fibre ottiche. Canali radio terrestri. Canali radio satellitari. Gli ISP e le reti dorsali di Internet.\u00a0</p>"
+    },
+    {
+      "id": "26",
+      "data": "06-03-2014",
+      "contenuto": "<p>Multiplazione (multiplexing) nelle reti a commutazione di circuito. Commutazione di pacchetto. Confronto tra commutazione di circuito e commutazione di pacchetto. Frammentazione del messaggio. Reti a commutazione di pacchetto datagram.</p>"
+    },
+    {
+      "id": "25",
+      "data": "04-03-2014",
+      "contenuto": "<p>Internet. Descrizione dei servizi. Definizione di protocollo di rete. Applicazioni client/server. Servizi senza connessione e orientati alla connessione. La sezione interna della rete (nucleo). Commutazione di circuito e commutazione di pacchetto.</p>"
+    },
+    {
+      "id": "24",
+      "data": "14-01-2014",
+      "contenuto": "<p>Le variabili condition. Esempi di sincronizzazione con le variabili condition. Esempio d'uso delle variabili condition nell'implementazione del modello produttore-consumatore.</p>\n<p>\u00a0</p>"
+    },
+    {
+      "id": "23",
+      "data": "09-01-2014",
+      "contenuto": "<p>I thread in Linux e Unix. I thread POSIX: la libreria pthread. Creazione e terminazione dei thread. Sincronizzazione tra thread. I mutex pthread. I semafori. Esempi.</p>\n<p>\u00a0</p>"
+    },
+    {
+      "id": "22",
+      "data": "07-01-2014",
+      "contenuto": "<p>System call per l'uso di segnali. Invio di segnali tra processi. Comunicazione: pipe. Esempio d'uso delle pipe. Chiamate di sistema per la sospensione di processi: pause, sleep e uspleep.</p>"
+    },
+    {
+      "id": "21",
+      "data": "19-12-2013",
+      "contenuto": "<p>Organizzazione fisica del file system. Strutture dati del kernel per l'accesso ai file. System call per i file. Interazione tra processi. Sincronizzazione: i segnali.</p>"
+    },
+    {
+      "id": "20",
+      "data": "17-12-2013",
+      "contenuto": "<p>Sostituzione del codice. Scheduling in Unix. Gestione della memoria. Il file system. Struttura logica del file system. La variabile PATH. Protezione. Autenticazione degli utenti. Il file /etc/passwd. Il file /etc/group. Controllo di accesso alle risorse. ACL in Unix.</p>"
+    },
+    {
+      "id": "19",
+      "data": "12-12-2013",
+      "contenuto": "<p>Architettura di Unix. Interazione con l'utente. Shell. Processi e thread. Diagramma degli stati. Immagine di un processo Unix. System call per la gestione di processi. Creazione di processi. Terminazione di processi.</p>"
+    },
+    {
+      "id": "18",
+      "data": "10-12-2013",
+      "contenuto": "<p>Metodi di accesso: sequenziale, diretto e ad indice. Il livello organizzazione fisica. Tecniche di allocazione dei file. Allocazione contigua. Allocazione a lista concatenata, a lista con FAT, a indice. Protezione di file e directory. Matrice di protezione. ACL e C-list. Storia di Unix e Linux.</p>"
+    },
+    {
+      "id": "17",
+      "data": "05-12-2013",
+      "contenuto": "<p>Criteri di ordinamento dei dati su disco e politiche di scheduling. Esempio di memorizzazione su due tracce contigue e su tracce e settori sparsi. Algoritmi di scheduling FCFS, SSTF e SCAN. Dischi raid. Il file system. Struttura logica del file system. Gestione della stuttura logica del file system. Il livello di accesso. Strutture dati e operazioni di accesso ai file.</p>"
+    },
+    {
+      "id": "16",
+      "data": "03-12-2013",
+      "contenuto": "<p>Descrittore di dispositivo. Driver di dispositivo. Gestione di un dispositivo con DMA. Flusso di controllo durante un trasferimento. Gestione del timer. Gestione dei dischi.</p>"
+    },
+    {
+      "id": "15",
+      "data": "26-11-2013",
+      "contenuto": "<p>Tecnica di spooling. Livello dipendente dai dispositivi. Controller di un dispositivo. Gestione di un dispositivo mediante controllo di programma. Gestione di un dispositivo mediante interrupt.</p>"
+    },
+    {
+      "id": "14",
+      "data": "21-11-2013",
+      "contenuto": "<p>Memoria segmentata e paginata. Gestione degli spazi virtuali. Paginazione a pi\u00f9 livelli. Gestione dell'I/O. Classificazione dei dispositivi. Struttura logica del sistema di I/O. Livello indipendente dai dispositivi. Bufferizzazione. Gestione degli errori e delle eccezioni.</p>"
+    },
+    {
+      "id": "13",
+      "data": "19-11-2013",
+      "contenuto": "<p>Paginazione su richiesta. Gestione del page-fault. Rimpiazzamento delle pagine. Algoritmi di rimpiazzamento delle pagine. Algoritmo second chance.</p>"
+    },
+    {
+      "id": "12",
+      "data": "14-11-2013",
+      "contenuto": "<p>Memoria paginata. Segmentazione su richiesta.</p>"
+    },
+    {
+      "id": "11",
+      "data": "12-11-2013",
+      "contenuto": "<p>Tecniche di allocazione mediante free-list: best-fit, first-fit. Partizioni multiple. Segmentazione.</p>"
+    },
+    {
+      "id": "10",
+      "data": "07-11-2013",
+      "contenuto": "<p>Gestione della memoria. La memoria virtuale di un processo. Rilocazione statica e dinamica. MMU. Organizzazione della memoria virtuale. Allocazione della memoria fisica. Tecniche di gestione della memoria. Memoria partizionata. Partizioni fisse e variabili.</p>"
+    },
+    {
+      "id": "9",
+      "data": "05-11-2013",
+      "contenuto": "<p>Blocco critico (stallo). Esempi di situazioni di stallo. Stallo con risorse consumabili. Condizioni per il blocco critico. Metodi per il trattamento del blocco cristico. Prevenzione statica e dinamica. Algoritmo del banchiere. Rilevamento dei blocchi critici.</p>"
+    },
+    {
+      "id": "8",
+      "data": "31-10-2013",
+      "contenuto": "<p>Problema della comunicazione. Soluzione al problema della comunicazione con semafori: produttore-consumatore con buffer di capacit\u00e0 1. Produttore-consumatore con buffer di capacit\u00e0 N. Sincronizzazione dei processi con scambio di messaggi (message passing). Send e receive. Soluzione al problema della comunicazione tra processi. Comunicazione diretta e indiretta. Sincronizzazione tra processi comunicanti.</p>"
+    },
+    {
+      "id": "7",
+      "data": "29-10-2013",
+      "contenuto": "<p>Algoritmi di scheduling real-time. Algoritmo Rate Monotonic (RM). Thread. Thread a livello utente e a livello kernel. Sincronizzazione tra processi. Cooperazione e competizione. Modello ad ambiente globale. Modello ad ambiente locale. Problema della mutua esclusione. Soluzioni al problema della mutua esclusione con attesa attiva. Semafori. Soluzione al problema della mutua esclusione con semafori.</p>"
+    },
+    {
+      "id": "6",
+      "data": "24-10-2013",
+      "contenuto": "<p>Principali algoritmi di scheduling. FCFS. SJF. SRTF. Round robin. Algoritmi di scheduling basati sulle priorit\u00e0. Algoritmi di scheduling a code multiple.</p>"
+    },
+    {
+      "id": "5",
+      "data": "22-10-2013",
+      "contenuto": "<p>Thread. Thread a livello utente e a livello kernel. Scheduling. Scheduling a breve termine, a medio termine e lungo termine. Comportamento dei processi: cpu burst e i/o burst. Parametri di scheduling.</p>"
+    },
+    {
+      "id": "4",
+      "data": "17-10-2013",
+      "contenuto": "<p>Code di processi. Cambio di contesto. Creazione e terminazione dei processi. Esempio di creazione di processo in unix. Interazione tra i processi. Esempio di processi cooperanti: modello produttore-consumatore. Esempio di processi in competizione. Il kernel di un sistema a processi. Trasferimento tra l'ambiente del kernel e l'ambiente dei processi.</p>"
+    },
+    {
+      "id": "3",
+      "data": "15-10-2013",
+      "contenuto": "<p>Struttura dei sistemi operativi. Principali modelli strutturali. Sistemi stratificati. Struttura a microkernel. Struttura client-server. Principali componenti del sistema operativo. Gestione dei processi. Definizione di processo. Stati di un processo. Transizioni di stato. Descrittore del processo.</p>"
+    },
+    {
+      "id": "2",
+      "data": "10-10-2013",
+      "contenuto": "<p>Sistemi a partizione di tempo (time-sharing). Sistemi in tempo reale. Sistemi paralleli e distribuiti. Sistemi operativi per PC.</p>"
+    },
+    {
+      "id": "1",
+      "data": "08-10-2013",
+      "contenuto": "<p>Introduzione al corso. Principali funzioni di un Sistema operativo.\u00a0Classificazione dei sistemi operativi. Sistemi batch. Sistemi batch multiprogrammati.</p>"
+    }
+  ],
+  "materiale": [],
+  "programma": "<table><tr><td><p><em>Parte I: Sistemi operativi </em> (I semestre)<strong>\u00a0 </strong></p>\n<ul>\n<li>Introduzione ai sistemi operativi.</li>\n<li>Storia e classificazione dei sistemi operativi.</li>\n<li>Principali modelli strutturali.</li>\n<li>Gestione dei processi.</li>\n<li>Threads.</li>\n<li>Sincronizzazione dei processi.</li>\n<li>Gestione della memoria.</li>\n<li>Gestione dell' I/O.</li>\n<li>Gestione del file system.</li>\n<li>I sistemi operativi Unix e Linux.</li>\n<li>Casi di studio: Unix e Linux</li>\n</ul>\n<p><br><em>Parte II: Reti di calcolatori (II semestre)\u00a0 </em></br></p>\n<ul>\n<li>Reti di calcolatori e Internet.</li>\n<li>Strato di applicazione.</li>\n<li>Strato di trasporto.</li>\n<li>Strato di rete e instradamento.</li>\n<li>Strato di collegamento e reti di area locale.</li>\n<li>Reti wireless</li>\n</ul></td></tr></table>",
+  "testiRiferimento": "<table><tr><td><p><em>Testi di riferimento </em><br>Sistemi operativi, II ed. - P. Ancilotti, M. Boari, A. Ciampolini, G. Lipari - McGraw-Hill <br>Reti di Calcolatori e Internet, IV ed. - Un approccio top-down - J.F. Kurose, K.W. Ross - Pearson - Addison Wesley. <br> <br><em>Libri consigliati per approfondimenti </em><br>Sistemi Operativi, VIII ed., A. Silberschatz, P. Galvin, G. Gagne. Pearson. <br>I moderni Sistemi Operativi, III ed., A. S. Tanenbaum. Pearson - Prentice Hall. <br>Sistemi operativi, D. M. Dhamdhere, McGraw-Hill. <br>Reti di Calcolatori e Internet, B. A. Forouzan, McGraw-Hill.</br></br></br></br></br></br></br></br></p></td></tr></table>",
+  "ricevimento": "<table><tr><td><p>Stanza docente (0103) - Marted\u00ec ore 14.00 - 15.00. <br>Per appuntamento via email.</br></p></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td><p>Gli studenti iscritti al nuovo ordinamento devono sostenere l'esame \"Sistemi operativi e reti\" di 12 crediti. Gli studenti iscritti al vecchio ordinamento devono sostenere separatamente gli esami \"Sistemi operativi\" di 6 crediti e \"Reti di calcolatori\" di 6 crediti. <br>L'esame consiste in una prova scritta e in una prova orale. Il testo della prova scritta \u00e8 suddiviso in due parti. La prima parte \u00e8 composta da un gruppo di 4-5 domande che riguardano argomenti di \"Sistemi operativi\". La seconda parte, \u00e8 composta da un gruppo di 4-5 domande, relative ad argomenti di \"Reti di calcolatori\". Le domande sono del tipo a risposta aperta o sottoforma di problemi. Per la parte Sistemi operativi una delle domande consiste nello sviluppo di un breve programma in linguaggio C basato sulle system call POSIX studiate durante il corso. <br>La durata dell'esame di 12 crediti \u00e8 di 3 ore, mentre la durata dell'esame di 6 crediti \u00e8 di 1 ora e 30 minuti. Durante lo svolgimento della prova scritta \u00e8 vietato l'uso di libri e/o appunti di qualsiasi genere. <br>Per sostenere la prova orale \u00e8 necessario aver superato la prova scritta con una votazione di almeno 18/30. Inoltre, lo studente pu\u00f2 svolgere una tesina facoltativa consistente nella realizzazione di un'applicazione in java basata sulla programmazione dei socket o di un'applicazione multi-thread scritta in c .<br>La tesina deve essere consegnata (personalmente o via e-mail) almeno una settimana prima della data della prova orale. La realizzazione della tesina consente di migliorare la votazione di 1,2 o 3 punti. <br>Per sostenere l'esame \u00e8 obbligatorio prenotarsi mediante il servizio \"Servizi on Line\" all'indirizzo <a href=\"http://delphi.uniroma2.it\" target=\"_blank\">http://delphi.uniroma2.it</a><br>Una raccolta di testi di esame relativi agli a.a. passati e vari esempi di programmi sulle system call POSIX e sulla programmazione dei socket sono disponibili nell'area \"materiale didattico\".</br></br></br></br></br></br></p>\n<p>\u00a0</p>\n<p><em>Esame parziale (esonero) A.A. 2013/2014 </em></p>\n<p>Gli studenti del nuovo ordinamento possono sostenere,<span style=\"text-decoration: underline;\"> nel solo appello invernale</span>, l'esame parziale (esonero) di \"Sistemi operativi e reti\" che consiste in una prova scritta e in una prova orale basate sugli argomenti della prima parte del corso (Sistemi operativi).</p>\n<p>La prova scritta si svolger\u00e0 il 18-02-2014 alle ore 10:00 in aula 3 del PP2. La prova orale si svolger\u00e0 a partire dal 21-02-2014. Lo studente che supera l'esame parziale deve sostenere la restante parte di SOR entro l'anno accademico 2013/2014.</p>\n<p>Lo studente che intende sostenere l'esame parziale deve prenotarsi inviando una e-mail all'indirizzo del docente: frasca@mat.uniroma2.it, indicando come oggetto la frase \"esame parziale SOR A.A. 2013/2014\" e indicando nel messaggio il proprio cognome, nome e numero di matricola.<br>Il testo della prova scritta \u00e8 composto da un gruppo di 4-5 domande. Le domande sono del tipo a risposta aperta o sottoforma di problemi. Una delle domande consiste nello sviluppo di un breve programma in linguaggio C basato sulle system call POSIX studiate durante il corso.</br></p>\n<p>La durata della prova scritta dell'esame parziale \u00e8 di 1 ora e 30 minuti.</p>\n<p>Durante lo svolgimento della prova scritta \u00e8 vietato l'uso di libri e/o appunti di qualsiasi genere. <br>Per sostenere la prova orale \u00e8 necessario aver superato la prova scritta con una votazione di almeno 18/30.</br></p></td></tr></table>"
+}

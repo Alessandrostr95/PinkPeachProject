@@ -1,0 +1,26 @@
+{
+  "nomeCorso": "Fisica",
+  "docente": [
+    {
+      "first_name": "Sergio",
+      "second_name": "Tazzari"
+    },
+    {
+      "first_name": "Sergio",
+      "second_name": "Tazzari"
+    }
+  ],
+  "annoAccademico": "2003-2004",
+  "crediti": "6",
+  "settore": "",
+  "anno": "1",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>PROGRAMMA\r\n(Riferimento al testo adottato)\r\n-Cap. 1\r\n-Cap. 2 par. 1,2,3,4,5,6,7\r\n-Cap. 3 par. 1,2,3,4,5\r\n-Cap. 4 par. 1,2,3,4,5,6,7\r\n-Cap. 5 par. 1,2,6,7\r\n-Cap. 6 par. 1,2,3,4,5,6,7,8\r\n-Cap. 7 par. 1,2,3,4,6,7\r\n-Cap. 19\r\n-Cap. 20\r\n-Cap. 21 (esclusi par. 21.6, 21.8)</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>Testo adottato:\r\nSerway e Jewett - Principi di Fisica, Volume I, terza edizione\r\nEdizioni EdiSES.</td></tr></table>",
+  "ricevimento": "<table><tr><td>Ricevimento Studenti: Mercoledi ore 15 -16. Dipartimento di Fisica,\r\ncorridoio D0 , stanza 4505 , Tel. 7259-4505</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

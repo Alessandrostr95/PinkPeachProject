@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Fisica",
+  "docente": [
+    {
+      "first_name": "Paolo",
+      "second_name": "Camarri"
+    }
+  ],
+  "annoAccademico": "2013-2014",
+  "crediti": "6",
+  "settore": "FIS/01",
+  "anno": "1",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Analisi Matematica.",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td></td></tr></table>",
+  "testiRiferimento": "<table><tr><td></td></tr></table>",
+  "ricevimento": "<table><tr><td></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

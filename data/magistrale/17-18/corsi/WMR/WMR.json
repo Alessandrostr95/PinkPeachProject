@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Web mining and retrieval",
+  "docente": [
+    {
+      "first_name": "Roberto",
+      "second_name": "Basili"
+    }
+  ],
+  "annoAccademico": "2017-2018",
+  "crediti": "9",
+  "settore": "INF-ING/05",
+  "anno": "2",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>null</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>null</td></tr></table>",
+  "ricevimento": "<table><tr><td>null</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

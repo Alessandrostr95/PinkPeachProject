@@ -1,0 +1,28 @@
+{
+  "nomeCorso": "Basi di dati",
+  "docente": [
+    {
+      "first_name": "Loredana",
+      "second_name": "Vigliano"
+    }
+  ],
+  "annoAccademico": "2012-2013",
+  "crediti": "12",
+  "settore": "INF/01",
+  "anno": "2",
+  "semestre": "1-2",
+  "propedeuticit\u00e0": "Matematica discreta. Programmazione.",
+  "comunicazioni": [
+    {
+      "titolo": "null",
+      "data": "28-02-2013 21:19",
+      "contenuto": "<p>null</p>"
+    }
+  ],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>Introduzione\r<br/> <br/>- Modello relazionale \r<br/>- Algebra relazionale \r<br/>- Calcolo relazionale \r<br/>- Flusso di progetto e visione dei dati \r<br/>- Modello concettuale dei dati \r<br/>- Disegno logico DB \r<br/> <br/>Schema Entity-relationship \r<br/>- Disegno fisico DB \r<br/>- Forme normali \r<br/>- Query language e implementazioni su mySQL \r<br/>DML \r<br/>SQL \r<br/> <br/>- Organizzazione fisica dei dati \r<br/>- Ottimizzazione degli indici \r<br/>- Modellazione dei dati in UML \r<br/>- Normalizzazione e Denormalizzazione \r<br/>- Ottimizzazione delle interrogazioni \r<br/> <i>------ MySQL e ottimizzazioni </i> <br/> <br/>- Transazioni \r<br/><i>------ Locking a due fasi, Timestamp,MVCC \r<br/>------ MySQL e Storage Engine</i> <br/> <br/>- Basi di dati attive \r<br/><i>------ Trigger e Stored Procedure \r<br/>------ Cursor, Trigger e Stored Procedure in MySQL </i> <br/> <br/>- Basi di dati a oggetti \r<br/><i>------ Basi di dati geospaziali e GIS </i> <br/>- Basi di dati per XML (lettura) \r<br/>- Basi di dati su architetture distribuite \r<br/><i>------ Commit a due fasi </i> <br/>- Architetture dei sistemi informativi su Web (lettura) \r<br/>- Architetture per l' analisi dei dati \r<br/><i>o Data Warehouse \r<br/>------ Data Mining</i> <br/> <br/>- Simulazione progetto </td></tr></table>",
+  "testiRiferimento": "<table><tr><td>- Atzeni, Ceri,Parboschi, Torlone <i>Basi di dati, modelli e linguaggi di interrogazione</i> McGraw-Hill ; \r<br/>- Welling-Thomson <i>MySQL Tutorial</i> (opzionale) ; \r<br/> <br/>- Atzeni,Ceri,Fraternali,Paraboschi,Torlone <i>Basi di dati - \r<br/>Architetture e linee di evoluzione</i> ed. McGraw-Hill 2nd edition \r<br/>- Schwartz,Zaitsev,Tkachenko,Zawodny, Lentz &amp; Balling High <i>Performance MySQL</i> ed. O'Reilly 2nd edition \r<br/> <br/>- lucidi di L. Vigliano presentati a Lezione\r<br/> <br/>Consigliati :\r<br/>- Elmasri,Navathe  <i>Sistemi di basi di dati</i> Pearson</td></tr></table>",
+  "ricevimento": "<table><tr><td>In aula alla fine delle lezioni o previo appuntamento via mail</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

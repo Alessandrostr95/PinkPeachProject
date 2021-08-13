@@ -1,0 +1,418 @@
+{
+  "nomeCorso": "Fondamenti di informatica",
+  "docente": [
+    {
+      "first_name": "Giorgio",
+      "second_name": "Gambosi"
+    },
+    {
+      "first_name": "Miriam",
+      "second_name": "Di Ianni"
+    }
+  ],
+  "annoAccademico": "2017-2018",
+  "crediti": "12",
+  "settore": "INF/01",
+  "anno": "2",
+  "semestre": "1-2",
+  "propedeuticit\u00e0": "Matematica discreta.",
+  "comunicazioni": [
+    {
+      "titolo": "Risultati prova scritta 1 modulo del 20-9-2018",
+      "data": "21-09-2018 12:45",
+      "contenuto": "<p>Pubblicati i risultati della prova scritta di esame per il 1 modulo del corso, tenuta il 20-9-2018.\u00a0<span style=\"-webkit-text-stroke-width: initial;\">Si ricorda che gli studenti che hanno ottenuto la sufficienza (almeno 18) possono, volendo, sostenere il colloquio orale previsto per il 26-9-18 alle ore 10 nello studio del docente o, in alternativa, mantenere il voto ottenuto.\u00a0</span><span style=\"color: #000000;\"><span style=\"font-family: Verdana; -webkit-text-stroke: #000000;\">Gli studenti che hanno ottenuto un voto compreso tra 15 e 17 devono, per superare l'esame, sostenere il colloquo orale.</span><span class=\"Apple-converted-space\" style=\"font-family: Verdana; -webkit-text-stroke: #000000;\">\u00a0</span></span><span style=\"-webkit-text-stroke-width: initial;\">Si pregano gli studenti che intendono sostenere il colloquo orale di comunicarlo al docente via email. In assenza di comunicazione, si manterr\u00e0 traccia del voto ottenuto, se sufficiente.</span></p><hr/>"
+    },
+    {
+      "titolo": "Risultati prova scritta 1 modulo del 6-9-2018",
+      "data": "08-09-2018 16:12",
+      "contenuto": "<p></p>\n<p class=\"p1\">Pubblicati i risultati della prova scritta di esame per il 1 modulo del corso, tenuta il 6-9-2018.\u00a0<span style=\"-webkit-text-stroke-width: initial;\">Si ricorda che gli studenti che hanno ottenuto la sufficienza (almeno 18) possono, volendo, sostenere il colloquio orale previsto per il 12-9-18 alle ore 10 nello studio del docente o, in alternativa, mantenere il voto ottenuto. Si pregano gli studenti che intendono sostenere il colloquo orale di comunicarlo al docente via email. In assenza di comunicazione, si manterr\u00e0 traccia del voto ottenuto.</span></p>\n<p>\u00a0</p><hr/>"
+    },
+    {
+      "titolo": "Prova scritta modulo 1 del 6-9-2018",
+      "data": "28-08-2018 16:38",
+      "contenuto": "<p><span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">La prova scritta di esame relativa al modulo 1 prevista il giorno 6-9-2018 avr\u00e0 luogo alle ore 15 in aula T5. Si pregano gli studenti interessati a sostenere la prova di inviarne comunicazione all'indirizzo giorgio.gambosi@uniroma2.it\u00a0</span></p><hr/>"
+    },
+    {
+      "titolo": "Risultati prova scritta corso Fondamenti di Informatica (6 cfu) del 9-7-2018",
+      "data": "10-07-2018 23:52",
+      "contenuto": "<p><span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Pubblicati i risultati della prova scritta di esame per il corso di Fondamenti di Informatica (6 cfu), tenuta il 9-7-2018. Si ricorda che gli studenti che hanno ottenuto la sufficienza (almeno 18) possono, volendo, sostenere il colloquio orale previsto per il 12-7-18 alle ore 10 nello studio del docente o, in alternativa, presentarsi per la verbalizzazione del voto ottenuto.</span></p><hr/>"
+    },
+    {
+      "titolo": "Risultati prova scritta 1 modulo del 9-7-2018",
+      "data": "10-07-2018 23:50",
+      "contenuto": "<p><span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Pubblicati i risultati della prova scritta di esame del primo modulo, tenuta il 9-7-2018. Si ricorda che gli studenti che hanno ottenuto la sufficienza (almeno 18) possono, volendo, sostenere il colloquio orale previsto per il 12-7-18 alle ore 10 nello studio del docente o, in alternativa, mantenere il voto ottenuto. Si pregano gli studenti che intendono sostenere il colloquo orale di comunicarlo al docente via email. In assenza di comunicazione, si manterr\u00e0 traccia del voto ottenuto.</span></p><hr/>"
+    },
+    {
+      "titolo": "Prova scritta modulo 1 del 9-7-2018",
+      "data": "03-07-2018 16:05",
+      "contenuto": "<p><span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Si precisa che la prova scritta di esame relativa al modulo 1 prevista il giorno 9-7-2018 avr\u00e0 luogo alle ore 15 in aula T5. Si pregano gli studenti interessati a sostenere la prova di inviarne comunicazione all'indirizzo giorgio.gambosi@uniroma2.it\u00a0</span></p><hr/>"
+    },
+    {
+      "titolo": "",
+      "data": "20-06-2018 20:16",
+      "contenuto": "<p>Pubblicati i risultati della prova scritta di esame del primo modulo, tenuta il 18-6-2018. Si ricorda che gli studenti che hanno ottenuto la sufficienza (almeno 18) possono, volendo, sostenere il colloquio orale previsto per il 22-6-18 alle ore 10 nello studio del docente o, in alternativa, mantenere il voto ottenuto. Gli studenti che hanno ottenuto un voto compreso tra 15 e 17 devono, per superare l'esame, sostenere il colloquo orale. Si pregano gli studenti che intendono sostenere il colloquo orale di comunicarlo al docente via email. In assenza di comunicazione, si manterr\u00e0 traccia del voto ottenuto, se sufficiente.</p><hr/>"
+    },
+    {
+      "titolo": "Prova scritta modulo 1 del 18-6-2018",
+      "data": "17-06-2018 20:46",
+      "contenuto": "<p>Si precisa che la prova scritta di esame relativa al modulo 1 prevista il giorno 18-6-2018 avr\u00e0 luogo alle ore 15 in aula T5.</p><hr/>"
+    },
+    {
+      "titolo": "Ricevimento mod.2 7/6/18",
+      "data": "06-06-2018 14:45",
+      "contenuto": "<p>Si avvisano gli studenti che la docente sar\u00e0 disponibile nel suo studio dalle ore 10:30 alle 13 per chiarire eventuali dubbi degli studenti in previsione dell'esame.</p><hr/>"
+    },
+    {
+      "titolo": "",
+      "data": "28-03-2018 12:02",
+      "contenuto": "<p>La lezione del giorno mercoled\u00ec 4 aprile 2018 non avr\u00e0 luogo.</p><hr/>"
+    },
+    {
+      "titolo": "",
+      "data": "25-02-2018 20:53",
+      "contenuto": "<p>Pubblicati i risultati della prova scritta di esonero del primo modulo e di esame del corso di 6 cfu. Si ricorda che gli studenti che hanno ottenuto la sufficienza (almeno 18) possono, volendo, sostenere il colloquio orale previsto per il 6-3-18 alle ore 15 nello studio del docente o, in alternativa, mantenere il voto ottenuto. Gli studenti che hanno ottenuto un voto compreso tra 15 e 17 devono, per superare l'esame, sostenere il colloquo orale. Si pregano gli studenti che intendono sostenere il colloquo orale di comunicarlo al docente via email. In assenza di comunicazione, si manterr\u00e0 traccia del voto ottenuto, se sufficiente.</p><hr/>"
+    },
+    {
+      "titolo": "Colloqui orali primo modulo",
+      "data": "24-02-2018 19:24",
+      "contenuto": "<p>I colloqui orali relativi al secondo esonero della del primo modulo, del 21-2-2018, sono rimandati a marted\u00ec 6 marzo alle 15.00 presso lo studio del docente. I risultati della relativa prova scritta saranno pubblicati nei prossimi giorni.</p><hr/>"
+    },
+    {
+      "titolo": "Prove scritte del 21-2-2018",
+      "data": "15-02-2018 19:01",
+      "contenuto": "<h3 style=\"font-family: Verdana, arial, san-serif; color: #000000; margin: 0px;\">\u00a0</h3>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Le prove scritte relative al corso di Fondamenti di Informatica del 21-2-2018 avranno luogo con il seguente orario:</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- ore 10.00 in aula T5 per il secondo modulo</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- ore 14.00 in aula T5 per il primo modulo</p><hr/>"
+    },
+    {
+      "titolo": "",
+      "data": "11-02-2018 15:12",
+      "contenuto": "<p>Pubblicati i risultati della prova scritta di esonero del primo modulo e di esame del corso di 6 cfu. Si ricorda che gli studenti che hanno ottenuto la sufficienza (almeno 18) possono, volendo, sostenere il colloquio orale previsto per il 14-2-18 o, in alternativa, mantenere il voto ottenuto. Gli studenti che hanno ottenuto un voto compreso tra 15 e 17 devono, per superare l'esame, sostenere il colloquo orale. Si pregano gli studenti che intendono sostenere il colloquo orale di comunicarlo al docente via email. In assenza di comunicazione, si manterr\u00e0 traccia del voto ottenuto, se sufficiente.</p><hr/>"
+    },
+    {
+      "titolo": "Prove scritte del 9-2-2018",
+      "data": "04-02-2018 15:16",
+      "contenuto": "<p>Le prove scritte relative al corso di Fondamenti di Informatica del 9-2-2018 avranno luogo con il seguente orario:</p>\n<p>- ore 10.00 in aula T5 per il secondo modulo</p>\n<p>- ore 15.00 in aula T5 per il primo modulo</p><hr/>"
+    },
+    {
+      "titolo": "",
+      "data": "16-01-2018 23:31",
+      "contenuto": "<p>Una cartella condivisa contenente i testi di esami precedenti \u00e8 accessibile a questo <a href=\"https://www.dropbox.com/sh/8rwqddfhmqgq6sw/AABE41kQ8TT0Cgn0Qxcc_gIga?dl=0\" target=\"_blank\">indirizzo</a></p><hr/>"
+    },
+    {
+      "titolo": "",
+      "data": "22-10-2017 11:55",
+      "contenuto": "<p>Le lezioni del primo modulo del corso riprenderanno Luned\u00ec 30 ottobre 2017 alle ore 9 in aula 6PP2, con una prima lezione di recupero delle lezioni perse per causa di forza maggiore</p><hr/>"
+    },
+    {
+      "titolo": "",
+      "data": "06-10-2017 17:17",
+      "contenuto": "<p>A partire da mercoled\u00ec 11 ottobre, le lezioni avranno luogo presso l'aula 6, edificio PP2.</p><hr/>"
+    },
+    {
+      "titolo": "",
+      "data": "06-10-2017 17:14",
+      "contenuto": "<p>Le lezioni di marted\u00ec 10, marted\u00ec 17 e mercoled\u00ec 18 ottobre non avranno luogo. Saranno recuperate in seguito, in date da definire. La lezione di mercoled\u00ec 11 avr\u00e0 regolarmente luogo.</p>"
+    }
+  ],
+  "lezioni": [
+    {
+      "id": "24",
+      "data": "31-05-2018",
+      "contenuto": "<p><!--[if gte mso 9]><xml>\r\n <o:OfficeDocumentSettings>\r\n  <o:PixelsPerInch>96</o:PixelsPerInch>\r\n  <o:TargetScreenSize>800x600</o:TargetScreenSize>\r\n </o:OfficeDocumentSettings>\r\n</xml><![endif]--> <!--[if gte mso 9]><xml>\r\n <w:WordDocument>\r\n  <w:View>Normal</w:View>\r\n  <w:Zoom>0</w:Zoom>\r\n  <w:TrackMoves/>\r\n  <w:TrackFormatting/>\r\n  <w:HyphenationZone>14</w:HyphenationZone>\r\n  <w:PunctuationKerning/>\r\n  <w:ValidateAgainstSchemas/>\r\n  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>\r\n  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>\r\n  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>\r\n  <w:DoNotPromoteQF/>\r\n  <w:LidThemeOther>IT</w:LidThemeOther>\r\n  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>\r\n  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>\r\n  <w:Compatibility>\r\n   <w:BreakWrappedTables/>\r\n   <w:SnapToGridInCell/>\r\n   <w:WrapTextWithPunct/>\r\n   <w:UseAsianBreakRules/>\r\n   <w:DontGrowAutofit/>\r\n   <w:SplitPgBreakAndParaMark/>\r\n   <w:EnableOpenTypeKerning/>\r\n   <w:DontFlipMirrorIndents/>\r\n   <w:OverrideTableStyleHps/>\r\n  </w:Compatibility>\r\n  <m:mathPr>\r\n   <m:mathFont m:val=\"Cambria Math\"/>\r\n   <m:brkBin m:val=\"before\"/>\r\n   <m:brkBinSub m:val=\"&#45;-\"/>\r\n   <m:smallFrac m:val=\"off\"/>\r\n   <m:dispDef/>\r\n   <m:lMargin m:val=\"0\"/>\r\n   <m:rMargin m:val=\"0\"/>\r\n   <m:defJc m:val=\"centerGroup\"/>\r\n   <m:wrapIndent m:val=\"1440\"/>\r\n   <m:intLim m:val=\"subSup\"/>\r\n   <m:naryLim m:val=\"undOvr\"/>\r\n  </m:mathPr></w:WordDocument>\r\n</xml><![endif]--><!--[if gte mso 9]><xml>\r\n <w:LatentStyles DefLockedState=\"false\" DefUnhideWhenUsed=\"false\"\r\n  DefSemiHidden=\"false\" DefQFormat=\"false\" DefPriority=\"99\"\r\n  LatentStyleCount=\"380\">\r\n  <w:LsdException Locked=\"false\" Priority=\"0\" QFormat=\"true\" Name=\"Normal\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" QFormat=\"true\" Name=\"heading 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" QFormat=\"true\" Name=\"heading 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" QFormat=\"true\" Name=\"heading 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" QFormat=\"true\" Name=\"heading 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" QFormat=\"true\" Name=\"heading 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" QFormat=\"true\" Name=\"heading 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" QFormat=\"true\" Name=\"heading 7\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" QFormat=\"true\" Name=\"heading 8\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" QFormat=\"true\" Name=\"heading 9\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"index 1\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"index 2\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"index 3\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"index 4\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"index 5\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"index 6\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"index 7\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"index 8\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"index 9\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" Name=\"toc 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" Name=\"toc 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" Name=\"toc 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" Name=\"toc 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" Name=\"toc 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" Name=\"toc 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" Name=\"toc 7\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" Name=\"toc 8\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" Name=\"toc 9\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Normal Indent\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"footnote text\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"annotation text\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"header\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"footer\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"index heading\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"35\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" QFormat=\"true\" Name=\"caption\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"table of figures\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"envelope address\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"envelope return\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"footnote reference\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"annotation reference\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"line number\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"page number\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"endnote reference\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"endnote text\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"table of authorities\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"macro\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"toa heading\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List Bullet\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List Number\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List 2\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List 3\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List 4\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List 5\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List Bullet 2\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List Bullet 3\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List Bullet 4\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List Bullet 5\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List Number 2\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List Number 3\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List Number 4\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List Number 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"10\" QFormat=\"true\" Name=\"Title\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Closing\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Signature\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"0\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" Name=\"Default Paragraph Font\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Body Text\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Body Text Indent\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List Continue\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List Continue 2\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List Continue 3\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List Continue 4\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List Continue 5\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Message Header\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"11\" QFormat=\"true\" Name=\"Subtitle\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Salutation\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Date\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Body Text First Indent\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Body Text First Indent 2\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Note Heading\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Body Text 2\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Body Text 3\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Body Text Indent 2\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Body Text Indent 3\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Block Text\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Hyperlink\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"FollowedHyperlink\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"22\" QFormat=\"true\" Name=\"Strong\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"20\" QFormat=\"true\" Name=\"Emphasis\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Document Map\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Plain Text\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"E-mail Signature\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"HTML Top of Form\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"HTML Bottom of Form\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Normal (Web)\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"HTML Acronym\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"HTML Address\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"HTML Cite\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"HTML Code\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"HTML Definition\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"HTML Keyboard\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"HTML Preformatted\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"HTML Sample\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"HTML Typewriter\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"HTML Variable\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Normal Table\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"annotation subject\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"No List\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Outline List 1\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Outline List 2\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Outline List 3\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Simple 1\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Simple 2\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Simple 3\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Classic 1\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Classic 2\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Classic 3\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Classic 4\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Colorful 1\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Colorful 2\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Colorful 3\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Columns 1\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Columns 2\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Columns 3\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Columns 4\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Columns 5\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Grid 1\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Grid 2\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Grid 3\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Grid 4\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Grid 5\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Grid 6\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Grid 7\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Grid 8\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table List 1\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table List 2\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table List 3\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table List 4\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table List 5\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table List 6\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table List 7\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table List 8\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table 3D effects 1\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table 3D effects 2\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table 3D effects 3\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Contemporary\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Elegant\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Professional\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Subtle 1\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Subtle 2\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Web 1\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Web 2\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Web 3\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Balloon Text\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" Name=\"Table Grid\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Theme\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Note Level 1\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Note Level 2\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Note Level 3\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Note Level 4\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Note Level 5\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Note Level 6\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Note Level 7\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Note Level 8\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Note Level 9\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" Name=\"Placeholder Text\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"1\" QFormat=\"true\" Name=\"No Spacing\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"60\" Name=\"Light Shading\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"61\" Name=\"Light List\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"62\" Name=\"Light Grid\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"63\" Name=\"Medium Shading 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"64\" Name=\"Medium Shading 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"65\" Name=\"Medium List 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"66\" Name=\"Medium List 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"67\" Name=\"Medium Grid 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"68\" Name=\"Medium Grid 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"69\" Name=\"Medium Grid 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"70\" Name=\"Dark List\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"71\" Name=\"Colorful Shading\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"72\" Name=\"Colorful List\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"73\" Name=\"Colorful Grid\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"60\" Name=\"Light Shading Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"61\" Name=\"Light List Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"62\" Name=\"Light Grid Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"63\" Name=\"Medium Shading 1 Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"64\" Name=\"Medium Shading 2 Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"65\" Name=\"Medium List 1 Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" Name=\"Revision\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"34\" QFormat=\"true\"\r\n   Name=\"List Paragraph\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"29\" QFormat=\"true\" Name=\"Quote\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"30\" QFormat=\"true\"\r\n   Name=\"Intense Quote\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"66\" Name=\"Medium List 2 Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"67\" Name=\"Medium Grid 1 Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"68\" Name=\"Medium Grid 2 Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"69\" Name=\"Medium Grid 3 Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"70\" Name=\"Dark List Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"71\" Name=\"Colorful Shading Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"72\" Name=\"Colorful List Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"73\" Name=\"Colorful Grid Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"60\" Name=\"Light Shading Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"61\" Name=\"Light List Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"62\" Name=\"Light Grid Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"63\" Name=\"Medium Shading 1 Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"64\" Name=\"Medium Shading 2 Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"65\" Name=\"Medium List 1 Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"66\" Name=\"Medium List 2 Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"67\" Name=\"Medium Grid 1 Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"68\" Name=\"Medium Grid 2 Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"69\" Name=\"Medium Grid 3 Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"70\" Name=\"Dark List Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"71\" Name=\"Colorful Shading Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"72\" Name=\"Colorful List Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"73\" Name=\"Colorful Grid Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"60\" Name=\"Light Shading Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"61\" Name=\"Light List Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"62\" Name=\"Light Grid Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"63\" Name=\"Medium Shading 1 Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"64\" Name=\"Medium Shading 2 Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"65\" Name=\"Medium List 1 Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"66\" Name=\"Medium List 2 Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"67\" Name=\"Medium Grid 1 Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"68\" Name=\"Medium Grid 2 Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"69\" Name=\"Medium Grid 3 Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"70\" Name=\"Dark List Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"71\" Name=\"Colorful Shading Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"72\" Name=\"Colorful List Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"73\" Name=\"Colorful Grid Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"60\" Name=\"Light Shading Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"61\" Name=\"Light List Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"62\" Name=\"Light Grid Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"63\" Name=\"Medium Shading 1 Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"64\" Name=\"Medium Shading 2 Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"65\" Name=\"Medium List 1 Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"66\" Name=\"Medium List 2 Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"67\" Name=\"Medium Grid 1 Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"68\" Name=\"Medium Grid 2 Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"69\" Name=\"Medium Grid 3 Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"70\" Name=\"Dark List Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"71\" Name=\"Colorful Shading Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"72\" Name=\"Colorful List Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"73\" Name=\"Colorful Grid Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"60\" Name=\"Light Shading Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"61\" Name=\"Light List Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"62\" Name=\"Light Grid Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"63\" Name=\"Medium Shading 1 Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"64\" Name=\"Medium Shading 2 Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"65\" Name=\"Medium List 1 Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"66\" Name=\"Medium List 2 Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"67\" Name=\"Medium Grid 1 Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"68\" Name=\"Medium Grid 2 Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"69\" Name=\"Medium Grid 3 Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"70\" Name=\"Dark List Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"71\" Name=\"Colorful Shading Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"72\" Name=\"Colorful List Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"73\" Name=\"Colorful Grid Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"60\" Name=\"Light Shading Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"61\" Name=\"Light List Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"62\" Name=\"Light Grid Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"63\" Name=\"Medium Shading 1 Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"64\" Name=\"Medium Shading 2 Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"65\" Name=\"Medium List 1 Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"66\" Name=\"Medium List 2 Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"67\" Name=\"Medium Grid 1 Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"68\" Name=\"Medium Grid 2 Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"69\" Name=\"Medium Grid 3 Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"70\" Name=\"Dark List Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"71\" Name=\"Colorful Shading Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"72\" Name=\"Colorful List Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"73\" Name=\"Colorful Grid Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"19\" QFormat=\"true\"\r\n   Name=\"Subtle Emphasis\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"21\" QFormat=\"true\"\r\n   Name=\"Intense Emphasis\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"31\" QFormat=\"true\"\r\n   Name=\"Subtle Reference\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"32\" QFormat=\"true\"\r\n   Name=\"Intense Reference\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"33\" QFormat=\"true\" Name=\"Book Title\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"37\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" Name=\"Bibliography\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" QFormat=\"true\" Name=\"TOC Heading\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"41\" Name=\"Plain Table 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"42\" Name=\"Plain Table 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"43\" Name=\"Plain Table 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"44\" Name=\"Plain Table 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"45\" Name=\"Plain Table 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"40\" Name=\"Grid Table Light\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"46\" Name=\"Grid Table 1 Light\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"Grid Table 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"Grid Table 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"Grid Table 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"Grid Table 5 Dark\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"51\" Name=\"Grid Table 6 Colorful\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"52\" Name=\"Grid Table 7 Colorful\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"46\"\r\n   Name=\"Grid Table 1 Light Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"Grid Table 2 Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"Grid Table 3 Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"Grid Table 4 Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"Grid Table 5 Dark Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"51\"\r\n   Name=\"Grid Table 6 Colorful Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"52\"\r\n   Name=\"Grid Table 7 Colorful Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"46\"\r\n   Name=\"Grid Table 1 Light Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"Grid Table 2 Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"Grid Table 3 Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"Grid Table 4 Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"Grid Table 5 Dark Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"51\"\r\n   Name=\"Grid Table 6 Colorful Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"52\"\r\n   Name=\"Grid Table 7 Colorful Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"46\"\r\n   Name=\"Grid Table 1 Light Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"Grid Table 2 Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"Grid Table 3 Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"Grid Table 4 Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"Grid Table 5 Dark Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"51\"\r\n   Name=\"Grid Table 6 Colorful Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"52\"\r\n   Name=\"Grid Table 7 Colorful Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"46\"\r\n   Name=\"Grid Table 1 Light Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"Grid Table 2 Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"Grid Table 3 Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"Grid Table 4 Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"Grid Table 5 Dark Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"51\"\r\n   Name=\"Grid Table 6 Colorful Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"52\"\r\n   Name=\"Grid Table 7 Colorful Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"46\"\r\n   Name=\"Grid Table 1 Light Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"Grid Table 2 Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"Grid Table 3 Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"Grid Table 4 Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"Grid Table 5 Dark Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"51\"\r\n   Name=\"Grid Table 6 Colorful Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"52\"\r\n   Name=\"Grid Table 7 Colorful Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"46\"\r\n   Name=\"Grid Table 1 Light Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"Grid Table 2 Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"Grid Table 3 Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"Grid Table 4 Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"Grid Table 5 Dark Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"51\"\r\n   Name=\"Grid Table 6 Colorful Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"52\"\r\n   Name=\"Grid Table 7 Colorful Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"46\" Name=\"List Table 1 Light\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"List Table 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"List Table 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"List Table 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"List Table 5 Dark\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"51\" Name=\"List Table 6 Colorful\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"52\" Name=\"List Table 7 Colorful\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"46\"\r\n   Name=\"List Table 1 Light Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"List Table 2 Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"List Table 3 Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"List Table 4 Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"List Table 5 Dark Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"51\"\r\n   Name=\"List Table 6 Colorful Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"52\"\r\n   Name=\"List Table 7 Colorful Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"46\"\r\n   Name=\"List Table 1 Light Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"List Table 2 Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"List Table 3 Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"List Table 4 Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"List Table 5 Dark Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"51\"\r\n   Name=\"List Table 6 Colorful Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"52\"\r\n   Name=\"List Table 7 Colorful Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"46\"\r\n   Name=\"List Table 1 Light Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"List Table 2 Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"List Table 3 Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"List Table 4 Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"List Table 5 Dark Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"51\"\r\n   Name=\"List Table 6 Colorful Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"52\"\r\n   Name=\"List Table 7 Colorful Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"46\"\r\n   Name=\"List Table 1 Light Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"List Table 2 Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"List Table 3 Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"List Table 4 Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"List Table 5 Dark Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"51\"\r\n   Name=\"List Table 6 Colorful Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"52\"\r\n   Name=\"List Table 7 Colorful Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"46\"\r\n   Name=\"List Table 1 Light Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"List Table 2 Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"List Table 3 Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"List Table 4 Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"List Table 5 Dark Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"51\"\r\n   Name=\"List Table 6 Colorful Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"52\"\r\n   Name=\"List Table 7 Colorful Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"46\"\r\n   Name=\"List Table 1 Light Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"List Table 2 Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"List Table 3 Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"List Table 4 Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"List Table 5 Dark Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"51\"\r\n   Name=\"List Table 6 Colorful Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"52\"\r\n   Name=\"List Table 7 Colorful Accent 6\"/>\r\n </w:LatentStyles>\r\n</xml><![endif]--> <!--[if gte mso 10]>\r\n<style>\r\n /* Style Definitions */\r\ntable.MsoNormalTable\r\n\t{mso-style-name:\"Tabella normale\";\r\n\tmso-tstyle-rowband-size:0;\r\n\tmso-tstyle-colband-size:0;\r\n\tmso-style-noshow:yes;\r\n\tmso-style-priority:99;\r\n\tmso-style-parent:\"\";\r\n\tmso-padding-alt:0cm 5.4pt 0cm 5.4pt;\r\n\tmso-para-margin:0cm;\r\n\tmso-para-margin-bottom:.0001pt;\r\n\tmso-pagination:widow-orphan;\r\n\tfont-size:10.0pt;\r\n\tfont-family:\"Times New Roman\";}\r\n</style>\r\n<![endif]--> <!--StartFragment--> <!--EndFragment--></p>\n<p class=\"MsoNormal\"><span style=\"font-size: 11.0pt; font-family: Verdana; color: black; background: white;\">Prove di NP-completezza: problemi il cui predicato \u00e8 disgiunzione o congiunzione di predicati di problemi noti, problemi di colorabilit\u00e0. Il ruolo delle costanti.</span></p>"
+    },
+    {
+      "id": "23",
+      "data": "30-05-2018",
+      "contenuto": "<p>Prove di NP-completezza: CAMMINO HAMILTONIANO, LONG PATH, TSP. NP-completezza in senso forte di TSP. Appartenenza a coNPC del complemento di COLORABILITY. Cenno alla prova di NP-completezza di DOMINATING SET. Enunciato del teorema di Ladner e struttura delle classe P, NP, coNP.</p>"
+    },
+    {
+      "id": "22",
+      "data": "24-05-2018",
+      "contenuto": "<p>Algoritmo pseudo-polinomiale per il problema PARTIZIONE. Problemi numerici. NP-completezza in senso forte e in senso debole.</p>"
+    },
+    {
+      "id": "21",
+      "data": "23-05-2018",
+      "contenuto": "<p>Prove di NP-completezza: 3SAT, VERTEX COVER, INDEPENDENT SET, CLIQUE.</p>"
+    },
+    {
+      "id": "20",
+      "data": "17-05-2018",
+      "contenuto": "<p>Appartenenza del problema LONG PATH alla classe NP.</p>"
+    },
+    {
+      "id": "19",
+      "data": "16-05-2018",
+      "contenuto": "<p>Il teorema di Cook-Levin. Esercizio: Vertex Cover \u00e8 in NP.</p>"
+    },
+    {
+      "id": "18",
+      "data": "10-05-2018",
+      "contenuto": "<p>Caratterizzazione alternativa della classe NP. Esercizio: dimostrazione che SAT \u00e8 in NP</p>"
+    },
+    {
+      "id": "17",
+      "data": "09-05-2018",
+      "contenuto": "<p>Dalla complessit\u00e0 dei linguaggi alla complessit\u00e0 dei problemi: tipi di problemi, problemi e codifiche, codifiche ragionevoli, complessit\u00e0 del linguaggio delle istanze.</p>"
+    },
+    {
+      "id": "16",
+      "data": "03-05-2018",
+      "contenuto": "<p>La classe coNP.</p>"
+    },
+    {
+      "id": "15",
+      "data": "02-05-2018",
+      "contenuto": "<p>PSPACE=NPSPACE. Riduzioni polinomiali, completezza, linguaggi separatori.</p>"
+    },
+    {
+      "id": "14",
+      "data": "26-04-2018",
+      "contenuto": "<p>Inclusione stretta di P in EXPTIME.</p>"
+    },
+    {
+      "id": "13",
+      "data": "19-04-2018",
+      "contenuto": "<p>Teorema di accelerazione. Defininizioe di P, NP, PSPACE, NPSPACE, EXPTIME, NEXPTIME e prime relazioni fra loro.</p>"
+    },
+    {
+      "id": "12",
+      "data": "18-04-2018",
+      "contenuto": "<p>Funzioni time-constructible (definizione). Relazione fra le classi NTIME e le classi DTIME. Classi complemento. Gerarchie di complessit\u00e0 relativamente alla funzione limite: enunciato del Gap-theorem. Teorema di compressione lineare.</p>"
+    },
+    {
+      "id": "11",
+      "data": "12-04-2018",
+      "contenuto": "<p>Introduzione alla teoria della complessit\u00e0. Misure di complessit\u00e0 e assiomi di Blum. Le misure dtime, dspace, ntime, nspace: definizioni, loro relazioni e indipendenza dal modello di calcolo. Classi di complessit\u00e0 DTIME[f(n)], DSPACE[f(n)], NTIME[f(n)], NSPACE[f(n)]: definizioni e relazioni fra classi detereministiche e fra classi non detreministiche.</p>"
+    },
+    {
+      "id": "10",
+      "data": "11-04-2018",
+      "contenuto": "<p>Halting problem: accettabilit\u00e0 e non decidibilit\u00e0. Riducibilit\u00e0 many-to-one fra linguaggi ed applicazioni alle porve di accettabilit\u00e0/decidibilit\u00e0 o non accettabilit\u00e0/decidibilit\u00e0</p>"
+    },
+    {
+      "id": "9",
+      "data": "05-04-2018",
+      "contenuto": "<p>Prova dell'esistenza di linguaggi non accettabili. Esercitazione: programma in Pascal minimo che simula una computazione non deterministica.</p>"
+    },
+    {
+      "id": "8",
+      "data": "29-03-2018",
+      "contenuto": "<p>Cardinalit\u00e0 di insiemi e numeri transfiniti. Insiemi numerabili: sottoinsiemi, unione, prodotto cartesiano. Insieme delle parti di un insieme numerabile: la diagonalizzazione di Cantor.</p>"
+    },
+    {
+      "id": "7",
+      "data": "28-03-2018",
+      "contenuto": "<p>La tesi di Church-Turing. Il linguaggio Pascal minimo e sua equivalenza con il modello di calcolo Macchina di Turing. Descrizione della Macchina di Turing Universale in Pascal minimo</p>"
+    },
+    {
+      "id": "6",
+      "data": "22-03-2018",
+      "contenuto": "<p>Linguaggi e funzioni. Linguaggi complemento. Accettabilit\u00e0 e decidibilit\u00e0 di linguaggi. Calcolabilit\u00e0 di funzioni</p>"
+    },
+    {
+      "id": "5",
+      "data": "21-03-2018",
+      "contenuto": "<p>La Macchina di Turing Universale. Esercitazione: macchina di Turing che, con input i due numeri binari x e y, decide se x=2y</p>"
+    },
+    {
+      "id": "4",
+      "data": "15-03-2018",
+      "contenuto": "<p>Equivalenza fra macchine deterministiche e macchine non deterministiche. Rappresentazione di una macchina di Turing mediante una parola di un opportuno alfabeto. Introduzione alla Macchina di Turing Universale.</p>"
+    },
+    {
+      "id": "3",
+      "data": "14-03-2018",
+      "contenuto": "<p>Equivalenza fra macchine definite su un alfabeto generico e macchine definite sull'alfabeto binario. Completezza dell'insieme delle quintuple. Macchine di Turing non deterministiche (di tipo riconoscitore): grado di non determinismo, albero delle computazioni, accettazione e rigetto</p>"
+    },
+    {
+      "id": "2",
+      "data": "08-03-2018",
+      "contenuto": "<p>Macchine di Turing di tipo trasduttore e macchine di tipo riconoscitore. Equivalenza fra macchine a k nastri e macchine ad un nastro. Stato globale, computazione e esito di una computazione di una macchina di Turing.</p>"
+    },
+    {
+      "id": "1",
+      "data": "07-03-2018",
+      "contenuto": "<p>Modulo 2.\u00a0<span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Introduzione alla calcolabilit\u00e0: dai sillogismi al concetto di calcolo automatico. Introduzione alle macchine di Turing: macchine a 3 nastri e a 1 nastro per il calcolo della somma di due numeri.</span></p>"
+    }
+  ],
+  "materiale": [
+    {
+      "titolo": "<span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify; background-color: #d7ecfc;\">Risultati prova scritta d'esame 1 modulo, del 20-9-2018.</span>",
+      "dataUpload": "21.09.2018 12:41:48",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/FO/risultati200918.pdf",
+      "dimensione": "28 KB"
+    },
+    {
+      "titolo": "<span style=\"background-color: #d7ecfc;\">Risultati prova scritta d'esame 1 modulo, del 6-9-2018.</span>",
+      "dataUpload": "08.09.2018 16:08:04",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/FO/risultati060918.pdf",
+      "dimensione": "17 KB"
+    },
+    {
+      "titolo": "Testo prova scritta d'esame modulo 1 del 9-7-2018, con soluzioni.",
+      "dataUpload": "11.07.2018 13:43:09",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/FO/esame090718.pdf",
+      "dimensione": "68 KB"
+    },
+    {
+      "titolo": "Risultati prova scritta d'esame primo modulo del 9-7-2018",
+      "dataUpload": "10.07.2018 23:48:00",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/FO/risultati090718.pdf",
+      "dimensione": "18 KB"
+    },
+    {
+      "titolo": "Risultati prova scritta d'esame appello straordinario Fondamenti di Informatica (6cfu) del 9-7-2018",
+      "dataUpload": "10.07.2018 23:46:34",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/FO/risultati0907186cfu.pdf",
+      "dimensione": "16 KB"
+    },
+    {
+      "titolo": "Risultati prova scritta di esame primo modulo del 18-6-018",
+      "dataUpload": "20.06.2018 20:15:05",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/FO/risultati180618.pdf",
+      "dimensione": "16 KB"
+    },
+    {
+      "titolo": "Mod.2. Dispensa 9: La classe NP",
+      "dataUpload": "16.05.2018 11:55:18",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/FO/D09ClasseNP.pdf",
+      "dimensione": "330 KB"
+    },
+    {
+      "titolo": "Mod.2. Dispensa 8: La classe P",
+      "dataUpload": "16.05.2018 11:54:34",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/FO/D08ClasseP.pdf",
+      "dimensione": "146 KB"
+    },
+    {
+      "titolo": "Mod. 2. Esercizi: Macchine di Turing",
+      "dataUpload": "09.05.2018 12:05:25",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/FO/EsMacchineTuring.pdf",
+      "dimensione": "139 KB"
+    },
+    {
+      "titolo": "Mod. 2. Esercizi: Linguaggi accettabili e decidibili",
+      "dataUpload": "09.05.2018 12:04:59",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/FO/EsLinguaggiDecidibili.pdf",
+      "dimensione": "106 KB"
+    },
+    {
+      "titolo": "Mod. 2. Esercizi: Cardinalit\u00e0 di insiemi",
+      "dataUpload": "09.05.2018 12:04:07",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/FO/EsCardinalitaInsiemi.pdf",
+      "dimensione": "91 KB"
+    },
+    {
+      "titolo": "Mod. 2. Esercizi: Linguaggi e complessit\u00e0",
+      "dataUpload": "09.05.2018 12:03:37",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/FO/Es-LinguaggiEComplessita.pdf",
+      "dimensione": "126 KB"
+    },
+    {
+      "titolo": "Mod. 2. Dispensa 7: Linguaggi e problemi",
+      "dataUpload": "09.05.2018 11:58:32",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/FO/D07LinguaggiEProblemi.pdf",
+      "dimensione": "153 KB"
+    },
+    {
+      "titolo": "Mod. 2. Dispensa 6: Linguaggi e complessit\u00e0",
+      "dataUpload": "11.04.2018 18:54:36",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/FO/D06LinguaggiEComplessita.pdf",
+      "dimensione": "236 KB"
+    },
+    {
+      "titolo": "Mod. 2. Dispensa 5: l'Halting Problem.",
+      "dataUpload": "05.04.2018 18:33:11",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/FO/D05HaltingProblem.pdf",
+      "dimensione": "130 KB"
+    },
+    {
+      "titolo": "Mod. 2. Dispensa 4: cardinalit\u00e0 di insiemi",
+      "dataUpload": "29.03.2018 16:52:39",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/FO/D04Infinito.pdf",
+      "dimensione": "143 KB"
+    },
+    {
+      "titolo": "<pre style=\"margin: 0px;\"><!--StartFragment-->Mod. 2. Dispensa 2: macchine di Turing e Macchina di Turing Universale<!--EndFragment--></pre>",
+      "dataUpload": "13.03.2018 16:08:51",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/FO/D02MacchineTuring.pdf",
+      "dimensione": "151 KB"
+    },
+    {
+      "titolo": "Mod. 2. Dispensa 1: introduzione alla calcolabilit\u00e0",
+      "dataUpload": "06.03.2018 18:13:20",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/FO/D01Introduzione.pdf",
+      "dimensione": "165 KB"
+    },
+    {
+      "titolo": "Mod. 2. Dispensa 3: Funzioni calcolabili e linguaggi decidibili",
+      "dataUpload": "06.03.2018 18:11:50",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/FO/D03TesiDiChurchTuring.pdf",
+      "dimensione": "169 KB"
+    },
+    {
+      "titolo": "Risultati prova scritta d'esonero, primo modulo Fondamenti di Informatica (12 cfu), del 21-2-2018.",
+      "dataUpload": "25.02.2018 20:50:45",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/FO/risultati210218.pdf",
+      "dimensione": "29 KB"
+    },
+    {
+      "titolo": "<span style=\"background-color: #d7ecfc;\">Testo prova scritta primo modulo del 21-2-2018, con soluzioni corrette</span>",
+      "dataUpload": "25.02.2018 20:10:52",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/FO/esame210218.pdf",
+      "dimensione": "66 KB"
+    },
+    {
+      "titolo": "Risultati prova scritta d'esame, Fondamenti di Informatica (6 cfu), del 21-2-2018",
+      "dataUpload": "24.02.2018 19:36:11",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/FO/risultati2102186cfu.pdf",
+      "dimensione": "27 KB"
+    },
+    {
+      "titolo": "Testo prova di esame del 9-2-2018, con soluzioni",
+      "dataUpload": "11.02.2018 15:03:13",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/FO/esame090218.pdf",
+      "dimensione": "61 KB"
+    },
+    {
+      "titolo": "Risultati prova scritta d'esame, Fondamenti di Informatica (6 cfu), del 9-2-2018.",
+      "dataUpload": "11.02.2018 15:03:08",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/FO/risultati0902186cfu.pdf",
+      "dimensione": "27 KB"
+    },
+    {
+      "titolo": "Risultati prova scritta d'esonero, primo modulo Fondamenti di Informatica (12 cfu), del 9-2-2018.",
+      "dataUpload": "11.02.2018 15:02:44",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/FO/risultati090218.pdf",
+      "dimensione": "29 KB"
+    },
+    {
+      "titolo": "Esercizi sui linguaggi context free",
+      "dataUpload": "09.01.2018 17:50:23",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/FO/quiz_cfg.pdf",
+      "dimensione": "59 KB"
+    },
+    {
+      "titolo": "Esercizi sugli automi a stati finiti",
+      "dataUpload": "08.11.2017 07:36:57",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/FO/quiz_asf.pdf",
+      "dimensione": "79 KB"
+    },
+    {
+      "titolo": "Esercizi sui linguaggi linguaggi regolari",
+      "dataUpload": "08.11.2017 07:36:35",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/FO/quiz_regolari.pdf",
+      "dimensione": "60 KB"
+    },
+    {
+      "titolo": "Quiz sui fondamenti matematici",
+      "dataUpload": "08.11.2017 07:35:27",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/FO/quiz_fondamenti.pdf",
+      "dimensione": "63 KB"
+    }
+  ],
+  "programma": "<table><tr><td><p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"><span style=\"text-decoration: underline;\"><strong>Primo modulo</strong></span></p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Fondamenti matematici: logica, insiemi, relazioni, funzioni, strutture algebriche fondamentali</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Insiemi finiti e infiniti; numerabilit\u00e0 e non numerabilit\u00e0 di insiemi</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Caratteristiche elementari dei linguaggi</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Grammatiche di Chomsky e loro gerarchia</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Generazione ed accettazione di linguaggi</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Riconoscimento di linguaggi: automi</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Automi a stati finiti determinitici e non deterministici; equivalenza tra essi</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Relazioni tra automi a stati finiti e grammatiche di tipo 3 (regolari)</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Pumping lemma per i linguaggi regolari</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Propriet\u00e0 di chiusura dei linguaggi regolari</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Predicati decidibili sui linguaggi regolari</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Espressioni regolari e loro equivalenza con gli automi a stati finiti e con le grammatiche regolari</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Minimizzazione di automi a stati finiti</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Linguaggi context free</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Grammatiche di tipo 2: forme ridotte e forme normali (Chomsky, Greibach)</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Pumping lemma per i linguaggi context free</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Automi a pila e linguaggi context free</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Automi a pila deterministici\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"><span style=\"text-decoration: underline;\"><strong>Secondo modulo</strong></span></p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"><strong>Parte 1, calcolabilit\u00e0:</strong></p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Ancora sulle Macchine di Turing: trasduttori e riconoscitori, Macchine ad un nastro e a k nastri, Macchine\u00a0 deterministiche e non deterministiche. Macchina di Turing universale.\u00a0<br>- Linguaggi e funzioni. Linguaggi e linguaggi complemento. Accettabilit\u00e0 e decidibilit\u00e0 di linguaggi. Calcolabilit\u00e0 di funzioni. La tesi di Church-Turing e modello di calcolo equivalenti alla macchina di Turing.</br></p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Cardinalit\u00e0 di insiemi. Insiemi numerabili e non numerabili. Diagonalizzazione.<br>- Linguaggi non decidibili.\u00a0</br></p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Riducibilit\u00e0 tra linguaggi</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"><strong>Parte 2, complessit\u00e0:</strong></p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Misure di complessit\u00e0: DTIME, DSPACE, NTIME, NSPACE.\u00a0<br>- Classi di linguaggi. Gap theorem e funzioni time-constructible.\u00a0Teoremi di compressione e di accelerazione.\u00a0Definizione delle classi di complessit\u00e0 spaziale e temporale: P, NP, PSPACE, NPSPACE, EXP, coNP. Inclusione, inclusione propria, coincidenza. Completezza.</br></p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Problemi e codifiche. Problemi decisionali e loro complemento.\u00a0<br>- La classe P. Riducibilit\u00e0 polinomiale e chiusura di P rispetto alla riducibilit\u00e0 polinomiale. Problemi in P: 2-SAT, 2-COLORABILITA'. Funzioni in FP: trasformazione di una funzione booleana in forma congiuntiva normale.\u00a0<br>- La classe NP. Linguaggi NP-completi e Teorema di Cook. Chiusura rispetto alla riduzione polinomiale. Esempi di dimostrazioni di NP-completezza: 3-SAT, Vertex Cover, 3-Colorability, Colorability, Independent Set, Clique, Hamiltonian Circuit/Path, Longest Path, Commesso Viaggiatore. Problemi NP-intermedi: il teorema di Ladner.</br></br></p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Algoritmi pseudo-polinomiali, problemi numerici e NP-completezza in senso forte; il problema PARTIZIONE.</p></td></tr></table>",
+  "testiRiferimento": "<table><tr><td><p><strong><span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Modulo 1</span></strong></p>\n<p><span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">G. Ausiello, F. D'Amore, G. Gambosi, L. Laura \"Linguaggi, Modelli, Complessit\u00e0\" nuova edizione. Franco Angeli, 2014. ISBN 978-88-917-0553-2.</span></p>\n<p>\u00a0</p>\n<p><strong><span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Modulo 2</span></strong></p>\n<p><span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Dispense a cura del docente, disponibili in questa pagina.</span></p>\n<p><span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Per consultazione: il testo utilizzato nel modulo 1.</span></p></td></tr></table>",
+  "ricevimento": "<table><tr><td><p><span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"><strong>Modulo 1</strong></span></p>\n<p><span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Al termine delle lezioni. E' possibile inoltre richiedere un appuntamento via mail.</span></p>\n<p>\u00a0</p>\n<p><strong><span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Modulo 2</span></strong></p>\n<p><span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Al termine della lezione del mercoled\u00ec.\u00a0</span><span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">E' possibile inoltre richiedere un appuntamento via mail.</span></p></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td><p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">L'esame prevede una coppia di prove (scritto e colloquio orale) relative al primo modulo e una coppia di prove (scritto e colloquio orale) relative al secondo modulo. Ciascuna coppia di prove pu\u00f2 essere sostenuta indipendentemente dall'altra. Si richiede per\u00f2 che scritto e orale di ciascun modulo siano sostenuti nello stesso appello. Il voto finale verr\u00e0 calcolato come media dei voti conseguiti nelle prove relative ai due moduli. Per l'iscrizione all'esame \u00e8 richiesta la prenotazione sul sito delphi.uniroma2.it</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Sono previsti per il corso di Fondamenti di Informatica due appelli di esame per ciascuna sessione. Tuttavia, per ognuno dei due moduli ciascuno studente potr\u00e0 sostenere un numero massimo di quattro prove di esame nel corso di un anno accademico. In particolare, potr\u00e0 sostenere l'esame relativo ad un modulo in entrambi gli appelli della sessione immediatamente successiva al termine delle lezioni del modulo stesso. Per quanto riguarda le altre sessioni, le date a disposizione saranno due, ma lo studente potr\u00e0 sostenere l'esame in una sola delle due date.</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Nel dettaglio:</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Modulo 1:</p>\n<ul style=\"font-family: verdana, arial, helvetica, sans-serif; font-size: 11px;\">\n<li>due appelli di esame a disposizione nella sessione estiva anticipata (febbraio) - ciascuno studente pu\u00f2 sostenere l'esame in entrambi gli appelli</li>\n<li>due appelli di esame a disposizione nella sessione estiva (giugno) - ciascuno studente pu\u00f2 sostenere l'esame in un solo appello a sua scelta</li>\n<li>due appelli di esame a disposizione nella sessione autunnale (settembre) - ciascuno studente pu\u00f2 sostenere l'esame in un solo appello a sua scelta</li>\n</ul>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Modulo 2:</p>\n<ul style=\"font-family: verdana, arial, helvetica, sans-serif; font-size: 11px;\">\n<li>due appelli di esame a disposizione nella sessione estiva (giugno) - ciascuno studente pu\u00f2 sostenere l'esame in entrambi gli appelli</li>\n<li>due appelli di esame a disposizione nella sessione autunnale (settembre) - ciascuno studente pu\u00f2 sostenere l'esame in un solo appello a sua scelta</li>\n<li>due appelli di esame a disposizione nella sessione invernale (febbraio) - ciascuno studente pu\u00f2 sostenere l'esame in un solo appello a sua scelta</li>\n</ul>\n<p><strong>Informazioni specifiche alla prova di esame per il 1 modulo</strong></p>\n<p><strong><br/></strong>La prova scritta di esame prevede l'assegnazione di un punteggio compreso tra 0 e 33. Gli studenti che otterranno un punteggio maggiore o uguale a 18 potranno, se vorranno, mantenere tale punteggio come voto per il modulo (30 e lode se il punteggio \u00e8 maggiore di 30), non sostenendo la prova orale. Gli studenti con punteggio della prova scritta pari a 15, 16 o 17 dovranno necessariamente, per superare l'esame, sostenere la prova orale e raggiungere, nella valutazione scritto+orale, la sufficienza.</p>\n<p>\u00a0</p>\n<p><strong>Informazioni specifiche alla prova di esame per il 2 modulo</strong></p>\n<p><strong><br/></strong>La prova scritta di esame prevede l'assegnazione di un punteggio compreso tra 0 e 30. Gli studenti che otterranno un punteggio compreso fra 18 e 24 potranno, se vorranno, mantenere tale punteggio come voto per il modulo, non sostenendo la prova orale. Gli studenti che otterranno un punteggio compreso fra 25 e 30 potranno, se vorranno, avere riconosciuto il voto 24, non sostenendo la prova orale. In entrambi i casi, gli studenti hanno facolt\u00e0 di sostenere la prova orale se intendo provare ad incrementare il voto.</p>\n<p>Infine, gli studenti con punteggio della prova scritta pari a 15, 16 o 17 dovranno necessariamente, per superare l'esame, sostenere la prova orale e raggiungere, nella valutazione scritto+orale, la sufficienza.</p></td></tr></table>"
+}

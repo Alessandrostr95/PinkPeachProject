@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Ricerca operativa",
+  "docente": [
+    {
+      "first_name": "Stefano",
+      "second_name": "Fanelli"
+    }
+  ],
+  "annoAccademico": "2004-2005",
+  "crediti": "6",
+  "settore": "",
+  "anno": "2",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>Introduzione alla R.O. : modelli matematici deterministici, \r\nprobabilistici, continui e discreti. \r\nFasi di sviluppo di un progetto R.O. \r\nAlcuni esempi di modelli di interesse operativo. Modelli \r\ndi gestione delle scorte, modelli reticolari per la \r\nprogrammazione di progetti. La tecnica PERT nel caso\r\ndeterministico ed in quello probabilistico. Il PERT costi.\r\nCenni sui modelli GERTS/Q-GERT \r\nModelli di ottimizzazione classica. \r\nIntroduzione alla Programmazione Matematica: il caso lineare \r\nL'algoritmo del simplesso: versione classica e forma \r\nrevisionata. \r\nDualit\u00e0: dualit\u00e0 debole, dualit\u00e0 forte.\r\nL'algoritmo duale del simplesso.   \r\nCenni sulla Programmazione Lineare a variabili intere: il metodo\r\nBranch&amp;Bound ed il metodo Branch&amp;Bound efficiente. </td></tr></table>",
+  "testiRiferimento": "<table><tr><td>Si possono consultare le dispense del dott. Rossi allegate al\r\ncorso di RO dell'a.a. 2003-2004 ed il testo \"Lezioni di Ricerca \r\nOperativa\" di M. Fischetti\r\n</td></tr></table>",
+  "ricevimento": "<table><tr><td></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

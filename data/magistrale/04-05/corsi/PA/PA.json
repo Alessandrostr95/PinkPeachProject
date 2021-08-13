@@ -1,0 +1,26 @@
+{
+  "nomeCorso": "Progettazione di algoritmi",
+  "docente": [
+    {
+      "first_name": "Andrea",
+      "second_name": "Clementi"
+    },
+    {
+      "first_name": "Andrea",
+      "second_name": "Clementi"
+    }
+  ],
+  "annoAccademico": "2004-2005",
+  "crediti": "6",
+  "settore": "",
+  "anno": "1",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>Tecnica Greedy:\r\n- Algoritmo di Edmonds per il calcolo della minima arborescenza in un grafo diretto\r\n- Algoritmo di Hoffman per la compressione di dati\r\n\r\nDivide-et-Impera:\r\n- Soluzione delle equazioni di ricorrenza\r\n- Minima distanza tra coppie di punti nel piano\r\n- Convex Hull per punti nel piano\r\n\r\nProgrammazione Dinamica:\r\n- Calcolo del sottovettore con somma massima\r\n- Alberi di ricerca ottimali\r\n- Algoritmo di Bellman &amp; Ford per il calcolo dei cammini minimi\r\n\r\nAnalisi Ammortizzata:\r\n- Metodo del potenziale\r\n- Incremento binario\r\n- Heap di Fibonacci\r\n\r\nAlgorimi distribuiti:\r\n- Algoritmo ottimo per il problema dell'elezione del leader in un ring asincrono\r\n- Algoritmo ottimo per il problema dell'elezione del leader in un ring sincrono\r\n\r\nApplicazioni della teoria dei giochi su problemi computazionali\r\n- Il problema dell'implementazione di una rete\r\n- Teorema di Nash (ogni gioco a strategia mista ammette un equilibrio)\r\n- Parallel link problem: lower bound e upper bound sul worst case equilibrium\r\n- Meccanismi VCG</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>Cormen, Leiserson, Rivest e Atein \"Introduction to Algorithms\" MIT-Press</td></tr></table>",
+  "ricevimento": "<table><tr><td>Dopo le lezioni</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

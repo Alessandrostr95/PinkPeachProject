@@ -1,0 +1,164 @@
+{
+  "nomeCorso": "Algoritmi e strutture dati 2",
+  "docente": [
+    {
+      "first_name": "Paola",
+      "second_name": "Vocca"
+    }
+  ],
+  "annoAccademico": "2014-2015",
+  "crediti": "6",
+  "settore": "INF/01",
+  "anno": "3",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Algoritmi e strutture dati.",
+  "comunicazioni": [
+    {
+      "titolo": "ASD2- Annullamento lezione",
+      "data": "22-12-2014 13:04",
+      "contenuto": "<p>Il giorno 8 gennaio non si terr\u00e0 lezione. Le lezioni riprenderanno regolarmente il 13 gennaio.</p><hr/>"
+    },
+    {
+      "titolo": "ASD2- Spostamento aula.",
+      "data": "05-11-2014 16:51",
+      "contenuto": "<p>Per la sola lezione del 18 novembre la lezioen si terr\u00e0 in aula G2A.</p><hr/>"
+    },
+    {
+      "titolo": "ASD2- Annullamento lezione",
+      "data": "05-11-2014 16:50",
+      "contenuto": "<p>Marted\u00ec 11 novembre non si terr\u00e0 la lezione.</p>"
+    }
+  ],
+  "lezioni": [
+    {
+      "id": "25",
+      "data": "29-01-2015",
+      "contenuto": "<p>Vertex Cover: definizione; algoritmo di approssimazione basato su una tecnica greedy con rapporto di approssimazione logaritmico; algoritmo di approssimazione con rapporto di approssimazione. Schemi di approssimazione PTAS e FPTAS. Partition : Esempio di schema di approssimazione. polinomiale. Esempio di schema di approssimazione pienamente polinomiale: Knapsack.\u00a0</p>\n<p>Classi di approssimabilit\u00e0: APX, PTAS e FPTAS e relazioni fra di esse.</p>"
+    },
+    {
+      "id": "24",
+      "data": "27-01-2015",
+      "contenuto": "<p>Problemi approssimabili e non approssimabili. Problema del commesso viaggiatore: NP completezza e non approssimabilit\u00e0. Tecnica del gap e risultati di non approssimabilit\u00e0. TSP Euclideo. Algoritmo di Christofides. </p>"
+    },
+    {
+      "id": "23",
+      "data": "22-01-2015",
+      "contenuto": "<p>Algoritmi approssimati e schemi di approssimazione: Definizione, rapporto di approssimazione e errore relativo, algoritmi r-approssimanti. Algoritmi di approssimazione per Max-Sat.</p>"
+    },
+    {
+      "id": "22",
+      "data": "15-01-2015",
+      "contenuto": "<p>NP-completezza e Complessit\u00e0 di problemi di ottimizzazione. Problemi intrattabili. Classi P e NP. Certificati polinomiali. Problemi NP-completi. Riducibilit\u00e0 polinomiale. NP completezza. Definizione dei problemi di ottimizzazione. Relazione fra i problemi di decisione. Classe PO e NPO.</p>"
+    },
+    {
+      "id": "21",
+      "data": "13-01-2015",
+      "contenuto": "<p>Problema 2-sat: Algoritmo polinomiale e algoritmo deterministico Algoritmo probabilistico per 2-sat: descrizione ed analisi. Passeggiate aleatorie; algoritmi Las Vegas e Montecarlo.</p>"
+    },
+    {
+      "id": "20",
+      "data": "18-12-2014",
+      "contenuto": "<p>Algoritmi probabilistici: Risoluzione dei conflitti in un sistema distribuito: analisi di un protocollo randomizzato. Taglio minimo: descrizione ed analisi dell\u2019algoritmo randomizzato</p>"
+    },
+    {
+      "id": "19",
+      "data": "16-12-2014",
+      "contenuto": "<p>Algoritmi probabilistici: Definizioni e propriet\u00e0. Quicksort randomizzato: descrizione ed analisi. Selezione randomizzata: descrizione e analisi</p>"
+    },
+    {
+      "id": "18",
+      "data": "11-12-2014",
+      "contenuto": "<p>Problema del paging. Algoritmo LRU (Last Recentely Used) Analisi e ottimalit\u00e0</p>"
+    },
+    {
+      "id": "17",
+      "data": "09-12-2014",
+      "contenuto": "<p>Algoritmi on-line e analisi competitiva. Definizione. Ski-rental, Compravendita di azioni. Liste ad auto-organizzazione, algoritmo MTF [Lucidi e CGGR cap 5 \u00a75.4]. Algoritmi TRANS (transpose FC (frequency count).</p>"
+    },
+    {
+      "id": "16",
+      "data": "04-12-2014",
+      "contenuto": "<p>Union-Find: definizione del problema: QuickFind, QuickUnion, algoritmi di bilanciamento e analisi ammortizzata con il metodo dell'aggregazione</p>"
+    },
+    {
+      "id": "15",
+      "data": "02-12-2014",
+      "contenuto": "<p>Metodo dei crediti: Array dinamici. Metodo di aggregazione: Unione e appartenenza di insiemi disgiunti.</p>\n<p>\u00a0</p>"
+    },
+    {
+      "id": "14",
+      "data": "27-11-2014",
+      "contenuto": "<p>Tecniche di analisi ammortizzata. Problema giocattolo: incremento di un contatore.</p>"
+    },
+    {
+      "id": "13",
+      "data": "25-11-2014",
+      "contenuto": "<p>Allineamento locale e penalit\u00e0 di gap.</p>"
+    },
+    {
+      "id": "12",
+      "data": "20-11-2014",
+      "contenuto": "<p>Allineamento di sequenze in spazio lineare.</p>"
+    },
+    {
+      "id": "11",
+      "data": "13-11-2014",
+      "contenuto": "<p>\u2022 Allineamento di sequenze: Confronto fra sequenze. Allineamento globale.</p>"
+    },
+    {
+      "id": "10",
+      "data": "11-11-2014",
+      "contenuto": "<p>Struttura secondaria dell\u2019RNA.</p>"
+    },
+    {
+      "id": "9",
+      "data": "06-11-2014",
+      "contenuto": "<p>Problema della bisaccia e della bisaccia rilassato. Pseudo polinomialit\u00e0 e programmazione dinamica.</p>"
+    },
+    {
+      "id": "8",
+      "data": "04-11-2014",
+      "contenuto": "<p><strong>Programmazione dinamica:</strong> Sotto-sequenza comune pi\u00f9 lunga. Partizione di un insieme di interi.</p>"
+    },
+    {
+      "id": "7",
+      "data": "30-10-2014",
+      "contenuto": "<p>Programmazione dinamica: Problema del resto. Algoritmo greedy per il problema del resto ed esempi di ottimalit\u00e0 e non ottimalit\u00e0. Sequenza ottima di moltiplicazioni.</p>"
+    },
+    {
+      "id": "6",
+      "data": "28-10-2014",
+      "contenuto": "<p>Paradigma dlla programmazioen dinamica. Successione di Fibonacci. Complessit\u00e0 dell'algoritmo ricorsivo. Versione in programmazione dinamica dell'algoritmo e complessit\u00e0.</p>"
+    },
+    {
+      "id": "5",
+      "data": "23-10-2014",
+      "contenuto": "<p>Tecnica greedy: problema della gestione della cache. Caching offline.</p>\n<p>\u00a0</p>"
+    },
+    {
+      "id": "4",
+      "data": "21-10-2014",
+      "contenuto": "<p><strong>Divide et impera</strong>: Il problema della coppia pi\u00f9 vicina.</p>\n<p>\u00a0</p>\n<p><strong>Tecnica greedy</strong>: Struttura delle tecniche greedy. Problemi di scheduling. Scheduling ad intervallo: Scelta della strategia greedy e ottimalit\u00e0 dell\u2019algoritmo greedy</p>"
+    },
+    {
+      "id": "3",
+      "data": "16-10-2014",
+      "contenuto": "<p><strong>Divide et impera</strong>: Case studies: Moltiplicazione veloce di interi, moltiplicazione fra matrici.</p>"
+    },
+    {
+      "id": "2",
+      "data": "14-10-2014",
+      "contenuto": "<p><strong>Tecnica algoritmica del Divide et impera</strong>: Ricorrenze. Metodi risolutivi. Teorema fondamentale. Dimostrazione.</p>"
+    },
+    {
+      "id": "1",
+      "data": "09-10-2014",
+      "contenuto": "<p>Presentazione del corso: Programma, modalit\u00e0 d'esame e testi di rifewrimento.</p>"
+    }
+  ],
+  "materiale": [],
+  "programma": "<table><tr><td><h1 align=\"center\" style=\"text-align: center; page-break-before: always; mso-list: l0 level1 lfo1;\"><span style=\"font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin;\">Programma di Algoritmi e Strutture Dati 2 (6cr) A.A. 2013/14</span></h1>\n<p class=\"Programma\" style=\"margin-left: 0cm; text-indent: 0cm; mso-list: none; tab-stops: 35.4pt;\">\u00a0<strong><span style=\"font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin;\">Tecniche algoritmiche:</span></strong></p>\n<p>\u00a0</p>\n<p class=\"Programma\" style=\"margin-left: 54.0pt; mso-list: l2 level1 lfo3; tab-stops: 35.4pt;\"><span style=\"font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;\"><span>\u00b7<span style=\"font: 7.0pt 'Times New Roman';\">\u00a0 \u00a0 \u00a0 \u00a0 \u00a0</span></span></span><span style=\"font-family: Symbol;\"><span style=\"font-stretch: normal; font-size: 7pt; font-family: 'Times New Roman';\">\u00a0</span></span><strong><span style=\"font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin;\">Divide et impera</span></strong><span style=\"font-family: Calibri, sans-serif;\">: Ricorrenze. Metodi risolutivi. Teorema fondamentale. Dimostrazione. Case study: Moltiplicazione veloce di interi, moltiplicazione fra matrici, Il problema della coppia pi\u00f9 vicina. [CGGR cap 3 \u00a7\u00a7 3.1-3.2, 3.5-3.6-3.7]</span></p>\n<p class=\"Programma\" style=\"margin-left: 54.0pt; mso-list: l1 level1 lfo2; tab-stops: 35.4pt;\"><!--[if !supportLists]--><span style=\"font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;\">\u00b7<span style=\"font-stretch: normal; font-size: 7pt; font-family: 'Times New Roman';\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><!--[endif]--><strong><span style=\"font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin;\">Tecnica greedy:</span></strong><span style=\"font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin;\"> Struttura delle tecniche greedy. Problemi di scheduling. Scheduling ad intervallo. Problema della gestione della cache. Caching offline.</span> <span style=\"font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin;\">[KT cap 4 \u00a7\u00a74.1-4.2-4.3]</span></p>\n<p class=\"Programma\" style=\"margin-left: 54.0pt; mso-list: l1 level1 lfo2; tab-stops: 35.4pt;\"><!--[if !supportLists]--><span style=\"font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;\">\u00b7<span style=\"font-stretch: normal; font-size: 7pt; font-family: 'Times New Roman';\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><!--[endif]--><strong><span style=\"font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin;\">Programmazione dinamica</span></strong><span style=\"font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin;\">: Paradigma della programmazione dinamica. Successione di Fibonacci. Complessit\u00e0 dell'algoritmo ricorsivo. Versione in programmazione dinamica dell'algoritmo e complessit\u00e0. Problema del resto. Algoritmo greedy per il problema del resto ed esempi di ottimalit\u00e0 e non ottimalit\u00e0. [CGGR cap 6 \u00a76.1-6.2] Sequenza ottima di moltiplicazioni (Lucidi). Sotto-sequenza comune pi\u00f9 lunga. Partizione di un insieme di interi. Problema della bisaccia e della bisaccia rilassato. [CGGR cap 6 \u00a76.3-6.5]. Pseudo polinomialit\u00e0 e programmazione dinamica. [CGGR cap 6 \u00a76.8]. Struttura secondaria dell\u2019RNA. [KT cap 6 \u00a76.5]</span></p>\n<p class=\"Programma\" style=\"margin-left: 54.0pt; mso-list: l1 level1 lfo2; tab-stops: 35.4pt;\"><!--[if !supportLists]--><span style=\"font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;\">\u00b7<span style=\"font-stretch: normal; font-size: 7pt; font-family: 'Times New Roman';\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><!--[endif]--><span style=\"font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin;\"><strong>Allineamento di sequenze:</strong> Confronto fra sequenze. Allineamento globale. Allineamento di sequenze in spazio lineare. Allineamento locale e penalit\u00e0 di gap. [KT cap 6 \u00a7\u00a76.6-6.7]</span></p>\n<p>\u00a0</p>\n<p class=\"Programma\" style=\"margin-left: 18.0pt; text-indent: 0cm; mso-list: none; tab-stops: 35.4pt;\"><strong><span style=\"font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin;\">Analisi Ammortizzata</span></strong><span style=\"font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin;\">: Tecniche di analisi ammortizzata. Problema giocattolo: incremento di un contatore. Metodo dei crediti: Array dinamici. Metodo di aggregazione: </span></p>\n<p class=\"Programma\" style=\"margin-left: 18.0pt; text-indent: 0cm; mso-list: none; tab-stops: 35.4pt;\"><span style=\"font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin;\">Unione e appartenenza di insiemi disgiunti(Union-Find). Metodo del potenziale. [Lucidi e CGGR cap 5 \u00a7\u00a75.3 e 5.5].</span></p>\n<p class=\"Programma\" style=\"margin-left: 18.0pt; text-indent: 0cm; mso-list: none; tab-stops: 35.4pt;\"><strong><span style=\"font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin;\">Union-Find:</span></strong><span style=\"font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin;\"> definizione del problema: QuickFind, QuickUnion, algoritmi di bilanciamento per gli algoritmi di QuickFind e QuickUnion e analisi ammortizzata con il metodo dell'aggregazione</span></p>\n<p class=\"Programma\" style=\"margin-left: 18.0pt; text-indent: 0cm; mso-list: none; tab-stops: 35.4pt;\"><strong><span style=\"font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin;\">Algoritmi on-line e analisi competitiva</span></strong><span style=\"font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin;\">. Definizione. Ski-rental, Compravendita di azioni. Liste ad auto-organizzazione, algoritmo MTF [Lucidi e CGGR cap 5 \u00a75.4]. Algoritmi TRANS (transpose FC (frequency count). Problema del paging. Algoritmo LRU (Last Recentely Used) Analisi e ottimalit\u00e0 (Lucidi).</span></p>\n<p class=\"Programma\" style=\"margin-left: 18.0pt; text-indent: 0cm; mso-list: none; tab-stops: 35.4pt;\"><strong><span style=\"font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin;\">Algoritmi probabilistici</span></strong><span style=\"font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin;\">: Definizioni e propriet\u00e0. Quicksort randomizzato: descrizione ed analisi. Selezione randomizzata: descrizione e analisi [Lucidi e CGGR cap 5 \u00a75.1 ]. Risoluzione dei conflitti in un sistema distribuito: analisi di un protocollo randomizzato. Taglio minimo: descrizione ed analisi dell\u2019algoritmo randomizzato [KT cap 13 \u00a7\u00a713.1 e13.2]. Problema 2-sat: Algoritmo polinomiale e algoritmo deterministico Algoritmo probabilistico per 2-sat: descrizione ed analisi (Lucidi). Passeggiate aleatorie; algoritmi Las Vegas e Montecarlo (lucidi). </span></p>\n<p class=\"Programma\" style=\"margin-left: 18.0pt; text-indent: 0cm; mso-list: none; tab-stops: 35.4pt;\"><strong><span style=\"font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: Arial;\">NP-completezza</span></strong><strong><span style=\"font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin;\"> e Complessit\u00e0 di problemi di ottimizzazione.</span></strong><span style=\"font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin;\">\u00a0 Problemi intrattabili. Classi P e NP. Certificati polinomiali. Problemi NP-completi. Riducibilit\u00e0 polinomiale. NP completezza. Definizione dei problemi di ottimizzazione. Relazione fra i problemi di decisione. Classe PO e NPO.</span><span style=\"font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 'Times New Roman'; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 0pt; mso-fareast-language: IT; mso-bidi-language: AR-SA;\">[CGGR Cap.8 \u00a7\u00a78.1-8.4, 8.6, Lucidi]</span></p>\n<p class=\"Programma\" style=\"margin-left: 18.0pt; text-indent: 0cm; mso-list: none; tab-stops: 35.4pt;\"><strong><span style=\"font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin;\">Algoritmi approssimati e schemi di approssimazione</span></strong><span style=\"font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin;\">: Definizione, rapporto di approssimazione e errore relativo, algoritmi r-approssimanti. Algoritmi di approssimazione per Max-Sat. Problemi approssimabili\u00a0 e non approssimabili. Problema del commesso viaggiatore: NP completezza e non approssimabilit\u00e0. Tecnica del gap e risultati di non approssimabilit\u00e0. TSP Euclideo. Algoritmo di Christofides (lucidi). \u00a0Vertex Cover: definizione; algoritmo di approssimazione basato su una tecnica greedy con rapporto di approssimazione logaritmico; algoritmo di approssimazione con rapporto di approssimazione.</span><span style=\"font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 'Times New Roman'; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 0pt; mso-fareast-language: IT; mso-bidi-language: AR-SA;\"> [CGGR Cap.8 \u00a7\u00a7 8.10,8.11, lucidi]</span></p>\n<p class=\"Programma\" style=\"margin-left: 18.0pt; text-indent: 0cm; mso-list: none; tab-stops: 35.4pt;\"><strong><span style=\"font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin;\">Schemi di approssimazione PTAS e FPTAS</span></strong><span style=\"font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin;\">. Partition : Esempio di schema di approssimazione. polinomiale. Esempio di schema di approssimazione pienamente polinomiale: Knapsack. [Lucidi]</span></p>\n<p class=\"Programma\" style=\"margin-left: 18.0pt; text-indent: 0cm; mso-list: none; tab-stops: 35.4pt;\">\u00a0</p>\n<p class=\"Programma\" style=\"margin-left: 18.0pt; text-indent: 0cm; mso-list: none; tab-stops: 35.4pt;\"><strong><span style=\"font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin;\">Classi di approssimabilit\u00e0:</span></strong><span style=\"font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin;\"> APX, PTAS e FPTAS e relazioni fra di esse. [Lucidi]</span></p>\n<p>\u00a0</p></td></tr></table>",
+  "testiRiferimento": "<table><tr><td><ul>\n<li>[CGGR] Crescenzi - Gambosi - Grossi - Rossi -\u000bSTRUTTURE DI DATI E ALGORITMI (Progettazione, analisi e programmazione ) -PEARSON EDUCATION ITALIA -2012.</li>\n</ul>\n<ul>\n<li>[KT] Kleinberg- Tardos \"Algoritm Design\" PEARSON International Edition-2006</li>\n</ul>\n<ul>\n<li>Lucidi e dispense</li>\n</ul></td></tr></table>",
+  "ricevimento": "<table><tr><td><p>Su appuntamento richiesto tramite e-mail vocca@unitus.it</p></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td><p>L\u2019esame si compone di una verifica orale su tutto il programma del corso comprese le dimostrazioni ove non specificato diversamente. Il voto potr\u00e0 essere migliorato da una tesina di approfondimento di una parte del corso, con eventuale implementazione degli algoritmi proposti.</p></td></tr></table>"
+}

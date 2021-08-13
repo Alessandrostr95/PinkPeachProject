@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Calcolo delle probabilit\u00e0",
+  "docente": [
+    {
+      "first_name": "Antonella",
+      "second_name": "Calzolari"
+    }
+  ],
+  "annoAccademico": "2015-2016",
+  "crediti": "6",
+  "settore": "MAT/06",
+  "anno": "1",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td><p>Catene di Markov a tempo discreto e a stati numerabili. Processo di Poisson. Elementi della teoria dei processi di rinnovo e delle catene di Markov a tempo continuo.</p></td></tr></table>",
+  "testiRiferimento": "<table><tr><td>null</td></tr></table>",
+  "ricevimento": "<table><tr><td><p>Per appuntamento\u00a0scrivendo\u00a0a <a href=\"mailto:calzolar@mat.uniroma2.it\">calzolar@mat.uniroma2.it</a></p></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td><p>Esame scritto con una parte di esercizi sulle catene di Markov a tempo discreto e una parte di quesiti a risposta libera sul resto del programma.</p></td></tr></table>"
+}

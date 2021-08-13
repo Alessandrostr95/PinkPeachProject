@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Matematica discreta",
+  "docente": [
+    {
+      "first_name": "Giulia Maria Piacentini",
+      "second_name": "Cattaneo"
+    }
+  ],
+  "annoAccademico": "2007-2008",
+  "crediti": "6",
+  "settore": "",
+  "anno": "1",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td> </td></tr></table>",
+  "testiRiferimento": "<table><tr><td> G.M.Piacentini Cattaneo, Matematica Discreta e applicazioni Zanichelli, 2008</td></tr></table>",
+  "ricevimento": "<table><tr><td>  Mercoledi' ore 14-16.30 nel mio studio</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

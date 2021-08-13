@@ -1,0 +1,32 @@
+{
+  "nomeCorso": "Lingua inglese",
+  "docente": [
+    {
+      "first_name": "Martin",
+      "second_name": "Bennett"
+    },
+    {
+      "first_name": "Alessandro",
+      "second_name": "Cianfanelli"
+    }
+  ],
+  "annoAccademico": "2015-2016",
+  "crediti": "3",
+  "settore": "L-LIN/02",
+  "anno": "3",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [
+    {
+      "titolo": "Informazioni",
+      "data": "05-10-2015 10:06",
+      "contenuto": "<p><span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Tutte le informazioni sull'insegnamento\u00a0</span><em style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Lingua inglese</em><span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0sono pubblicate sul sito\u00a0</span><a href=\"http://www.scienze.uniroma2.it/?cat=22&amp;catParent=16\" style=\"text-align: justify;\" target=\"_blank\">http://www.scienze.uniroma2.it/?cat=22&amp;catParent=16</a></p>"
+    }
+  ],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>null</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>null</td></tr></table>",
+  "ricevimento": "<table><tr><td>null</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

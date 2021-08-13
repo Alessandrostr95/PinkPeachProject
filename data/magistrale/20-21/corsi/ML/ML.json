@@ -1,6 +1,11 @@
 {
   "nomeCorso": "Machine learning",
-  "docente": "Giorgio Gambosi",
+  "docente": [
+    {
+      "first_name": "Giorgio",
+      "second_name": "Gambosi"
+    }
+  ],
   "annoAccademico": "2020-2021",
   "crediti": "9",
   "settore": "INF/01",
@@ -11,13 +16,13 @@
     {
       "titolo": "Sito del corso",
       "data": "08-10-2020 17:56",
-      "contenuto": "Informazioni all'indirizzo seguente. Aprire il link in un nuovo pannello o una nuova pagina."
+      "contenuto": "<p>Informazioni all'indirizzo <a href=\"https://tvml.github.io/ml2021/\" title=\"seguente\">seguente</a>. Aprire il link in un nuovo pannello o una nuova pagina.</p>"
     }
   ],
   "lezioni": [],
   "materiale": [],
-  "programma": "null",
-  "testiRiferimento": "null",
-  "ricevimento": "null",
-  "modalit\u00e0Esame": "null"
+  "programma": "<table><tr><td>null</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>null</td></tr></table>",
+  "ricevimento": "<table><tr><td>null</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
 }

@@ -1,0 +1,26 @@
+{
+  "nomeCorso": "Linguaggi e metodologie di programmazione",
+  "docente": [
+    {
+      "first_name": "Fabio Massimo",
+      "second_name": "Zanzotto"
+    },
+    {
+      "first_name": "Armando",
+      "second_name": "Stellato"
+    }
+  ],
+  "annoAccademico": "2013-2014",
+  "crediti": "12",
+  "settore": "INF/01",
+  "anno": "2",
+  "semestre": "1-2",
+  "propedeuticit\u00e0": "Programmazione.",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>Tutte le informazioni sono disponibili all'indirizzo http://art.uniroma2.it/teaching/lmp/</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>null</td></tr></table>",
+  "ricevimento": "<table><tr><td>null</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

@@ -1,0 +1,44 @@
+{
+  "nomeCorso": "Linguaggi e metodologie di programmazione",
+  "docente": [
+    {
+      "first_name": "Fabio Massimo",
+      "second_name": "Zanzotto"
+    },
+    {
+      "first_name": "Armando",
+      "second_name": "Stellato"
+    }
+  ],
+  "annoAccademico": "2019-2020",
+  "crediti": "12",
+  "settore": "ING-INF/05",
+  "anno": "2",
+  "semestre": "1-2",
+  "propedeuticit\u00e0": "Programmazione dei calcolatori con laboratorio.",
+  "comunicazioni": [],
+  "lezioni": [
+    {
+      "id": "2",
+      "data": "04-03-2020",
+      "contenuto": "<p>Descrizione minimale dei Costrutti Prolog</p>\n<p>Descrizione ed analisi dell'algoritmo di risoluzione del Prolog</p>\n<p>Primi esercizi con le liste:</p>\n<p>1) member</p>\n<p>2) append\u00a0</p>\n<p>3) reverse (in modalit\u00e0 lezione con alternative di codice)</p>"
+    },
+    {
+      "id": "1",
+      "data": "02-03-2020",
+      "contenuto": "<p>Introduzione alla Modalit\u00e0 di Programmazione Dichiarativa</p>\n<p>Esercizio del Cruciverba in Object Oriented</p>\n<p>Breve descrizione del Linguaggio Prolog</p>\n<p>Risoluzione dell'Esercizio del Cruciverba in 5 minuti</p>"
+    }
+  ],
+  "materiale": [
+    {
+      "titolo": "<a href=\"http://art.uniroma2.it/teaching/lmp/\" target=\"_blank\">Sito Web del corso</a>",
+      "dataUpload": "18.10.2019 10:34:36",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/LMP/Fabio-Massimo-Zanzotto-New-Copia.jpg",
+      "dimensione": "757 KB"
+    }
+  ],
+  "programma": "<table><tr><td><p>Guardare corso su didattica.uniroma2.it</p>\n<p>\u00a0</p>\n<p>Modulo A</p>\n<p><a href=\"http://didatticaweb.uniroma2.it/programma/index/modulo/185806M4737-Modulo-I\" target=\"_blank\">Modulo B</a></p></td></tr></table>",
+  "testiRiferimento": "<table><tr><td><p>Guardare corso su didattica.uniroma2.it</p>\n<p>\u00a0</p>\n<p>Modulo A</p>\n<p><a href=\"http://didatticaweb.uniroma2.it/programma/index/modulo/185806M4737-Modulo-I\" target=\"_blank\">Modulo B</a></p></td></tr></table>",
+  "ricevimento": "<table><tr><td><p>Ricevimento\u00a0</p>\n<p>Prof. Stellato\u00a0</p>\n<p><a href=\"http://didatticaweb.uniroma2.it/docenti/curriculum/5312-Fabio-Massimo-Zanzotto\">Prof. Zanzotto</a></p></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td><p>Guardare corso su didattica.uniroma2.it</p>\n<p>\u00a0</p>\n<p>Modulo A</p>\n<p><a href=\"http://didatticaweb.uniroma2.it/programma/index/modulo/185806M4737-Modulo-I\" target=\"_blank\">Modulo B</a></p></td></tr></table>"
+}

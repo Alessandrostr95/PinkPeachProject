@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Analisi matematica 1",
+  "docente": [
+    {
+      "first_name": "Carlangelo",
+      "second_name": "Liverani"
+    }
+  ],
+  "annoAccademico": "2002-2003",
+  "crediti": "6",
+  "settore": "",
+  "anno": "1",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td><a href=\"http://mat.uniroma2.it/~benfatto/analisi1.html\">Vedi pagina Web personale</a></td></tr></table>",
+  "testiRiferimento": "<table><tr><td><a href=\"http://mat.uniroma2.it/~benfatto/analisi1.html\">Vedi pagina Web personale</a></td></tr></table>",
+  "ricevimento": "<table><tr><td>Studio 0124 (Piano terra Dip. Matematica)\r\nMarted\u00ec e Venerd\u00ec 14:30-16:30</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

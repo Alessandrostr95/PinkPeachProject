@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Metodi avanzati dell'informatica",
+  "docente": [
+    {
+      "first_name": "Andrea",
+      "second_name": "Clementi"
+    }
+  ],
+  "annoAccademico": "2011-2012",
+  "crediti": "6",
+  "settore": "INF/01",
+  "anno": "3",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>Programma\r<br/>Il corso e' formato da 3 moduli di 2 cfu ciascuno. \r<br/> <br/>MODULO A: Teoria dei Giochi e Reti Sociali (Prof. Paola Vocca -<paola.vocca@gmail.com>) \r<br/>Definizioni di base. Giochi strategici. Giochi non \r<br/>cooperativi in forma strategica. Mosse migliorative e grafo delle \r<br/>dinamiche di Nash. Equilibrio di Nash in strategie pure. Equilibrio di \r<br/>Nash in strategie miste e Teorema di Nash. Inefficienza degli \r<br/>equilibri di Nash e le nozioni di prezzo dell'anarchia e prezzo della \r<br/>stabilit\u00e0. Prezzo dell'anarchia e della stabilit\u00e0 dei giochi di \r<br/>condivisione dei costi su reti dirette e non dirette. Propriet\u00e0 \r<br/>strutturali delle reti sociali (distribuzione del grado, diametro, \r<br/>clustering) \r<br/>Giochi strategici su reti sociali (pricing). \r<br/> <br/> <br/>MODULO B: Reti: Comunicazione ed Energia: un approccio algoritmico  (Prof. Miriam Di Ianni - diianni at mat.uniroma2.it )\r<br/> <br/>1) Introduzione informale alle classi P, NP, ed ai problemi NP-completi. \r<br/>2) Esempi di dimostrazioni di NP-completezza: 3SAT, Vertex Cover.\r<br/>3) Introduzione informale alla classe APX.\r<br/>4) Richiami di calcolo delle probabilit\u00e0. \r<br/>5) Introduzione alle reti wireless ad-hoc ed ai problemi energetici ad esse collegati.\r<br/>6) Il problema del minimo raggio di trasmissione per reti omogenee. Approccio probabilistico per l'individuazione del minimo raggio di trasmissione che garantisca la connessione. \r<br/>7) Problemi di clustering e risparmio energetico. Il problema del minimo insieme dominante e la sua relazione con il problema minimum Set Cover. L'algoritmo di Chvatal: un algoritmo greedy per l'approssimazione logaritmica di Set Cover.\r<br/> <br/> <br/> <br/> <br/> <br/>MODULO C: Elementi di Sicurezza (Prof. Talamo/Dr. Andrea Dimitri) \r<br/> <br/>- Presentazione della crittografia a chiave pubblica/privata e sue problematiche (RSA) \r<br/>- L'uso della crittografia nei protocolli su rete: Cenni. Richiami al concetto di VPN \r<br/>- Applicazioni web/servlet/web service \r<br/>- Protezione di una applicazione \r<br/>- Uso di credenziali e crittografia \r<br/>- Crittografia e vulnerabilit\u00e0: applicazioni. \r<br/>- Crittografia SHA256 - intercettori \r<br/> <br/>*** \r<br/> <br/>REQUISITI (Alcuni insegnamenti del primo biennio): \r<br/> <br/>- Programmazione dei calcolatori con laboratorio \r<br/>- Analisi Matematica \r<br/>- Matematica Discreta \r<br/>- Geometria ed Algebra \r<br/>- Algoritmi e Strutture di Dati \r<br/>- Calcolo delle Probabilita' e Statistica \r<br/> <br/> <br/></paola.vocca@gmail.com></td></tr></table>",
+  "testiRiferimento": "<table><tr><td></td></tr></table>",
+  "ricevimento": "<table><tr><td>contattare i docenti dei moduli  via email</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

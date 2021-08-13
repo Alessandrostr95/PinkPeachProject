@@ -1,0 +1,28 @@
+{
+  "nomeCorso": "Programmazione dei calcolatori con laboratorio",
+  "docente": [
+    {
+      "first_name": "Gianluca",
+      "second_name": "Rossi"
+    }
+  ],
+  "annoAccademico": "2015-2016",
+  "crediti": "12",
+  "settore": "INF/01",
+  "anno": "1",
+  "semestre": "1-2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [
+    {
+      "id": "0",
+      "data": "null",
+      "contenuto": "<p>Tutte le informazioni su\u00a0<a href=\"http://www.gianlucarossi.net/?page_id=24\">www.gianlucarossi.net</a></p>"
+    }
+  ],
+  "materiale": [],
+  "programma": "<table><tr><td><p>Tutte le informazioni su <a href=\"http://www.gianlucarossi.net/?page_id=24\">www.gianlucarossi.net</a></p></td></tr></table>",
+  "testiRiferimento": "<table><tr><td><p>Tutte le informazioni su\u00a0<a href=\"http://www.gianlucarossi.net/?page_id=24\">www.gianlucarossi.net</a></p></td></tr></table>",
+  "ricevimento": "<table><tr><td><p>Tutte le informazioni su\u00a0<a href=\"http://www.gianlucarossi.net/?page_id=24\">www.gianlucarossi.net</a></p></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td><p>Tutte le informazioni su\u00a0<a href=\"http://www.gianlucarossi.net/?page_id=24\">www.gianlucarossi.net</a></p></td></tr></table>"
+}

@@ -1,0 +1,208 @@
+{
+  "nomeCorso": "Ricerca operativa",
+  "docente": [
+    {
+      "first_name": "Massimiliano",
+      "second_name": "Caramia"
+    }
+  ],
+  "annoAccademico": "2019-2020",
+  "crediti": "6",
+  "settore": "MAT/09",
+  "anno": "2",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [
+    {
+      "titolo": "Luogo degli esami della sessione estiva",
+      "data": "06-05-2020 15:32",
+      "contenuto": "<p>Ho provveduto a pubblicare le date degli esami della sessione estiva, ovvero 16 giugno e 30 giugno 2020. Ho inserito l'aula 3A. Verosimilmente, per\u00f2, gli esami verranno sostenuti in modalit\u00e0 telematica, la cui prova scritta seguir\u00e0 lo stesso regolamento dell'esonero del 13 maggio 2020 che ho provveduto ad inserire tra il materiale del corso.</p>\n<p>Mander\u00f2 un messaggio di conferma della modalit\u00e0 telematica dell'esame in tempo utile dopo la chiusura delle iscrizioni del singolo appello.</p>\n<p>Saluti,</p>\n<p>Massimiliano Caramia</p><hr/>"
+    },
+    {
+      "titolo": "Esonero 13 maggio 2020",
+      "data": "05-05-2020 16:08",
+      "contenuto": "<div>L'esonero dalla prima parte della prova scritta di Ricerca Operativa si terr\u00e0 il 13 maggio 2020 alle ore 14:00. E' obbligatoria la prenotazione su Delphi; non saranno ammessi alla partecipazione studenti non iscritti su Delphi. La scadenza per la prenotazione \u00e8 venerd\u00ec 8 maggio alle ore 24:00. Seguiranno istruzioni pi\u00f9 dettagliate in merito alle modalit\u00e0 di svolgimento. Ricordo anche che l'esonero \u00e8 da intendersi come anticipo del primo appello della sessione estiva: l'esito negativo della prova comporta una conseguente riduzione degli appelli a disposizione nella sessione estiva di giugno/luglio 2020 da 2 ad 1.</div>\n<div>Saluti,</div>\n<p>Massimiliano Caramia</p>"
+    }
+  ],
+  "lezioni": [
+    {
+      "id": "12",
+      "data": "03-06-2020",
+      "contenuto": "<p>Seconda prova scritta di esonero</p>"
+    },
+    {
+      "id": "11",
+      "data": "27-05-2020",
+      "contenuto": "<p>Esercitazione su AMPL</p>"
+    },
+    {
+      "id": "10",
+      "data": "20-05-2020",
+      "contenuto": "<p>Il linguaggio AMPL</p>"
+    },
+    {
+      "id": "9",
+      "data": "13-05-2020",
+      "contenuto": "<p>Prima prova scritta di esonero</p>"
+    },
+    {
+      "id": "8",
+      "data": "06-05-2020",
+      "contenuto": "<p>Esercitazione di riepilogo sulla teoria della programmazione lineare, algoritmi per la programmazione lineare, teoria della dualit\u00e0.</p>"
+    },
+    {
+      "id": "7",
+      "data": "29-04-2020",
+      "contenuto": "<p>Algoritmo Primale Duale. Algoritmo Simplesso Duale</p>"
+    },
+    {
+      "id": "6",
+      "data": "22-04-2020",
+      "contenuto": "<p>Valutazione dell'ottimalit\u00e0 di una soluzione primale tramite dualit\u00e0. Algoritmo Primale Duale</p>"
+    },
+    {
+      "id": "5",
+      "data": "15-04-2020",
+      "contenuto": "<p>Teoria della dualit\u00e0</p>"
+    },
+    {
+      "id": "4",
+      "data": "08-04-2020",
+      "contenuto": "<p>Esercitazione riepilogo algoritmo del Simplesso e algoritmo del Simplesso in due fasi</p>"
+    },
+    {
+      "id": "3",
+      "data": "01-04-2020",
+      "contenuto": "<p>Il metodo del Simplesso in due fasi</p>"
+    },
+    {
+      "id": "2",
+      "data": "25-03-2020",
+      "contenuto": "<p>Il Metodo del Simplesso</p>"
+    },
+    {
+      "id": "1",
+      "data": "18-03-2020",
+      "contenuto": "<p>Teoria della Programmazione Lineare</p>"
+    },
+    {
+      "id": "0",
+      "data": "04-03-2020",
+      "contenuto": "<p>Intoduzione alla Ricerca Operativa</p>"
+    }
+  ],
+  "materiale": [
+    {
+      "titolo": "Votazioni finali preappello 13 maggio 2020 - 03 giugno 2020",
+      "dataUpload": "06.06.2020 09:54:58",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/RO/RO_INF_Esonero_03_Giugno_2020_per_stampa.pdf",
+      "dimensione": "75 KB"
+    },
+    {
+      "titolo": "Codici AMPL",
+      "dataUpload": "29.05.2020 15:18:55",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/RO/ampl_lezione_27_mag_2020.zip",
+      "dimensione": "8 KB"
+    },
+    {
+      "titolo": "Software AMPL. Dopo aver unzippato il file, mettere la cartella di licenza ILOG sotto C:\\; la cartella AMPL invece pu\u00f2 stare ovunque. Dentro la cartella AMPL trovere l'eseguibile ampl.exe per la compilazione dei codici",
+      "dataUpload": "23.05.2020 09:57:37",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/RO/AMPL.zip",
+      "dimensione": "2443 KB"
+    },
+    {
+      "titolo": "Voti esonero 13 maggio 2020 e note per la prova del 3 giugno 2020",
+      "dataUpload": "22.05.2020 11:35:40",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/RO/RO_INF_VOTI_ESONERO_13_MAGGIO_2020.pdf",
+      "dimensione": "47 KB"
+    },
+    {
+      "titolo": "Esercizi di riepilogo",
+      "dataUpload": "07.05.2020 18:15:33",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/RO/Esercizi_RO.pdf",
+      "dimensione": "196 KB"
+    },
+    {
+      "titolo": "Regolamento per la partecipazione alla prova scritta del 13 maggio 2020",
+      "dataUpload": "06.05.2020 15:28:07",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/RO/REGOLAMENTO_ESAME_RO.pdf",
+      "dimensione": "187 KB"
+    },
+    {
+      "titolo": "Esempio algoritmo Simplesso Duale",
+      "dataUpload": "29.04.2020 23:06:31",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/RO/Esercizio_Simplesso_Duale.PDF",
+      "dimensione": "163 KB"
+    },
+    {
+      "titolo": "Appunti della lezione del 29 aprile 2020",
+      "dataUpload": "29.04.2020 23:05:41",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/RO/Appunti_Lezione_RO_29_Aprile_2020.PDF",
+      "dimensione": "1605 KB"
+    },
+    {
+      "titolo": "Esercizio svolto Algoritmo Primale Duale",
+      "dataUpload": "25.04.2020 20:32:19",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/RO/Esercizio_Algoritmo_Primale_Duale_Svolto_25_Aprile_2020.pdf",
+      "dimensione": "307 KB"
+    },
+    {
+      "titolo": "Algoritmo del Simplesso duale e Algoritmo Primale Duale",
+      "dataUpload": "16.04.2020 19:19:49",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/RO/Lezioni_Algoritmo_Simplesso_Duale_e_Algoritmo_Primale_Duale.ppt",
+      "dimensione": "802 KB"
+    },
+    {
+      "titolo": "Teoria della dualit\u00e0",
+      "dataUpload": "16.04.2020 19:19:17",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/RO/Lezioni_Teoria_Dualita.pdf",
+      "dimensione": "4115 KB"
+    },
+    {
+      "titolo": "Esempio Simplesso in due fasi",
+      "dataUpload": "02.04.2020 00:07:34",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/RO/Esempio_Simplesso_In_Due_Fasi.PDF",
+      "dimensione": "2085 KB"
+    },
+    {
+      "titolo": "Parti del libro RICERCA OPERATIVA: PROGRAMMAZIONE LINEARE, INTERA E NON LINEARE autori Caramia, Giordani, Guerriero, Musmanno, Pacciarelli Edito da Isedi, 2018",
+      "dataUpload": "28.03.2020 19:23:18",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/RO/Ricerca_Operativa_ISBN_9788880083856_Anno_2018_.pdf",
+      "dimensione": "1645 KB"
+    },
+    {
+      "titolo": "Parti del libro RICERCA OPERATIVA autori Caramia, Giordani, Guerriero, Musmanno, Pacciarelli Edito da Isedi, 2014",
+      "dataUpload": "28.03.2020 19:22:40",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/RO/Ricerca_Operativa_ISBN_9788880083764_Anno_2014_.pdf",
+      "dimensione": "921 KB"
+    },
+    {
+      "titolo": "Esercizi Svolti Algoritmo del Simplesso",
+      "dataUpload": "28.03.2020 00:08:00",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/RO/Esercizi_Simplesso.pdf",
+      "dimensione": "4685 KB"
+    },
+    {
+      "titolo": "Metodo del Simplesso e Metodo del Simplesso in Due Fasi",
+      "dataUpload": "27.03.2020 23:03:42",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/RO/Lezioni_Algortimo_Simplesso_Primale_e_Variabili_Artificiali.pptx",
+      "dimensione": "10444 KB"
+    },
+    {
+      "titolo": "Teoria della Programmazione Lineare",
+      "dataUpload": "13.03.2020 23:30:23",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/RO/Lezioni_Teoria_Programmazione_Lineare.pptx",
+      "dimensione": "6140 KB"
+    },
+    {
+      "titolo": "Introduzione alla Ricerca Operativa e alla Programmazione Matematica",
+      "dataUpload": "10.03.2020 10:38:02",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/RO/Lezioni_Esempi_Programmazione_Lineare.pptx",
+      "dimensione": "8559 KB"
+    }
+  ],
+  "programma": "<table><tr><td><p>Introduzione alla Ricerca Operativa.</p>\n<p>Formulazione di problemi decisionali in termini di programmazione matematica.</p>\n<p>Classificazione dei problemi di programmazione matematica.</p>\n<p>Teoria della programmazione lineare.</p>\n<p>Il metodo del simplesso primale.</p>\n<p>Il metodo delle variabili articificiali.</p>\n<p>Teoria della dualit\u00e0 nella programmazione lineare.</p>\n<p>Il metodo del simplesso duale.</p>\n<p>Il metodo primale-duale.</p>\n<p>Il linguaggio AMPL.</p>\n<p>La libreria di algoritmi CPLEX.</p></td></tr></table>",
+  "testiRiferimento": "<table><tr><td>null</td></tr></table>",
+  "ricevimento": "<table><tr><td>null</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td><p>L'esame prevede una prova scritta e una prova orale. Ci saranno due esoneri, uno per la prima parte del corso, teorico-algorimitica, ed uno per la seconda parte del corso, implementativa.</p></td></tr></table>"
+}

@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Architettura dei sistemi software",
+  "docente": [
+    {
+      "first_name": "Andrea",
+      "second_name": "Bei"
+    }
+  ],
+  "annoAccademico": "2007-2008",
+  "crediti": "6",
+  "settore": "",
+  "anno": "3",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td><div align=\"center\"><b> </b> </div>\n<p><b><i>Parte1: Metodologie, strumenti e processi per la progettazione di architetture \r\n  software (Rif: [Larman],[Eckel],[Polanco])</i></b></p>\n<ul>\n<li> Introduzione:<br/>\r\n    o Concetti fondamentali: Progettazione OO, UML, UP, Agile Modeling - rif. \r\n    Cap 1,2 e 3</li>\n</ul>\n<ul>\n<li>Ideazione<br/>\r\n    o Concetti fondamentali - rif. Cap 4 e 5<br/>\r\n    o Requisiti funzionali (Modello dei Casi D'Uso) - rif. Cap 6 <br/>\r\n    o Requisiti non funzionali (Specifiche supplementari) - rif. Cap 7</li>\n</ul>\n<ul>\n<li>Elaborazione<br/>\r\n    o Concetti fondamentali - rif. Cap 8<br/>\r\n    o Modelli di dominio - rif. Cap 9<br/>\r\n    o Diagramma di Sequenza di Sistema e Contratti - rif. Cap 10, Cap 11<br/>\r\n    o Architetture Logiche, strati e diagrammi dei package - rif. Cap 13<br/>\r\n    o Progettazione OO (Diagramma di Interazione e Diagramma delle classi) - rif. \r\n    Cap 14. 15 e 16<br/>\r\n    o Design Pattern (GRASP e GoF) - rif. Cap 17, 18, 19, 20, 23, 24, 25, 26<br/>\r\n    o Sviluppo guidato dai Test e Refactoring e strumenti UML - rif. Cap 21 e \r\n    22<br/>\r\n    o Analisi Architetturale - rif. Cap. 33-34-35</li>\n</ul>\n<p><br/>\n<i><b>Parte 2: Architetture, Framework e Tecnologie (Rif. [Web], [Slide],[Wiley])</b></i></p>\n<ul>\n<li>Modelli architetturali di riferimento [Wiley] </li>\n<li>Architetture e tecnologie J2EE </li>\n<li>Framework MVC, ORM, IOC - Struts, Hibernate, Spring</li>\n</ul>\n<p><br/>\n<i><b>Parte 3: Seminari (Rif. [Web], [Slide])</b></i></p>\n<ul>\n<li> Tema da definire</li>\n</ul>\n<p></p>\n<p><br/>\n</p></td></tr></table>",
+  "testiRiferimento": "<table><tr><td><p><br/>\n</p>\n<b>Parte 1</b>: [Larman], Applicare UML e i Pattern - Craig Larman - Pearson, \r\nPrentice Hall<br/>\n<ul>\n<li><a href=\"http://www.pythoncriticalmass.com/\">[Eckel] Thinking in Patterns \r\n    </a></li>\n<li><a href=\"http://www.cim.polito.it/people/guidi/DesignPatternsJava.htm\">[Polanco]</a>\n<a href=\"http://www.cim.polito.it/people/guidi/DesignPatternsJava.htm\">GoF \r\n    Design Patterns in Java</a> </li>\n</ul>\n<p><b>Parte 2: </b>[Web], [Slide], Risorse disponibili su Web e Slide del docente\r\n<ul>\n<li>Per un ripasso dei concetti fondamentali della programmazione orientata \r\n    agli oggetti si pu\u00f2 scaricare il materiale del corso di Programmazione Orientata \r\n    agli Oggetti al link: <a href=\"http://www.dis.uniroma1.it/~bei\">http://www.dis.uniroma1.it/~bei</a></li>\n<li>Per codice e documentazione su Tomcat, visitare il link: <a href=\"http://jakarta.apache.org/tomcat/index.html\">http://jakarta.apache.org/tomcat/index.html</a></li>\n<li>Per codice e documentazione su JBoss, visitare il link: <a href=\"http://www.jboss.org\">http://www.jboss.org</a></li>\n<li>Per una descrizione su Model 2: <a href=\"http://www.javaworld.com/javaworld/jw-12-1999/jw-12-ssj-jspmvc.html\">http://www.javaworld.com/javaworld/jw-12-1999/jw-12-ssj-jspmvc.html</a></li>\n<li>Per una descrizione dei principali Pattern J2EE: \r\n    <ul>\n<li>Core J2EE Pattern: <a href=\"http://java.sun.com/blueprints/corej2eepatterns/Patterns/index.html\">http://java.sun.com/blueprints/corej2eepatterns/Patterns/index.html</a></li>\n<li>J2EE Pattern Catalog: <a href=\"http://java.sun.com/blueprints/patterns/catalog.html\">http://java.sun.com/blueprints/patterns/catalog.html</a></li>\n</ul>\n<li>[Wiley] Pattern-Oriented Software Architecture - A System Of Patterns, Volume 1 </li>\n</li></ul>\n\n\n<p><b>Parte 3</b>: [Web], [Slide], Risorse disponibili su Web (ancora da definire) \r\n  e Slide del docente</p>\n<p><br/>\n<br/>\n</p></p></td></tr></table>",
+  "ricevimento": "<table><tr><td>Chiunque voglia sostenere l'esame scritto del 22/09/2008 o presentare il progetto il 29/09/2008 \u00e8 pregato ad iscriversi tramite il servizio online http://delphi.uniroma2.it/ all'appello del 22/09/2009.\r\nLa data ultima di consegna del progetto \u00e8 il 26/09/2008.</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

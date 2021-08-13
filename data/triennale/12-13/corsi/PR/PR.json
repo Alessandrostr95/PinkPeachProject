@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Programmazione",
+  "docente": [
+    {
+      "first_name": "Gianluca",
+      "second_name": "Rossi"
+    }
+  ],
+  "annoAccademico": "2012-2013",
+  "crediti": "12",
+  "settore": "INF/01",
+  "anno": "1",
+  "semestre": "1-2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>Scopo del corso e' quello di introdurre agli studenti il concetto di problema computazionale e di risoluzione automatica, mettendoli in grado di comprendere ed analizzare la struttura di un problema, individuare metodi di risoluzione alternativi, raffrontarli dal punto di vista dell'efficienza, implementarli mediante un opportuno linguaggio di programmazione e valutarne la correttezza.\r<br/> <br/>In particolare verranno trattari i seguenti temi: risoluzione automatica dei problemi; algoritmi e programmi; modelli di calcolo; linguaggi di programmazione; tipi di linguaggi di programmazione; compilazione ed interpretazione; linguaggi imperativi; struttura di un programma; tipi di dati semplici e strutturati; variabili; strutture di controllo; puntatori; funzioni; ricorsione; operazioni di input/output; strutture di dati elementari (array, liste ed alberi).\r<br/> <br/>Durante il corso verranno presentati una quantita' di problemi che saranno risolti facendo riferimento principalmente al linguaggio C.\r<br/> <br/>Il corso e' diviso in due moduli da 6 CFU ciascuno. Il primo modulo e' di introduzione generale ai temi sopra elencati mentre il secondo e' piu' orientato alla presentazine del linguaggio C ed al suo utilizza nella soluzione ai problemi proposti.</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>TBA</td></tr></table>",
+  "ricevimento": "<table><tr><td>Venerd\u00ec ore 16:30, stanza 0117</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

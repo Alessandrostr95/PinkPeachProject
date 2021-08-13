@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Natural language processing",
+  "docente": [
+    {
+      "first_name": "Fabio Massimo",
+      "second_name": "Zanzotto"
+    }
+  ],
+  "annoAccademico": "2018-2019",
+  "crediti": "9",
+  "settore": "ING-INF/05",
+  "anno": "2",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td><p>Programma su <a href=\"http://didattica.uniroma2.it/informazioni/index/insegnamento/180110-Natural-Language-Processing\">didattica.uniroma2.it</a></p>\n<p>Pagina del <a href=\"http://art.uniroma2.it/zanzotto/teaching/courses/NLP/\">corso</a></p></td></tr></table>",
+  "testiRiferimento": "<table><tr><td>null</td></tr></table>",
+  "ricevimento": "<table><tr><td><p>Guardare <a href=\"http://didattica.uniroma2.it/docenti/curriculum/5312-Fabio-Massimo-Zanzotto\">qui</a></p></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

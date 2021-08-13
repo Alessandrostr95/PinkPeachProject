@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Programmazione dei calcolatori",
+  "docente": [
+    {
+      "first_name": "Dora",
+      "second_name": "Giammarresi"
+    }
+  ],
+  "annoAccademico": "2007-2008",
+  "crediti": "6",
+  "settore": "",
+  "anno": "1",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>vedi pag personale \"http://www.mat.uniroma2.it/~giammarr/Teaching/Programmaz/index.html\"</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>vedi pag personale \"http://www.mat.uniroma2.it/~giammarr/Teaching/Programmaz/index.html\"</td></tr></table>",
+  "ricevimento": "<table><tr><td>vedi pag personale \"http://www.mat.uniroma2.it/~giammarr/Teaching/Programmaz/index.html\"</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Natural language processing",
+  "docente": [
+    {
+      "first_name": "Fabio Massimo",
+      "second_name": "Zanzotto"
+    }
+  ],
+  "annoAccademico": "2016-2017",
+  "crediti": "6",
+  "settore": "ING-INF/05",
+  "anno": "2",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td><p><a href=\"http://didattica.uniroma2.it/informazioni/index/insegnamento/166605-Natural-Language-Processing\">Link sito didattica web</a></p>\n<p>\u00a0</p>\n<p><a href=\"http://art.uniroma2.it/zanzotto/teaching/courses/NLP/\" target=\"_self\">Link pagina corso</a></p></td></tr></table>",
+  "testiRiferimento": "<table><tr><td><p><a href=\"http://didattica.uniroma2.it/informazioni/index/insegnamento/166605-Natural-Language-Processing\">Link sito didattica web</a></p>\n<p>\u00a0</p>\n<p>\u00a0</p>\n<p><a href=\"http://art.uniroma2.it/zanzotto/teaching/courses/NLP/\" target=\"_self\">Link pagina corso</a></p></td></tr></table>",
+  "ricevimento": "<table><tr><td><p><a href=\"http://didattica.uniroma2.it/informazioni/index/insegnamento/166605-Natural-Language-Processing\">Link sito didattica web</a></p>\n<p>\u00a0</p>\n<p><a href=\"http://art.uniroma2.it/zanzotto/teaching/courses/NLP/\" target=\"_self\">Link pagina corso</a></p></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td><p><a href=\"http://didattica.uniroma2.it/informazioni/index/insegnamento/166605-Natural-Language-Processing\">Link sito didattica web</a></p>\n<p>\u00a0</p>\n<p><a href=\"http://art.uniroma2.it/zanzotto/teaching/courses/NLP/\" target=\"_self\">Link pagina corso</a></p></td></tr></table>"
+}

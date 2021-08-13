@@ -1,0 +1,406 @@
+{
+  "nomeCorso": "Algoritmi e strutture dati",
+  "docente": [
+    {
+      "first_name": "Andrea",
+      "second_name": "Clementi"
+    },
+    {
+      "first_name": "Luciano",
+      "second_name": "Guala"
+    }
+  ],
+  "annoAccademico": "2019-2020",
+  "crediti": "12",
+  "settore": "INF/01",
+  "anno": "2",
+  "semestre": "1-2",
+  "propedeuticit\u00e0": "Analisi Matematica. Matematica discreta. Programmazione dei calcolatori con laboratorio.",
+  "comunicazioni": [
+    {
+      "titolo": "ASD: PROPEDEUTICITA'",
+      "data": "28-09-2020 20:29",
+      "contenuto": "<p style=\"text-size-adjust: auto;\">Viste le numerose richieste di chiarimento, si ribadisce che le propedeuticit\u00e0 concernenti l'esame ASD I e II modulo devono essere soddisfatte senza alcuna eccezione: non si puo' sostenere l'esame se non si sono verbalizzati gli esami relativi ai corsi che sono stati definiti propedeutici al corso ASD. In particolare, \u00e8 necessario aver verbalizzato con esito positivo i seguenti esami del I anno:</p>\n<p style=\"text-size-adjust: auto;\"><span style=\"caret-color: #000000; font-family: verdana, arial, helvetica, sans-serif;\">Analisi Matematica. Matematica discreta. Programmazione dei calcolatori con laboratorio.</span></p><hr/>"
+    },
+    {
+      "titolo": "Modalit\u00e0 d'esame per la sessione estiva",
+      "data": "29-05-2020 17:39",
+      "contenuto": "<p><strong>Modalit\u00e0 d'esame per il corso di Algoritmi e Strutture Dati (ASD) per la sessione estiva</strong></p>\n<p>\u00a0</p>\n<p>Gli appelli di giugno e luglio di ASD <em>non</em> sono esclusivi, anche se \u00e8 consigliato non presentarsi due volte per lo stesso modulo. Lo studente, ad ogni appello, pu\u00f2 decidere di svolgere uno solo dei due moduli o entrambi. Deve comunque prenotarsi su Delphi (all'unica prenotazione relativa all'appello che vuole sostenere).</p>\n<p>\u00a0</p>\n<p>La modalit\u00e0 di svolgimento del singolo modulo \u00e8 la seguente.\u00a0</p>\n<p>Ci sar\u00e0 uno scritto a risposte multiple (erogato in modalit\u00e0 telematica) pi\u00f9 una prova orale (in modalit\u00e0 remota). Lo scritto non d\u00e0 voto ma \u00e8 propedeutico alla prova orale, ovvero, lo studente che alla prova scritta prender\u00e0 un punteggio sopra una certa soglia stabilita sar\u00e0 ammesso all'orale che costituir\u00e0 la prova d'esame vera e propria.\u00a0</p>\n<p>\u00a0</p>\n<p>I risultati dello scritto (di tutti e due i moduli) verranno resi noti subito dopo le prove. Le prove orali cominceranno lo stesso giorno dello scritto e, qualora il numero di studenti sia elevato, nei giorni immediatamente successivi. Scritto e orale di uno stesso modulo devono essere superati nello stesso appello (non si pu\u00f2 fare lo scritto in un appello e l'orale in un altro). Se non si supera l'orale bisogna rifare lo scritto.</p>\n<p>\u00a0</p>\n<p>Il giorno luned\u00ec 8 giugno alle ore 9,30 ci sar\u00e0 una lezione su Teams, nel canale del corso, in cui si discuteranno eventuali dubbi relativi alle modalit\u00e0 d'esame e si prevede un test di prova per prendere confidenza con gli strumenti Teams e Forms. Tutti gli studenti interessati a sostenere l'esame di ASD in questa sessione sono invitati caldamente a partecipare.\u00a0</p><hr/>"
+    },
+    {
+      "titolo": "MEETING/LEZIONE ASD POSTICIPO",
+      "data": "26-04-2020 09:30",
+      "contenuto": "<p>Il Meeting/Lezione di Lunedi 27/04/20 e' posticipato a Martedi 28/04/2020 allo stesso orario.</p>\n<p>\u00a0</p>\n<p>\u00a0</p><hr/>"
+    },
+    {
+      "titolo": "MEETING/LEZIONE  DEL 14-04- SU TEAMS",
+      "data": "14-04-2020 09:18",
+      "contenuto": "<p>Si ricorda a tutti gli interessati che oggi alle 9.30 ci sara' il consueto meeting/lezione sulla piattaforma Teams</p><hr/>"
+    },
+    {
+      "titolo": "asd: III Meeting su Teams",
+      "data": "30-03-2020 09:05",
+      "contenuto": "<p>Lunedi 30 marzo\u00a0 alle 9.30 vi sara' IL III\u00a0 meeting sulla piattaforma Teams del corso ASD</p><hr/>"
+    },
+    {
+      "titolo": "ASD: II MEETING/LEZIONE su TEAMS",
+      "data": "19-03-2020 16:14",
+      "contenuto": "<p>Lunedi prossimo 23 marzo\u00a0 alle 9.30 vi sara' un nuovo meeting sulla piattaforma Teams del corso ASD</p><hr/>"
+    },
+    {
+      "titolo": "ASD: ORGANIZZAZIONE MATERIALE DIDATTICO",
+      "data": "16-03-2020 12:43",
+      "contenuto": "<p>Visti i problemi di sincronizzazione mostrati da Teams, in questo link pubblicheremo le slides (solo audio) delle lezioni svolte. I file audio, compatibilmente con i suddetti problemi, verranno invece di volta in volta pubblicati su Teams.</p><hr/>"
+    },
+    {
+      "titolo": "LEZIONI ASD: PIATTAFORMA TEAMS",
+      "data": "11-03-2020 12:07",
+      "contenuto": "<p>Si informano gli studenti che sulla piattaforma Teams, \u00e8 disponibile una versione di prova di una prima lezione multimediale svolta mediante\u00a0 PowerPoint con commento audio del docente.</p>\n<p>\u00a0</p>\n<p>https://uniroma2.sharepoint.com/sites/msteams_c8acd9/Materiale%20del%20corso/MST-PROVA.ppsm</p>\n<p>\u00a0</p>\n<p>OR\u00a0</p>\n<p>\u00a0</p>\n<p>https://uniroma2-my.sharepoint.com/:p:/g/personal/andrea_clementi_uniroma2_eu/EbQG98JrFepBgrzqbh8UNkoBV-UDWZWRgB5SkA2JC_ztfw?e=WMX0MW</p>\n<p>\u00a0</p>\n<p>Nei prossimi giorni verranno preparate altre lezioni con questo metodo. Si ricorda tuttavia che\u00a0 \u00a0questi strumenti sono solo una parte integrante dello studio che deve essere svolto sul libro di testo.</p>\n<p>\u00a0</p>\n<p>Entro pochi giorni, verranno programmati,\u00a0 sempre mediante Teams, dei meeting settimanali in cui gli studenti accreditati (si leggano gli avvisi ufficiali su come iscriversi ai singoli insegnamenti di interesse) potranno porre domande sulle lezioni svolte.</p>\n<p>\u00a0</p>\n<p>\u00a0</p><hr/>"
+    },
+    {
+      "titolo": "ASD: ALCUNI SUGGERIMENTI PER QUESTA LUNGA SOSPENSIONE",
+      "data": "05-03-2020 10:07",
+      "contenuto": "<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Calibri, sans-serif;\"><span style=\"font-size: 8.5pt; font-family: Verdana, sans-serif;\">\u00a0</span></p>\n<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Calibri, sans-serif;\"><span style=\"font-size: 8.5pt; font-family: Verdana, sans-serif;\">\u00a0</span></p>\n<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Calibri, sans-serif;\"><span style=\"font-size: 8.5pt; font-family: Verdana, sans-serif;\">\u00a0</span></p>\n<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Calibri, sans-serif;\"><span style=\"font-size: 8.5pt; font-family: Verdana, sans-serif;\">ALLO SCOPO DI NON INTERROMPERE\u00a0 TOTALMENTE LO STUDIO, GLI STUDENTI SONO INVITATI A SEGUIRE QUESTI CONSIGLI. VA CHIARITO CHE QUESTA E\u2019 SOLO UNA PROPOSTA INFORMALE, NON OBBLIGATORIA, ATTA A CERCARE DI AIUTARE GLI STUDENTI INTERESSATI A NON PERDERE DEL TEMPO PREZIOSO.</span></p>\n<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Calibri, sans-serif;\"><span style=\"font-size: 8.5pt; font-family: Verdana, sans-serif;\">\u00a0</span></p>\n<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Calibri, sans-serif;\"><span style=\"font-size: 8.5pt; font-family: Verdana, sans-serif;\">\u00a0</span></p>\n<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Calibri, sans-serif;\"><strong><span style=\"font-size: 8.5pt; font-family: Verdana, sans-serif;\">I) </span></strong><span style=\"font-size: 8.5pt; font-family: Verdana, sans-serif;\">il passo pi\u00f9 importante<strong>,\u00a0 fondamentale</strong>, \u00a0e\u2019 quello di <strong>studiare</strong> sul libro adottato:</span></p>\n<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Calibri, sans-serif;\"><span style=\"font-size: 8.5pt; font-family: Verdana, sans-serif;\">\u00a0</span></p>\n<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Calibri, sans-serif;\"><em><span style=\"font-size: 8.5pt; font-family: Verdana, sans-serif;\">\"algorithm design\" Kleinberg-Tardos = kt</span></em></p>\n<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Calibri, sans-serif;\"><span style=\"font-size: 8.5pt; font-family: Verdana, sans-serif;\">\u00a0</span></p>\n<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Calibri, sans-serif;\"><span style=\"font-size: 8.5pt; font-family: Verdana, sans-serif;\">Gli argomenti della prima lezione svolta e delle due successive\u00a0 lezioni che si faranno, svolgendo gli esercizi suggeriti nel libro. In particolare:</span></p>\n<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Calibri, sans-serif;\"><span style=\"font-size: 8.5pt; font-family: Verdana, sans-serif;\">\u00a0</span></p>\n<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 0.0001pt 36pt; font-size: 12pt; font-family: Calibri, sans-serif; text-indent: -18pt;\"><span style=\"font-size: 8.5pt; font-family: Verdana, sans-serif;\">1.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">\u00a0\u00a0\u00a0\u00a0 </span></span><strong><span style=\"font-size: 8.5pt; font-family: Verdana, sans-serif;\">LEZIONE I (SHORTEST PATHS)</span></strong><span style=\"font-size: 8.5pt; font-family: Verdana, sans-serif;\"> (si vedano le slides ma soprattutto cap. 4.4. del libro KT). Esercizio: Dimostrare per induzione sul numero K di nodi inseriti in S, che il K-mo nodo inserito in S corrisponde anche al K-mo nodo pi\u00f9 vicino alla sorgente s. Esercizio 2: scrivere il programma in Python (o in C) dell'algoritmo realizzando per i nodi in V-S una struttura HEAP (coda di priorit\u00e0).</span></p>\n<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 0.0001pt 36pt; font-size: 12pt; font-family: Calibri, sans-serif; text-indent: -18pt;\"><span style=\"font-size: 8.5pt; font-family: Verdana, sans-serif;\">2.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">\u00a0\u00a0\u00a0\u00a0 </span></span><strong><span style=\"font-size: 8.5pt; font-family: Verdana, sans-serif;\">LEZIONE 2 (MINIMUM SPANNING TREE - MST - I).</span></strong><span style=\"font-size: 8.5pt; font-family: Verdana, sans-serif;\"> A partire dalle slides (secondo file), si studi il cap. 4.5 del KT sino al Theorema 4.19 a pag 147 e si eseguano gli algoritmi di Prim e Kruskal su vari esempi di grafi pesati di dimensione almeno 10. Svolgere gli esercizio 1 e 2 a pag. 188-9.</span></p>\n<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 0.0001pt 36pt; font-size: 12pt; font-family: Calibri, sans-serif; text-indent: -18pt;\"><span style=\"font-size: 8.5pt; font-family: Verdana, sans-serif;\">3.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">\u00a0\u00a0\u00a0\u00a0 </span></span><strong><span lang=\"EN-US\" style=\"font-size: 8.5pt; font-family: Verdana, sans-serif;\">LEZIONE 3 (MINIMUM SPANNING TREE - MST - II).</span></strong><span lang=\"EN-US\" style=\"font-size: 8.5pt; font-family: Verdana, sans-serif;\"> \u00a0</span><span style=\"font-size: 8.5pt; font-family: Verdana, sans-serif;\">A partire dale slides (secondo file), si studi il cap. 4.5 da pag 147 a pag 151. In particolare, si dimostri la correttezza del Reverse-Delete Algorithm basandosi sulla Cycle Property (si studi la dimostrazione di questa propriet\u00e0: Teorema 4.20). \u00a0\u00a0\u00a0\u00a0Esercizio I: si dimostri rigorosamente, per assurdo (mediante la tecnica exchanging argument), \u00a0la correttezza degli algoritmi studiati \u00a0per il MST anche nel caso di pesi NON distinti (si veda pag 149). Esercizio II: studiare l\u2019esercizio svolto n. 3 del KT a pag. 187.</span></p>\n<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 0.0001pt 18pt; font-size: 12pt; font-family: Calibri, sans-serif;\"><span style=\"font-size: 8.5pt; font-family: Verdana, sans-serif;\">\u00a0</span></p>\n<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Calibri, sans-serif;\"><strong><span style=\"font-size: 8.5pt; font-family: Verdana, sans-serif;\">II)</span></strong><span style=\"font-size: 8.5pt; font-family: Verdana, sans-serif;\"> Come possibile modalit\u00e0 d\u2019interazione, nei prossimi giorni, siete fortemente invitati, ove possibile, \u00a0a stabilire dei piccoli gruppi di 4-5 studenti per studiare insieme (possibilmente mediante video-conference \u2013 SKYPE, JITSI, etc etc) le tre lezioni suddette e per svolgere gli esercizi.</span></p>\n<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Calibri, sans-serif;\"><span style=\"font-size: 8.5pt; font-family: Verdana, sans-serif;\">Gli argomenti proposti nelle tre suddette lezioni verranno rivisti in classe appena possibile ma sar\u00e0 fondamentale la vostra collaborazione, nel vostro interesse, per svolgere \u00a0\u00a0\u00a0un programma sufficiente per questo insegnamento.</span></p>\n<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Calibri, sans-serif;\"><span style=\"font-size: 8.5pt; font-family: Verdana, sans-serif;\">Nel caso di dubbi, dopo essersi <strong>confrontati a fondo</strong> con il proprio gruppo (ed anche eventualmente con altri gruppi), potete inviare una email a:</span></p>\n<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 0.0001pt 18pt; font-size: 12pt; font-family: Calibri, sans-serif;\"><span style=\"font-size: 8.5pt; font-family: Verdana, sans-serif;\"><a href=\"mailto:clementi@mat.uniroma2.it\" style=\"color: #954f72; text-decoration-line: underline;\">clementi@mat.uniroma2.it</a></span></p>\n<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 0.0001pt 18pt; font-size: 12pt; font-family: Calibri, sans-serif;\"><span style=\"font-size: 8.5pt; font-family: Verdana, sans-serif;\">La mail deve avere il subject: <strong>ASD: LEZIONE X</strong> , con X= 1,2,3.</span></p>\n<p class=\"MsoListParagraphCxSpFirst\" style=\"margin: 0cm 0cm 0.0001pt 36pt; font-size: 12pt; font-family: Calibri, sans-serif; text-indent: -18pt;\"><span style=\"font-size: 8.5pt; font-family: Verdana, sans-serif;\">-<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"font-size: 8.5pt; font-family: Verdana, sans-serif;\">La mail deve descrivere in modo chiaro e sintetico (<strong>MAX 300 parole</strong>) il dubbio riferendosi <strong>esclusivamente</strong> agli argomenti della lezione <strong>X</strong> (e dei relativi esercizi proposti).</span></p>\n<p class=\"MsoListParagraphCxSpMiddle\" style=\"margin: 0cm 0cm 0.0001pt 36pt; font-size: 12pt; font-family: Calibri, sans-serif; text-indent: -18pt;\"><span style=\"font-size: 8.5pt; font-family: Verdana, sans-serif;\">-<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"font-size: 8.5pt; font-family: Verdana, sans-serif;\">La mail va firmata con cognome, matricola ed email \u00a0di ogni studente del gruppo.</span></p>\n<p class=\"MsoListParagraphCxSpMiddle\" style=\"margin: 0cm 0cm 0.0001pt 36pt; font-size: 12pt; font-family: Calibri, sans-serif; text-indent: -18pt;\"><span style=\"font-size: 8.5pt; font-family: Verdana, sans-serif;\">-<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"font-size: 8.5pt; font-family: Verdana, sans-serif;\">La mail deve contenere in cc tutti e soli gli indirizzi email del gruppo.</span></p>\n<p class=\"MsoListParagraphCxSpMiddle\" style=\"margin: 0cm 0cm 0.0001pt 36pt; font-size: 12pt; font-family: Calibri, sans-serif; text-indent: -18pt;\"><span style=\"font-size: 8.5pt; font-family: Verdana, sans-serif;\">-<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"font-size: 8.5pt; font-family: Verdana, sans-serif;\">Per ovvii motivi di possibile congestionamento, ogni gruppo potr\u00e0 formulare al pi\u00f9 una mail per ogni lezione.</span></p>\n<p class=\"MsoListParagraphCxSpLast\" style=\"margin: 0cm 0cm 0.0001pt 36pt; font-size: 12pt; font-family: Calibri, sans-serif; text-indent: -18pt;\"><span style=\"font-size: 8.5pt; font-family: Verdana, sans-serif;\">-<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"font-size: 8.5pt; font-family: Verdana, sans-serif;\">Nel caso di qualsiasi deviazione significativa rispetto ai punti di cui sopra, la mail verr\u00e0 totalmente ignorata.</span></p>\n<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 0.0001pt 18pt; font-size: 12pt; font-family: Calibri, sans-serif;\"><span style=\"font-size: 8.5pt; font-family: Verdana, sans-serif;\">\u00a0</span></p>\n<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Calibri, sans-serif;\">\u00a0</p><hr/>"
+    },
+    {
+      "titolo": "SOSPENSIONI LEZIONI",
+      "data": "05-03-2020 09:10",
+      "contenuto": "<p>IN ACCORDO CON LE DIRETTIVE MINISTERIALI E DEL RETTORE, SI COMUNICA CHE LE LEZIONI DEL CORSO ASD SONO ATTUALMENTE SOSPESE SINO AL 15-03-2020. SALVO ULTERIORI COMUNICAZIONI, IL CORSO RIPRENDERA' LUNEDI 16-03-2020 NEGLI ORARI STANDARD DEL CORSO.</p><hr/>"
+    },
+    {
+      "titolo": "ASD: LEZIONE DEL 5/3/20",
+      "data": "03-03-2020 11:19",
+      "contenuto": "<p>Per poter operare lo spostamento delle lezioni in un'aula adeguata,\u00a0 la lezione in oggetto non avra' luogo. Le lezioni riprenderanno lunedi 9 e si svolgeranno normalmente il lunedi ed il martedi in aula 4 PP2.</p><hr/>"
+    },
+    {
+      "titolo": "ASD: INIZIO II MODULO",
+      "data": "02-03-2020 08:45",
+      "contenuto": "<p>Il corso avr\u00e0 inizio lunedi 2 marzo alle 9.15 presso l'aula 4 PP2.</p>\n<p>\u00a0</p>\n<p>Le successive\u00a0 lezioni seguiranno secondo\u00a0 l'orario standard con orario d'inizio sempre alle 9.15, salvo comunicazioni.\u00a0</p><hr/>"
+    },
+    {
+      "titolo": "risultati VI appello corso a.a.2018/19",
+      "data": "24-02-2020 18:03",
+      "contenuto": "<p>Si comunica che sono usciti i risultati della prova scritta del 24/02/20 relativa al VI appello del corso dell'a.a. 2018/19. Gli orali si svolgeranno mercoled\u00ec 26 alle ore 14,30 nell'ufficio del prof. Clementi.\u00a0<br>I risultati possono essere consultati a questa pagina:<br><a href=\"http://www.mat.uniroma2.it/~guala/ASDL_2018.htm\">http://www.mat.uniroma2.it/~guala/ASDL_2018.htm</a>\u00a0</br></br></p><hr/>"
+    },
+    {
+      "titolo": "Spostamento aula lezione gioved\u00ec 14 novembre.",
+      "data": "07-11-2019 12:07",
+      "contenuto": "<p>La lezione di gioved\u00ec 14 novembre si volger\u00e0 in aula 18.\u00a0</p><hr/>"
+    },
+    {
+      "titolo": "Cambio aula.",
+      "data": "10-10-2019 14:39",
+      "contenuto": "<p>Si comunica che le lezioni di ASD si svolgeranno il luned\u00ec in aula 3 PP2 e il gioved\u00ec in aula 2 PP2.\u00a0\u00a0</p>"
+    }
+  ],
+  "lezioni": [
+    {
+      "id": "41",
+      "data": "11-05-2020",
+      "contenuto": "<p>Ripasso delle definizioni formali per problemi di OTTIMIZZAZIONE</p>\n<p>Versione decisionale di un problema di ottimizzazione</p>\n<p>relazioni di complessit\u00e0</p>\n<p>problemi di ottimizzazione NP-Hard</p>\n<p>Concetto di Approssimazione per un problema di ottimizzazione</p>\n<p>Un primo esempio di algoritmo approssimante: Il problema Min-VC e l'algoritmo 2-approssimante</p>\n<p>analisi della approssimazione</p>"
+    },
+    {
+      "id": "40",
+      "data": "04-05-2020",
+      "contenuto": "<p>LA CLASSE NP: ripasso delle definizioni principali</p>\n<p>Le tecniche di riduzioni polinomiali mediante gadget.</p>\n<p>\u00a0</p>\n<p>Directed Hamiltonian Cycle &lt; Hamiltonian Cycle</p>\n<p>\u00a0</p>\n<p>3-SAT &lt; Directed Hamiltonian Cycle</p>\n<p>\u00a0</p>\n<p>Hamiltonian Cycle &lt; Hamiltonian Path</p>\n<p>\u00a0</p>\n<p>Hamiltonian Path &lt; Longest Paths\u00a0</p>\n<p>\u00a0</p>\n<p>Hamiltonian Cycle &lt; Traveling Salesman Problem</p>"
+    },
+    {
+      "id": "39",
+      "data": "27-04-2020",
+      "contenuto": "<p>LA CLASSE NP: ripasso delle definizioni principali</p>\n<p>Le tecniche di riduzioni polinomiali.</p>\n<p>La tecnica dei gadget</p>\n<p>3-SAT &lt; Independent Set</p>\n<p>- Ripasso sulle tecniche di riduzione</p>\n<p>- Propriet\u00e0 di Transitivit\u00e0 delle riduzioni</p>\n<p>- Self-Reducibility</p>"
+    },
+    {
+      "id": "38",
+      "data": "27-04-2020",
+      "contenuto": "<p>LA CLASSE NP: ripasso delle definizioni principali</p>\n<p>Le tecniche di riduzioni polinomiali.</p>\n<p>Riduzioni semplici:</p>\n<p>Independent Set &lt; Vertex Cover (equivalenza tra i problemi)</p>\n<p>Vertex Cover &lt; Set Cover</p>\n<p>\u00a0</p>"
+    },
+    {
+      "id": "37",
+      "data": "23-04-2020",
+      "contenuto": "<p>LA CLASSE NP: ripasso delle definizioni principali</p>\n<p>L'asimmetria di NP: la classe Co-NP</p>\n<p>problemi in NP\u00a0\u2229 Co-NP</p>\n<p>Primalita' e Fattorizzazione</p>\n<p>il Thm di Pratt e la dimostrazione per PRIME in NP\u00a0\u2229 Co-NP</p>\n<p>\u00a0</p>"
+    },
+    {
+      "id": "36",
+      "data": "20-04-2020",
+      "contenuto": "<p>LA CLASSE NP,</p>\n<p>esempi, riducibilita' polinomiali</p>\n<p>NP-completezza</p>\n<p>il primo problema NP completo: 3 SAT</p>\n<p>P vs NP</p>"
+    },
+    {
+      "id": "35",
+      "data": "17-04-2020",
+      "contenuto": "<p>LA CLASSE NP</p>\n<p>IL CONCETTO DI CERTIFICATIONS E CERTIFIERS</p>\n<p>DEFINIZIONE DI NP</p>\n<p>ESEMPI DI PROBLEMI IN NP E DIMOSTRAZIONE DI APPARTENENZA</p>\n<p>RELAZIONE TRA P NP et EXP</p>\n<p>CONSIDERAZIONI GENERALI TRA ALGORTIMI E VERIFICATORI</p>"
+    },
+    {
+      "id": "34",
+      "data": "13-04-2020",
+      "contenuto": "<p>LA PROGRAMMAZIONE DINAMICA</p>\n<p>IL PROBLEMA SEQUENCE ALIGNMENT</p>\n<p>MODELLAZIONE E MOTIVAZIONI</p>\n<p>CONCETTO DI DISTANZA: GAP E MISMATCH PENALTIES</p>\n<p>UNA PARTIZIONE DELLA STRUTTURA OTTIMA CON DUE PARAMETRI</p>\n<p>DIMOSTRAZIONE DI OTTIMALITA'</p>\n<p>IMPLEMENTAZIONE DELL'ALGORITMO</p>\n<p>ANALISI DELLA COMPLESSITA'</p>\n<p>\u00a0</p>"
+    },
+    {
+      "id": "33",
+      "data": "07-04-2020",
+      "contenuto": "<p>LA PROGRAMMAZIONE DINAMICA</p>\n<p>IL PROBLEMA KNAPSACK</p>\n<p>UN APPROCCIO CON UN SOLO PARAMETRI NON VALIDO</p>\n<p>UNA PARTIZIONE DELLA STRUTTURA OTTIMA CON DUE PARAMETRI</p>\n<p>DIMOSTRAZIONE DI OTTIMALITA'</p>\n<p>IMPLEMENTAZIONE DELL'ALGORITMO</p>\n<p>ANALISI DELLA COMPLESSITA'</p>\n<p>PSEUDOPOLINOMIALITA'</p>"
+    },
+    {
+      "id": "32",
+      "data": "07-04-2020",
+      "contenuto": "<p>PROGRAMMAZIONE DINAMICA</p>\n<p>\u00a0</p>\n<p>IL PROBLEMA DEL SEGMENTED LEAST SQUARES (SLS)</p>\n<p>\u00a0</p>\n<p>STRUTTURA DELL'OTTIMO E SUA PARTIZIONE IN SOTTO-ISTANZE</p>\n<p>\u00a0</p>\n<p>UN ALGORITMO DI PROGR. DINAMICA</p>\n<p>\u00a0</p>\n<p>ANALISI DELL'OTTIMALITA' E DELLA COMPLESSITA'</p>\n<p>\u00a0</p>\n<p>IMPLEMENTAZIONE ITERATIVA</p>"
+    },
+    {
+      "id": "31",
+      "data": "06-04-2020",
+      "contenuto": "<p>INTRODUZIONE ALLA PROGRAMMAZIONE DINAMICA</p>\n<p>\u00a0</p>\n<p>IL PROBLEMA DEL WEIGHTED INTERVAL SCHEDULING (WIS)</p>\n<p>\u00a0</p>\n<p>UN ALGORITMO DI PROGR DIN ALG PER WIS</p>\n<p>\u00a0</p>\n<p>OTTIMALITA' DI ALG</p>\n<p>\u00a0</p>\n<p>ANALISI DELLA VERSIONE RICORSIVA NON EFFICIENTE</p>\n<p>\u00a0</p>\n<p>VERSIONE ITERATIVA</p>\n<p>\u00a0</p>\n<p>MEMOIZATION</p>"
+    },
+    {
+      "id": "30",
+      "data": "31-03-2020",
+      "contenuto": "<p>Il problema del Data Compression (DC)</p>\n<p>\u00a0</p>\n<p>Altre Proprieta' strutturali di soluzioni ottime</p>\n<p>\u00a0</p>\n<p>Un approccio ricorsivo Bottom-Up: Algoritmo greedy di Huffman H</p>\n<p>Pseudo-codice di H</p>\n<p>Ottimalit\u00e0 di H</p>\n<p>Complessit\u00e0 di H</p>\n<p>Esempi di esecuzioni di H su istanze concrete</p>"
+    },
+    {
+      "id": "29",
+      "data": "30-03-2020",
+      "contenuto": "<p>Il problema del Data Compression (DC)</p>\n<p>Introduzione</p>\n<p>Codici a lungh fissa e codici prefissi a lungh variabile</p>\n<p>Esempi di compressione</p>\n<p>Definizione del concetto di compressione: ABL di una distribuzione di frequenze di simboli in un testo</p>\n<p>Definizione del problema di minimizzazione min-ABL</p>\n<p>Equivalenza codici prefissi = Labeled Tree</p>\n<p>Proprieta' strutturali di soluzioni ottime: full trees</p>\n<p>Un approccio top-down: Algoritmo Shannon-Fano S-F</p>\n<p>Non ottimalita' di SF</p>\n<p>\u00a0</p>"
+    },
+    {
+      "id": "28",
+      "data": "24-03-2020",
+      "contenuto": "<p>LEZIONE 6</p>\n<p>I problemi di scheduling\u00a0</p>\n<p>Il problema Interval PARTITIONING (IP)</p>\n<p>I vari approcci greedy x IP</p>\n<p>\u00a0Un approccio ottimale greedy: starting time e</p>\n<p>\"open class when you need\"</p>\n<p>Dimostrazione dell'ottimalit\u00e0</p>\n<p>Il concetto di DEPTH di una Istanza</p>\n<p>Lower Bound sull'Ottimo</p>\n<p>Dimostrazione analitica del fatto che il greedy raggiunge il\u00a0</p>\n<p>Lower Bound</p>\n<p>Esempi\u00a0</p>"
+    },
+    {
+      "id": "27",
+      "data": "23-03-2020",
+      "contenuto": "<p>\u00a0Lezione 5</p>\n<p>\u00a0</p>\n<p>I problemi di scheduling: Intorduzione e definizione</p>\n<p>Il problema Interval Scheduling (IS)</p>\n<p>I vari approcci greedy x IS</p>\n<p>Schema generale di greedy algorithms</p>\n<p>Un approccio ottimale greedy: finish time</p>\n<p>Dimostrazione dell'ottimalit\u00e0</p>\n<p>Tecnica Greedy Stays Ahead</p>\n<p>Tecnica Exchange Argument</p>\n<p>Esempi e Domande Studenti</p>\n<p>\u00a0</p>"
+    },
+    {
+      "id": "26",
+      "data": "16-03-2020",
+      "contenuto": "<p>LEZIONE 3 et 4. (Libro Demetrescu et Al del\u00a0 I Modulo).</p>\n<p>\u00a0</p>\n<p>- Strutture Dati per UNION and FIND</p>\n<p>- Motivazioni e Definizione formale</p>\n<p>- Soluzioni basate su Foreste</p>\n<p>- Soluzione Quick Find\u00a0</p>\n<p>- Descrizione ed Esempi</p>\n<p>- Realizzazione</p>\n<p>- Analisi dei Costi (Caso Peggiore)</p>\n<p>- Soluzione Union By Size\u00a0</p>\n<p>- Descrizione ed Esempi</p>\n<p>- Il concetto di analisi ammortizzata</p>\n<p>- Analisi ammortizzata (Caso Peggiore su una sequenza arbitraria di operazioni)</p>"
+    },
+    {
+      "id": "25",
+      "data": "16-03-2020",
+      "contenuto": "<p>LEZIONI ONLINE:</p>\n<p>\u00a0</p>\n<p class=\"MsoListParagraphCxSpFirst\" style=\"margin: 0cm 0cm 0.0001pt 32.2pt; font-size: 12pt; font-family: Calibri, sans-serif; text-align: justify; text-indent: -18pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><span style=\"font-size: 8.5pt; font-family: Verdana, sans-serif;\">\u00a0</span></p>\n<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 0.0001pt 14.2pt; font-size: 12pt; font-family: Calibri, sans-serif; text-align: justify;\">\u00a0</p>\n<p class=\"MsoListParagraphCxSpFirst\" style=\"margin: 0cm 0cm 0.0001pt 32.2pt; font-size: 12pt; font-family: Calibri, sans-serif; text-align: justify; text-indent: -18pt;\">2.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">\u00a0\u00a0\u00a0\u00a0 </span>LEZIONE N. 2 \u00a0(Section 4.5 \u2013 tutta quanta + esercizio n.3 a p. 187)</p>\n<p class=\"MsoListParagraphCxSpMiddle\" style=\"margin: 0cm 0cm 0.0001pt 72pt; font-size: 12pt; font-family: Calibri, sans-serif; text-align: justify; text-indent: -18pt;\">a.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">\u00a0\u00a0\u00a0\u00a0 </span>Il problema del MST: definizione formale e size dell\u2019istanza</p>\n<p class=\"MsoListParagraphCxSpMiddle\" style=\"margin: 0cm 0cm 0.0001pt 72pt; font-size: 12pt; font-family: Calibri, sans-serif; text-align: justify; text-indent: -18pt;\">b.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">\u00a0\u00a0\u00a0\u00a0 </span>L\u2019approccio \u00a0greedy dei tre algoritmi</p>\n<p class=\"MsoListParagraphCxSpMiddle\" style=\"margin: 0cm 0cm 0.0001pt 72pt; font-size: 12pt; font-family: Calibri, sans-serif; text-align: justify; text-indent: -18pt;\">c.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">\u00a0\u00a0\u00a0\u00a0 </span>Le propriet\u00e0 del taglio e del ciclo con dimostrazioni</p>\n<p class=\"MsoListParagraphCxSpMiddle\" style=\"margin: 0cm 0cm 0.0001pt 72pt; font-size: 12pt; font-family: Calibri, sans-serif; text-align: justify; text-indent: -18pt;\">d.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">\u00a0\u00a0\u00a0\u00a0 </span>Correttezza dell\u2019algoritmo di Prim</p>\n<p class=\"MsoListParagraphCxSpMiddle\" style=\"margin: 0cm 0cm 0.0001pt 32.2pt; font-size: 12pt; font-family: Calibri, sans-serif; text-align: justify; text-indent: -18pt;\">3.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">\u00a0\u00a0\u00a0\u00a0 </span>LEZIONE N. 3 (Section 4.5 \u2013 tutta quanta + esercizio n.3 a p. 187)</p>\n<p class=\"MsoListParagraphCxSpMiddle\" style=\"margin: 0cm 0cm 0.0001pt 72pt; font-size: 12pt; font-family: Calibri, sans-serif; text-align: justify; text-indent: -18pt;\">a.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">\u00a0\u00a0\u00a0\u00a0 </span>Complessit\u00e0 algoritmo di Prim (esercizio)</p>\n<p class=\"MsoListParagraphCxSpMiddle\" style=\"margin: 0cm 0cm 0.0001pt 72pt; font-size: 12pt; font-family: Calibri, sans-serif; text-align: justify; text-indent: -18pt;\">b.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">\u00a0\u00a0\u00a0\u00a0 </span>Correttezza e complessit\u00e0 dell\u2019algoritmo di Kruskal (escludendo l\u2019implementazione della struttura UNION-FIND)</p>\n<p class=\"MsoListParagraphCxSpMiddle\" style=\"margin: 0cm 0cm 0.0001pt 72pt; font-size: 12pt; font-family: Calibri, sans-serif; text-align: justify; text-indent: -18pt;\">c.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">\u00a0\u00a0\u00a0\u00a0 </span>Rimozione dell\u2019assunzione: pesi distinti</p>\n<p class=\"MsoListParagraphCxSpMiddle\" style=\"margin: 0cm 0cm 0.0001pt 72pt; font-size: 12pt; font-family: Calibri, sans-serif; text-align: justify; text-indent: -18pt;\">d.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">\u00a0\u00a0\u00a0\u00a0 </span>Esercizio n. 3 pag. 187</p>\n<p class=\"MsoListParagraphCxSpMiddle\" style=\"margin: 0cm 0cm 0.0001pt 72pt; font-size: 12pt; font-family: Calibri, sans-serif; text-align: justify; text-indent: -18pt;\">e.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">\u00a0\u00a0\u00a0\u00a0 </span>Altri semplici esercizi e la relazione con lo Shortest Path Tree</p>\n<p class=\"MsoListParagraphCxSpMiddle\" style=\"margin: 0cm 0cm 0.0001pt 72pt; font-size: 12pt; font-family: Calibri, sans-serif; text-align: justify; text-indent: -18pt;\">f.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">\u00a0\u00a0\u00a0\u00a0\u00a0 </span>Il problema del K-Clustering: definizione informale e formale</p>\n<p class=\"MsoListParagraphCxSpMiddle\" style=\"margin: 0cm 0cm 0.0001pt 72pt; font-size: 12pt; font-family: Calibri, sans-serif; text-align: justify; text-indent: -18pt;\">g.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">\u00a0\u00a0\u00a0\u00a0 </span>Un algoritmo basato sul MST</p>\n<p class=\"MsoListParagraphCxSpLast\" style=\"margin: 0cm 0cm 0.0001pt 72pt; font-size: 12pt; font-family: Calibri, sans-serif; text-align: justify; text-indent: -18pt;\">h.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">\u00a0\u00a0\u00a0\u00a0 </span>Prova dell\u2019ottimalit\u00e0 dell\u2019algoritmo basato sul MST</p>"
+    },
+    {
+      "id": "24",
+      "data": "02-03-2020",
+      "contenuto": "<p><!--[if gte mso 9]><xml>\r\n <o:DocumentProperties>\r\n  <o:Revision>0</o:Revision>\r\n  <o:TotalTime>0</o:TotalTime>\r\n  <o:Pages>1</o:Pages>\r\n  <o:Words>90</o:Words>\r\n  <o:Characters>516</o:Characters>\r\n  <o:Company>Universit\u00e0 Tor Vergata</o:Company>\r\n  <o:Lines>4</o:Lines>\r\n  <o:Paragraphs>1</o:Paragraphs>\r\n  <o:CharactersWithSpaces>605</o:CharactersWithSpaces>\r\n  <o:Version>14.0</o:Version>\r\n </o:DocumentProperties>\r\n <o:OfficeDocumentSettings>\r\n  <o:AllowPNG/>\r\n </o:OfficeDocumentSettings>\r\n</xml><![endif]--> <!--[if gte mso 9]><xml>\r\n <w:WordDocument>\r\n  <w:View>Normal</w:View>\r\n  <w:Zoom>0</w:Zoom>\r\n  <w:TrackMoves/>\r\n  <w:TrackFormatting/>\r\n  <w:HyphenationZone>14</w:HyphenationZone>\r\n  <w:PunctuationKerning/>\r\n  <w:ValidateAgainstSchemas/>\r\n  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>\r\n  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>\r\n  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>\r\n  <w:DoNotPromoteQF/>\r\n  <w:LidThemeOther>IT</w:LidThemeOther>\r\n  <w:LidThemeAsian>JA</w:LidThemeAsian>\r\n  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>\r\n  <w:Compatibility>\r\n   <w:BreakWrappedTables/>\r\n   <w:SnapToGridInCell/>\r\n   <w:WrapTextWithPunct/>\r\n   <w:UseAsianBreakRules/>\r\n   <w:DontGrowAutofit/>\r\n   <w:SplitPgBreakAndParaMark/>\r\n   <w:EnableOpenTypeKerning/>\r\n   <w:DontFlipMirrorIndents/>\r\n   <w:OverrideTableStyleHps/>\r\n   <w:UseFELayout/>\r\n  </w:Compatibility>\r\n  <m:mathPr>\r\n   <m:mathFont m:val=\"Cambria Math\"/>\r\n   <m:brkBin m:val=\"before\"/>\r\n   <m:brkBinSub m:val=\"&#45;-\"/>\r\n   <m:smallFrac m:val=\"off\"/>\r\n   <m:dispDef/>\r\n   <m:lMargin m:val=\"0\"/>\r\n   <m:rMargin m:val=\"0\"/>\r\n   <m:defJc m:val=\"centerGroup\"/>\r\n   <m:wrapIndent m:val=\"1440\"/>\r\n   <m:intLim m:val=\"subSup\"/>\r\n   <m:naryLim m:val=\"undOvr\"/>\r\n  </m:mathPr></w:WordDocument>\r\n</xml><![endif]--><!--[if gte mso 9]><xml>\r\n <w:LatentStyles DefLockedState=\"false\" DefUnhideWhenUsed=\"true\"\r\n  DefSemiHidden=\"true\" DefQFormat=\"false\" DefPriority=\"99\"\r\n  LatentStyleCount=\"276\">\r\n  <w:LsdException Locked=\"false\" Priority=\"0\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Normal\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"heading 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" QFormat=\"true\" Name=\"heading 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" QFormat=\"true\" Name=\"heading 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" QFormat=\"true\" Name=\"heading 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" QFormat=\"true\" Name=\"heading 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" QFormat=\"true\" Name=\"heading 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" QFormat=\"true\" Name=\"heading 7\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" QFormat=\"true\" Name=\"heading 8\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" QFormat=\"true\" Name=\"heading 9\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" Name=\"toc 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" Name=\"toc 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" Name=\"toc 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" Name=\"toc 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" Name=\"toc 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" Name=\"toc 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" Name=\"toc 7\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" Name=\"toc 8\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" Name=\"toc 9\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"35\" QFormat=\"true\" Name=\"caption\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"10\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Title\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"1\" Name=\"Default Paragraph Font\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"11\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Subtitle\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"22\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Strong\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"20\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Emphasis\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"59\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Table Grid\"/>\r\n  <w:LsdException Locked=\"false\" UnhideWhenUsed=\"false\" Name=\"Placeholder Text\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"1\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"No Spacing\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"60\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light Shading\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"61\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light List\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"62\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light Grid\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"63\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Shading 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"64\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Shading 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"65\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium List 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"66\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium List 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"67\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"68\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"69\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"70\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Dark List\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"71\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful Shading\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"72\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful List\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"73\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful Grid\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"60\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light Shading Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"61\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light List Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"62\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light Grid Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"63\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Shading 1 Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"64\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Shading 2 Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"65\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium List 1 Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" UnhideWhenUsed=\"false\" Name=\"Revision\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"34\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"List Paragraph\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"29\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Quote\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"30\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Intense Quote\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"66\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium List 2 Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"67\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 1 Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"68\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 2 Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"69\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 3 Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"70\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Dark List Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"71\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful Shading Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"72\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful List Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"73\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful Grid Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"60\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light Shading Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"61\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light List Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"62\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light Grid Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"63\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Shading 1 Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"64\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Shading 2 Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"65\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium List 1 Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"66\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium List 2 Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"67\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 1 Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"68\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 2 Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"69\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 3 Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"70\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Dark List Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"71\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful Shading Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"72\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful List Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"73\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful Grid Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"60\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light Shading Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"61\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light List Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"62\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light Grid Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"63\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Shading 1 Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"64\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Shading 2 Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"65\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium List 1 Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"66\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium List 2 Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"67\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 1 Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"68\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 2 Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"69\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 3 Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"70\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Dark List Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"71\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful Shading Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"72\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful List Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"73\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful Grid Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"60\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light Shading Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"61\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light List Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"62\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light Grid Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"63\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Shading 1 Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"64\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Shading 2 Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"65\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium List 1 Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"66\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium List 2 Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"67\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 1 Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"68\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 2 Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"69\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 3 Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"70\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Dark List Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"71\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful Shading Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"72\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful List Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"73\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful Grid Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"60\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light Shading Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"61\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light List Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"62\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light Grid Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"63\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Shading 1 Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"64\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Shading 2 Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"65\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium List 1 Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"66\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium List 2 Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"67\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 1 Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"68\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 2 Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"69\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 3 Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"70\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Dark List Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"71\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful Shading Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"72\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful List Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"73\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful Grid Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"60\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light Shading Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"61\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light List Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"62\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light Grid Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"63\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Shading 1 Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"64\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Shading 2 Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"65\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium List 1 Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"66\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium List 2 Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"67\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 1 Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"68\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 2 Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"69\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 3 Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"70\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Dark List Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"71\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful Shading Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"72\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful List Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"73\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful Grid Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"19\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Subtle Emphasis\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"21\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Intense Emphasis\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"31\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Subtle Reference\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"32\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Intense Reference\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"33\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Book Title\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"37\" Name=\"Bibliography\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" QFormat=\"true\" Name=\"TOC Heading\"/>\r\n </w:LatentStyles>\r\n</xml><![endif]--><!--[if gte mso 10]>\r\n<style>\r\n /* Style Definitions */\r\ntable.MsoNormalTable\r\n\t{mso-style-name:\"Tabella normale\";\r\n\tmso-tstyle-rowband-size:0;\r\n\tmso-tstyle-colband-size:0;\r\n\tmso-style-noshow:yes;\r\n\tmso-style-priority:99;\r\n\tmso-style-parent:\"\";\r\n\tmso-padding-alt:0cm 5.4pt 0cm 5.4pt;\r\n\tmso-para-margin:0cm;\r\n\tmso-para-margin-bottom:.0001pt;\r\n\tmso-pagination:widow-orphan;\r\n\tfont-size:12.0pt;\r\n\tfont-family:Cambria;\r\n\tmso-ascii-font-family:Cambria;\r\n\tmso-ascii-theme-font:minor-latin;\r\n\tmso-hansi-font-family:Cambria;\r\n\tmso-hansi-theme-font:minor-latin;}\r\n</style>\r\n<![endif]--> <!--StartFragment--></p>\n<p class=\"MsoNormal\"><strong style=\"mso-bidi-font-weight: normal;\"><span style=\"font-size: 11.0pt; color: blue;\">LEZIONE 02-03-2020</span></strong></p>\n<p class=\"MsoListParagraphCxSpFirst\" style=\"margin-left: 88.8pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l0 level1 lfo1;\"><!--[if !supportLists]--><strong style=\"mso-bidi-font-weight: normal;\"><span style=\"font-size: 11.0pt; mso-fareast-font-family: Cambria; mso-fareast-theme-font: minor-latin; mso-bidi-font-family: Cambria; mso-bidi-theme-font: minor-latin; color: blue;\"><span style=\"mso-list: Ignore;\">1.<span style=\"font: 7.0pt 'Times New Roman';\">\u00a0\u00a0\u00a0 </span></span></span></strong><!--[endif]--><strong style=\"mso-bidi-font-weight: normal;\"><span style=\"font-size: 11.0pt; color: blue;\">Introduzione generale al II modulo . Conoscenze <span style=\"mso-spacerun: yes;\">\u00a0</span>necessarie per gli studenti. </span></strong></p>\n<p class=\"MsoListParagraphCxSpMiddle\" style=\"margin-left: 88.8pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l0 level1 lfo1;\"><!--[if !supportLists]--><strong style=\"mso-bidi-font-weight: normal;\"><span style=\"font-size: 11.0pt; mso-fareast-font-family: Cambria; mso-fareast-theme-font: minor-latin; mso-bidi-font-family: Cambria; mso-bidi-theme-font: minor-latin; color: blue;\"><span style=\"mso-list: Ignore;\">2.<span style=\"font: 7.0pt 'Times New Roman';\">\u00a0\u00a0\u00a0 </span></span></span></strong><!--[endif]--><strong style=\"mso-bidi-font-weight: normal;\"><span style=\"font-size: 11.0pt; color: blue;\">Linguaggio logico e matematico, pseudocodice, e nozioni fondamentali<span style=\"mso-spacerun: yes;\">\u00a0 </span>utilizzati nelle lezioni e richiesti come obiettivi formativi essenziali del corso.</span></strong></p>\n<p class=\"MsoListParagraphCxSpMiddle\" style=\"margin-left: 88.8pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l0 level1 lfo1;\"><!--[if !supportLists]--><strong style=\"mso-bidi-font-weight: normal;\"><span style=\"font-size: 11.0pt; mso-fareast-font-family: Cambria; mso-fareast-theme-font: minor-latin; mso-bidi-font-family: Cambria; mso-bidi-theme-font: minor-latin; color: blue;\"><span style=\"mso-list: Ignore;\">3.<span style=\"font: 7.0pt 'Times New Roman';\">\u00a0\u00a0\u00a0 </span></span></span></strong><!--[endif]--><strong style=\"mso-bidi-font-weight: normal;\"><span style=\"font-size: 11.0pt; color: blue;\">Un argomento gi\u00e0 visto nel I modulo, rivisitato sotto la luce dei suddetti obiettivi: L\u2019algoritmo di Dijkstra per i cammini minimi.</span></strong></p>\n<p class=\"MsoListParagraphCxSpMiddle\" style=\"margin-left: 88.8pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l0 level1 lfo1;\"><!--[if !supportLists]--><strong style=\"mso-bidi-font-weight: normal;\"><span style=\"font-size: 11.0pt; mso-fareast-font-family: Cambria; mso-fareast-theme-font: minor-latin; mso-bidi-font-family: Cambria; mso-bidi-theme-font: minor-latin; color: blue;\"><span style=\"mso-list: Ignore;\">4.<span style=\"font: 7.0pt 'Times New Roman';\">\u00a0\u00a0\u00a0 </span></span></span></strong><!--[endif]--><strong style=\"mso-bidi-font-weight: normal;\"><span style=\"font-size: 11.0pt; color: blue;\">Definizione formale del problema</span></strong></p>\n<p class=\"MsoListParagraphCxSpMiddle\" style=\"margin-left: 88.8pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l0 level1 lfo1;\"><!--[if !supportLists]--><strong style=\"mso-bidi-font-weight: normal;\"><span style=\"font-size: 11.0pt; mso-fareast-font-family: Cambria; mso-fareast-theme-font: minor-latin; mso-bidi-font-family: Cambria; mso-bidi-theme-font: minor-latin; color: blue;\"><span style=\"mso-list: Ignore;\">5.<span style=\"font: 7.0pt 'Times New Roman';\">\u00a0\u00a0\u00a0 </span></span></span></strong><!--[endif]--><strong style=\"mso-bidi-font-weight: normal;\"><span style=\"font-size: 11.0pt; color: blue;\">Lo Shortest Path Tree (SPT)</span></strong></p>\n<p class=\"MsoListParagraphCxSpMiddle\" style=\"margin-left: 88.8pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l0 level1 lfo1;\"><!--[if !supportLists]--><strong style=\"mso-bidi-font-weight: normal;\"><span style=\"font-size: 11.0pt; mso-fareast-font-family: Cambria; mso-fareast-theme-font: minor-latin; mso-bidi-font-family: Cambria; mso-bidi-theme-font: minor-latin; color: blue;\"><span style=\"mso-list: Ignore;\">6.<span style=\"font: 7.0pt 'Times New Roman';\">\u00a0\u00a0\u00a0 </span></span></span></strong><!--[endif]--><strong style=\"mso-bidi-font-weight: normal;\"><span style=\"font-size: 11.0pt; color: blue;\">Il Principio di Sub-Ottimalit\u00e0 dei cammini minimi</span></strong></p>\n<p class=\"MsoListParagraphCxSpMiddle\" style=\"margin-left: 88.8pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l0 level1 lfo1;\"><!--[if !supportLists]--><strong style=\"mso-bidi-font-weight: normal;\"><span style=\"font-size: 11.0pt; mso-fareast-font-family: Cambria; mso-fareast-theme-font: minor-latin; mso-bidi-font-family: Cambria; mso-bidi-theme-font: minor-latin; color: blue;\"><span style=\"mso-list: Ignore;\">7.<span style=\"font: 7.0pt 'Times New Roman';\">\u00a0\u00a0\u00a0 </span></span></span></strong><!--[endif]--><strong style=\"mso-bidi-font-weight: normal;\"><span style=\"font-size: 11.0pt; color: blue;\">Lo schema dell'algoritmo di D.</span></strong></p>\n<p class=\"MsoListParagraphCxSpMiddle\" style=\"margin-left: 88.8pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l0 level1 lfo1;\"><!--[if !supportLists]--><strong style=\"mso-bidi-font-weight: normal;\"><span style=\"font-size: 11.0pt; mso-fareast-font-family: Cambria; mso-fareast-theme-font: minor-latin; mso-bidi-font-family: Cambria; mso-bidi-theme-font: minor-latin; color: blue;\"><span style=\"mso-list: Ignore;\">8.<span style=\"font: 7.0pt 'Times New Roman';\">\u00a0\u00a0\u00a0 </span></span></span></strong><!--[endif]--><strong style=\"mso-bidi-font-weight: normal;\"><span style=\"font-size: 11.0pt; color: blue;\">Correttezza dello schema</span></strong></p>\n<p class=\"MsoListParagraphCxSpLast\" style=\"margin-left: 88.8pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l0 level1 lfo1;\"><!--[if !supportLists]--><strong style=\"mso-bidi-font-weight: normal;\"><span style=\"font-size: 11.0pt; mso-fareast-font-family: Cambria; mso-fareast-theme-font: minor-latin; mso-bidi-font-family: Cambria; mso-bidi-theme-font: minor-latin; color: blue;\"><span style=\"mso-list: Ignore;\">9.<span style=\"font: 7.0pt 'Times New Roman';\">\u00a0\u00a0\u00a0 </span></span></span></strong><!--[endif]--><strong style=\"mso-bidi-font-weight: normal;\"><span style=\"font-size: 11.0pt; color: blue;\">Dettagli implementativi e complessit\u00e0</span></strong></p>\n<p><!--EndFragment--></p>"
+    },
+    {
+      "id": "22",
+      "data": "09-01-2020",
+      "contenuto": "<p>Correzione Esercizio 1 e discussione Esercizio 2 del Problem Set 2.</p>"
+    },
+    {
+      "id": "21",
+      "data": "19-12-2019",
+      "contenuto": "<p>Cammini minimi in grafi pesati. Il problema del calcolo dei cammini minimi a singola sorgente. Un algoritmo veloce quando il grafo ha pesi non negativi: l'algoritmo di Dijkstra.</p>"
+    },
+    {
+      "id": "20",
+      "data": "16-12-2019",
+      "contenuto": "<p>Usi meno comuni della visita DFS. Catalogare per tipo gli archi del grafo. Individuare un ciclo in grafi diretti. Grafi diretti aciclici (DAG) e ordinamento topologico. Usare la visita DFS per trovare un ordinamento topologico di un DAG. Componenti fortemente connesse: un algoritmo lineare per calcolarle.</p>"
+    },
+    {
+      "id": "19",
+      "data": "12-12-2019",
+      "contenuto": "<p>Strutture dati per rappresentare un grafo. Matrice di adiacenza e Liste di adiacenza. Visite di un grafo. Visita in ampiezza (BFS): cammini minimi da una sorgente. Visita in profondit\u00e0 (DFS): uscire da un labirinto.</p>"
+    },
+    {
+      "id": "18",
+      "data": "09-12-2019",
+      "contenuto": "<p>I Grafi (diretti, non diretti, pesati). Nozioni preliminari. Cammini, distanze, diametro. Alberi. Grafi Euleriani. I grafi come linguaggio potente per descrivere scenari e problemi. Esempi di scenari/problematiche descrivibili come grafi/problemi su grafi (reti stradali/di trasporto, reti sociali, reti \u201cdelle dipendenze\u201d).</p>"
+    },
+    {
+      "id": "17",
+      "data": "05-12-2019",
+      "contenuto": "<p>Esercitazione. Progettare un algoritmo che, dato un vettore ordinato A[1:n] di n bit, trova il numero k di zero presenti in A. Algoritmo con complessit\u00e0 O(log n). Un miglior algoritmo con tempo O(log k) (Es. 9). Progettare un algoritmo con complessit\u00e0 lineare che, dato un vettore A[1:n] di n bit, trova l\u2019indice k tale che il numero di zeri in A[1:k] \u00e8 uguale al numero di uni in A[k+1:n] (Es. 10).</p>"
+    },
+    {
+      "id": "16",
+      "data": "02-12-2019",
+      "contenuto": "<p>Il problema della Coda con priorit\u00e0. d-Heap, Heap Binomiali, (cenni sugli) Heap di Fibonacci e complessit\u00e0 ammortizzata.</p>"
+    },
+    {
+      "id": "15",
+      "data": "28-11-2019",
+      "contenuto": "<p>Esercitazione: ricerca binaria e tecnica del divide et impera. Es. 7 e Es. 8.</p>"
+    },
+    {
+      "id": "14",
+      "data": "25-11-2019",
+      "contenuto": "<p>Il problema del Dizionario: secondo episodio. Alberi AVL: definizione ed esempi. Dimostrazione della delimitazione superiore dell\u2019altezza di un albero AVL (che usa la nozione di albero di Fibonacci). Operazioni sugli alberi AVL: search, insert, delete.</p>"
+    },
+    {
+      "id": "13",
+      "data": "21-11-2019",
+      "contenuto": "<p>Il problema del Dizionario. Alberi binari di ricerca. Definizione. Visita in ordine simmetrico di un BST. Ricerca, inserimento, cancellazione (ricerca del massimo, del minimo, del predecessore e del successore di un nodo). Correzione Esercizio 4 del Problem Set 1.</p>"
+    },
+    {
+      "id": "12",
+      "data": "14-11-2019",
+      "contenuto": "<p>Esercitazione sulle visite di alberi. Progettazione di un algoritmo che, preso un albero con valori e colori (rosso e nero), trova il valore del cammino rosso di tipo nodo-radice di valore massimo (Es 4). Altro esercizio: progettare un algoritmo che,\u00a0 preso un albero e in intero h, restituisce il numero di nodi dell'albero di profondit\u00e0 almeno h (Es 5). Altro esercizio: preso un albero binario con valori, calcola il numero di nodi per cui la somma dei valori degli antenati \u00e8 uguale alla somma dei valori dei discendenti (Es. 6).</p>"
+    },
+    {
+      "id": "11",
+      "data": "11-11-2019",
+      "contenuto": "<p>Strutture dati elementari: rappresentazioni indicizzate e rappresentazioni collegate. Implementazione di un dizionario con array ordinato/non ordinato e lista ordinata/non ordinata. Rappresentazioni di alberi. Algoritmi di visita di un albero: profondit\u00e0 versione iterativa, profondit\u00e0 versione ricorsiva (preordine, postordine, ordine simmetrico), ampiezza. Algoritmo per calcolare l\u2019altezza di un albero.</p>"
+    },
+    {
+      "id": "10",
+      "data": "07-11-2019",
+      "contenuto": "<p>Esercitazione. Primo esercizio: dato un array di n interi compresi fra 1 e k, costruire in tempo O(n+k) un oracolo (struttura dati) che sia in grado di rispondere in tempo costante a domande del tipo \"quanti interi nell'array sono compresi fra a e b?\"(Esercizio e soluzioni a fine delle slide sull'IntegerSort). Secondo esercizio: dato un vettore A di n numeri, progettare un algoritmo che in tempo O(n) trova due indici i e j con i&lt;j che massimizzano A[j]-A[i] (Es. 3).</p>"
+    },
+    {
+      "id": "9",
+      "data": "04-11-2019",
+      "contenuto": "<p>Esercitazione. Esercizio: dimostrare o confutare una relazione asintotica (Es. 1). Esercizio di progettazione di un algoritmo che, dato un vettore ordinato A di n interi distinti e un valore x, trova (se esistono) due elementi di A che sommano a x. Soluzione banale con complessit\u00e0 quadratica, soluzione di complessit\u00e0 O(n log n) e soluzione con tempo O(n) (Es. 2).\u00a0</p>"
+    },
+    {
+      "id": "8",
+      "data": "31-10-2019",
+      "contenuto": "<p>Delimitazioni superiori e inferiori di algoritmi e problemi. Un lower bound alla complessit\u00e0 temporale necessaria per ordinare n elementi (per una classe di algoritmi ragionevoli, quelli basati su confronti). Algoritmi veloci per ordinare interi: IntegerSort, BucketSort, RadixSort.</p>"
+    },
+    {
+      "id": "7",
+      "data": "28-10-2019",
+      "contenuto": "<p>Progettare algoritmi efficienti attraverso la progettazione di strutture dati efficienti. Un esempio: l'HeapSort - che ordina in loco n elementi in tempo O(n log n) nel caso peggiore.</p>"
+    },
+    {
+      "id": "6",
+      "data": "24-10-2019",
+      "contenuto": "<p>Il Problema dell\u2019ordinamento. Un algoritmo semplice ma inefficiente: il Selection Sort. Un algoritmo migliore: il MergeSort. Un altro algoritmo che usa la tecnica divide et impera: il QuickSort: analisi del caso peggiore, migliore, e intuizioni sul caso medio. Discussione versione randomizzata del QuickSort e differenza fra complessit\u00e0 nel caso medio e tempo atteso di un algoritmo randomizzato.</p>"
+    },
+    {
+      "id": "5",
+      "data": "21-10-2019",
+      "contenuto": "<p>Ancora sulle equazioni di ricorrenza. Metodo della sostituzione. Teorema Fondamentale delle Ricorrenze (Master). Semplici esempi. Quando non si pu\u00f2 applicare. Metodo del cambiamento di variabile.</p>"
+    },
+    {
+      "id": "4",
+      "data": "17-10-2019",
+      "contenuto": "<p>Analisi della complessit\u00e0 nel caso medio: un esempio. Il problema della ricerca di un elemento in un insieme: ricerca sequenziale e ricerca binaria. Equazioni di ricorrenza. Metodo dell\u2019iterazione. Metodo che usa l\u2019albero della ricorsione.</p>"
+    },
+    {
+      "id": "3",
+      "data": "14-10-2019",
+      "contenuto": "<p>Modello di calcolo RAM. Costi uniformi e logaritmici. Complessit\u00e0 caso peggiore, migliore, medio. Notazioni asintotiche: O-grande, Omega-grande, Theta. O-piccolo, Omega-piccolo. Definizioni e semplici esempi. Propriet\u00e0. Usare la notazione asintotica nelle analisi della complessit\u00e0 computazionale degli algoritmi.\u00a0</p>"
+    },
+    {
+      "id": "2",
+      "data": "10-10-2019",
+      "contenuto": "<p>Il problema del calcolo dell\u2019n-esimo numero di Fibonacci. Un algoritmo numerico e un algoritmo ricorsivo. Analisi della complessit\u00e0 temporale dell\u2019algoritmo ricorsivo. Un algoritmo iterativo di complessit\u00e0 temporale O(n) e di complessit\u00e0 spaziale O(n) (Fibonacci3). Portare la memoria a O(1): Fibonacci4. Introduzione informale alla notazione asintotica. Algoritmo con complessit\u00e0 O(log n) per il calcolo dell\u2019n-simo numero di Fibonacci. Discussione della complessit\u00e0 spaziale degli algoritmi ricorsivi Fibonacci2 e Fibonacci6.</p>"
+    },
+    {
+      "id": "1",
+      "data": "07-10-2019",
+      "contenuto": "<p>Introduzione al corso. Motivazioni e concetti fondamentali. Un primo esempio: il problema di trovare una moneta falsa (pi\u00f9 pesante) fra n monete usando una bilancia a due piatti.</p>"
+    }
+  ],
+  "materiale": [
+    {
+      "titolo": "LEZIONE 17 del II MOD di ASD",
+      "dataUpload": "15.05.2020 11:29:10",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/ASD/08-APXALG-2.pdf",
+      "dimensione": "397 KB"
+    },
+    {
+      "titolo": "LEZIONE 16 del II MOD di ASD",
+      "dataUpload": "15.05.2020 11:28:43",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/ASD/08-APXALG-1.pdf",
+      "dimensione": "298 KB"
+    },
+    {
+      "titolo": "LEZIONE 15 del II MOD di ASD",
+      "dataUpload": "11.05.2020 09:17:42",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/ASD/07-NP-CLASS-5.pdf",
+      "dimensione": "544 KB"
+    },
+    {
+      "titolo": "LEZIONE 14 del II MOD di ASD",
+      "dataUpload": "11.05.2020 09:16:51",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/ASD/07-NP-CLASS-4.pdf",
+      "dimensione": "499 KB"
+    },
+    {
+      "titolo": "LEZIONE 13 del II MOD di ASD",
+      "dataUpload": "23.04.2020 18:40:05",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/ASD/07-NP-CLASS-3.pdf",
+      "dimensione": "265 KB"
+    },
+    {
+      "titolo": "LEZIONE 12 del II MOD di ASD",
+      "dataUpload": "23.04.2020 18:39:28",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/ASD/07-NP-CLASS-2.pdf",
+      "dimensione": "618 KB"
+    },
+    {
+      "titolo": "<span style=\"background-color: #f3f3f3;\">LEZIONE 11 del II MOD di ASD</span>",
+      "dataUpload": "17.04.2020 12:31:54",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/ASD/07-NP-CLASS-1.pdf",
+      "dimensione": "437 KB"
+    },
+    {
+      "titolo": "<span style=\"background-color: #f3f3f3;\">LEZIONE 10 del II MOD di ASD</span>",
+      "dataUpload": "17.04.2020 12:31:29",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/ASD/06-DYN-PROGR-4.pdf",
+      "dimensione": "255 KB"
+    },
+    {
+      "titolo": "<span style=\"background-color: #f3f3f3;\">LEZIONE 9 del II MOD di ASD</span>",
+      "dataUpload": "17.04.2020 12:30:53",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/ASD/06-DYN-PROG-3.pdf",
+      "dimensione": "258 KB"
+    },
+    {
+      "titolo": "LEZIONE 8 del II MOD di ASD",
+      "dataUpload": "17.04.2020 12:29:50",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/ASD/06-DYN-PROG-2.pdf",
+      "dimensione": "295 KB"
+    },
+    {
+      "titolo": "LEZIONE 7 del II MOD di ASD",
+      "dataUpload": "03.04.2020 15:07:30",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/ASD/06-DYN-PROG-1.pdf",
+      "dimensione": "543 KB"
+    },
+    {
+      "titolo": "LEZIONE 6 del II MOD di ASD (seconda parte)",
+      "dataUpload": "24.03.2020 11:23:40",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/ASD/04-INTERVAL-SCHED-2b.pdf",
+      "dimensione": "302 KB"
+    },
+    {
+      "titolo": "LEZIONE 5 del II MOD di ASD",
+      "dataUpload": "24.03.2020 09:20:08",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/ASD/04-INTERVAL-SCHED-2a.pdf",
+      "dimensione": "405 KB"
+    },
+    {
+      "titolo": "LEZIONE 4 del II MOD DI ASD",
+      "dataUpload": "19.03.2020 16:12:31",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/ASD/04-Interval-andy-I.pdf",
+      "dimensione": "461 KB"
+    },
+    {
+      "titolo": "LEZIONE 3 del II MOD di ASD",
+      "dataUpload": "16.03.2020 19:05:09",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/ASD/ASD-II-MOD-UetF-1.pdf",
+      "dimensione": "4457 KB"
+    },
+    {
+      "titolo": "LEZIONE 2 del II MOD di ASD",
+      "dataUpload": "16.03.2020 12:50:31",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/ASD/ASD-2-MST-II-LESS.pdf",
+      "dimensione": "823 KB"
+    },
+    {
+      "titolo": "LEZIONE 1 del II MOD di ASD",
+      "dataUpload": "16.03.2020 12:50:13",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/ASD/ASD-2-MST-LESS-1.pdf",
+      "dimensione": "483 KB"
+    }
+  ],
+  "programma": "<table><tr><td><p>http://www.mat.uniroma2.it/~guala/ASDL_2019.htm</p></td></tr></table>",
+  "testiRiferimento": "<table><tr><td><p>http://www.mat.uniroma2.it/~guala/ASDL_2019.htm</p></td></tr></table>",
+  "ricevimento": "<table><tr><td><p>http://www.mat.uniroma2.it/~guala/ASDL_2019.htm</p></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td><p>http://www.mat.uniroma2.it/~guala/ASDL_2019.htm</p></td></tr></table>"
+}

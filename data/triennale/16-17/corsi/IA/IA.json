@@ -1,0 +1,391 @@
+{
+  "nomeCorso": "Intelligenza artificiale 1",
+  "docente": [
+    {
+      "first_name": "Maria Teresa",
+      "second_name": "Pazienza"
+    }
+  ],
+  "annoAccademico": "2016-2017",
+  "crediti": "6",
+  "settore": "ING-INF/05",
+  "anno": "3",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Programmazione dei calcolatori con laboratorio.",
+  "comunicazioni": [
+    {
+      "titolo": "appello straordinario",
+      "data": "09-01-2018 12:15",
+      "contenuto": "<p>E' stata fissata la data dell'appello straordinario di Intelligenza Artificiale 1: 22/02/2018</p><hr/>"
+    },
+    {
+      "titolo": "I appello d'esame 9 febbraio 2017",
+      "data": "10-02-2017 15:58",
+      "contenuto": "<p>Sono stati pubblicati i risultati della prova d'esame del 09/92/2017</p><hr/>"
+    },
+    {
+      "titolo": "lezione 6 ottobre sospesa",
+      "data": "05-10-2016 18:46",
+      "contenuto": "<p>La lezione del 6 ottobre non si svolger\u00e0 a causa di un malore improvviso del docente</p><hr/>"
+    },
+    {
+      "titolo": "comunicazioni docente-studenti",
+      "data": "30-09-2016 14:48",
+      "contenuto": "<p>Il docente si impegna a riportare sul sito del corso tutte le comunicazioni di interesse per gli studneti, anche se sono state gi\u00e0 presentate in aula.</p>\n<p>Tutti gli studenti che desiderino comunicare con il docente possono esporre le loro richieste durante le ore di lezione oppure possono inviare una mail al docente pazienza@info.uniroma2.it</p>"
+    }
+  ],
+  "lezioni": [
+    {
+      "id": "26",
+      "data": "26-01-2017",
+      "contenuto": "<p>compito di prova d'esame con spiegazioni\u00a0</p>"
+    },
+    {
+      "id": "25",
+      "data": "24-01-2017",
+      "contenuto": "<p><span style=\"font-size: 11pt; font-family: Calibri, sans-serif;\">Esercitazioni su Inferenze, inconsistenze, DL e SPARQL</span></p>"
+    },
+    {
+      "id": "24",
+      "data": "19-01-2017",
+      "contenuto": "<p><span style=\"font-size: 11pt; font-family: Calibri, sans-serif;\">Esercitazi su Inferenze, inconsistenze, DL e SPARQL</span></p>"
+    },
+    {
+      "id": "23",
+      "data": "17-01-2017",
+      "contenuto": "<p>esercizi su ontologie in OWL</p>"
+    },
+    {
+      "id": "22",
+      "data": "12-01-2017",
+      "contenuto": "<p><span style=\"font-size: 11.0pt; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: IT; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">SPARQL </span></p>\n<p><span style=\"font-size: 11.0pt; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: IT; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">OWL)</span></p>"
+    },
+    {
+      "id": "21",
+      "data": "10-01-2017",
+      "contenuto": "<p><span style=\"font-size: 11.0pt; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: IT; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">RDF/RDFS/OWL+DL\u00a0</span></p>"
+    },
+    {
+      "id": "20",
+      "data": "22-12-2016",
+      "contenuto": "<p>\u00a0</p>\n<p>Inheritance</p>"
+    },
+    {
+      "id": "19",
+      "data": "20-12-2016",
+      "contenuto": "<p>tassonomie e classificazione</p>"
+    },
+    {
+      "id": "18",
+      "data": "15-12-2016",
+      "contenuto": "<p>meaning ed entailment</p>"
+    },
+    {
+      "id": "17",
+      "data": "13-12-2016",
+      "contenuto": "<p>Semantica delle sentences in DL</p>"
+    },
+    {
+      "id": "16",
+      "data": "06-12-2016",
+      "contenuto": "<p>Description logics: motivazioni e sintassi del linguaggio</p>"
+    },
+    {
+      "id": "15",
+      "data": "01-12-2016",
+      "contenuto": "<p>Esercitazione su frames</p>"
+    },
+    {
+      "id": "14",
+      "data": "29-11-2016",
+      "contenuto": "<p>Rappresentazione della conoscenza basata su frames</p>"
+    },
+    {
+      "id": "13",
+      "data": "24-11-2016",
+      "contenuto": "<p>Clausole di Horn</p>"
+    },
+    {
+      "id": "12",
+      "data": "22-11-2016",
+      "contenuto": "<p>Risoluzioni con variabili e quantificatori</p>"
+    },
+    {
+      "id": "11",
+      "data": "17-11-2016",
+      "contenuto": "<p>resolution for entailment</p>"
+    },
+    {
+      "id": "10",
+      "data": "15-11-2016",
+      "contenuto": "<p>Resolution nel caso proposizionale</p>"
+    },
+    {
+      "id": "9",
+      "data": "10-11-2016",
+      "contenuto": "<p>esercizi su rappresentazione di conoscenza di dominio</p>"
+    },
+    {
+      "id": "8",
+      "data": "03-11-2016",
+      "contenuto": "<p>rappresentare la conoscenza in un dominio predefinito</p>"
+    },
+    {
+      "id": "7",
+      "data": "27-10-2016",
+      "contenuto": "<p>Come esprire in FOL la conoscenza</p>"
+    },
+    {
+      "id": "6",
+      "data": "25-10-2016",
+      "contenuto": "<p>FOL: semantica del linguaggio ed esercizi</p>"
+    },
+    {
+      "id": "5",
+      "data": "20-10-2016",
+      "contenuto": "<p>FOL: sintassi del linguaggio</p>"
+    },
+    {
+      "id": "4",
+      "data": "18-10-2016",
+      "contenuto": "<p>linguaggi imperativi versus linguaggi dichiarativi</p>"
+    },
+    {
+      "id": "3",
+      "data": "13-10-2016",
+      "contenuto": "<p>modelli formali a supporto del ragionamento automatico</p>"
+    },
+    {
+      "id": "2",
+      "data": "11-10-2016",
+      "contenuto": "<p>Innovativit\u00e0 dell'approccio di Intelligenza Artificiale alla soluzione dei problemi</p>"
+    },
+    {
+      "id": "1",
+      "data": "04-10-2016",
+      "contenuto": "<p>\u00a0</p>\n<p>Introduzione all'Intelligenza Artificiale</p>\n<p>Presentazione del corso: argomenti, libri di testo, modalit\u00e0 d'esame</p>"
+    }
+  ],
+  "materiale": [
+    {
+      "titolo": "risultati prova d'esame del 12/09/02017",
+      "dataUpload": "13.09.2017 16:38:52",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/IA/IA - AppelloAutunnale - risultati.docx",
+      "dimensione": "14 KB"
+    },
+    {
+      "titolo": "risultati prova d'esame del 20 giugno 2017",
+      "dataUpload": "26.06.2017 11:20:47",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/IA/IA - AppelloEstivo - risultati.pdf",
+      "dimensione": "104 KB"
+    },
+    {
+      "titolo": "Risultati della prova d'esame del 23 febbraio 2017",
+      "dataUpload": "27.02.2017 17:04:08",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/IA/IA - II appello - risultati.docx",
+      "dimensione": "15 KB"
+    },
+    {
+      "titolo": "Risultati appello 09/02/2017",
+      "dataUpload": "10.02.2017 15:55:42",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/IA/IA - I appello - risultati.docx",
+      "dimensione": "16 KB"
+    },
+    {
+      "titolo": "errori comuni nelle prove d'esame",
+      "dataUpload": "26.01.2017 11:15:09",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/IA/Errori_o_imprecisioni_comuni.pdf",
+      "dimensione": "252 KB"
+    },
+    {
+      "titolo": "compito di prova",
+      "dataUpload": "26.01.2017 11:14:20",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/IA/Compito_di_prova.pdf",
+      "dimensione": "404 KB"
+    },
+    {
+      "titolo": "nuovi esercizi con soluzioni",
+      "dataUpload": "24.01.2017 10:31:43",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/IA/nuovi_esercizi_con_soluzioni.pdf",
+      "dimensione": "606 KB"
+    },
+    {
+      "titolo": "nuovi esercizi con soluzioni",
+      "dataUpload": "18.01.2017 15:51:35",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/IA/nuovi-Esercizi-N-Soluzioni.pdf",
+      "dimensione": "504 KB"
+    },
+    {
+      "titolo": "nuovi esercizi",
+      "dataUpload": "18.01.2017 15:51:23",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/IA/nuovi-Esercizi-N.pdf",
+      "dimensione": "341 KB"
+    },
+    {
+      "titolo": "esercizi 8,9 con soluzioni",
+      "dataUpload": "18.01.2017 15:50:45",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/IA/Esercizi_Ontologie_-_OWL_+_SPARQL_8-9_con_soluzioni.pdf",
+      "dimensione": "524 KB"
+    },
+    {
+      "titolo": "esercizi 8,9 OWL",
+      "dataUpload": "18.01.2017 15:50:26",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/IA/Esercizi_Ontologie_-_OWL_+_SPARQL_8-9.pdf",
+      "dimensione": "87 KB"
+    },
+    {
+      "titolo": "esercici \u00a0con soluzioni",
+      "dataUpload": "12.01.2017 18:09:44",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/IA/esercizi_addizionali_con_soluzioni.pdf",
+      "dimensione": "246 KB"
+    },
+    {
+      "titolo": "esercici",
+      "dataUpload": "12.01.2017 18:09:21",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/IA/esercizi_addizionali.pdf",
+      "dimensione": "76 KB"
+    },
+    {
+      "titolo": "esercici con soluzione",
+      "dataUpload": "12.01.2017 18:08:16",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/IA/Esercizi_Ontologie_-_OWL_1-7_con_soluzioni.pdf",
+      "dimensione": "244 KB"
+    },
+    {
+      "titolo": "esercici",
+      "dataUpload": "12.01.2017 18:07:47",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/IA/Esercizi_Ontologie_-_OWL_1-7.pdf",
+      "dimensione": "97 KB"
+    },
+    {
+      "titolo": "SPARQL",
+      "dataUpload": "11.01.2017 15:26:42",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/IA/SPARQL.pdf",
+      "dimensione": "2274 KB"
+    },
+    {
+      "titolo": "RDF-RDFS",
+      "dataUpload": "11.01.2017 15:26:04",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/IA/RDF-RDFS.pdf",
+      "dimensione": "2328 KB"
+    },
+    {
+      "titolo": "OWL",
+      "dataUpload": "11.01.2017 15:25:44",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/IA/OWL.pdf",
+      "dimensione": "2744 KB"
+    },
+    {
+      "titolo": "mappatura OWL-DL",
+      "dataUpload": "11.01.2017 15:25:10",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/IA/mappatura_owl-DL.pdf",
+      "dimensione": "181 KB"
+    },
+    {
+      "titolo": "Possibili domande sulle tipologie di ereditariet\u00e0",
+      "dataUpload": "22.12.2016 10:59:44",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/IA/7InheritanceDomande.docx",
+      "dimensione": "17 KB"
+    },
+    {
+      "titolo": "Deverse tipologie di ereditariet\u00e0",
+      "dataUpload": "22.12.2016 10:59:11",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/IA/10.Inheritance.pdf",
+      "dimensione": "44 KB"
+    },
+    {
+      "titolo": "popssibili domande sulle Description Logics",
+      "dataUpload": "22.12.2016 10:57:55",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/IA/6DescriptionLogicsDomande.docx",
+      "dimensione": "19 KB"
+    },
+    {
+      "titolo": "Description Logics",
+      "dataUpload": "06.12.2016 14:47:49",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/IA/09.DescriptionLogics.pdf",
+      "dimensione": "43 KB"
+    },
+    {
+      "titolo": "possibili domande su frames",
+      "dataUpload": "06.12.2016 14:25:09",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/IA/5FRAMES.docx",
+      "dimensione": "15 KB"
+    },
+    {
+      "titolo": "Possibili domande sulle clausole di Horn",
+      "dataUpload": "24.11.2016 14:24:44",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/IA/4clausoleDiHorn.docx",
+      "dimensione": "18 KB"
+    },
+    {
+      "titolo": "Frames",
+      "dataUpload": "24.11.2016 14:21:53",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/IA/08.Frames.pdf",
+      "dimensione": "26 KB"
+    },
+    {
+      "titolo": "Clausole di Horn",
+      "dataUpload": "24.11.2016 14:21:16",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/IA/05.HornLogic.pdf",
+      "dimensione": "21 KB"
+    },
+    {
+      "titolo": "Possibili domande su Resolution",
+      "dataUpload": "18.11.2016 16:07:23",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/IA/3Resolution.docx",
+      "dimensione": "18 KB"
+    },
+    {
+      "titolo": "Resolution nel caso proposizionale",
+      "dataUpload": "15.11.2016 14:32:26",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/IA/04.Resolution.pdf",
+      "dimensione": "79 KB"
+    },
+    {
+      "titolo": "quale conoscenza inserire in una base di conoscenza",
+      "dataUpload": "26.10.2016 17:36:40",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/IA/03.ExpressingKnowledge.pdf",
+      "dimensione": "14 KB"
+    },
+    {
+      "titolo": "Possibili domande sulla logica del primo ordine",
+      "dataUpload": "26.10.2016 17:35:24",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/IA/1FOL.docx",
+      "dimensione": "17 KB"
+    },
+    {
+      "titolo": "da linguaggio naturale a FOL",
+      "dataUpload": "25.10.2016 14:57:14",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/IA/021FOL.ppt",
+      "dimensione": "176 KB"
+    },
+    {
+      "titolo": "FOL - First Order Logic",
+      "dataUpload": "19.10.2016 14:24:31",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/IA/02FOL.pdf",
+      "dimensione": "27 KB"
+    },
+    {
+      "titolo": "Come rappresentare formalmente il \"pensiero\" contribuisce ad un comportamento intelligente di un agente.",
+      "dataUpload": "17.10.2016 16:12:17",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/IA/01.Introduction.pdf",
+      "dimensione": "22 KB"
+    },
+    {
+      "titolo": "Rappresentazione della conoscenza e ragionamento automatico",
+      "dataUpload": "12.10.2016 15:41:08",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/IA/2RapConoscRagionamento.ppt",
+      "dimensione": "562 KB"
+    },
+    {
+      "titolo": "Presentazione delle tematiche del corso e della sua organizzazione",
+      "dataUpload": "03.10.2016 15:57:50",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/IA/1presentazIA1.ppt",
+      "dimensione": "837 KB"
+    }
+  ],
+  "programma": "<table><tr><td><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"MsoNormalTable\" style=\"width: 512.0pt; margin-left: 3.5pt; border-collapse: collapse; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 3.5pt 0cm 3.5pt;\" width=\"683\">\n<tbody>\n<tr style=\"mso-yfti-irow: 0; mso-yfti-firstrow: yes; height: 20.25pt;\">\n<td style=\"width: 512.0pt; border-top: solid gray 1.5pt; border-left: none; border-bottom: solid gray 1.0pt; border-right: none; padding: 0cm 3.5pt 0cm 3.5pt; height: 20.25pt;\" valign=\"top\" width=\"683\">\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\"><strong><span style=\"font-size: 14pt; font-family: Garamond, serif;\">Programma del corso di Intelligenza Artificiale 1</span></strong></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 1; height: 18.75pt;\">\n<td style=\"width: 512.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 18.75pt;\" valign=\"bottom\" width=\"683\">\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\">Presentazione: argomenti, introduzione\u00a0</p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 2; height: 18.75pt;\">\n<td style=\"width: 512.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 18.75pt;\" valign=\"bottom\" width=\"683\">\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\">Rappresentazione della conoscenza e ragionamento automatico</p>\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\">Logica del primo ordine</p>\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\">Basi di conoscenza: ontologie, inferenza</p>\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\">Sistemi di ragionamento logico: frame e reti semantiche</p>\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\">Introduzione al Semantic Web</p>\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\">RDF/RDFS</p>\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\">\u00a0</p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 3; height: 20.25pt;\">\n<td style=\"width: 512.0pt; border-top: solid gray 1.5pt; border-left: none; border-bottom: solid gray 1.0pt; border-right: none; padding: 0cm 3.5pt 0cm 3.5pt; height: 20.25pt;\" valign=\"top\" width=\"683\">\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\"><strong><span style=\"font-size: 14pt; font-family: Garamond, serif;\">Esercitazioni del corso di Intelligenza Artificiale 1</span></strong></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 4; height: 26.25pt;\">\n<td style=\"width: 512.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 26.25pt;\" valign=\"bottom\" width=\"683\">\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\">OWL: struttura del linguaggio\u00a0 \u00a0</p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 5; height: 16.5pt;\">\n<td style=\"width: 512.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 16.5pt;\" valign=\"bottom\" width=\"683\">\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\">Esercizi su gestione conoscenza \u00a0</p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 6; height: 16.5pt;\">\n<td style=\"width: 512.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 16.5pt;\" valign=\"bottom\" width=\"683\">\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\">Linguaggi di Interrogazione per il Web Semantico\u00a0 \u00a0</p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 7; height: 15.0pt;\">\n<td style=\"width: 512.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 15.0pt;\" valign=\"bottom\" width=\"683\">\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\">Strumenti per lo sviluppo e la gestione di Ontologie \u00a0</p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 8; height: 15.0pt;\">\n<td style=\"width: 512.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 15.0pt;\" valign=\"bottom\" width=\"683\">\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\"><span lang=\"EN-US\">Thesauri and Concept Scheme Development: SKOS &amp; SKOS-XL </span></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 9; height: 15.0pt;\">\n<td style=\"width: 512.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 15.0pt;\" valign=\"bottom\" width=\"683\">\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\">Esercizi su gestione conoscenza</p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 10; height: 15.0pt;\">\n<td style=\"width: 512.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 15.0pt;\" valign=\"bottom\" width=\"683\">\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\">Tecnologie per la gestione di repository RDF \u00a0</p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 11; mso-yfti-lastrow: yes; height: 15.0pt;\">\n<td style=\"width: 512.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 15.0pt;\" valign=\"bottom\" width=\"683\">\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\">Linked Open Data\u00a0 \u00a0</p>\n</td>\n</tr>\n</tbody>\n</table>\n<p class=\"MsoNormal\"><span lang=\"EN-US\">\u00a0</span></p>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"MsoNormalTable\" style=\"width: 512.0pt; margin-left: 3.5pt; border-collapse: collapse; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 3.5pt 0cm 3.5pt;\" width=\"683\">\n<tbody>\n<tr style=\"mso-yfti-irow: 0; mso-yfti-firstrow: yes; mso-yfti-lastrow: yes; height: 20.25pt;\">\n<td style=\"width: 512.0pt; border-top: solid gray 1.5pt; border-left: none; border-bottom: solid gray 1.0pt; border-right: none; padding: 0cm 3.5pt 0cm 3.5pt; height: 20.25pt;\" valign=\"top\" width=\"683\">\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\"><strong><span style=\"font-size: 14pt; font-family: Garamond, serif;\">Obiettivi formativi del corso di Intelligenza Artificiale 1</span></strong></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p class=\"MsoNormal\" style=\"text-align: justify;\">Fornire agli studenti che seguono questo corso le motivazioni e la conoscenza di base relative alla modellazione dei sistemi intelligenti; in particolare la gestione della conoscenza (Knowledge Management) e le basi dell\u2019apprendimento automatico oltre alla possibilit\u00e0 del loro uso per risolvere problemi complessi (Knowledge Based Systems) anche nel contesto del Semantic Web.</p>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"MsoNormalTable\" style=\"width: 512.0pt; margin-left: 3.5pt; border-collapse: collapse; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 3.5pt 0cm 3.5pt;\" width=\"683\">\n<tbody>\n<tr style=\"mso-yfti-irow: 0; mso-yfti-firstrow: yes; mso-yfti-lastrow: yes; height: 20.25pt;\">\n<td style=\"width: 512.0pt; border-top: solid gray 1.5pt; border-left: none; border-bottom: solid gray 1.0pt; border-right: none; padding: 0cm 3.5pt 0cm 3.5pt; height: 20.25pt;\" valign=\"top\" width=\"683\">\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\"><strong><span style=\"font-size: 14pt; font-family: Garamond, serif;\">Testo consigliato del corso di Intelligenza Artificiale 1</span></strong></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p class=\"MsoNormal\" style=\"text-align: justify;\"><span lang=\"EN-US\">\u201cKnowledge representation and reasoning\u201d, \u00a0Brachman\u00a0e Levesque:, Morgan Kaufmann, Cap. 1,2,3,4.1,4.2,5,8,9,10\u00a0(solo capitoli\u00a0selezionati)\u00a0</span></p>\n<p class=\"MsoNormal\"><span lang=\"EN-US\">\u00a0</span></p>\n<p class=\"MsoNormal\"><span lang=\"EN-US\">\u00a0</span></p>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"MsoNormalTable\" style=\"width: 512.0pt; margin-left: 3.5pt; border-collapse: collapse; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 3.5pt 0cm 3.5pt;\" width=\"683\">\n<tbody>\n<tr style=\"mso-yfti-irow: 0; mso-yfti-firstrow: yes; mso-yfti-lastrow: yes; height: 20.25pt;\">\n<td style=\"width: 512.0pt; border-top: solid gray 1.5pt; border-left: none; border-bottom: solid gray 1.0pt; border-right: none; padding: 0cm 3.5pt 0cm 3.5pt; height: 20.25pt;\" valign=\"top\" width=\"683\">\n<p class=\"MsoPlainText\"><strong><span style=\"font-size: 14pt; font-family: Garamond, serif;\">Modalit\u00e0 di accertamento del corso di Intelligenza Artificiale 1</span></strong></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p class=\"MsoNormal\">\u00a0</p>\n<p class=\"MsoNormal\">Esame scritto con domande a risposta libera ed esercizi</p></td></tr></table>",
+  "testiRiferimento": "<table><tr><td><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"MsoNormalTable\" style=\"width: 512pt; margin-left: 3.5pt; border-collapse: collapse;\" width=\"683\">\n<tbody>\n<tr style=\"height: 20.25pt;\">\n<td style=\"width: 512pt; border-top: 1.5pt solid gray; border-left: none; border-bottom: 1pt solid gray; border-right: none; padding: 0cm 3.5pt; height: 20.25pt;\" valign=\"top\" width=\"683\">\n<p class=\"MsoNormal\" style=\"margin-bottom: 0.0001pt; line-height: normal;\"><strong><span style=\"font-size: 14pt; font-family: Garamond, serif;\">Testo consigliato del corso di Intelligenza Artificiale 1</span></strong></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p class=\"MsoNormal\" style=\"text-align: justify;\"><span lang=\"EN-US\">\u201cKnowledge representation and reasoning\u201d, \u00a0Brachman\u00a0e Levesque:, Morgan Kaufmann, Cap. 1,2,3,4.1,4.2,5,8,9,10\u00a0(solo capitoli\u00a0selezionati)\u00a0</span></p>\n<p class=\"MsoNormal\"><span lang=\"EN-US\">\u00a0</span></p></td></tr></table>",
+  "ricevimento": "<table><tr><td><p>tutti i giorni dopo la lezione</p>\n<p>oppure su richiesta dello studente in data ed ora da concordare</p></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td><p class=\"MsoNormal\">\u00a0</p>\n<p class=\"MsoNormal\">Esame scritto con domande a risposta libera sugli argomenti di teoria ed esercizi</p></td></tr></table>"
+}

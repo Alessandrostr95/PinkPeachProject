@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Metodi di simulazione discreta",
+  "docente": [
+    {
+      "first_name": "Stefano",
+      "second_name": "Smriglio"
+    }
+  ],
+  "annoAccademico": "2006-2007",
+  "crediti": "6",
+  "settore": "",
+  "anno": "1",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>Programma definitivo\r\n\r\nLezione n. 1\r\nEsempi introduttivi\r\nChe cos'\u00ef\u00bf\u00bd lo scheduling\r\nClassificazione delle entit\u00ef\u00bf\u00bd dei problemi di scheduling\r\nNotazione a tre campi \r\n\r\nLezione n. 2\r\nNotazione a tre campi: Campo \\gamma e funzioni obiettivo\r\nClassificazione di problemi di scheduling: esempi ed esercizi\r\nClassificazione degli schedule\r\n\r\nLezione n. 3\r\n1 // \\sum w_j C_j : regola WSPT; dimostrazione di ottimalit\u00ef\u00bf\u00bd; esempio\r\n1 / chain / \\sum w_j C_j : \r\ncatene non interrompibili: propriet\u00ef\u00bf\u00bd dello schedule ottimo\r\n  - rho-factor: definizione ed esempio\r\n  - algoritmo ottimo: dimostrazione di ottimalit\u00ef\u00bf\u00bd; esempio\r\n1 / r_j, prmp / \\sum w_j C_j :\r\n  - P-WSPT; esempio\r\n  - P-WSPT non \u00ef\u00bf\u00bd ottima: controesempio\r\n\r\nLezione n. 4\r\n1 / r_j, prmp / \\sum C_j \r\n  - regola SRPT; dimostrazione di ottimalit\u00ef\u00bf\u00bd\r\nEsercizi teorici sulle varianti del problema 1 // \\sum w_jC_j\r\n\r\nLezione n. 5\r\n1/ prec /h_{max}\r\n  - algoritmo di Lawler e dimostrazione di correttezza\r\n1//L_{max} : EDD come caso particolare di Lawler\r\n1/ r_j / L_{max}\r\n  - Richiami sulla complessit\u00ef\u00bf\u00bd computazionale \r\n  - Dimostrazione di strongly NP-hard (riduzione da 3-Partition); \r\n1 / r_j, prmp / L_{max}\r\n  - P-EDD; dimostrazione di correttezza\r\n\r\nLezione n. 6\r\nProblemi di ottimizzazione e ottimizzazione combinatoria\r\nRilassamenti di problemi di ottimizzazione\r\nIl metodo di Branch-and-Bound\r\n\r\nLezione n. 7\r\nEsercitazione sul metodo di Branch-and-Bound\r\n  - Problema della bisaccia\r\nBranch-and-bound per problemi di scheduling\r\n  - Dominanza fra sottoproblemi\r\n  - Esempio: 1 / r_j / L_{max}\r\n\r\nLezione n. 8\r\nEsercitazione sul metodo di Branch-and-Bound\r\n  - 1 / prec / \\sum w_j C_j\r\nMinimizzazione del numero di tardy-job (1 /  / \\sum U_j)\r\n  - Algoritmo di Moore: esempio e dimostrazione di correttezza\r\n\r\nLezione n. 9\r\nProgrammazione dinamica: generalit\u00ef\u00bf\u00bd\r\nIl metodo di Held e Karp:\r\n  - Caratterizzazione della sottostruttura ottima e limiti di applicabilit\u00ef\u00bf\u00bd\r\n  - Applicazione a problemi min-sum\r\n  - Un esempio per 1 / / \\sum T_j\r\n\r\nLezione n. 10-11 \r\nTardiness totale: algoritmo pseudo-polinomiale\r\n  - Propriet\u00ef\u00bf\u00bd di dominanza\r\n  - Dimostrazione della propriet\u00ef\u00bf\u00bd di sottostruttura ottima\r\n  - Algoritmo di programmazione dinamica\r\n  - Esempi\r\n\r\nLezione n. 12\r\nFormulazioni di PLI per problemi di scheduling\r\n  - Formulazione disgiuntiva\r\n  - Formulazioni time-indexed (x_{jt} e y_{jt})\r\n  - Formulazione posizionale\r\n  - Vincoli speciali\r\n \r\nLezione n. 13\r\nTardiness totale pesata su macchina singola (1 || \\sum w_j T_j)\r\n  - Rilassamento preemptivo (Problema di trasporti)\r\nAlgoritmi di approssimazione, generalit\u00ef\u00bf\u00bd\r\n  - List scheduling: tasso di approssimazione per P_m || C_{max}\r\n\r\nLezione n. 14-15\r\nLongest Processing Time: \r\n  - tasso di approssimazione per P_m || C_{max}\r\nR_m ||  C_{max}\r\n  - Formulazione di PL-{0,1}\r\n  - Algoritmo 2-approssimato\r\nP_m | prmp |  C_{max}:\r\n  -  Formulazione di PL\r\n  - Algoritmo polinomiale \r\nP_m || \\sum C_j: SPT su macchine parallele \r\n\r\nLezione n. 16\r\nJob shop scheduling:\r\n  - Definizione del problema\r\n  - Grafo disgiuntivo\r\n  - Politiche di routing; un esempio\r\n\r\nLezione n. 17\r\nJob shop scheduling:\r\n  - Euristica shifting bottleneck\r\n  - Esempio\r\n\r\nLezione n. 18 - 19\r\nAlgoritmi di ricerca locale: generalit\u00e0\r\nTabu search\r\nTabu search per il job-shop\r\n  - Esempio\r\nEuristica polinomiale per il job-shop (Bidirectional List Scheduling)\r\n  - Esempio\r\n</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>M. Pinedo. \r\nScheduling: Theory, Algorithms, and Systems (Second Edition). \r\nPrentice Hall. 2001.</td></tr></table>",
+  "ricevimento": "<table><tr><td>Gioved\u00ef\u00bf\u00bd 13:30 - 14:30 (Aula 8A)</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

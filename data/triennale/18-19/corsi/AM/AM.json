@@ -1,0 +1,38 @@
+{
+  "nomeCorso": "Analisi Matematica",
+  "docente": [
+    {
+      "first_name": "Francesco",
+      "second_name": "Fidaleo"
+    }
+  ],
+  "annoAccademico": "2018-2019",
+  "crediti": "9",
+  "settore": "MAT/05",
+  "anno": "1",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [
+    {
+      "titolo": "calendario esami",
+      "data": "29-12-2018 13:37",
+      "contenuto": "<p>-1 Esonero: 23 Novembre ore 14:30, aula 4PP2 (la puntualit\u00e0 \u00e8 strettamente raccomandata)\u00a0</p>\n<p>-Tutoraggio: 16 e 30 Novembre ore 14:00, aula 4PP2, e dal 7 Dicembre stessa ora nell'aula 7PP2</p>\n<p>-2 Esonero: 22 Gennaio ore 10:15, aula T8 (la puntualit\u00e0 \u00e8 strettamente raccomandata, presentarsi con documento di riconoscimento) </p>\n<p>\u00a0</p><hr/>"
+    },
+    {
+      "titolo": "",
+      "data": "12-11-2018 10:45",
+      "contenuto": "<p>-Esonero: 23 Novembre ore 14:30, aula 4PP2 (la puntualit\u00e0 \u00e8 strettamente raccomandata)\u00a0</p>\n<p>-Tutoraggio: 16 e 30 Novembre ore 14:00, aula 4PP2, e dal 7 Dicembre stessa ora nell'aula 7PP2</p>\n<p>\u00a0</p><hr/>"
+    },
+    {
+      "titolo": "sito docente",
+      "data": "09-10-2018 11:00",
+      "contenuto": "<p>Tutte le informazioni e il materiale didattico corrispondente, sono contenute nel sito del docente:</p>\n<p>\u00a0</p>\n<p>https://www.mat.uniroma2.it/~fidaleo/Anainf-2018-19.html</p>"
+    }
+  ],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td><p>Tutte le informazioni e il materiale didattico corrispondente, sono contenute nel sito del docente:</p>\n<p>\u00a0</p>\n<p>https://www.mat.uniroma2.it/~fidaleo/Anainf-2018-19.html</p></td></tr></table>",
+  "testiRiferimento": "<table><tr><td><p>Tutte le informazioni e il materiale didattico corrispondente, sono contenute nel sito del docente:</p>\n<p>\u00a0</p>\n<p>https://www.mat.uniroma2.it/~fidaleo/Anainf-2018-19.html</p></td></tr></table>",
+  "ricevimento": "<table><tr><td><p>Tutte le informazioni e il materiale didattico corrispondente, sono contenute nel sito del docente:</p>\n<p>\u00a0</p>\n<p>https://www.mat.uniroma2.it/~fidaleo/Anainf-2018-19.html</p></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td><p>Tutte le informazioni e il materiale didattico corrispondente, sono contenute nel sito del docente:</p>\n<p>\u00a0</p>\n<p>https://www.mat.uniroma2.it/~fidaleo/Anainf-2018-19.html</p></td></tr></table>"
+}

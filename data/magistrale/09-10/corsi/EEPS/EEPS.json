@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Elementi di economia nel progetto di sistemi",
+  "docente": [
+    {
+      "first_name": "Guido",
+      "second_name": "Marinelli"
+    }
+  ],
+  "annoAccademico": "2009-2010",
+  "crediti": "6",
+  "settore": "",
+  "anno": "1",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>-Sistemi di servizi in rete mono-organizzazione, sistemi di servizi multi-organizzazione e community: presentazione e differenze.\r\n-Processo di decision-making: esame dei processi e degli strumenti impiegati per la raccolta, la produzione, l'elaborazione e la circolazione delle informazioni nei diversi contesti; definizione delle regole di interazione e dei processi\r\n-Cambiamento della catena del valore a seguito dell'introduzione di sistemi di servizi in rete nei diversi contesti: fornitori e clienti dei servizi\r\n-Analisi costi-benefici nella definizione di un sistema di servizi telematico nei diversi contesti\r\n-Il project financing.\r\n-Valutazione dell'impatto sull'efficienza, l'efficacia e l'economicit\u00e0 in un contesto mono-organizzazione e multi-organizzazione\r\n-Il valore dell'informazione\r\n-Il valore della sicurezza e della privacy\r\n-Il costo della gestione dei contenziosi\r\n-Gli aspetti di monitoraggio, controllo e certificazione dei processi e delle regole di interazione definite nel sistema di servizi\r\n-La tutela degli utenti (fornitori e clienti) nei processi di interazione con il sistema dei servizi: il valore della \"certezza\" dell'esecuzione dei processi nel rispetto delle regole definite nell'ambito del sistema di servizi\r\n-I sistemi di cooperazione in Italia: infrastrutture abilitanti\r\n-Rilevazione di allarmi in un sistema cooperativo\r\n-Misure della Qualit\u00e0 del Servizio (QoS) e pianificazione dell'evoluzione di un sistema cooperativo\r\n-Gli aspetti contrattuali di un progetto per un sistema di servizi cooperativo.\r\n-Capitolati di gara\r\n</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>null</td></tr></table>",
+  "ricevimento": "<table><tr><td>Laboratorio Nestor tutti i mercoled\u00ec dalle ore 18.00 alle 19.00</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Calcolo numerico",
+  "docente": [
+    {
+      "first_name": "Daniele",
+      "second_name": "Bertaccini"
+    }
+  ],
+  "annoAccademico": "2008-2009",
+  "crediti": "6",
+  "settore": "",
+  "anno": "3",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>Algoritmi e risoluzione numerica dei Modelli continui\r\nAritmetica in precisione finita\r\nCondizionamento e Stabilita'\r\nRichiami di Algebra Lineare\r\nMetodi numerici per sistemi lineari\r\nMetodi numerici per equazioni non lineari\r\nInterpolazione ed approssimazione\r\nApprossimazione di  integrali definiti\r\nCenni al trattamento di equazioni differenziali\r\nCenni all'approssimazione di autovalori e autovettori di matrici</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>Appunti del corso\r\nG. Rodriguez, Algoritmi Numerici, Pitagora editrice, Bologna, 2008, eur.23.50\r\nEventuali altri testi verranno consigliati durante il corso\r\n\r\nTesti di approfondimento\r\nD. Bini, M. Capovani, O. Menchi,  Metodi numerici per l'Algebra Lineare, Zanichelli, Bologna, 1988\r\nR. Bevilacqua, D. Bini, M. Capovani, O. Menchi,  Metodi Numerici,  Zanichelli, Bologna, 1992</td></tr></table>",
+  "ricevimento": "<table><tr><td>Su appuntamento</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

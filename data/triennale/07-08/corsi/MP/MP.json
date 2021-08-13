@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Metodologie di programmazione",
+  "docente": [
+    {
+      "first_name": "Miriam",
+      "second_name": "Di Ianni"
+    }
+  ],
+  "annoAccademico": "2007-2008",
+  "crediti": "6",
+  "settore": "",
+  "anno": "2",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>Programma\r\n<b>Prima parte: metodologie di programmazione </b>\r\nAstrazione e decomposizione come metodologia di programmazione. Astrazione per parametrizazione e per specifica. Tipi di astrazione. \r\nAstrazione procedurale. Specifiche. Specifiche per l'astrazione procedurale. Progetto di astrazioni procedurali. \r\nEccezioni. Il meccanismo delle eccezioni in Java. Utilizzo delle eccezioni: riflessione e mascheramento, quando usare le eccezioni, eccezioni checked e unchecked. \r\nAstrazione sui dati. Specifiche, implementazione ed utilizzo delle astrazioni sui dati. La funzione di astrazione. L'invariante di rappresentazione. Effetti collaterali benefici. Progetto di astrazioni sui dati: mutabilit\u00e0, adeguatezza, categorie di operazioni. \r\nAstrazione sull'iterazione. Iterazione in Java, Specifica, implementazione ed utilizzo. Invarianti e funzione di astrazione. Progetto di astrazioni sull'iterazione. \r\nGerarchie di tipi. Assegnazione e dispatching. Definizione di una gerarchia di tipi. Tipi eccezione. Classi astratte ed interfacce. Implementazioni multiple. Significato dei sottotipi. \r\nAstrazioni polimorfiche. Astrazioni sui dati di tipo polimorfico e suo utilizzo. Flessibilit\u00e0. Procedure polimorfiche. \r\n\r\n<b>Seconda parte: linguaggio Java </b>\r\nEreditariet\u00e0, classi astratte, interface. \r\nClassi interne. \r\nEccezioni. \r\nIteratori. \r\nIl sistema I/O di Java (cenni). \r\nFinestre ed applet (cenni). \r\nRTTI e riflessione. \r\n\r\n</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>B. Liskov, J. Guttag, \"Program Development in Java\", Addison Wesley. \r\n\r\nB. Eckel, \"Thinking in Java\" , Apogeo.</td></tr></table>",
+  "ricevimento": "<table><tr><td>Valido durante il periodo del corso: \r\nLuned\u00ec 14:00-15:00 </td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

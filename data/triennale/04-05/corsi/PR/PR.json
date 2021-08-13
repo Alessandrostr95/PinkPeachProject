@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Programmazione dei calcolatori",
+  "docente": [
+    {
+      "first_name": "Stefano",
+      "second_name": "Varricchio"
+    }
+  ],
+  "annoAccademico": "2004-2005",
+  "crediti": "6",
+  "settore": "",
+  "anno": "1",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>Introduzione alla programmazione e nozioni di base del C. \r\nStrutture di controllo (if , if/else , while , for , do/while , switch) \r\nFunzioni: funzioni di libreria, definizione di funzioni, prototipi, file header, ricorsione,  passaggio dei parametri. \r\nArray: dichiarazioni di array, passaggio di array come parametri, array con indici multipli. \r\nPuntatori: dichiarazione e inizializzazione di puntatori, operatori &amp; e *, puntatori e array, aritmetica su puntatori. \r\nStringhe: la libreria per la gestione dei caratteri, le funzioni per la gestione delle stringhe. \r\nFormattazione dell'input/output. Gestione dei files. \r\nStrutture dati: liste, pile, code, alberi. \r\n \r\n\r\nPer maggiori dettagli <a href=\"http://mat.uniroma2.it/~giammarr/Teaching/Programm/index.html\">\r\nvedi pag. web personale</a>\n</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>Harvey M. Deitel, Paul J. Deitel\r\nC Corso completo di programmazione.\r\nAPOGEO </td></tr></table>",
+  "ricevimento": "<table><tr><td>null</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

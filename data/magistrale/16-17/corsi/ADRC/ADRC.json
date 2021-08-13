@@ -1,0 +1,152 @@
+{
+  "nomeCorso": "Algoritmi distribuiti e reti complesse",
+  "docente": [
+    {
+      "first_name": "Andrea",
+      "second_name": "Clementi"
+    }
+  ],
+  "annoAccademico": "2016-2017",
+  "crediti": "9",
+  "settore": "INF/01",
+  "anno": "1",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [
+    {
+      "titolo": "NEWS!!!!",
+      "data": "12-09-2017 10:26",
+      "contenuto": "<p>Ci sono delle importanti novita' di topics e di struttura per il corso\u00a0</p>\n<p>ADRC. Per maggiori informazioni, si veda il Programma sul sito ufficiale del corso e/o si contatti il prof. Clementi via email.</p><hr/>"
+    },
+    {
+      "titolo": "ADRC II Appello: variazione orario",
+      "data": "21-02-2017 10:03",
+      "contenuto": "<p>l appello di adrc di giovedi 23 / 02</p>\n<p>\u00e8 spostato alle ore 14.30</p><hr/>"
+    },
+    {
+      "titolo": "ESONERO DEL 12/01/17",
+      "data": "13-01-2017 10:20",
+      "contenuto": "<p>ESITO ESONERO:</p>\n<p>\u00a0</p>\n<p>MATR. N. 0225360 : \u00a0 \u00a0INSUFFICIENTE</p>\n<p>\u00a0</p>\n<p>FAKHOURY D. : \u00a018/30</p>\n<p>\u00a0</p>\n<p>VARRICCHIO G. : 24/30</p>\n<p>\u00a0</p>\n<p>MATR. N. 0248558 : INSUFFICIENTE</p><hr/>"
+    },
+    {
+      "titolo": "POSTICIPO ESONERO",
+      "data": "03-01-2017 15:07",
+      "contenuto": "<p>Per sopraggiunti impegni medici, l'esonero del 09/01/17 e' spostato in data gioved\u00ec 12/01/17 alle ore 14.30 in aula 7.</p><hr/>"
+    },
+    {
+      "titolo": "ESONERO ADRC:  INFOS E PRENOTAZIONE",
+      "data": "02-01-2017 09:37",
+      "contenuto": "<p>Per l'esonero del 9/1/17, gli studenti possono portare i loro appunti e le slides del corso. Gli esercizi e le domande poste saranno relative a progetto ed analisi di protocolli distribuiti per versioni di modelli di comunicazione e di task leggermente diversi da quelli visti a lezione.</p>\n<p>\u00a0</p>\n<p>Si pregano gli studenti interessati all'esonero di inviare una email di partecipazione al docente (clementi **at**mat uniroma2 it) entro il 6/1/17.</p><hr/>"
+    },
+    {
+      "titolo": "ADRC:  Esonero Parte del Prof. Clementi",
+      "data": "14-12-2016 09:57",
+      "contenuto": "<p>\u00a0il <strong>giorno lunedi 9 gennaio in aula 7 alle ore 14.30</strong></p>\n<p>si terra' un esonero scritto, valido per tutti gli studenti interessati, sulla parte del corso \u00a0tenuta dal Prof. Clementi (Si veda diario delle lezioni a.a. 2016-17)\u00a0</p>\n<p>\u00a0</p>"
+    }
+  ],
+  "lezioni": [
+    {
+      "id": "16",
+      "data": "12-12-2016",
+      "contenuto": "<p>BROADCAST SU RADIO NETS:</p>\n<p>\u00a0</p>\n<p>LE FAMIGLIE SELETTIVE ED IL LOWER BOUND PER PROTOCOLLI DETERMINISTICI\u00a0</p>\n<p>\u00a0</p>\n<p>I PROTOCOLLI RANDOMIZZATI:</p>\n<p>- UN PROTOCOLLO RANDOMIZZATO NON EFFICIENTE</p>\n<p>\u00a0</p>\n<p>IL PROTOCOLLO BGI</p>\n<p>ANALISI DEL TEMPO DI CONVERGENZA DI BGI SU GRAFI REGOLARI LAYERED.</p>\n<p>\u00a0</p>\n<p>CONFRONTO CON I PROTOCOLLI DETERMINISTICI: IL GAP ESPONENZIALE RANDOM vs DETERMINISTIC</p>\n<p>\u00a0</p>\n<p>\u00a0</p>\n<p>\u00a0</p>\n<p>\u00a0</p>\n<p>\u00a0</p>"
+    },
+    {
+      "id": "15",
+      "data": "05-12-2016",
+      "contenuto": "<p>BROADCAST SU RADIO NETS</p>\n<p>LE FAMIGLIE SELETTIVE</p>\n<p>UN PROTOCOLLO ERRATO</p>\n<p>IL PROTOCOLLO SELECTIVE.</p>\n<p>CORRETTEZZA</p>\n<p>ANALISI DEL TEMPO DI CONVERGENZA IN FUNZIONE DEL GRADO</p>\n<p>CONFRONTO CON IL ROUND ROBIN</p>"
+    },
+    {
+      "id": "14",
+      "data": "05-12-2016",
+      "contenuto": "<p>BROADCAST SU RADIO NETS</p>\n<p>IL PROTOCOLLO ROUND ROBIN</p>\n<p>CORRETTEZZA E TEMPO DI CONVERGENZA</p>\n<p>LA CONOSCENZA DEI PARAMETRI N E D</p>\n<p>TERMINAZIONE LOCALE E COMPLETAMENTO</p>"
+    },
+    {
+      "id": "13",
+      "data": "01-12-2016",
+      "contenuto": "<p>- IL MODELLO RADIO NETWORKS</p>\n<p>- LE STAZIONI RADIO SUL PIANO</p>\n<p>- LA COMUNICAZIONE NODE-BASED</p>\n<p>- IL PROBLEMA DELLA COLLISIONE</p>\n<p>- IL GRAFO DIRETTO DI COMUNICAZIONE</p>\n<p>- ESEMPI</p>\n<p>- IL PROBLEMA DEL BROADCAST</p>\n<p>- FALLIMENTO DEL FLOODING</p>"
+    },
+    {
+      "id": "12",
+      "data": "01-12-2016",
+      "contenuto": "<p>Elezione di un Leader in un anello</p>\n<p>\u00a0</p>\n<p>La Stage technique</p>\n<p>\u00a0</p>\n<p>Distanza controllata</p>\n<p>\u00a0</p>\n<p>Analisi della correttezza</p>\n<p>Analsisi della message complexity : O(n log n)</p>"
+    },
+    {
+      "id": "11",
+      "data": "21-11-2016",
+      "contenuto": "<p>Elezione di un leader \u00a0</p>\n<p>Definizione e restrizioni del problema</p>\n<p>Risultati negativi</p>\n<p>Elezione in un anello bidirezionale</p>\n<p>Il protocollo All-The-Way</p>\n<p>Il protocollo All-The-Way migliorato</p>\n<p>Analsisi della correttezza, terminazione e message-complexity\u00a0</p>\n<p>\u00a0</p>"
+    },
+    {
+      "id": "10",
+      "data": "17-11-2016",
+      "contenuto": "<p>Computazioni distribuite su Alberi non etichettati.</p>\n<p>La tecnica SATURATION per l'elezione di DUE CO-LEADERS</p>\n<p>\u00a0</p>\n<p>Applicazioni della Saturation:</p>\n<p>Find-Min, Averaging\u00a0</p>\n<p>Eccentricita' dei nodi</p>"
+    },
+    {
+      "id": "9",
+      "data": "14-11-2016",
+      "contenuto": "<p>Il problema del Graph Traversal (DFT in distribuito).</p>\n<p>Analsisi del problema</p>\n<p>Il protocollo DFT prima versione.</p>\n<p>Analisi delle performance</p>\n<p>Seconda versione del protocollo che migliora il tempo di convergenza da m ad n: la parallelizzazione della scoperta dei nodi visitati.</p>"
+    },
+    {
+      "id": "8",
+      "data": "10-11-2016",
+      "contenuto": "<p>IL problema \u00a0dello Spanning Tree \u00a0</p>\n<p>Definizione della versione distribuita del problema</p>\n<p>Confronti con il problema del Broadcast</p>\n<p>Prime soluzioni informali</p>\n<p>Il protocollo SHOUT</p>\n<p>Analsisi della correttezza</p>\n<p>IL problema dello ST.</p>\n<p>Analisi della msg complexity del protocollo SHOUT</p>\n<p>Un possibile miglioramento: il protocollo SHOUT+</p>\n<p>\u00a0Il problema dello ST senza l'assunzione : Single Initiator</p>\n<p>Risultato di impossibilit\u00e0.</p>\n<p>\u00a0</p>\n<p>Il problema del Graph Traversal (DFT in distribuito).</p>\n<p>Analsisi del problema</p>\n<p>Il protocollo DFT prima versione.</p>\n<p>Analisi delle performance</p>\n<p>Seconda versione del protocollo che migliora il tempo di convergenza da m ad n: la parallelizzazione della scoperta dei nodi visitati.</p>"
+    },
+    {
+      "id": "7",
+      "data": "07-11-2016",
+      "contenuto": "<p>IL problema del Wake-Up sul grafo completo etichettato.</p>\n<p>il lower bound n log n.</p>\n<p>\u00a0</p>\n<p>Seconda parte della dimostrazione formale</p>\n<p>Analisi della message complexity di ogni fase</p>\n<p>formula ricorsiva globale</p>\n<p>conclusione della dimostrazione</p>\n<p>Conclusioni sul problema del wake-up</p>\n<p>\u00a0</p>"
+    },
+    {
+      "id": "6",
+      "data": "03-11-2016",
+      "contenuto": "<p>IL problema del Wake-Up sul grafo completo etichettato.</p>\n<p>il lower bound n log n.</p>\n<p>La tecnica degli stage e degli universi paralleli: Introduzione informale</p>\n<p>Prima parte della dimostrazione formale</p>"
+    },
+    {
+      "id": "5",
+      "data": "27-10-2016",
+      "contenuto": "<p>Conclusione dell'analisi del Broadcast su Hypercube</p>\n<p>IL problema del Wake-UP</p>\n<p>IL protocollo WFLOOD</p>\n<p>Analisi generale in funzione del n. di sorgenti.</p>\n<p>Analsisi\u00a0 su topologie specifiche.</p>\n<p>\u00a0</p>"
+    },
+    {
+      "id": "4",
+      "data": "24-10-2016",
+      "contenuto": "<p>L'architettura Labeled HYPERCUBE: analisi del diametro, grado, calcolo di cammini minimi.</p>\n<p>\u00a0</p>\n<p>\u00a0UN protocollo di broadcast ottimale per Hypercube.</p>\n<p>Analsisi della correttezza, message complexity e tempo di convergenza</p>\n<p>Valutazioni generali sul problema del broadcast in funzione della topologia della rete.</p>"
+    },
+    {
+      "id": "3",
+      "data": "20-10-2016",
+      "contenuto": "<p>Un lower bound generale per il problema del Broadcast:</p>\n<p>dimostrazione formale ed implicazioni.</p>\n<p>\u00a0</p>\n<p>Grafi densi e grafi sparsi: un'alternativa al flood.</p>\n<p>\u00a0</p>\n<p>Architetture parallele efficienti: diametro e grado.</p>\n<p>Concetto di scalability</p>\n<p>Introduzione dell'architettura HYPERCUBE</p>"
+    },
+    {
+      "id": "2",
+      "data": "17-10-2016",
+      "contenuto": "<p>Protocolli per il Broadcast su grafi generali: FLOOD</p>\n<p>\u00a0</p>\n<p>Analisi del FLOOD:</p>\n<p>correttezza,</p>\n<p>msg complexity,</p>\n<p>completion time</p>"
+    },
+    {
+      "id": "1",
+      "data": "13-10-2016",
+      "contenuto": "<p>IL modello di Calcolo Distributo: Concetti di Base e definizioni informali</p>\n<p>i grafi di comunicazione</p>\n<p>le restrizioni</p>\n<p>gli assiomi</p>\n<p>definizione di protocollo</p>\n<p>operazione atomiche</p>\n<p>tempo e messaggi</p>\n<p>terminazione locale e globale</p>\n<p>Un esempio: IL Broadcast</p>"
+    },
+    {
+      "id": "0",
+      "data": "10-10-2016",
+      "contenuto": "<p>\u00a0</p>\n<p>\u00a0</p>\n<p>\u00a0Motivazioni generali\u00a0</p>\n<p>IL calcolo distribuito</p>\n<p>Esempi di decisioni locali</p>\n<p>\u00a0</p>\n<p>descrizione del corso, del materiale didattico, delle propedeudicita', e delle prove</p>"
+    }
+  ],
+  "materiale": [
+    {
+      "titolo": "Slides + Dispense del corso",
+      "dataUpload": "22.09.2016 17:01:32",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/ADRC/ADRC CLEMENTI.zip",
+      "dimensione": "2215 KB"
+    },
+    {
+      "titolo": "Slides + Dispense del corso",
+      "dataUpload": "22.09.2016 16:58:39",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/ADRC/dcd01.pdf",
+      "dimensione": "175 KB"
+    }
+  ],
+  "programma": "<table><tr><td><p><strong>\u00a0</strong></p>\n<p>Il corso quest'anno avra' un'importante novita'.</p>\n<p>\u00a0</p>\n<p>\u00a0Oltre ai due mouli standard di:</p>\n<p>\u00a0</p>\n<p>\u00a0</p>\n<p>a) <strong>Calcolo Distribuito</strong>\u00a0 (Prof. Clementi)</p>\n<p>b) <strong>Teoria Algoritmica dei Giochi</strong> (Dr. Gual\u00e0)</p>\n<p>\u00a0</p>\n<p>vi sara' un ulteriore modulo (di circa 10 ore di lezione) (<strong>Modulo c)</strong> che verra' svolto dal <strong>Prof. Luca Trevisan\u00a0</strong>che sara' <strong>Visiting Professor</strong> nel nostro Dipartimento in cui verranno trattati argomenti fondamentali \u00a0dell'analisi di \u00a0grafi di grandi dimensioni.</p>\n<p>Luca Trevisan \u00e8 full professor all'<strong>Universit\u00e0 di Berkeley (CA - USA) e Senior Scientist al </strong></p>\n<p><a href=\"http://simons.berkeley.edu/\">Simons Institute for the Theory of Computing</a>.</p>\n<p>https://people.eecs.berkeley.edu/~luca/</p>\n<p>Il Prof. Trevisan\u00a0 rappresenta uno dei pi\u00f9 importanti\u00a0 scienziati \u00a0in Theoretical Computer Science in campo internazionale. Questa terza parte verr\u00e0 erogata nel mese di\u00a0 <strong>maggio 2018</strong> e sar\u00e0 parte integrante del corso ADRC. \u00a0</p>\n<p>\u00a0</p>\n<p>\u00a0</p>\n<p>L'esame del corso, pertanto, sar\u00e0 strutturato in due parti. \u00a0</p>\n<p>Negli appelli invernali (febbraio 2018) vi sar\u00e0 un test \u00a0intermedio sui moduli (a) e (b), mentre</p>\n<p>in tutti gli \u00a0appelli successivi, gli studenti potranno dare l'esame (ed i test relativi) su tutti e tre i moduli\u00a0</p>\n<p><strong>(a,b, e c).</strong></p>\n<p>\u00a0</p>\n<p><strong>\u00a0</strong></p>\n<p>\u00a0</p>\n<p><strong>Il modulo (a)</strong></p>\n<p>presenta i principi fondamentali del calcolo distribuito sia da un punto di vista dei modelli di comunicazione/computazione pi\u00f9 importanti che per quanto riguarda i metodi algoritmici fondamentali per tali modelli.\u00a0</p>\n<p>L'obiettivo formativo e' quello di fornire degli strumenti efficienti e rigorosi per il Problem Solving algoritmico in cui, rispetto ai corsi algoritmici della triennale, per la prima volta le entit\u00e0 computazionali (agenti)\u00a0 sono molteplici ed interagenti.<br>Questo nuovo paradigma offre ottime\u00a0 basi per progettare\u00a0 protocolli efficienti per problemi fondamentali ed estremamente attuali nel mondo dei moderni sistemi distribuiti.<br>Questa parte sar\u00e0 tenuta del Prof. Clementi e sar\u00e0 di 6 cfu.<br>\u00a0<br><strong>Nel modulo (b),</strong> il Dr. Gual\u00e0 tratter\u00e0 un altro aspetto fondamentale<br>dei sistemi distribuiti moderni: la presenza di comportamenti egoistici degli agenti di un sistema distribuito. Tale presenza ha portato negli ultimi decenni a sviluppare un'importante teoria:<br>l'Algorithmic Game Theory. Profondamente ispirata dalla famosa Game Theory (Nash Equilbria), questa teoria viene trattata nel corso per affrontare importanti problematiche nel campo dell'ottimizzazione di reti di comunicazione e di altre applicazioni.</br></br></br></br></br></br></p>\n<p>\u00a0</p>\n<p><strong>Il modulo (c)</strong> il prof. Trevisan introdurra' importanti tecniche di analisi e progettazione di algoritmi</p>\n<p>per problemi di ottimizzazione e/o detection su grafi di grandi dimensione. In particolare,</p>\n<p>vista la grande dimensione dei dati, verranno studiate tecniche di natura statistica che permettono l'analisi delle performance non nel ''worst-case''.\u00a0\u00a0 <br>\u00a0<br>Qui sotto vengono riportati i \u00a0programmi preliminari\u00a0per i 3 moduli.\u00a0<br>\u00a0<br><strong>Modulo (a):\u00a0</strong> <strong>Algoritmi Distribuiti \u00a0</strong><br>- Modelli di computazione distribuiti: paradigmi, algoritmi, misure di complessit\u00e0, comunicazione<br>- Un processo epidemico: Il\u00a0 Broadcast e l'Information Spreading<br>- Il problema del Wake-Up<br>- Il problema dello Spanning Tree<br>- Il problema del Leader Election<br>- Il Modello Wireless: il fenomeno delle collisioni<br>- Il Broadcast su Wireless Networks: protcolli\u00a0 deterministici e randomizzati<br>- Problemi distribuiti avanzati in\u00a0 Social Networks\u00a0\u00a0\u00a0 e Data Science<br>\u00a0<br><strong>Modulo (b) \u00a0Teoria Algoritmica dei Gioghi</strong><br>\u00a0<br>**** - da inserire *****</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></p>\n<p>\u00a0</p>\n<p><strong>Modulo (c) (in inglese - versione preliminare)<br/></strong></p>\n<p>\u00a0Worst-case analysis sometimes overestimates the difficulty of certain problems in practice. In this course we will review more refined methods for the analysis of algorithms, including average-case analysis for random instances, analysis of distributions with a \"planted\" solution, semi-random models which combine random and adversarial choices, and machine learning problems in which the input is a collection of iid samples from an arbitrary unknown distribution. We will conclude with a brief overview of the theory of average-case complexity, and the evidence that we have that certain problems remain hard even when analyzed with respect to natural classes of distributions. Here is a tentative list of topics that we will cover:</p>\n<ul>\n<li>Properties of random graphs</li>\n<li>Cliques in random graphs</li>\n<li>Independent sets in random graphs</li>\n<li>Planted bisection and the stochastic block model</li>\n<li>Finding cuts in semi-random graph models</li>\n<li>Stable cuts and stable clustering</li>\n<li>An introduction to average-case complexity</li>\n</ul></td></tr></table>",
+  "testiRiferimento": "<table><tr><td><p>N. Santoro: Distributed Algorithms + Slides ed Note del Docente</p></td></tr></table>",
+  "ricevimento": "<table><tr><td><p>per appuntamento via email</p></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td><p>Esame Orale. In base alle richieste degli studenti, verra' presa in considerazione la possibilita' di un esonero intermedio per la prima parte del corso a gennaio.</p></td></tr></table>"
+}

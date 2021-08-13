@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Sicurezza informatica e cooperazione",
+  "docente": [
+    {
+      "first_name": "Maurizio",
+      "second_name": "Talamo"
+    }
+  ],
+  "annoAccademico": "2006-2007",
+  "crediti": "12",
+  "settore": "",
+  "anno": "2",
+  "semestre": "1-2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>1. La Sicurezza bottom-up.\r\nDefinizione di Virtual Organization e Cooperation Agreement;\r\n1.1 Cos'\u00e8 una VO;1.2 Il Cooperation Agreement di una VO; 1.3. Il chi di una VO: lo studio delle Social Network. 1.4 Il cosa di una VO; 1.5 Il Business Process di una VO: le awareness net. 1.6 Gli strumenti per la formalizzazione e l'analisi di una VO; 1.7 Il sistema di certificazione di una VO; certificazione del WF associato, del \r\nQoS e sicurezza. 1.7 Il Piano di Certificazione e la sua validazione.\r\n2. Modelli Trust\r\n2.1 Certificati digitali, Certification Authority, organizzazione di una PKI. OpenCa come esempio di pki. Cross certification e gerarchie di pki.2.2 Le PKI e le problematiche della cooperazione. 2.3 Modelli diretti o simmetrici.\r\n3 \r\n3.1 Confronto fra l'approccio top down e approccio bottom up alla sicurezza. Es. dei due approcci in letteratura (filtri statici basati su pattern recognition e filtri dinamici basati su parametri quantitativi, modelli di teoria dei giochi in cui l'accordo \u00e8 pi\u00f9 conveniente del conflitto per tutte le parti, ect.). 3.2 La redazione di un Piano di Sicurezza.\r\n</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>Dispense e letture sono distribuite dal docente durante le lezioni oppure su richiesta via e-mail.</td></tr></table>",
+  "ricevimento": "<table><tr><td>null</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

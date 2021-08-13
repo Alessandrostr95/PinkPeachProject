@@ -1,0 +1,26 @@
+{
+  "nomeCorso": "Laboratorio di basi di dati",
+  "docente": [
+    {
+      "first_name": "Luca",
+      "second_name": "Baffi"
+    },
+    {
+      "first_name": "Luca",
+      "second_name": "Baffi"
+    }
+  ],
+  "annoAccademico": "2005-2006",
+  "crediti": "6",
+  "settore": "",
+  "anno": "2",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>1.  Introduzione\r\n\r\n2.  Il processo di ottimizzazione\r\n    2.1.    I problemi di performance\r\n    2.2.    Le cause ed i costi\r\n\r\n3.  L'architettura di MySQL\r\n    3.1.    La struttura del database\r\n    3.2.    Le \"storage engines\"\r\n    3.3.    Il repository dei dati\r\n\r\n4.  Le transazioni\r\n    4.1.    Lock\r\n    4.2.    Transazioni\r\n    4.3.    Livelli di isolamento\r\n    4.4.    Deadlock\r\n\r\n5.  Le \"storage engines\"\r\n    5.1.    MyIsam\r\n    5.2.    Merge\r\n    5.3.    Memory/Heap\r\n    5.4.    InnoDB\r\n    5.5.    Archive\r\n    5.6.    Federated\r\n\r\n6.  La progettazione fisica di un database\r\n    6.1.    Tabelle, constraint, indici e datatype\r\n    6.2.    La denormalizzazione\r\n    6.3.    Il dimensionamento\r\n    6.4.    Il layout fisico del db\r\n    6.5.    Meccanismi di RAID\r\n\r\n7.  Ottimizzare le istruzioni SQL\r\n    7.1.    Il piano di esecuzione\r\n    7.2.    L'ottimizzatore\r\n    7.3.    Le statistiche\r\n    7.4.    Il comando EXPLAIN\r\n    7.5.    Le subquery\r\n    7.6.    Il Join\r\n    7.7.    Gli Hint\r\n\r\n8.  Ottimizzare l'uso degli indici\r\n    8.1.    Indici e selettivit\u00e0\r\n    8.2.    Query per prefisso\r\n    8.3.    Indici e distribuzione dei dati\r\n    8.4.    Indici e funzioni\r\n    8.5.    Indexed-only columns\r\n    8.6.    Indici e DML\r\n    8.7.    Indici e Sort\r\n\r\n9.  Ottimizzare il motore SQL\r\n    9.1.    I diversi meccanismi di cache\r\n    9.2.    Ottimizzazione di MyIsam\r\n    9.3.    Ottimizzazione di Heap\r\n    9.4.    Ottimizzazione di InnoDB\r\n    9.5.    Le righe migrate/concatenate\r\n</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>High Performance MySQL: Optimization, Backups, Replication &amp; Load Balancing - O'Reilly - Jeremy D. Zawodny and Derek J. Balling - ISBN: 0596003064 \r\n\r\nMySQL Guida Avanzata: ottimizzazione, backup, repliche e bilanciamento del carico - Hops Libri - Jeremy D. Zawodny and Derek J. Balling - ISBN: 8848116965\r\n\r\nMySQL Reference Manual (versione 5.0)\r\ndisponibile sul sito: www.mysql.com\r\n</td></tr></table>",
+  "ricevimento": "<table><tr><td>E' possibile fissare un appuntamento (previa richiesta via e-mail) ogni Sabato alle ore 10:00 presso l'aula T8.</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

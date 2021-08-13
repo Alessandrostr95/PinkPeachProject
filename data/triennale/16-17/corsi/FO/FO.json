@@ -1,0 +1,516 @@
+{
+  "nomeCorso": "Fondamenti di informatica",
+  "docente": [
+    {
+      "first_name": "Giorgio",
+      "second_name": "Gambosi"
+    },
+    {
+      "first_name": "Miriam",
+      "second_name": "Di Ianni"
+    }
+  ],
+  "annoAccademico": "2016-2017",
+  "crediti": "12",
+  "settore": "INF/01",
+  "anno": "2",
+  "semestre": "1-2",
+  "propedeuticit\u00e0": "Matematica discreta.",
+  "comunicazioni": [
+    {
+      "titolo": "Risultati 1 modulo 20-9-2017",
+      "data": "21-09-2017 21:47",
+      "contenuto": "<p>Pubblicati i risultati della prova scritta di esame del 20-9-2017, relativa al 1 modulo e al corso da 6 cfu. Si ricorda che gli studenti che hanno conseguito la sufficienza (almeno 18) possono sostenere l'esame orale previsto per il 25-9 o mantenere il voto conseguito, dandone comunicazione via email al docente. Gli studenti che hanno conseguito un voto pari a 15, 16 o 17 devono sostenere l'esame orale del 25 per raggiungere la sufficienza.</p><hr/>"
+    },
+    {
+      "titolo": "",
+      "data": "02-09-2017 17:07",
+      "contenuto": "<p><span style=\"color: #454545; font-family: 'Helvetica Neue'; font-size: 12px;\">I Prof. Gambosi e Di Ianni aderiscono\u00a0</span><span style=\"color: #454545; font-family: 'Helvetica Neue'; font-size: 12px;\">allo sciopero proclamato dal\u00a0</span>Movimento per la Dignit\u00e0 della Docenza Universitaria. L\u2019agitazione consiste nell\u2019astensione dallo svolgimento degli esami di profitto per un appello (il primo nel periodo dal 28-8 al 31-10-2017). Questo corrisponde, per entambi i docenti, all\u2019appello del corso di Fondamenti di Informatica del 4-9-2017 (e, corrispondentemente, all'appello del corso di Informatica Teorica ad esso collegato). Quindi, a meno di revoca dello sciopero stesso, il suddetto appello non avr\u00e0 luogo. Resta inteso che l\u2019appello successivo del 20-9 si terr\u00e0 regolarmente e che gli studenti che si sono prenotati per l\u2019appello del 4-9 possono partecipare a quello del 20-9.</p><hr/>"
+    },
+    {
+      "titolo": "Appello del 04/09/2017",
+      "data": "02-09-2017 17:07",
+      "contenuto": "<p><span style=\"color: #454545; font-family: 'Helvetica Neue'; font-size: 12px;\">I Prof. Gambosi e Di Ianni aderiscono\u00a0</span><span style=\"color: #454545; font-family: 'Helvetica Neue'; font-size: 12px;\">allo sciopero proclamato dal\u00a0</span>Movimento per la Dignit\u00e0 della Docenza Universitaria. L\u2019agitazione consiste nell\u2019astensione dallo svolgimento degli esami di profitto per un appello (il primo nel periodo dal 28-8 al 31-10-2017). Questo corrisponde, per entambi i docenti, all\u2019appello del corso di Fondamenti di Informatica del 4-9-2017 (e, corrispondentemente, all'appello del corso di Informatica Teorica ad esso collegato). Quindi, a meno di revoca dello sciopero stesso, il suddetto appello non avr\u00e0 luogo. Resta inteso che l\u2019appello successivo del 20-9 si terr\u00e0 regolarmente e che gli studenti che si sono prenotati per l\u2019appello del 4-9 possono partecipare a quello del 20-9.</p><hr/>"
+    },
+    {
+      "titolo": "Risultati 1 modulo 5-7-2017",
+      "data": "07-07-2017 18:40",
+      "contenuto": "<p>Pubblicati i risultati della prova scritta di esame del 5-7-2017, relativa al 1 modulo. Si ricorda che gli studenti che hanno conseguito la sufficienza (almeno 18) possono sostenere l'esame orale previsto per il 12-7 o mantenere il voto conseguito, dandone comunicazione via email al docente. Gli studenti che hanno conseguito un voto pari a 15, 16 o 17 devono sostenere l'esame orale del 12 per raggiungere la sufficienza.</p><hr/>"
+    },
+    {
+      "titolo": "Prove scritte 5-7-2017",
+      "data": "03-07-2017 00:36",
+      "contenuto": "<p><span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Per il secondo appello della sessione estiva 2016/17, la prova scritta del primo modulo avr\u00e0 luogo alle ore 14 in aula 4 PP2, mentre la prova scritta del secondo modulo avr\u00e0 luogo alle ore 10.00, nella stessa aula.</span></p><hr/>"
+    },
+    {
+      "titolo": "Risultati 1 modulo 21-6-2017",
+      "data": "22-06-2017 19:23",
+      "contenuto": "<p>Pubblicati i risultati della prova scritta di esame del 21-6-2017, relativa al 1 modulo e al corso da 6 cfu. Si ricorda che gli studenti che hanno conseguito la sufficienza (almeno 18) possono sostenere l'esame orale previsto per il 26-6 o mantenere il voto conseguito, dandone comunicazione via email al docente. Gli studenti che hanno conseguito un voto pari a 15, 16 o 17 devono sostenere l'esame orale del 26 per raggiungere la sufficienza.</p><hr/>"
+    },
+    {
+      "titolo": "Prenotazioni prova 1 modulo",
+      "data": "12-06-2017 14:18",
+      "contenuto": "<p>Gli studenti che intendano sostenere la prova di esame relativamente al primo modulo del corso sono pregati di inviarne comunicazione via mail al docente, all'indirizzo giorgio.gambosi@uniroma2.it</p><hr/>"
+    },
+    {
+      "titolo": "Prove scritte 21-6-2017",
+      "data": "12-06-2017 14:16",
+      "contenuto": "<p>Per il primo appello della sessione estiva 2016/17, la prova scritta del primo modulo avr\u00e0 luogo alle ore 14 in aula T5, mentre la prova scritta del secondo modulo avr\u00e0 luogo alle ore 10.00, nella stessa aula.</p><hr/>"
+    },
+    {
+      "titolo": "Nuove regole in merito agli appelli d'esame",
+      "data": "12-06-2017 12:16",
+      "contenuto": "<p style=\"-qt-block-indent: 0; text-indent: 0px; -qt-user-state: 0; margin: 0px;\"><!--StartFragment-->Al fine di facilitare gli studenti incrementando il numero di possibili date di esame,</p>\n<p style=\"-qt-block-indent: 0; text-indent: 0px; -qt-user-state: 0; margin: 0px;\">a partire dalla sessione estiva 2016/17 sono previsti per il corso di Fondamenti di Informatica due appelli di esame per ciascuna sessione. Tuttavia, ciascuno studente continuer\u00e0 a poter sostenere un numero massimo di quattro prove di esame nel corso di un anno accademico. In particolare, potr\u00e0 sostenere l'esame relativo ad un modulo in entrambi gli appelli della sessione immediatamente successiva al termine delle lezioni del modulo stesso (esattamente come avveniva fino ad ora). Per quanto riguarda le altre sessioni, per le quali sino ad ora gli studenti avevano a disposizione una sola data di esame, da ora in poi le date a disposizione saranno due, ma lo studente potr\u00e0 sostenere l'esame in una sola delle due date.</p>\n<p style=\"-qt-paragraph-type: empty; -qt-block-indent: 0; text-indent: 0px; margin: 0px;\">\u00a0</p>\n<p style=\"-qt-block-indent: 0; text-indent: 0px; -qt-user-state: 0; margin: 0px;\">Nel dettaglio:</p>\n<p style=\"-qt-block-indent: 0; text-indent: 0px; -qt-user-state: 0; margin: 0px;\">\u00a0</p>\n<p style=\"-qt-block-indent: 0; text-indent: 0px; -qt-user-state: 0; margin: 0px;\">- Modulo 1:</p>\n<ul>\n<li>due appelli di esame a disposizione nella sessione estiva anticipata (febbraio) - ciascuno studente pu\u00f2 sostenere l'esame in entrambi gli appelli</li>\n<li>due appelli di esame a disposizione nella sessione estiva (giugno) - ciascuno studente pu\u00f2 sostenere l'esame in un solo appello a sua scelta</li>\n<li>due appelli di esame a disposizione nella sessione autunnale (settembre) - ciascuno studente pu\u00f2 sostenere l'esame in un solo appello a sua scelta</li>\n</ul>\n<p style=\"-qt-block-indent: 0; text-indent: 0px; -qt-user-state: 0; margin: 0px;\">- Modulo 2:</p>\n<ul>\n<li>due appelli di esame a disposizione nella sessione estiva (giugno) - ciascuno studente pu\u00f2 sostenere l'esame in entrambi gli appelli</li>\n<li>due appelli di esame a disposizione nella sessione autunnale (settembre) - ciascuno studente pu\u00f2 sostenere l'esame in un solo appello a sua scelta</li>\n<li>due appelli di esame a disposizione nella sessione invernale (febbraio) - ciascuno studente pu\u00f2 sostenere l'esame in un solo appello a sua scelta</li>\n</ul>\n<p>\u00a0</p><hr/>"
+    },
+    {
+      "titolo": "Lezione del 31-03-2017",
+      "data": "31-03-2017 08:14",
+      "contenuto": "<p>Si avvisano gli studenti che la lezione di oggi non avr\u00e0 luogo.</p><hr/>"
+    },
+    {
+      "titolo": "Esami orali del 7-3-2017, anticipo orario",
+      "data": "02-03-2017 19:41",
+      "contenuto": "<p>I colloqui orali relativi all'esonero, previsit per il 7-3 alle 14 nello studio del docente, sono anticipati alle ore 11.</p><hr/>"
+    },
+    {
+      "titolo": "Esami orali del 7-3-2017",
+      "data": "02-03-2017 19:39",
+      "contenuto": "<p>- Per gli studenti che hanno ottenuto la sufficienza piena (almeno 18) alla prova scritta, la prova orale \u00e8 facoltativa: possono, se preferiscono, mantenere il voto ottenuto allo scritto come valutazione complessiva. In alternativa, possono presentarsi il 7-3 per sostenere il colloquio orale. Si pregano gli studenti che intendono sostenere il colloquio il 7 di darne comunicazione al docente via email.</p>\n<p>- Gli studenti che hanno ottenuto un voto compreso tra 15 e 17 (inclusi) devono invece sostenere il colloquio orale il 7-3 al fine di raggiungere una piena sufficienza.</p><hr/>"
+    },
+    {
+      "titolo": "Esami orali del 22-2-2017",
+      "data": "19-02-2017 11:33",
+      "contenuto": "<p>- Per gli studenti che hanno ottenuto la sufficienza piena (almeno 18) alla prova scritta, la prova orale \u00e8 facoltativa: possono, se preferiscono, mantenere il voto ottenuto allo scritto come valutazione complessiva (del primo modulo per l'esame da 12 cfu, dell'intero esame per l'esame da 6 cfu). In alternativa, possono presentarsi il 22-2 per sostenere il colloquio orale. Si pregano gli studenti che intendono sostenere il colloquio il 22 di darne comunicazione al docente via email.</p>\n<p>- Gli studenti che hanno ottenuto un voto compreso tra 15 e 17 (inclusi) devono invece sostenere il colloquio orale il 22-2 al fine di raggiungere una piena sufficienza.</p>\n<p>\u00a0</p><hr/>"
+    },
+    {
+      "titolo": "Seconda prova parziale primo modulo",
+      "data": "13-02-2017 12:21",
+      "contenuto": "<p style=\"font-size: 12px; line-height: normal; font-family: Helvetica; color: #454545;\">La seconda prova parziale per il primo modulo del corso avr\u00e0 luogo il 28-2-2017 alle ore 10 in aula G2C, per quanto riguarda lo scritto, e il successivo 7-3-2017 alle ore 14 nello studio del docente, per quanto riguarda l\u2019orale. Gli studenti interessati sono invitati a darne comunicazione via mail al docente, Prof. Gambosi.</p><hr/>"
+    },
+    {
+      "titolo": "Prove parziali per il primo modulo",
+      "data": "13-02-2017 12:20",
+      "contenuto": "<p style=\"font-size: 12px; line-height: normal; font-family: Helvetica; color: #454545;\">Le prove parziali relative al primo modulo del corso saranno distribuite durante l\u2019anno 2017 nel seguente modo.</p>\n<p>\u00a0</p>\n<ul>\n<li style=\"margin: 0px; font-size: 12px; line-height: normal; font-family: Helvetica; color: #454545;\">Febbraio: una prova in corrispondenza alle date fissate per la sessione invernale 2015-2016 + una ulteriore prova ad hoc, le cui date sono comunicate sulla pagina del corso</li>\n<li style=\"margin: 0px; font-size: 12px; line-height: normal; font-family: Helvetica; color: #454545;\">Giugno-Luglio: una sola prova, tenuta in corrispondenza del secondo appello della sessione estiva del corso</li>\n<li style=\"margin: 0px; font-size: 12px; line-height: normal; font-family: Helvetica; color: #454545;\">Settembre: una prova, tenuta in corrispondenza dell\u2019appello della sessione autunnale del corso</li>\n</ul><hr/>"
+    },
+    {
+      "titolo": "Prove scritte di esame del 15-2-2017",
+      "data": "29-01-2017 17:35",
+      "contenuto": "<h3 style=\"font-family: Verdana, arial, san-serif; color: #000000; margin: 0px;\"><span style=\"font-weight: normal;\">Le prove scritte dei due moduli di esame\u00a0</span><span style=\"font-weight: normal;\">avranno luogo\u00a0</span><span style=\"font-weight: normal;\">secondo il seguente orario:</span></h3>\n<h3 style=\"font-family: Verdana, arial, san-serif; color: #000000; margin: 0px;\"><span style=\"font-weight: normal;\">- ore 10:00 per il secondo modulo\u00a0</span></h3>\n<h3 style=\"font-family: Verdana, arial, san-serif; color: #000000; margin: 0px;\"><span style=\"font-weight: normal;\">- ore 14:00 per il primo modulo e per il vecchio esame di FI da 6 cfu</span></h3><hr/>"
+    },
+    {
+      "titolo": "",
+      "data": "18-10-2016 09:12",
+      "contenuto": "<p>Una cartella condivisa contenente il materiale didattico messo a disposizione \u00e8 accessibile a questo <a href=\"https://www.dropbox.com/sh/lochfcz38z7rn2k/AAC9AzMWlL6edvmpyZqBPgZPa?dl=0\">link</a>\u00a0(aprire in una finestra diversa)</p><hr/>"
+    },
+    {
+      "titolo": "",
+      "data": "08-10-2016 17:38",
+      "contenuto": "<p>L'inizio delle lezioni \u00e8 rimandato a marted\u00ec 18 ottobre alle ore 14, in aula 3A</p>"
+    }
+  ],
+  "lezioni": [
+    {
+      "id": "46",
+      "data": "14-06-2017",
+      "contenuto": "<p>Modulo 2. Dimostrazioni di NP-completezza e di coNP-completezza. Esercitazione.</p>"
+    },
+    {
+      "id": "45",
+      "data": "31-05-2017",
+      "contenuto": "<p>Modulo 2. Dimostrazioni di NP-completezza: problemi di colorabilit\u00e0, dominating set. Problemi coNP-completi</p>"
+    },
+    {
+      "id": "44",
+      "data": "26-05-2017",
+      "contenuto": "<p>Modulo 2. Dimostrazioni di NP-completezza: TSP. Il problema Partizione. Problemi numerici: algoritmi pseudo-polinomiali, NP-completezza in senso debole e in senso forte</p>"
+    },
+    {
+      "id": "43",
+      "data": "24-05-2017",
+      "contenuto": "<p>Modulo 2. Dimostrazioni di NP-completezza: Vertex Cover, Independent Set, Clique, Circuito Hamiltoniano (solo enunciato)</p>"
+    },
+    {
+      "id": "42",
+      "data": "19-05-2017",
+      "contenuto": "<p>Modulo 2. Dimostrazioni di NP.completezza. NP-completezza di 3SAT. La struttura di NP: il terorema di Ladner (solo enunciato). Utilizzo delle riduzioni polinomiali per mostrare l'appartenenza a P di un problema: il problema 2COL.</p>"
+    },
+    {
+      "id": "41",
+      "data": "17-05-2017",
+      "contenuto": "<p>Modulo 2. Il teorema di Cook-Levin</p>"
+    },
+    {
+      "id": "40",
+      "data": "12-05-2017",
+      "contenuto": "<p>Modulo 2. La classe NP, algoritmi non deterministici, caratterizzazione della classe NP come classe dei problemi efficientemente verificabili.</p>"
+    },
+    {
+      "id": "39",
+      "data": "10-05-2017",
+      "contenuto": "<p>Modulo 2. Codifiche ragionevoli. Problemi e complessit\u00e0, linguaggi associati ad un problema e al suo complemento, il ruolo del linguaggio delle istanze.</p>"
+    },
+    {
+      "id": "38",
+      "data": "05-05-2017",
+      "contenuto": "<p>Modulo 2. Linguaggi coNP-completi. Problemi: problemi di ricerca, ottimizzazione, enumerazione, decisione. Problemi e codifiche.</p>"
+    },
+    {
+      "id": "37",
+      "data": "03-05-2017",
+      "contenuto": "<p>Modulo 2. Riducibilit\u00e0, chiusura, completezza. Riducibilit\u00e0 polinomiale, NP-completezza e congettura \"P diverso da NP\". La classe coNP: relazione fra le prime due congetture della complessit\u00e0 computazionale, linguaggi coNP completi, chiusura di coNP rispetto alla riducibilit\u00e0 polinomiale.</p>"
+    },
+    {
+      "id": "36",
+      "data": "28-04-2017",
+      "contenuto": "<p>Modulo 2. Inclusione stretta di P in EXPTIME, uguaglianza di PSPACE e NPSPACE</p>"
+    },
+    {
+      "id": "35",
+      "data": "26-04-2017",
+      "contenuto": "<p>Modulo 2. Teorema di accelerazione lineare (schema della dimostrazione). Principali classi di complessit\u00e0: P, NP, PSPACE, NPSPACE, EXPTIME, NEXPTIME e loro relazione. La classe coP. La classe FP.</p>"
+    },
+    {
+      "id": "34",
+      "data": "21-04-2017",
+      "contenuto": "<p>Modulo 2. Relazioni fra classi di complessit\u00e0 temporali deterministiche e non deterministiche. Classi di complessit\u00e0 complemento. Il Gap-Theorem (solo enunciato). Teorema di compressione lineare (schema della dimostrazione).</p>\n<p>\u00a0</p>"
+    },
+    {
+      "id": "33",
+      "data": "19-04-2017",
+      "contenuto": "<p>Modulo 2. Funzioni time- e space-contructible; la funzione n^k. Classi di complessit\u00e0: DTIME, DSPACE, NTIME, NSPACE. Prime relazioni fra tali classi.</p>"
+    },
+    {
+      "id": "32",
+      "data": "12-04-2017",
+      "contenuto": "<p>Modulo 2. Riducibilit\u00e0 fra linguaggi. Misure di complessit\u00e0: dtime, dspace, ntime, nspace, e loro relazioni. Correlazione polinomiale fra modelli di calcolo.</p>"
+    },
+    {
+      "id": "31",
+      "data": "07-04-2017",
+      "contenuto": "<p>Linguaggi non accettabili, linguaggi non decidibili. L'Halting problem</p>"
+    },
+    {
+      "id": "30",
+      "data": "05-04-2017",
+      "contenuto": "<p>Simulazione di una macchina di Turing non deterministrica mediante un programma in Pascal minimo. Insiemi numerabili: sottoinsiemi di insiemi numerabili, unione e prodotto cartesiano di insiemi numerabili. Non numerabilit\u00e0 dell'nsieme delle parti di N.</p>"
+    },
+    {
+      "id": "29",
+      "data": "29-03-2017",
+      "contenuto": "<p>La tesi di Church-Turing. Un nuovo modello di calcolo: li linguaggio Pascal minimo. Equivalenza de. modelli Pascal minimo e macchina di Turing. Simulazione della macchina di Turing Universale mediante un programma scritto in linguaggio Pascal minimo.</p>"
+    },
+    {
+      "id": "28",
+      "data": "24-03-2017",
+      "contenuto": "<p>Linguaggi e linguaggi complemento, linguaggi accettabili e linguaggi decidibili. Funzioni, funzioni totali, funzioni calcolabili. Relazioni fra accettabilit\u00e0 e decidibilit\u00e0 di linguaggi e calcolabilit\u00e0 di funzioni.</p>"
+    },
+    {
+      "id": "27",
+      "data": "22-03-2017",
+      "contenuto": "<p>La macchina di Turing Universale</p>"
+    },
+    {
+      "id": "26",
+      "data": "17-03-2017",
+      "contenuto": "<p>Equivalenza fra macchine di Turing a k nastri e macchine di Turing a 1 nastro. Equivalenza fra macchine di Turing ad alfabeto qualsiasi e macchine di Turing ad alfabeto binario. Introduzione alla macchina di Turing Universale.</p>"
+    },
+    {
+      "id": "25",
+      "data": "15-03-2017",
+      "contenuto": "<p>Macchine di Turing di tipo trasduttore e di tipo riconoscitore. Macchine di Turing deterministiche e non deterministiche e loro equivalenza. Macchine a k&gt;1 nastri a testine indipendenti e solidali e loro equivalenza.</p>"
+    },
+    {
+      "id": "24",
+      "data": "10-03-2017",
+      "contenuto": "<p>Modulo 2. Esercitazione: macchina di Turing ad un nastro che calcola la somma di due numeri interi. Cosiderazioni: memoria lineare delle macchine di Turing. Macchine di Turing: stati globali, transizioni, computazioni.</p>"
+    },
+    {
+      "id": "23",
+      "data": "08-03-2017",
+      "contenuto": "<p>Modulo 2. Introduzione alla calcolabilit\u00e0. Descrizione informale di una macchina di Turing a 3 nastri che calcola la somma di due interi. Definizione formale di una macchina di Turing.</p>"
+    },
+    {
+      "id": "22",
+      "data": "18-01-2017",
+      "contenuto": "<p>Cenni sul parsing</p>"
+    },
+    {
+      "id": "21",
+      "data": "17-01-2017",
+      "contenuto": "<p>Esercitazione</p>"
+    },
+    {
+      "id": "20",
+      "data": "11-01-2017",
+      "contenuto": "<p>L\u2019algoritmo CYK</p>"
+    },
+    {
+      "id": "19",
+      "data": "10-01-2017",
+      "contenuto": "<p>Ambiguit\u00e0, PDA deterministici</p>"
+    },
+    {
+      "id": "18",
+      "data": "21-12-2016",
+      "contenuto": "<p>Equivalenza tra NPDA e CFG</p>"
+    },
+    {
+      "id": "17",
+      "data": "20-12-2016",
+      "contenuto": "<p>Forma normale di Greibach</p>"
+    },
+    {
+      "id": "16",
+      "data": "14-12-2016",
+      "contenuto": "<p>Automi a pila: accettazione per stato finale e per pila vuota. Equivalenza.</p>"
+    },
+    {
+      "id": "15",
+      "data": "13-12-2016",
+      "contenuto": "<p>Decidibilit\u00e0 di predicati su linguaggi CF. Automi a pila.</p>"
+    },
+    {
+      "id": "14",
+      "data": "07-12-2016",
+      "contenuto": "<p>Pumping lemma per i linguaggi context-free. Propriet\u00e0 di chiusura dei linguaggi CF</p>"
+    },
+    {
+      "id": "13",
+      "data": "06-12-2016",
+      "contenuto": "<p>Forme ridotte. Forma normale di Chomsky.</p>"
+    },
+    {
+      "id": "12",
+      "data": "30-11-2016",
+      "contenuto": "<p>Linguaggi e grammatiche context free. Alberi sintattici. Forme ridotte.</p>"
+    },
+    {
+      "id": "11",
+      "data": "29-11-2016",
+      "contenuto": "<p>Esercitazione sui linguaggi regolari</p>"
+    },
+    {
+      "id": "10",
+      "data": "23-11-2016",
+      "contenuto": "<p>Equivalenza tra grammatiche di tipo 3 ed espressioni regolari. Minimizzazione di automi a stati finiti.</p>"
+    },
+    {
+      "id": "9",
+      "data": "22-11-2016",
+      "contenuto": "<p>DEcidibilit\u00e0 di predicati sui linguaggi regolari. Equivalenza tra espressioni regolari e automi a stati finiti</p>"
+    },
+    {
+      "id": "8",
+      "data": "16-11-2016",
+      "contenuto": "<p>Pumping lemma per i linguaggi regolari. Propriet\u00e0 di chusura dei linguaggi regolari.</p>"
+    },
+    {
+      "id": "7",
+      "data": "15-11-2016",
+      "contenuto": "<p>Equivalenza tra grammatiche regolari e automi a stati finiti</p>"
+    },
+    {
+      "id": "6",
+      "data": "09-11-2016",
+      "contenuto": "<p>Equivalenza tra asf con epsilon transizioni, \u00a0asfnd e asfd</p>"
+    },
+    {
+      "id": "5",
+      "data": "08-11-2016",
+      "contenuto": "<p>Automi a stati finiti deterministici e non deterministici, definizione ed esempi, asf con epsilon transizioni</p>"
+    },
+    {
+      "id": "4",
+      "data": "02-11-2016",
+      "contenuto": "<p>Automi, configurazioni e computazioni. riconoscimento di linguaggi</p>"
+    },
+    {
+      "id": "3",
+      "data": "26-10-2016",
+      "contenuto": "<p>Grammatiche e linguaggi di tipo 0,1,2,3. Gerarchia di Chomsky. Forma normale di Backus.</p>"
+    },
+    {
+      "id": "2",
+      "data": "25-10-2016",
+      "contenuto": "<p>Esempi di espressioni regolari. Grammatiche. Derivazioni.</p>"
+    },
+    {
+      "id": "1",
+      "data": "19-10-2016",
+      "contenuto": "<p>Richiami matematici. Insiemi infiniti, numerabilit\u00e0 e non numerabilit\u00e0. Diagonalizzazione. Esistenza di problemi non risolubili algoritmicamente.</p>\n<p>Alfabeti e linguaggi. Espressioni regolari: definizione.</p>"
+    },
+    {
+      "id": "0",
+      "data": "18-10-2016",
+      "contenuto": "<p>Introduzione al corso. Questioni fondamentali nell'elaborazione dell'informazione. Richiami logico-matematici.</p>"
+    }
+  ],
+  "materiale": [
+    {
+      "titolo": "Risultati prova scritta appello di esame del 20-9-2017, corso da 6 cfu",
+      "dataUpload": "21.09.2017 21:45:11",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/FO/risultati2009176cfu.pdf",
+      "dimensione": "27 KB"
+    },
+    {
+      "titolo": "Risultati prova scritta appello di esame del 20-9-2017",
+      "dataUpload": "21.09.2017 21:41:20",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/FO/risultati200917.pdf",
+      "dimensione": "28 KB"
+    },
+    {
+      "titolo": "Testo esame scritto primo modulo del 5-7-2017",
+      "dataUpload": "07.07.2017 23:46:52",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/FO/esame050717.pdf",
+      "dimensione": "40 KB"
+    },
+    {
+      "titolo": "<span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Risultati prova scritta 1 modulo del 5-7-2017</span>",
+      "dataUpload": "07.07.2017 18:36:18",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/FO/risultati050717.pdf",
+      "dimensione": "28 KB"
+    },
+    {
+      "titolo": "Testo e soluzione della prova scritta per il 1 modulo, del 21-6-2017",
+      "dataUpload": "22.06.2017 19:19:26",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/FO/esame210617.pdf",
+      "dimensione": "60 KB"
+    },
+    {
+      "titolo": "Risultati prova scritta esame da 6cfu del 21-6-2017",
+      "dataUpload": "22.06.2017 19:13:02",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/FO/risultati2106176cfu.pdf",
+      "dimensione": "28 KB"
+    },
+    {
+      "titolo": "Risultati prova scritta 1 modulo del 21-6-2017",
+      "dataUpload": "22.06.2017 19:11:55",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/FO/risultati210617.pdf",
+      "dimensione": "28 KB"
+    },
+    {
+      "titolo": "Modulo 2. Dispensa 9: La classe NP",
+      "dataUpload": "14.06.2017 12:42:45",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/FO/D09ClasseNP.pdf",
+      "dimensione": "330 KB"
+    },
+    {
+      "titolo": "Modulo 2. Dispensa 8: La classe P",
+      "dataUpload": "16.05.2017 17:06:46",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/FO/D08ClasseP.pdf",
+      "dimensione": "146 KB"
+    },
+    {
+      "titolo": "Modulo 2. Esercizi: La classe P",
+      "dataUpload": "16.05.2017 17:06:39",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/FO/EsClasseP.pdf",
+      "dimensione": "181 KB"
+    },
+    {
+      "titolo": "Modulo 2. Esercizi: La classe NP",
+      "dataUpload": "16.05.2017 17:06:06",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/FO/EsClasseNP.pdf",
+      "dimensione": "266 KB"
+    },
+    {
+      "titolo": "Modulo 2. Esercizi: Linguaggi e Complessit\u00e0",
+      "dataUpload": "10.05.2017 11:25:21",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/FO/Es-LinguaggiEComplessita.pdf",
+      "dimensione": "126 KB"
+    },
+    {
+      "titolo": "Modulo 2. Dispensa 7: Linguaggi e Problemi",
+      "dataUpload": "04.05.2017 18:24:22",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/FO/D07LinguaggiEProblemi.pdf",
+      "dimensione": "146 KB"
+    },
+    {
+      "titolo": "Modulo 2. Dispensa 6: Linguaggi e Complessit\u00e0",
+      "dataUpload": "04.05.2017 18:24:01",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/FO/D06LinguaggiEComplessita.pdf",
+      "dimensione": "236 KB"
+    },
+    {
+      "titolo": "Modulo 2. Dispensa 5: Linguaggi non accettabili e non decidibili e l'Halting Problem",
+      "dataUpload": "07.04.2017 16:36:58",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/FO/D05HaltingProblem.pdf",
+      "dimensione": "130 KB"
+    },
+    {
+      "titolo": "Modulo 2. Esercizi: Cardinalit\u00e0 di insiemi",
+      "dataUpload": "06.04.2017 17:26:32",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/FO/EsCardinalitaInsiemi.pdf",
+      "dimensione": "91 KB"
+    },
+    {
+      "titolo": "Modulo 2. Dispensa 4: Cardinalit\u00e0 di insiemi",
+      "dataUpload": "06.04.2017 17:25:40",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/FO/D04Infinito.pdf",
+      "dimensione": "143 KB"
+    },
+    {
+      "titolo": "Modulo 2. Esercizi: Accettabilit\u00e0 e decidibilit\u00e0 di linguaggi",
+      "dataUpload": "05.04.2017 11:22:21",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/FO/EsLinguaggiDecidibili.pdf",
+      "dimensione": "106 KB"
+    },
+    {
+      "titolo": "Modulo 2. Dispensa 3: Funzioni calcolabili e linguaggi decidibili",
+      "dataUpload": "29.03.2017 15:18:35",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/FO/D03TesiDiChurchTuring.pdf",
+      "dimensione": "169 KB"
+    },
+    {
+      "titolo": "Modulo 2. Dispensa 2: Macchine di Turing e Macchina di Turing Universale",
+      "dataUpload": "27.03.2017 10:36:33",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/FO/D02MacchineTuring.pdf",
+      "dimensione": "161 KB"
+    },
+    {
+      "titolo": "Modulo 2. Esercizi: Macchine di Turing",
+      "dataUpload": "15.03.2017 17:30:06",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/FO/EsMacchineTuring.pdf",
+      "dimensione": "139 KB"
+    },
+    {
+      "titolo": "Modulo 2. Dispensa 1: Introduzione alla calcolabilit\u00e0.",
+      "dataUpload": "10.03.2017 16:58:17",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/FO/D01Introduzione.pdf",
+      "dimensione": "165 KB"
+    },
+    {
+      "titolo": "Testo prova scritta di esonero del 28-2-17, con soluzioni",
+      "dataUpload": "04.03.2017 21:11:13",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/FO/esonero280217.pdf",
+      "dimensione": "67 KB"
+    },
+    {
+      "titolo": "Risultati prova scritta di esonero del 28-2-17.",
+      "dataUpload": "02.03.2017 19:34:34",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/FO/risultati280217.pdf",
+      "dimensione": "29 KB"
+    },
+    {
+      "titolo": "Risultati prova scritta di esame del 15-2-17, corso da 6cfu",
+      "dataUpload": "19.02.2017 11:21:35",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/FO/risultati1502176cfu.pdf",
+      "dimensione": "27 KB"
+    },
+    {
+      "titolo": "Risultati prova scritta di esonero del 15-2-17.",
+      "dataUpload": "19.02.2017 11:21:05",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/FO/risultati150217.pdf",
+      "dimensione": "29 KB"
+    },
+    {
+      "titolo": "Testo prova scritta di esonero del 15-2-17, con soluzioni",
+      "dataUpload": "19.02.2017 11:16:00",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/FO/esonero150217.pdf",
+      "dimensione": "61 KB"
+    }
+  ],
+  "programma": "<table><tr><td><p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"><strong>Modulo 1<br/></strong></p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Fondamenti matematici: logica, insiemi, relazioni, funzioni, strutture algebriche fondamentali</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Insiemi finiti e infiniti; numerabilit\u00e0 e non numerabilit\u00e0 di insiemi</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Caratteristiche elementari dei linguaggi</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Grammatiche di Chomsky e loro gerarchia</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Generazione ed accettazione di linguaggi</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Riconoscimento di linguaggi: automi</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Automi a stati finiti determinitici e non deterministici; equivalenza tra essi</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Relazioni tra automi a stati finiti e grammatiche di tipo 3 (regolari)</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Pumping lemma per i linguaggi regolari</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Propriet\u00e0 di chiusura dei linguaggi regolari</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Predicati decidibili sui linguaggi regolari</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Espressioni regolari e loro equivalenza con gli automi a stati finiti e con le grammatiche regolari</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Minimizzazione di automi a stati finiti</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Linguaggi context free</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Grammatiche di tipo 2: forme ridotte e forme normali (Chomsky, Greibach)</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Pumping lemma per i linguaggi context free</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Automi a pila e linguaggi context free</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Automi a pila deterministici\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Ambiguit\u00e0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Applicazione alla compilazione: analisi lessicale</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Applicazione alla compilazione: analisi sintattica (parsing). Parsing top-down e bottom-up.</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Parsing LL e LR</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- L'algoritmo CYK</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"><strong>Modulo 2</strong></p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"><strong>Parte 1, calcolabilit\u00e0:</strong></p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Ancora sulle Macchine di Turing: trasduttori e riconoscitori, Macchine ad un nastro e a k nastri, Macchine\u00a0 deterministiche e non deterministiche. Macchina di Turing universale.\u00a0<br>- Linguaggi e funzioni. Linguaggi e linguaggi complemento. Accettabilit\u00e0 e decidibilit\u00e0 di linguaggi. Calcolabilit\u00e0 di funzioni. La tesi di Church-Turing e modello di calcolo equivalenti alla macchina di Turing.</br></p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Cardinalit\u00e0 di insiemi. Insiemi numerabili e non numerabili. Diagonalizzazione.<br>- Linguaggi non decidibili.\u00a0</br></p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Riducibilit\u00e0 tra linguaggi</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"><strong>Parte 2, complessit\u00e0:</strong></p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Misure di complessit\u00e0: DTIME, DSPACE, NTIME, NSPACE.\u00a0<br>- Classi di linguaggi. Gap theorem e funzioni time-constructible.\u00a0Teoremi di compressione e di accelerazione.\u00a0Definizione delle classi di complessit\u00e0 spaziale e temporale: P, NP, PSPACE, NPSPACE, EXP, coNP. Inclusione, inclusione propria, coincidenza. Completezza.</br></p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Problemi e codifiche. Problemi decisionali e loro complemento.\u00a0<br>- La classe P. Riducibilit\u00e0 polinomiale e chiusura di P rispetto alla riducibilit\u00e0 polinomiale. Problemi in P: 2-SAT, 2-COLORABILITA'. Funzioni in FP: trasformazione di una funzione booleana in forma congiuntiva normale.\u00a0<br>- La classe NP. Linguaggi NP-completi e Teorema di Cook. Chiusura rispetto alla riduzione polinomiale. Esempi di dimostrazioni di NP-completezza: 3-SAT, Vertex Cover, 3-Colorability, Colorability, Independent Set, Clique, Hamiltonian Circuit/Path, Longest Path, Commesso Viaggiatore. Problemi NP-intermedi: il teorema di Ladner.</br></br></p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">- Algoritmi pseudo-polinomiali, problemi numerici e NP-completezza in senso forte; il problema PARTIZIONE.</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p></td></tr></table>",
+  "testiRiferimento": "<table><tr><td><p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"><strong>Modulo 1</strong></p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">G. Ausiello, F. D'Amore, G. Gambosi, L. Laura \"Linguaggi, Modelli, Complessit\u00e0\" nuova edizione. Franco Angeli, 2014. ISBN 978-88-917-0553-2.</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Materiale a cura del docente.</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"><strong>Modulo 2</strong></p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Materiale a cura del docente</p></td></tr></table>",
+  "ricevimento": "<table><tr><td><p><span style=\"font-family: verdana, arial, helvetica, sans-serif; font-size: 11px; text-align: justify;\"><strong>Modulo 1.</strong> Al termine delle lezioni. E' possibile inoltre richiedere un appuntamento via mail.</span></p>\n<p>\u00a0</p>\n<p><span style=\"font-family: verdana, arial, helvetica, sans-serif; font-size: 11px; text-align: justify;\"><strong>Modulo 2.</strong> Al termine della lezione del mercoled\u00ec per chiarimenti brevi. Previo appuntamento da richiedersi via mail.</span></p></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td><p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">L'esame prevede una coppia di prove (scritto e colloquio orale) relative al primo modulo e una coppia di prove (scritto e colloquio orale) relative al secondo modulo. Ciascuna coppia di prove pu\u00f2 essere sostenuta indipendentemente dall'altra. Si richiede per\u00f2 che scritto e orale di ciascun modulo siano sostenuti nello stesso appello.</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Il voto finale verr\u00e0 calcolato come media dei voti conseguiti nelle prove relative ai due moduli.</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Per l'iscrizione all'esame \u00e8 richiesta la prenotazione sul sito delphi.uniroma2.it</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"><strong>Nuove regole a partire dall'anno accademico 2016/17.</strong></p>\n<p style=\"-qt-block-indent: 0; text-indent: 0px; -qt-user-state: 0; margin: 0px;\"><!--StartFragment-->Al fine di facilitare gli studenti incrementando il numero di possibili date di esame,</p>\n<p style=\"-qt-block-indent: 0; text-indent: 0px; -qt-user-state: 0; margin: 0px;\">a partire dalla sessione estiva 2016/17 sono previsti per il corso di Fondamenti di Informatica due appelli di esame per ciascuna sessione. Tuttavia, ciascuno studente continuer\u00e0 a poter sostenere un numero massimo di quattro prove di esame nel corso di un anno accademico. In particolare, potr\u00e0 sostenere l'esame relativo ad un modulo in entrambi gli appelli della sessione immediatamente successiva al termine delle lezioni del modulo stesso (esattamente come avveniva fino ad ora). Per quanto riguarda le altre sessioni, per le quali sino ad ora gli studenti avevano a disposizione una sola data di esame, da ora in poi le date a disposizione saranno due, ma lo studente potr\u00e0 sostenere l'esame in una sola delle due date.</p>\n<p style=\"-qt-paragraph-type: empty; -qt-block-indent: 0; text-indent: 0px; margin: 0px;\">\u00a0</p>\n<p style=\"-qt-block-indent: 0; text-indent: 0px; -qt-user-state: 0; margin: 0px;\">Nel dettaglio:</p>\n<p style=\"-qt-block-indent: 0; text-indent: 0px; -qt-user-state: 0; margin: 0px;\">\u00a0</p>\n<p style=\"-qt-block-indent: 0; text-indent: 0px; -qt-user-state: 0; margin: 0px;\">- Modulo 1:</p>\n<ul>\n<li>due appelli di esame a disposizione nella sessione estiva anticipata (febbraio) - ciascuno studente pu\u00f2 sostenere l'esame in entrambi gli appelli</li>\n<li>due appelli di esame a disposizione nella sessione estiva (giugno) - ciascuno studente pu\u00f2 sostenere l'esame in un solo appello a sua scelta</li>\n<li>due appelli di esame a disposizione nella sessione autunnale (settembre) - ciascuno studente pu\u00f2 sostenere l'esame in un solo appello a sua scelta</li>\n</ul>\n<p style=\"-qt-block-indent: 0; text-indent: 0px; -qt-user-state: 0; margin: 0px;\">- Modulo 2:</p>\n<ul>\n<li>due appelli di esame a disposizione nella sessione estiva (giugno) - ciascuno studente pu\u00f2 sostenere l'esame in entrambi gli appelli</li>\n<li>due appelli di esame a disposizione nella sessione autunnale (settembre) - ciascuno studente pu\u00f2 sostenere l'esame in un solo appello a sua scelta</li>\n<li>due appelli di esame a disposizione nella sessione invernale (febbraio) - ciascuno studente pu\u00f2 sostenere l'esame in un solo appello a sua scelta</li>\n</ul>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p></td></tr></table>"
+}

@@ -1,0 +1,567 @@
+{
+  "nomeCorso": "Intelligenza artificiale 2",
+  "docente": [
+    {
+      "first_name": "Maria Teresa",
+      "second_name": "Pazienza"
+    }
+  ],
+  "annoAccademico": "2018-2019",
+  "crediti": "9",
+  "settore": "ING-INF/05",
+  "anno": "2",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [
+    {
+      "titolo": "lezione 19 dicembre",
+      "data": "12-12-2018 16:34",
+      "contenuto": "<p>La lezione di Intelligenza Artificiale 2 di mercoled\u00ec 19 dicembre si terr\u00e0 nell'aula C12 (invece che in aula Disegno 2)\u00a0<span style=\"font-size: 12pt; font-family: 'Times New Roman', serif;\">\u00a0</span></p>\n<p><span data-mce-mark=\"1\" style=\"font-size: 12pt; font-family: 'Times New Roman', serif;\"> <!--[if !supportLineBreakNewLine]--><br> <!--[endif]--></br></span></p><hr/>"
+    },
+    {
+      "titolo": "progetti IA2",
+      "data": "30-11-2018 15:27",
+      "contenuto": "<p>nella lezione del giorno 10 dicembre saranno presentati i progetti per gli studenti di Intelligenza Artificiale 2</p><hr/>"
+    },
+    {
+      "titolo": "esercitazioni IA2",
+      "data": "16-11-2018 10:47",
+      "contenuto": "<p class=\"MsoNormal\">repository GIT delle esercitazioni (<a href=\"https://bitbucket.org/art-uniroma2/teaching-ia2-2018_2019-lectures/\" target=\"_blank\">https://bitbucket.org/art-uniroma2/teaching-ia2-2018_2019-lectures/</a>). Al suo interno le tracce di alcuni esercizi su RDF4J e tra alcuni giorni anche il relativo svolgimento.</p>\n<p>\u00a0</p><hr/>"
+    },
+    {
+      "titolo": "Esercitazioni IA2",
+      "data": "22-10-2018 19:58",
+      "contenuto": "<p>Nelle prossime esercitazioni verr\u00e0 usato GraphDB (<a href=\"https://ontotext.com/products/graphdb/\" id=\"yui_3_16_0_ym19_1_1540229484379_3074\" rel=\"nofollow\" target=\"_blank\"><span style=\"text-decoration: underline;\"><span style=\"color: #0066cc;\">https://ontotext.com/products/graphdb/</span></span></a>).</p>\n<p>Si consiglia di scaricare (previa registrazione) la versione <em id=\"yui_3_16_0_ym19_1_1540229484379_2961\">standalone server </em>di GraphDB Free.</p><hr/>"
+    },
+    {
+      "titolo": "comunicazioni con il docente",
+      "data": "08-10-2018 12:12",
+      "contenuto": "<p>ogni studente interessato ad interloquire con il docente pu\u00f2 inviare una mail all'indirizzo pazienza@info.uniroma2.it e chiedere un ricevimento</p>"
+    }
+  ],
+  "lezioni": [
+    {
+      "id": "35",
+      "data": "25-01-2019",
+      "contenuto": "<p>analisi di problematiche progettuali</p>"
+    },
+    {
+      "id": "34",
+      "data": "23-01-2019",
+      "contenuto": "<p>problemi etici associati ai Big Data</p>"
+    },
+    {
+      "id": "33",
+      "data": "21-01-2019",
+      "contenuto": "<p>lezione aperta alle domande degli studenti</p>"
+    },
+    {
+      "id": "32",
+      "data": "11-01-2019",
+      "contenuto": "<p>esercitazioni - analisi stato di avanzamento dei progetti</p>"
+    },
+    {
+      "id": "31",
+      "data": "09-01-2019",
+      "contenuto": "<p>valutazione dinamica di problematiche progettuali</p>"
+    },
+    {
+      "id": "30",
+      "data": "07-01-2019",
+      "contenuto": "<p>esercitazioni</p>"
+    },
+    {
+      "id": "29",
+      "data": "19-12-2018",
+      "contenuto": "<p>stato di avanzamento dei progetti: discussione con i gruppi di studenti</p>"
+    },
+    {
+      "id": "28",
+      "data": "17-12-2018",
+      "contenuto": "<p>Seminario su IDRA: Inductive Deductive Reasoning Approach</p>"
+    },
+    {
+      "id": "27",
+      "data": "14-12-2018",
+      "contenuto": "<p>verifica stato di avanzamento progetti (1)</p>"
+    },
+    {
+      "id": "26",
+      "data": "10-12-2018",
+      "contenuto": "<p>presentazione ed analisi delle tracce dei progetti per l'esame di Intelligenza Artificiale 2</p>"
+    },
+    {
+      "id": "25",
+      "data": "07-12-2018",
+      "contenuto": "<p style=\"text-align: left;\">sistemi distribuiti per la gestione di dati RDF<br>cenni ad Apache Spark</br></p>"
+    },
+    {
+      "id": "24",
+      "data": "05-12-2018",
+      "contenuto": "<p class=\"MsoNormal\">HDFS, YARN ed esecuzione di job map-reduce tramite YARN</p>\n<p><span style=\"font-size: 12.0pt; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: IT; mso-fareast-language: IT; mso-bidi-language: AR-SA;\"><br> <!--[if !supportLineBreakNewLine]--><br> <!--[endif]--></br></br></span></p>"
+    },
+    {
+      "id": "23",
+      "data": "03-12-2018",
+      "contenuto": "<p>esempio applicaz. Map-reduce</p>"
+    },
+    {
+      "id": "22",
+      "data": "30-11-2018",
+      "contenuto": "<p><span style=\"font-size: 12.0pt; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: IT; mso-fareast-language: IT; mso-bidi-language: AR-SA;\">sistemi di calcolo distribuito (</span><span style=\"font-family: 'Times New Roman', serif; font-size: 12pt;\">mapreduce, spark, uima-as...)</span><span style=\"font-family: 'Times New Roman', serif; font-size: 12pt;\">\u00a0</span></p>"
+    },
+    {
+      "id": "21",
+      "data": "28-11-2018",
+      "contenuto": "<p class=\"MsoNormal\">Sfide dell'open IE (sinonimia/ambiguit\u00e0, vari aspetti linguistici, aspetti spazio-temporali e check di consistenza)</p>"
+    },
+    {
+      "id": "20",
+      "data": "26-11-2018",
+      "contenuto": "<ul type=\"disc\">\n<li class=\"MsoNormal\" style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; mso-list: l0 level1 lfo1; tab-stops: list 36.0pt;\">Ulteriori sistemi di Open IE: ClausIE, CSD-IE, DefIE</li>\n<li class=\"MsoNormal\" style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; mso-list: l0 level1 lfo1; tab-stops: list 36.0pt;\">Apache UIMA: esempi di generazione di un descrittore di analysis engine (aggregato) e suo uso nel Document Analyzer</li>\n</ul>"
+    },
+    {
+      "id": "19",
+      "data": "23-11-2018",
+      "contenuto": "<p class=\"gmail-msolistparagraph\" style=\"margin-top: 0cm; margin-right: 0cm; margin-bottom: 8.0pt; margin-left: 38.25pt; line-height: 106%;\"><span style=\"font-size: 11.0pt; line-height: 106%; font-family: 'Calibri','sans-serif';\">Esercitazione Apache UIMA, Apache uimaFIT e DKpro Core</span></p>"
+    },
+    {
+      "id": "18",
+      "data": "21-11-2018",
+      "contenuto": "<ul>\n<li>OpenIE tools</li>\n<li>Descrizione mapping di Wikidata in RDF</li>\n</ul>"
+    },
+    {
+      "id": "17",
+      "data": "19-11-2018",
+      "contenuto": "<ul>\n<li><span style=\"font-size: 11pt; line-height: 106%; font-family: Calibri, sans-serif;\">Discussione di diversi metodi di costruzione dei Knowledge Graph</span></li>\n<li><span style=\"font-size: 11pt; line-height: 106%; font-family: Calibri, sans-serif;\">DBpedia</span></li>\n<li><span style=\"font-size: 11pt; line-height: 106%; font-family: Calibri, sans-serif;\">Wikidata (prima parte)</span></li>\n</ul>"
+    },
+    {
+      "id": "16",
+      "data": "16-11-2018",
+      "contenuto": "<table style=\"border-style: solid; border-color: #c8c8c8; border-width: 1px; width: 499px; color: #000000; font-family: verdana, arial, helvetica, sans-serif; font-size: 11px;\">\n<tbody>\n<tr>\n<td style=\"border-color: #c8c8c8; padding: 4px;\">\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">introduzione ai knowledge graphs</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "id": "15",
+      "data": "14-11-2018",
+      "contenuto": "<p>esercitazione su analisi di sorgenti eterogenee di dati</p>"
+    },
+    {
+      "id": "14",
+      "data": "12-11-2018",
+      "contenuto": "<p>Data quality criteria</p>"
+    },
+    {
+      "id": "13",
+      "data": "09-11-2018",
+      "contenuto": "<p><span style=\"font-size: 12.0pt; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: IT; mso-fareast-language: IT; mso-bidi-language: AR-SA;\">RDF4J (parte 2) e\u00a0</span><span style=\"font-family: 'Times New Roman', serif; font-size: 12pt;\">VoID</span></p>"
+    },
+    {
+      "id": "12",
+      "data": "07-11-2018",
+      "contenuto": "<p><span style=\"font-size: 12.0pt; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: IT; mso-fareast-language: IT; mso-bidi-language: AR-SA;\">RDF4J (parte 1)\u00a0</span></p>"
+    },
+    {
+      "id": "11",
+      "data": "05-11-2018",
+      "contenuto": "<p>Big Data Quality (1)</p>"
+    },
+    {
+      "id": "10",
+      "data": "31-10-2018",
+      "contenuto": "<p>Identity in Linked Data</p>"
+    },
+    {
+      "id": "9",
+      "data": "26-10-2018",
+      "contenuto": "<p>NER and linking in open information extraction</p>"
+    },
+    {
+      "id": "8",
+      "data": "24-10-2018",
+      "contenuto": "<p><span style=\"font-size: 12.0pt; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: IT; mso-fareast-language: IT; mso-bidi-language: AR-SA;\">esercizi su RDF e OWL, reasoning con OWL2 e\u00a0</span><span style=\"font-family: 'Times New Roman', serif; font-size: 12pt;\">GraphDB</span></p>"
+    },
+    {
+      "id": "7",
+      "data": "22-10-2018",
+      "contenuto": "<p>LOD</p>"
+    },
+    {
+      "id": "6",
+      "data": "19-10-2018",
+      "contenuto": "<p>RDF(S) e OWL</p>"
+    },
+    {
+      "id": "5",
+      "data": "17-10-2018",
+      "contenuto": "<p>estrazione di informazioni da testi</p>"
+    },
+    {
+      "id": "4",
+      "data": "15-10-2018",
+      "contenuto": "<p>conoscenza ontologica e linguaggio naturale</p>"
+    },
+    {
+      "id": "3",
+      "data": "12-10-2018",
+      "contenuto": "<p>Introduzione all'analisi del linguaggio naturale</p>"
+    },
+    {
+      "id": "2",
+      "data": "10-10-2018",
+      "contenuto": "<p>problematiche di gestione dei big data</p>"
+    },
+    {
+      "id": "1",
+      "data": "08-10-2018",
+      "contenuto": "<p>inttroduzione alla tematiche ed alle modalit\u00e0 di svolgimento del corso di Intelligenza Artificiale 2</p>"
+    }
+  ],
+  "materiale": [
+    {
+      "titolo": "problemi etici con l'uso dei Big Data",
+      "dataUpload": "22.01.2019 15:40:36",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA2/7BigDataEthics.pptx",
+      "dimensione": "231 KB"
+    },
+    {
+      "titolo": "tracce per progetti da 1 solo studente",
+      "dataUpload": "15.01.2019 10:24:37",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA2/Progetti IA2-tracce-addizionali-v2.docx",
+      "dimensione": "18 KB"
+    },
+    {
+      "titolo": "IDRA for Big Data",
+      "dataUpload": "18.12.2018 14:38:03",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA2/EneaIDRAforBigData.pptx",
+      "dimensione": "1442 KB"
+    },
+    {
+      "titolo": "LDIF-A Framework for Large-Scale Linked Data Integration.pdf",
+      "dataUpload": "14.12.2018 18:46:18",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA2/LDIF-A Framework for Large-Scale Linked Data Integration.pdf",
+      "dimensione": "152 KB"
+    },
+    {
+      "titolo": "Knowledge Graph Refinement - A Survey of Approaches and Evaluation Methods.pdf",
+      "dataUpload": "14.12.2018 18:45:54",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA2/Knowledge Graph Refinement - A Survey of Approaches and Evaluation Methods.pdf",
+      "dimensione": "228 KB"
+    },
+    {
+      "titolo": "<span style=\"font-size: 12.0pt; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: IT; mso-fareast-language: IT; mso-bidi-language: AR-SA;\">Esempio left-deep query plan in MapReduce.pdf</span>",
+      "dataUpload": "14.12.2018 18:43:29",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA2/14-Esempio left-deep query plan in MapReduce.pdf",
+      "dimensione": "508 KB"
+    },
+    {
+      "titolo": "proposte progetti",
+      "dataUpload": "13.12.2018 16:16:33",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA2/Progetti IA2-finale.docx",
+      "dimensione": "20 KB"
+    },
+    {
+      "titolo": "Hdfs cartoon",
+      "dataUpload": "12.12.2018 12:05:26",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA2/Hdfs-cartoon.pdf",
+      "dimensione": "3248 KB"
+    },
+    {
+      "titolo": "High performance....",
+      "dataUpload": "12.12.2018 12:04:39",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA2/High-performance massively scalable distributed systems using the MapReduce software framework the SHARD triple-store.pdf",
+      "dimensione": "226 KB"
+    },
+    {
+      "titolo": "gestione di big RDF data",
+      "dataUpload": "12.12.2018 12:01:05",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA2/13-Gestione Big RDF Data.pdf",
+      "dimensione": "1521 KB"
+    },
+    {
+      "titolo": "gestione di big data",
+      "dataUpload": "12.12.2018 12:00:51",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA2/12-Gestione BigData.pdf",
+      "dimensione": "4325 KB"
+    },
+    {
+      "titolo": "...Map reduce",
+      "dataUpload": "07.12.2018 15:46:59",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA2/Scalable Distributed Reasoning using MapReduce.pdf",
+      "dimensione": "663 KB"
+    },
+    {
+      "titolo": "istruzioni per Vagrant-Hadoop",
+      "dataUpload": "07.12.2018 12:37:31",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA2/Istruzioni_Vagrant-Hadoop.pdf",
+      "dimensione": "700 KB"
+    },
+    {
+      "titolo": "The world ....",
+      "dataUpload": "04.12.2018 17:11:00",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA2/The world beyond batch - Streaming 101.pdf",
+      "dimensione": "716 KB"
+    },
+    {
+      "titolo": "The Pathologie...",
+      "dataUpload": "04.12.2018 17:10:31",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA2/The Pathologies of Big Data.pdf",
+      "dimensione": "2559 KB"
+    },
+    {
+      "titolo": "rdf query answeing...",
+      "dataUpload": "30.11.2018 15:06:11",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA2/RDF Query Answering Using Apache Spark - Review and Assessment.pdf",
+      "dimensione": "238 KB"
+    },
+    {
+      "titolo": "rdf in cloudsl...",
+      "dataUpload": "30.11.2018 15:05:56",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA2/RDF in the Clouds - A Survey.pdf",
+      "dimensione": "1180 KB"
+    },
+    {
+      "titolo": "pregel...",
+      "dataUpload": "30.11.2018 15:05:37",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA2/Pregel - A System for Large-Scale Graph Processing.pdf",
+      "dimensione": "473 KB"
+    },
+    {
+      "titolo": "mapreduce...",
+      "dataUpload": "30.11.2018 15:05:24",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA2/MapReduce.pdf",
+      "dimensione": "375 KB"
+    },
+    {
+      "titolo": "apache...",
+      "dataUpload": "30.11.2018 15:05:08",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA2/Apache spark - a unified engine for big data processing.pdf",
+      "dimensione": "5223 KB"
+    },
+    {
+      "titolo": "<span style=\"background-color: #f3f3f3;\">DBpedia....</span>",
+      "dataUpload": "30.11.2018 10:19:05",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA2/DBpedia Spotlight - Shedding Light on the Web of Documents.pdf",
+      "dimensione": "831 KB"
+    },
+    {
+      "titolo": "<span style=\"background-color: #f3f3f3;\">Entity linking....</span>",
+      "dataUpload": "30.11.2018 10:18:35",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA2/Entity Linking meets Word Sense Disambiguation - A Unified Approach.pdf",
+      "dimensione": "520 KB"
+    },
+    {
+      "titolo": "<span style=\"background-color: #f3f3f3;\">Improving efficiency....</span>",
+      "dataUpload": "30.11.2018 10:17:59",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA2/Improving efficiency and accuracy in multilingual entity extraction.pdf",
+      "dimensione": "86 KB"
+    },
+    {
+      "titolo": "<span style=\"background-color: #f3f3f3;\">Open IE from....</span>",
+      "dataUpload": "30.11.2018 10:17:32",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA2/Open Information Extraction from the Web (Communications of the ACM).pdf",
+      "dimensione": "3884 KB"
+    },
+    {
+      "titolo": "<span style=\"background-color: #f3f3f3;\">Unsupervised resolution....</span>",
+      "dataUpload": "30.11.2018 10:16:59",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA2/Unsupervised Resolution of Objects and Relations on the Web.pdf",
+      "dimensione": "543 KB"
+    },
+    {
+      "titolo": "<span style=\"background-color: #f3f3f3;\">Sistemi per OpenIE</span>",
+      "dataUpload": "30.11.2018 10:15:52",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA2/11-Sistemi per OpenIE.pdf",
+      "dimensione": "5418 KB"
+    },
+    {
+      "titolo": "OpenIE: analisi di sistemi di OpenIE",
+      "dataUpload": "27.11.2018 16:31:13",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA2/OpenIE1.pdf",
+      "dimensione": "1900 KB"
+    },
+    {
+      "titolo": "Open Information Extraction",
+      "dataUpload": "27.11.2018 14:56:14",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA2/Open Information Extraction via Contextual Sentence Decomposition.pdf",
+      "dimensione": "119 KB"
+    },
+    {
+      "titolo": "Large scale IE",
+      "dataUpload": "27.11.2018 14:54:02",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA2/Large-Scale Information Extraction from Textual Definitions through Deep Syntactic and Semantic Analysis.pdf",
+      "dimensione": "734 KB"
+    },
+    {
+      "titolo": "CLAUSIE",
+      "dataUpload": "27.11.2018 14:53:26",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA2/Clausie - clause-based open information extraction.pdf",
+      "dimensione": "508 KB"
+    },
+    {
+      "titolo": "Metodi di costruzione di un KG",
+      "dataUpload": "23.11.2018 16:55:22",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA2/8-Metodi di costruzione KG.pdf",
+      "dimensione": "656 KB"
+    },
+    {
+      "titolo": "open language learning for IE",
+      "dataUpload": "23.11.2018 16:37:29",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA2/Open Language Learning for Information Extraction.pdf",
+      "dimensione": "923 KB"
+    },
+    {
+      "titolo": "OIE applications",
+      "dataUpload": "23.11.2018 16:36:07",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA2/Open Information Extraction Systems and Downstream Applications.pdf",
+      "dimensione": "391 KB"
+    },
+    {
+      "titolo": "OIE for the web",
+      "dataUpload": "23.11.2018 16:35:46",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA2/Open Information Extraction from the Web.pdf",
+      "dimensione": "170 KB"
+    },
+    {
+      "titolo": "Relations for OIE",
+      "dataUpload": "23.11.2018 16:35:19",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA2/Identifying Relations for Open Information Extraction.pdf",
+      "dimensione": "422 KB"
+    },
+    {
+      "titolo": "Wikidata",
+      "dataUpload": "23.11.2018 16:34:26",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA2/10-Wikidata.pdf",
+      "dimensione": "4629 KB"
+    },
+    {
+      "titolo": "DBpedia",
+      "dataUpload": "23.11.2018 16:33:58",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA2/9-DBpedia.pdf",
+      "dimensione": "2584 KB"
+    },
+    {
+      "titolo": "introduzione ai knowledge graphs",
+      "dataUpload": "16.11.2018 11:38:57",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA2/5knowledge graphs.pptx",
+      "dimensione": "1527 KB"
+    },
+    {
+      "titolo": "esempi di non grande qualit\u00e0 delle risorse accessibili su web",
+      "dataUpload": "14.11.2018 12:52:35",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA2/63esempio_data_quality.pptx",
+      "dimensione": "760 KB"
+    },
+    {
+      "titolo": "reasoning in GraphDB",
+      "dataUpload": "05.11.2018 17:50:34",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA2/6-GraphDB - Esercizi reasoning.pdf",
+      "dimensione": "2509 KB"
+    },
+    {
+      "titolo": "esercizi OWL",
+      "dataUpload": "05.11.2018 17:49:53",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA2/5-OWL - Esercizi.pdf",
+      "dimensione": "1420 KB"
+    },
+    {
+      "titolo": "esercizi RDF",
+      "dataUpload": "05.11.2018 17:49:37",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA2/4-RDF - Esercizi.pdf",
+      "dimensione": "599 KB"
+    },
+    {
+      "titolo": "RDF4J",
+      "dataUpload": "05.11.2018 17:04:41",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA2/7-RDF4J.pdf",
+      "dimensione": "4057 KB"
+    },
+    {
+      "titolo": "Big Data Quality criteria",
+      "dataUpload": "05.11.2018 16:15:45",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA2/6BigDataQualityCriteria.pptx",
+      "dimensione": "152 KB"
+    },
+    {
+      "titolo": "BD quality on the web",
+      "dataUpload": "31.10.2018 13:01:40",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA2/61BigDataQuality.pptx",
+      "dimensione": "85 KB"
+    },
+    {
+      "titolo": "BD quality e linked data",
+      "dataUpload": "29.10.2018 10:10:08",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA2/62BigDataQuality-LinkedData.pptx",
+      "dimensione": "333 KB"
+    },
+    {
+      "titolo": "Open Information Extraction",
+      "dataUpload": "26.10.2018 11:25:19",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA2/21Open Information Extraction.pptx",
+      "dimensione": "123 KB"
+    },
+    {
+      "titolo": "BD management",
+      "dataUpload": "26.10.2018 10:20:37",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA2/4Big Data management.pptx",
+      "dimensione": "82 KB"
+    },
+    {
+      "titolo": "GraphDB",
+      "dataUpload": "22.10.2018 19:55:31",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA2/3-GraphDB+LOV.pdf",
+      "dimensione": "8524 KB"
+    },
+    {
+      "titolo": "LOD",
+      "dataUpload": "22.10.2018 19:53:52",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA2/2-Linked Open Data.pdf",
+      "dimensione": "6414 KB"
+    },
+    {
+      "titolo": "OWL part_2",
+      "dataUpload": "22.10.2018 19:53:09",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA2/1-Suppl-OWL2 - EN.pdf",
+      "dimensione": "2318 KB"
+    },
+    {
+      "titolo": "OWL part_1",
+      "dataUpload": "22.10.2018 19:52:39",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA2/1-Suppl-OWL - EN.pdf",
+      "dimensione": "3587 KB"
+    },
+    {
+      "titolo": "RDF",
+      "dataUpload": "22.10.2018 19:51:31",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA2/1-RDF-RDFS.pdf",
+      "dimensione": "2593 KB"
+    },
+    {
+      "titolo": "knowledge extraction",
+      "dataUpload": "15.10.2018 17:22:43",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA2/Part2_knowledge-extraction.pdf",
+      "dimensione": "5598 KB"
+    },
+    {
+      "titolo": "conoscenza ontologica",
+      "dataUpload": "15.10.2018 11:04:44",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA2/3OntolEngineering.ppt",
+      "dimensione": "1313 KB"
+    },
+    {
+      "titolo": "Elaborazione del linguaggio naturale",
+      "dataUpload": "11.10.2018 13:34:52",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA2/2introElaborazLinguagNaturale.pptx",
+      "dimensione": "384 KB"
+    },
+    {
+      "titolo": "Introduzione al corso di Intelligenza Artificiale 2",
+      "dataUpload": "08.10.2018 12:00:48",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA2/1introdAIandBigData.pptx",
+      "dimensione": "5492 KB"
+    }
+  ],
+  "programma": "<table><tr><td><p align=\"center\" class=\"MsoNormal\" style=\"text-align: center;\"><strong style=\"mso-bidi-font-weight: normal;\"><span style=\"font-size: 20.0pt; line-height: 115%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; color: #333333; mso-fareast-language: IT;\">Intelligenza Artificiale 2 / Big Data Semantics</span></strong></p>\n<p align=\"center\" class=\"MsoNormal\" style=\"text-align: center;\"><strong style=\"mso-bidi-font-weight: normal;\"><span style=\"font-size: 10.5pt; line-height: 115%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; color: #333333; mso-fareast-language: IT;\">Programma del corso</span></strong></p>\n<p align=\"center\" class=\"MsoNormal\" style=\"text-align: center;\"><strong style=\"mso-bidi-font-weight: normal;\"><span style=\"font-size: 10.5pt; line-height: 115%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; color: #333333; mso-fareast-language: IT;\">a.a. 2018-19</span></strong></p>\n<p class=\"MsoNormal\"><span style=\"font-size: 10.5pt; line-height: 115%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; color: #333333; mso-fareast-language: IT;\">\u00a0</span></p>\n<p class=\"MsoNormal\"><span style=\"font-size: 10.5pt; line-height: 115%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; color: #333333; mso-fareast-language: IT;\">Quotidianamente persone e sistemi rilasciano sul web una enorme quantit\u00e0 di dati. Il termine Big Data \u00e8 stato coniato per descrivere questo fenomeno che va al di l\u00e0 della sola grande quantit\u00e0 di dati. <span style=\"mso-spacerun: yes;\">\u00a0</span></span></p>\n<p class=\"MsoNormal\"><span style=\"font-size: 10.5pt; line-height: 115%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; color: #333333; mso-fareast-language: IT;\">Caratteristiche proprie dei Big Data sono (in inglese): volume, variety, velocity, value, veracity.</span></p>\n<p class=\"MsoNormal\"><strong style=\"mso-bidi-font-weight: normal;\"><span style=\"font-size: 10.5pt; line-height: 115%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; color: #333333; mso-fareast-language: IT;\">Volume</span></strong><span style=\"font-size: 10.5pt; line-height: 115%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; color: #333333; mso-fareast-language: IT;\"> \u2013 il vantaggio derivante dalla capacit\u00e0/possibilit\u00e0 di elaborare grandi quantit\u00e0 di informazioni <span style=\"mso-spacerun: yes;\">\u00a0</span></span></p>\n<p class=\"MsoNormal\"><strong style=\"mso-bidi-font-weight: normal;\"><span style=\"font-size: 10.5pt; line-height: 115%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; color: #333333; mso-fareast-language: IT;\">Variety</span></strong><span style=\"font-size: 10.5pt; line-height: 115%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; color: #333333; mso-fareast-language: IT;\"> \u2013 dati in formati eterogenei: senza una struttura prefissata <span style=\"mso-spacerun: yes;\">\u00a0</span>questi dati solo raramente si presentano in una forma perfetta e pronti per essere elaborati. <span style=\"mso-spacerun: yes;\">\u00a0</span><em style=\"mso-bidi-font-style: normal;\">Variabilit\u00e0</em> pu\u00f2 essere un problema ulteriore che pone l\u2019attenzione sulla <strong style=\"mso-bidi-font-weight: normal;\">semantica</strong>, o sulla variabilit\u00e0 del significato nei linguaggi cos\u00ec come nei protocolli di comunicazione <span style=\"mso-spacerun: yes;\">\u00a0</span><span style=\"mso-spacerun: yes;\">\u00a0</span></span></p>\n<p class=\"MsoNormal\"><strong style=\"mso-bidi-font-weight: normal;\"><span style=\"font-size: 10.5pt; line-height: 115%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; color: #333333; mso-fareast-language: IT;\">Velocity</span></strong><span style=\"font-size: 10.5pt; line-height: 115%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; color: #333333; mso-fareast-language: IT;\"> \u2013 <span style=\"mso-spacerun: yes;\">\u00a0</span>non tanto la velocit\u00e0 con cui arrivano I dati in ingresso: l\u2019attenzione \u00e8 posta sulla velocit\u00e0 con cui si attiva il ciclo di reazione, dalla presa in carico dei dati in ingresso al prendere una decisione finale. <span style=\"mso-spacerun: yes;\">\u00a0\u00a0</span></span></p>\n<p class=\"MsoNormal\"><strong style=\"mso-bidi-font-weight: normal;\"><span style=\"font-size: 10.5pt; line-height: 115%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; color: #333333; mso-fareast-language: IT;\">Value</span></strong><span style=\"font-size: 10.5pt; line-height: 115%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; color: #333333; mso-fareast-language: IT;\"> \u2013 le <strong style=\"mso-bidi-font-weight: normal;\">architetture per Big Data</strong> sono disegnate per estrarre, <em style=\"mso-bidi-font-style: normal;\">in maniera economica</em>, valore da grandi volumi di una grande variet\u00e0 di dati ponendo in essere approcci veloci ed efficaci per la cattura, identificazione ed analisi di dati. <span style=\"mso-spacerun: yes;\">\u00a0\u00a0</span></span></p>\n<p class=\"MsoNormal\"><strong style=\"mso-bidi-font-weight: normal;\"><span style=\"font-size: 10.5pt; line-height: 115%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; color: #333333; mso-fareast-language: IT;\">Veracity</span></strong><span style=\"font-size: 10.5pt; line-height: 115%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; color: #333333; mso-fareast-language: IT;\"> \u2013 conformit\u00e0 alla verit\u00e0 ed ai fatti: l\u2019incertezza pu\u00f2 essere causata da inconsistenze, modelli approssimati, ambiguit\u00e0, raggiri, frodi, duplicazioni, incompletezza, spam e latenza. A causa della<span style=\"mso-spacerun: yes;\">\u00a0 </span><em style=\"mso-bidi-font-style: normal;\">veracity</em>, I risultati ottenuti tramite Big Data non possono essere provati, ma ad essi pu\u00f2 essere assegnato un valore di probabilit\u00e0. <span style=\"mso-spacerun: yes;\">\u00a0</span><span style=\"mso-spacerun: yes;\">\u00a0</span><span style=\"mso-spacerun: yes;\">\u00a0</span></span></p>\n<p class=\"MsoNormal\"><span style=\"font-size: 10.5pt; line-height: 115%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; color: #333333; mso-fareast-language: IT;\">\u00a0</span></p>\n<p class=\"MsoNormal\"><span style=\"font-size: 10.5pt; line-height: 115%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; color: #333333; mso-fareast-language: IT;\">Alla fine del corso gli studenti avranno acquisito competenze su come: <span style=\"mso-spacerun: yes;\">\u00a0</span></span></p>\n<p class=\"MsoNormal\"><span style=\"font-size: 10.5pt; line-height: 115%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; color: #333333; mso-fareast-language: IT;\">* Descrivere come progettare una applicazione di Big Data anche attraverso l\u2019uso di dati reali.<span style=\"mso-spacerun: yes;\">\u00a0 </span></span></p>\n<p class=\"MsoNormal\"><span style=\"font-size: 10.5pt; line-height: 115%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; color: #333333; mso-fareast-language: IT;\"><span style=\"mso-spacerun: yes;\">\u00a0</span>* Avere consapevolezza delle V dei Big Data (volume, velocity, variety, veracity, and value) e come ciascuna di esse impatti sulla raccolta dati, il monitoraggio, la memorizzazione, l\u2019analisi e la reportistica conseguente.<span style=\"mso-spacerun: yes;\">\u00a0 </span></span></p>\n<p class=\"MsoNormal\"><span style=\"font-size: 10.5pt; line-height: 115%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; color: #333333; mso-fareast-language: IT;\">* Estrarre valore dai Big Data usando processi articolati per strutturare la propria analisi.<span style=\"mso-spacerun: yes;\">\u00a0 </span></span></p>\n<p class=\"MsoNormal\"><span style=\"font-size: 10.5pt; line-height: 115%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; color: #333333; mso-fareast-language: IT;\">* Riconoscere quali sono effettivamente problemi collegati ai Big Data da quelli che non lo sono <span style=\"mso-spacerun: yes;\">\u00a0</span>ed essere capaci di riformulare il problema come problematiche di data science.</span></p>\n<p class=\"MsoNormal\"><span style=\"font-size: 10.5pt; line-height: 115%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; color: #333333; mso-fareast-language: IT;\"><span style=\"mso-spacerun: yes;\">\u00a0</span>* Fornire una spiegazione dei componenti architetturali e modelli di programmazione usati per scalare l\u2019analisi dei Big Data. <span style=\"mso-spacerun: yes;\">\u00a0</span></span></p></td></tr></table>",
+  "testiRiferimento": "<table><tr><td><p>presentazioni di lezioni ed esercitazioni</p>\n<p>altro materiale didattico pubblicato e commentato su questo sito</p></td></tr></table>",
+  "ricevimento": "<table><tr><td><p>il docente riceve dopo le lezioni e su appuntamento; inviare una mail all'indirizzo: pazienza@info.uniroma2.it\u00a0</p></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td><p>esame orale con domande sulle tematiche del corso e discussione di un progetto</p></td></tr></table>"
+}

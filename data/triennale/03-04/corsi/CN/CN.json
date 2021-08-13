@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Calcolo numerico",
+  "docente": [
+    {
+      "first_name": "Paolo",
+      "second_name": "Zellini"
+    }
+  ],
+  "annoAccademico": "2003-2004",
+  "crediti": "6",
+  "settore": "",
+  "anno": "3",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>Il corso si propone di spiegare i principi di base della traduzione dei modelli matematici in problemi aritmetici risolubili con elaboratori elettronici. \r\nArgomenti trattati: aritmetica in virgola mobile e analisi dell' errore. Algebra lineare numerica: metodi diretti ed iterativi per sistemi lineari. Risoluzione di sistemi di equazioni non lineari. Interpolazione e approssimazione, integrazione numerica. \r\n\r\n  \r\n\r\n \r\n</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>-D. Bini, M. Capovani, O. Menchi,  Metodi numerici\r\nper l'Algebra Lineare,  Zanichelli, Bologna, 1988\r\n\r\n-R. Bevilacqua, D. Bini, M. Capovani, O. Menchi, \r\nMetodi Numerici,  Zanichelli, Bologna, 1992.</td></tr></table>",
+  "ricevimento": "<table><tr><td>ufficio del docente\r\nPer il calendario di ricevimento consultare la pagina web del docente\r\nhttp://www.mat.uniroma2.it/~manni\r\n\r\nPer fissare un appuntamento inviare un messaggio a \r\nmanni@mat.uniroma2.it\r\n\r\n</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

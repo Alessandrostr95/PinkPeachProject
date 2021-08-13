@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Algoritmi distribuiti e reti complesse",
+  "docente": [
+    {
+      "first_name": "Andrea",
+      "second_name": "Clementi"
+    }
+  ],
+  "annoAccademico": "2010-2011",
+  "crediti": "9",
+  "settore": "",
+  "anno": "1",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>Il corso presenta gli aspetti algoritmici fondamentali degli \r\nambienti distribuiti. \r\n\r\n- Ambienti di Calcolo Distribuito: \r\nmodello generale, \r\nassiomi, \r\nrestrizioni, \r\nStato del Sistema, \r\nEventi. \r\n\r\n- Misure di Complessita: \r\ncosti di comunicazione, \r\ntempo. \r\n\r\n- Considerazioni Generali sul Progetto e l'Analisi dei Protocolli \r\n(algoritmi distribuiti) \r\n\r\n- Primitive di Comunicazione e Problemi di Base: \r\nbroadcast, \r\nwake-up, \r\ntrasversal \r\n\r\n- Problemi Computazionali e loro Soluzioni Distribuite: \r\ncostruzione di spanning trees di una rete, \r\nelezione di un leader in una rete, \r\nrouting e cammini minimi. \r\n\r\n- Protocolli per Reti Wireless: \r\nil modello wireless \r\nil problema dell'interferenza \r\nprotocolli di broadcast \r\n\r\n- Reti con Entita' Egoistiche \r\nconcetto di gioco, giocatori, strategie e equilibrio; \r\ncome usare la teoria dei giochi per modellare problemi su reti non \r\ncooperative; \r\nstimare il prezzo dell'anarchia di un gioco su reti; \r\nprogettazione di meccanismi veritieri per problemi su reti; </td></tr></table>",
+  "testiRiferimento": "<table><tr><td>Design and Analysis of Distributed Algorithms \r\nNicola Santoro (Author) \r\nPublisher: Wiley-Interscience \r\nISBN: 0471719978 </td></tr></table>",
+  "ricevimento": "<table><tr><td>per appuntamento email:  clementi@mat.uniroma2.it</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

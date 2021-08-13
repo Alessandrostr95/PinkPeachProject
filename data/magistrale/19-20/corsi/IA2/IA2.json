@@ -1,0 +1,28 @@
+{
+  "nomeCorso": "Intelligenza artificiale 2",
+  "docente": [
+    {
+      "first_name": "Armando",
+      "second_name": "Stellato"
+    }
+  ],
+  "annoAccademico": "2019-2020",
+  "crediti": "9",
+  "settore": "ING-INF/05",
+  "anno": "2",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [
+    {
+      "titolo": "",
+      "data": "28-02-2020 10:27",
+      "contenuto": "<p style=\"color: black; font-family: verdana,arial,helvetica; font-size: 11px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 0px;\">Tutte le informazioni sul programma del corso, materiale didattico, regolamento d'esame etc..</p>\n<p style=\"color: black; font-family: verdana,arial,helvetica; font-size: 11px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 0px;\">sono disponibili su:</p>\n<p style=\"color: black; font-family: verdana,arial,helvetica; font-size: 11px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 0px;\">\u00a0</p>\n<p style=\"color: black; font-family: verdana,arial,helvetica; font-size: 11px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 0px;\"><a href=\"http://art.uniroma2.it/teaching/lod/\" target=\"_self\" title=\"http://art.uniroma2.it/teaching/lod/\">http://art.uniroma2.it/teaching/lod/</a></p>\n<p>\u00a0</p>"
+    }
+  ],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td><p>Tutte le informazioni sul programma del corso, materiale didattico, regolamento d'esame etc..</p>\n<p>sono disponibili su:</p>\n<p>\u00a0</p>\n<p><a href=\"http://art.uniroma2.it/teaching/lod/\" target=\"_self\" title=\"http://art.uniroma2.it/teaching/lod/\"><span style=\"display: inline !important; float: none; background-color: #ffffff; color: black; font-family: verdana,arial,helvetica; font-size: 11px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;\">http://art.uniroma2.it/teaching/lod/</span></a></p></td></tr></table>",
+  "testiRiferimento": "<table><tr><td>null</td></tr></table>",
+  "ricevimento": "<table><tr><td>null</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

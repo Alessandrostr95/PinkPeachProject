@@ -1,0 +1,68 @@
+{
+  "nomeCorso": "Ingegneria del software",
+  "docente": [
+    {
+      "first_name": "Benedetto",
+      "second_name": "Intrigila"
+    },
+    {
+      "first_name": "Andrea",
+      "second_name": "D'Ambrogio"
+    }
+  ],
+  "annoAccademico": "2017-2018",
+  "crediti": "12",
+  "settore": "INF/01",
+  "anno": "3",
+  "semestre": "1-2",
+  "propedeuticit\u00e0": "Linguaggi e metodologie di programmazione.",
+  "comunicazioni": [
+    {
+      "titolo": "Prova 12 febbraio 2019",
+      "data": "15-02-2019 13:43",
+      "contenuto": "<p>Studente Marcotulli Matteo:</p>\n<p>1a parte: voto 22</p>\n<p>2a parte: voto 30</p><hr/>"
+    },
+    {
+      "titolo": "Gruppi",
+      "data": "02-10-2017 21:16",
+      "contenuto": "<p><span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Tutti gli studenti (indipendentemente dalla frequenza) devono formare dei gruppi e darne comunicazione al docente.</span></p>"
+    }
+  ],
+  "lezioni": [],
+  "materiale": [
+    {
+      "titolo": "Risultati compito 26/2/19",
+      "dataUpload": "28.02.2019 17:03:00",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/IS/risultati_17_18_PROVA_26_2_19.pdf",
+      "dimensione": "376 KB"
+    },
+    {
+      "titolo": "Risultati compito 18/9/18",
+      "dataUpload": "21.09.2018 15:42:17",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/IS/Risultati_compito_18_9_18.pdf",
+      "dimensione": "453 KB"
+    },
+    {
+      "titolo": "Risultati compito 10/9/18",
+      "dataUpload": "12.09.2018 13:37:47",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/IS/Risultati_compito_10_9_18.pdf",
+      "dimensione": "383 KB"
+    },
+    {
+      "titolo": "Risultati compito 10/7/18",
+      "dataUpload": "12.07.2018 16:50:39",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/IS/Risultati_compito_10_7_18.pdf",
+      "dimensione": "379 KB"
+    },
+    {
+      "titolo": "Risultati compito 11/6/18",
+      "dataUpload": "13.06.2018 20:41:06",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/IS/Risultati_compito_11_6_18.pdf",
+      "dimensione": "391 KB"
+    }
+  ],
+  "programma": "<table><tr><td><p><span style=\"font-family: verdana, arial, helvetica, sans-serif; font-size: 11px; text-align: justify;\">Programma\u00a0</span><br style=\"font-family: verdana, arial, helvetica, sans-serif; font-size: 11px; text-align: justify;\"><span style=\"font-family: verdana, arial, helvetica, sans-serif; font-size: 11px; text-align: justify;\">Prima Parte:\u00a0</span><br style=\"font-family: verdana, arial, helvetica, sans-serif; font-size: 11px; text-align: justify;\"><span style=\"font-family: verdana, arial, helvetica, sans-serif; font-size: 11px; text-align: justify;\">Il ciclo di vita del software\u00a0</span><br style=\"font-family: verdana, arial, helvetica, sans-serif; font-size: 11px; text-align: justify;\"><span style=\"font-family: verdana, arial, helvetica, sans-serif; font-size: 11px; text-align: justify;\">Gestione dei requisiti software (Principalmente).\u00a0</span><br style=\"font-family: verdana, arial, helvetica, sans-serif; font-size: 11px; text-align: justify;\"><span style=\"font-family: verdana, arial, helvetica, sans-serif; font-size: 11px; text-align: justify;\">Design (Cenni).\u00a0</span><br style=\"font-family: verdana, arial, helvetica, sans-serif; font-size: 11px; text-align: justify;\"><span style=\"font-family: verdana, arial, helvetica, sans-serif; font-size: 11px; text-align: justify;\">Sviluppo (Cenni).\u00a0</span><br style=\"font-family: verdana, arial, helvetica, sans-serif; font-size: 11px; text-align: justify;\"><span style=\"font-family: verdana, arial, helvetica, sans-serif; font-size: 11px; text-align: justify;\">Verifica e validazione (Cenni).\u00a0</span><br style=\"font-family: verdana, arial, helvetica, sans-serif; font-size: 11px; text-align: justify;\"><span style=\"font-family: verdana, arial, helvetica, sans-serif; font-size: 11px; text-align: justify;\">Il linguaggio di modellazione UML e il suo uso nell'analisi dei requisiti.</span></br></br></br></br></br></br></br></p></td></tr></table>",
+  "testiRiferimento": "<table><tr><td><p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">I. Sommerville\u00a0<br>Software Engineering 7\u00a0<br/>(o edizioni successive)\u00a0<br/><br/>(come integrazione sar\u00e0 usato anche:\u00a0<br/>CRAIG LARMAN:\u00a0<br/>Applicare UML e i pattern. Analisi e progettazione orientata agli oggetti.)\u00a0<br/><br/>Per UML:\u00a0<br/>L. Baresi, L. Lavazza, M. Pianciamore\u00a0<br/>Dall'idea al codice con UML 2\u00a0<br/>Addison Wesley</br></p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Tool di Modellazione UML: Visual Paradigm</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"><a href=\"https://www.visual-paradigm.com/\" style=\"font-family: verdana, arial, helvetica, sans-serif;\" target=\"_blank\">Visual Paradigm</a>\u00a0grants University of Rome II\u00a0<a href=\"https://www.visual-paradigm.com/features/uml-and-sysml-tools/\" style=\"font-family: verdana, arial, helvetica, sans-serif;\" target=\"_blank\">UML tools</a>,\u00a0<a href=\"https://www.visual-paradigm.com/features/bpmn-diagram-and-tools/\" style=\"font-family: verdana, arial, helvetica, sans-serif;\" target=\"_blank\">BPMN tools</a>,\u00a0<a href=\"https://www.visual-paradigm.com/features/agile-development-tools/#user-story-map\" style=\"font-family: verdana, arial, helvetica, sans-serif;\" target=\"_blank\">Agile Story Mapping tools</a>\u00a0and\u00a0<a href=\"https://www.visual-paradigm.com/features/business-modeling-diagrams-and-tools/#dataflowdiagram\" style=\"font-family: verdana, arial, helvetica, sans-serif;\" target=\"_blank\">DFD tools</a>\u00a0under the\u00a0<a href=\"https://www.visual-paradigm.com/partner/academic/\" style=\"font-family: verdana, arial, helvetica, sans-serif;\" target=\"_blank\">Academic Training Partner Program</a>.</p></td></tr></table>",
+  "ricevimento": "<table><tr><td><p>Si riceve per appuntamento da prendere per mail.</p>\n<p><span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Studio 1212 Dente B (tel. 0672594670)\u00a0</span><br style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"><span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">email:intrigil@mat.uniroma2.it</span></br></p></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

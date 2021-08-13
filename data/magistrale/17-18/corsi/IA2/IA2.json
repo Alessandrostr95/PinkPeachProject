@@ -1,0 +1,501 @@
+{
+  "nomeCorso": "Intelligenza artificiale 2",
+  "docente": [
+    {
+      "first_name": "Maria Teresa",
+      "second_name": "Pazienza"
+    }
+  ],
+  "annoAccademico": "2017-2018",
+  "crediti": "9",
+  "settore": "ING-INF/05",
+  "anno": "2",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [
+    {
+      "titolo": "verifica progetti",
+      "data": "11-01-2018 11:32",
+      "contenuto": "<p>Il giorno 19 gennaio ci sar\u00e0 una verifica sullo stato di avanzamento dei progetti</p><hr/>"
+    },
+    {
+      "titolo": "comunicazione urgente",
+      "data": "12-12-2017 10:51",
+      "contenuto": "<p>si invitano le studentesse del corso di Intelligenza Artificiale a contattare urgentemente la professoressa Pazienza (anche per mail pazienza@info.uniroma2.it) per comunicazioni urgenti</p><hr/>"
+    },
+    {
+      "titolo": "scadenze progettuali",
+      "data": "24-11-2017 16:29",
+      "contenuto": "<p>Il primo check sullo stato di avanzamento dei progetti \u00e8 previsto per il giorno 15 dicembre prossimo</p><hr/>"
+    },
+    {
+      "titolo": "lezione IA2",
+      "data": "13-11-2017 08:47",
+      "contenuto": "<p>Si comunica che la lezione del 13 novembre non avr\u00e0 luogo.</p><hr/>"
+    },
+    {
+      "titolo": "lezione IA2 del 20 ottobre",
+      "data": "13-10-2017 14:07",
+      "contenuto": "<p>La lezione del 20 ottobre non avr\u00e0 luogo a causa della concomitante seduta di laurea cui parteciperanno sia il docente che alcuni studenti di questo corso di IA2</p><hr/>"
+    },
+    {
+      "titolo": "aule lezione IA2",
+      "data": "06-10-2017 13:41",
+      "contenuto": "<p>da luned\u00ec 9 ottobre le lezioni di IA2 si terranno rispettivamente nelle aule:</p>\n<p>luned\u00ec aula B8</p>\n<p>meercoled\u00ec aula B5</p>\n<p>venerd\u00ec aula Disegno 1</p><hr/>"
+    },
+    {
+      "titolo": "",
+      "data": "26-09-2017 16:46",
+      "contenuto": "<p>Per qualunque problema o richiesta di informazione gli studenti possono inviare una mail al docente (pazienza@info.uniroma2.it) e riceveranno risposta al pi\u00f9 presto.</p>"
+    }
+  ],
+  "lezioni": [
+    {
+      "id": "39",
+      "data": "26-01-2018",
+      "contenuto": "<p>question-answering open lesson</p>"
+    },
+    {
+      "id": "38",
+      "data": "24-01-2018",
+      "contenuto": "<p>question-answering open lesson</p>"
+    },
+    {
+      "id": "37",
+      "data": "22-01-2018",
+      "contenuto": "<p>question-answering open lesson</p>"
+    },
+    {
+      "id": "36",
+      "data": "19-01-2018",
+      "contenuto": "<p>question-answering open lesson</p>"
+    },
+    {
+      "id": "35",
+      "data": "15-01-2018",
+      "contenuto": "<p>question-answering open lesson</p>"
+    },
+    {
+      "id": "34",
+      "data": "12-01-2018",
+      "contenuto": "<p>question-answering open lesson</p>"
+    },
+    {
+      "id": "33",
+      "data": "10-01-2018",
+      "contenuto": "<p>Wikidata: approfondimenti tecnologici</p>"
+    },
+    {
+      "id": "32",
+      "data": "08-01-2018",
+      "contenuto": "<p>Introduzione a Wikidata</p>"
+    },
+    {
+      "id": "31",
+      "data": "20-12-2017",
+      "contenuto": "<p><span style=\"font-size: 12.0pt; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: IT; mso-fareast-language: IT; mso-bidi-language: AR-SA;\">DBpedia Spotlight</span></p>"
+    },
+    {
+      "id": "30",
+      "data": "18-12-2017",
+      "contenuto": "<p>big data ethics</p>"
+    },
+    {
+      "id": "29",
+      "data": "15-12-2017",
+      "contenuto": "<p>prima verifica stato avanzamento progetti</p>"
+    },
+    {
+      "id": "28",
+      "data": "13-12-2017",
+      "contenuto": "<p>partecipazione congresso Clic-It</p>"
+    },
+    {
+      "id": "27",
+      "data": "11-12-2017",
+      "contenuto": "<p>partecipazione congresso Clic-It</p>"
+    },
+    {
+      "id": "26",
+      "data": "06-12-2017",
+      "contenuto": "<p>esercitazioni\u00a0</p>"
+    },
+    {
+      "id": "25",
+      "data": "04-12-2017",
+      "contenuto": "<p>DKpro e uimaFIT</p>\n<p class=\"MsoNormal\" style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">il codice degli esempi si trova nel repository Bitbucket:</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p class=\"MsoNormal\" style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"><a href=\"https://bitbucket.org/art-uniroma2/teaching-ia2-2017_2018-lectures/\">https://bitbucket.org/art-uniroma2/teaching-ia2-2017_2018-lectures/</a></p>"
+    },
+    {
+      "id": "24",
+      "data": "01-12-2017",
+      "contenuto": "<p>Linked Data Quality</p>"
+    },
+    {
+      "id": "23",
+      "data": "29-11-2017",
+      "contenuto": "<ul type=\"disc\">\n<li class=\"MsoNormal\">Esercitazione su CODA</li>\n<li class=\"MsoNormal\">Introduzione a DKPro e uimaFIT</li>\n</ul>\n<p class=\"MsoNormal\">il codice degli esempi si trova nel repository Bitbucket:</p>\n<p>\u00a0</p>\n<p class=\"MsoNormal\"><a href=\"https://bitbucket.org/art-uniroma2/teaching-ia2-2017_2018-lectures/\">https://bitbucket.org/art-uniroma2/teaching-ia2-2017_2018-lectures/</a></p>"
+    },
+    {
+      "id": "22",
+      "data": "27-11-2017",
+      "contenuto": "<p>analisi dei temi progettuali</p>"
+    },
+    {
+      "id": "21",
+      "data": "24-11-2017",
+      "contenuto": "<p>Assegnazione temi per progetti d'esame</p>"
+    },
+    {
+      "id": "20",
+      "data": "22-11-2017",
+      "contenuto": "<p>Semantic challenges for Big Data Quality</p>"
+    },
+    {
+      "id": "19",
+      "data": "20-11-2017",
+      "contenuto": "<p>esercitazioni su UIMA</p>\n<p>CODA introduzione</p>"
+    },
+    {
+      "id": "18",
+      "data": "17-11-2017",
+      "contenuto": "<p>introduzione a UIMA</p>"
+    },
+    {
+      "id": "17",
+      "data": "15-11-2017",
+      "contenuto": "<p>presentazione progetti</p>"
+    },
+    {
+      "id": "16",
+      "data": "13-11-2017",
+      "contenuto": "<p>big data quality criteeria</p>"
+    },
+    {
+      "id": "15",
+      "data": "10-11-2017",
+      "contenuto": "<p>Big Datat Quality</p>"
+    },
+    {
+      "id": "14",
+      "data": "08-11-2017",
+      "contenuto": "<p><span style=\"font-size: 12.0pt; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: IT; mso-fareast-language: IT; mso-bidi-language: AR-SA;\">esercitazione su RDF4J</span></p>"
+    },
+    {
+      "id": "13",
+      "data": "06-11-2017",
+      "contenuto": "<p>esercitazioni RDF4J</p>"
+    },
+    {
+      "id": "12",
+      "data": "03-11-2017",
+      "contenuto": "<ul type=\"disc\">\n<li class=\"MsoNormal\">l'uso di GraphDB in modalit\u00e0 Workbench</li>\n<li class=\"MsoNormal\">SPARQL per esempi</li>\n</ul>"
+    },
+    {
+      "id": "11",
+      "data": "27-10-2017",
+      "contenuto": "<p>knowledge graphs</p>"
+    },
+    {
+      "id": "10",
+      "data": "25-10-2017",
+      "contenuto": "<ul type=\"disc\">\n<li class=\"MsoNormal\">OWL e OWL2</li>\n<li class=\"MsoNormal\">Uso dell'ontology editor Prot\u00e9g\u00e9 Desktop</li>\n</ul>"
+    },
+    {
+      "id": "9",
+      "data": "23-10-2017",
+      "contenuto": "<p>Grafi semantici</p>"
+    },
+    {
+      "id": "8",
+      "data": "18-10-2017",
+      "contenuto": "<p>richiami ed esercizi di RDF, RDFS, OWL</p>"
+    },
+    {
+      "id": "7",
+      "data": "16-10-2017",
+      "contenuto": "<p>problematiche di gestione dei BD</p>"
+    },
+    {
+      "id": "6",
+      "data": "13-10-2017",
+      "contenuto": "<p>ontologie lessicali</p>"
+    },
+    {
+      "id": "5",
+      "data": "11-10-2017",
+      "contenuto": "<p>Elaborazione del linguaggio naturale e textual entailment</p>"
+    },
+    {
+      "id": "4",
+      "data": "04-10-2017",
+      "contenuto": "<p>Provably beneficial AI - Stuart Russel</p>"
+    },
+    {
+      "id": "3",
+      "data": "09-10-2017",
+      "contenuto": "<p>introduzione all'elaborazione del linguaggio naturale</p>"
+    },
+    {
+      "id": "2",
+      "data": "06-10-2017",
+      "contenuto": "<p>architetture per big data semantics</p>"
+    },
+    {
+      "id": "1",
+      "data": "02-10-2017",
+      "contenuto": "<p>presentazione delle tematiche e delle modalit\u00e0 di svolgimento del corso</p>"
+    }
+  ],
+  "materiale": [
+    {
+      "titolo": "articolo rifereimento etica con i BD",
+      "dataUpload": "11.01.2018 12:11:10",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/IA2/ZwitterBigDataEthics.pdf",
+      "dimensione": "128 KB"
+    },
+    {
+      "titolo": "articolo rifereimento etica con i BD",
+      "dataUpload": "11.01.2018 12:10:45",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/IA2/UrsicRightToBeForgotten.pdf",
+      "dimensione": "260 KB"
+    },
+    {
+      "titolo": "articolo rifereimento etica con i BD",
+      "dataUpload": "11.01.2018 12:10:21",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/IA2/RIchards and King BigDataEthics.pdf",
+      "dimensione": "367 KB"
+    },
+    {
+      "titolo": "articolo rifereimento etica con i BD",
+      "dataUpload": "11.01.2018 12:10:02",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/IA2/ProvostBigData&ItsRelationship.pdf",
+      "dimensione": "1096 KB"
+    },
+    {
+      "titolo": "articolo rifereimento etica con i BD",
+      "dataUpload": "11.01.2018 12:09:36",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/IA2/MetcalfPerspectives-on-Big-Data.pdf",
+      "dimensione": "611 KB"
+    },
+    {
+      "titolo": "articolo rifereimento etica con i BD",
+      "dataUpload": "11.01.2018 12:09:21",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/IA2/LibbyBishopbig-data-and-data-sharing_ethical-issues.pdf",
+      "dimensione": "541 KB"
+    },
+    {
+      "titolo": "articolo rifereimento etica con i BD",
+      "dataUpload": "11.01.2018 12:09:00",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/IA2/IBM- Ethics for BD&A.pdf",
+      "dimensione": "71 KB"
+    },
+    {
+      "titolo": "articolo rifereimento etica con i BD",
+      "dataUpload": "11.01.2018 12:08:25",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/IA2/HerschellMioriEthicsAndBigData.pdf",
+      "dimensione": "175 KB"
+    },
+    {
+      "titolo": "wikidata",
+      "dataUpload": "11.01.2018 11:28:38",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/IA2/Wikidata - EN.pdf",
+      "dimensione": "4488 KB"
+    },
+    {
+      "titolo": "DBpedia Spotlight",
+      "dataUpload": "08.01.2018 15:08:06",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/IA2/DBpedia Spotlight -EN.pdf",
+      "dimensione": "1911 KB"
+    },
+    {
+      "titolo": "DBpedia",
+      "dataUpload": "21.12.2017 12:33:41",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/IA2/DBpedia - EN (2).pdf",
+      "dimensione": "2649 KB"
+    },
+    {
+      "titolo": "Big Data ethics",
+      "dataUpload": "18.12.2017 16:40:18",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/IA2/7BigDataEthics.pptx",
+      "dimensione": "196 KB"
+    },
+    {
+      "titolo": "<span style=\"font-family: verdana, arial, san-serif; background-color: #f3f3f3;\">Big Data quality come sfida del Semantic Web</span>",
+      "dataUpload": "22.11.2017 12:48:48",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/IA2/61BigDataQuality.pptx",
+      "dimensione": "81 KB"
+    },
+    {
+      "titolo": "<span style=\"background-color: #d7ecfc;\">Big Data Quality e Linked Data</span>",
+      "dataUpload": "22.11.2017 12:48:09",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/IA2/62BigDataQuality-LinkedData.pptx",
+      "dimensione": "323 KB"
+    },
+    {
+      "titolo": "Identity in linked data",
+      "dataUpload": "20.11.2017 16:05:33",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/IA2/5identityInLinkedData.pdf",
+      "dimensione": "312 KB"
+    },
+    {
+      "titolo": "Big Data Quality e Linked Data: survey",
+      "dataUpload": "20.11.2017 16:02:56",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/IA2/QualityAssessment forLODaSurvey.pdf",
+      "dimensione": "492 KB"
+    },
+    {
+      "titolo": "presentazione progetti",
+      "dataUpload": "15.11.2017 16:01:10",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/IA2/progettoIA2-2017_2018-CANDIDATE-FINAL.docx",
+      "dimensione": "279 KB"
+    },
+    {
+      "titolo": "Big Datat Quality criteria",
+      "dataUpload": "09.11.2017 18:05:59",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/IA2/6BigDataQualityCriteria.pptx",
+      "dimensione": "146 KB"
+    },
+    {
+      "titolo": "link a Graphdb",
+      "dataUpload": "06.11.2017 17:35:01",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/IA2/GRAPHDB doc links.pdf",
+      "dimensione": "158 KB"
+    },
+    {
+      "titolo": "SPARQL esempi",
+      "dataUpload": "03.11.2017 16:27:40",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/IA2/SPARQL Examples - EN.pdf",
+      "dimensione": "368 KB"
+    },
+    {
+      "titolo": "Semantic web : linguaggi di interrogazione",
+      "dataUpload": "03.11.2017 16:27:17",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/IA2/Semantic Web - Linguaggi di Interrogazione.pdf",
+      "dimensione": "2337 KB"
+    },
+    {
+      "titolo": "on data quality",
+      "dataUpload": "03.11.2017 12:25:46",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/IA2/On Data Quality.docx",
+      "dimensione": "61 KB"
+    },
+    {
+      "titolo": "knowledge based trust",
+      "dataUpload": "03.11.2017 12:25:28",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/IA2/10knowledgeBasedTrust.pdf",
+      "dimensione": "929 KB"
+    },
+    {
+      "titolo": "LOD",
+      "dataUpload": "31.10.2017 16:36:09",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/IA2/Linked Open Data - EN.pdf",
+      "dimensione": "5265 KB"
+    },
+    {
+      "titolo": "ruolo dei frafi semantici",
+      "dataUpload": "26.10.2017 18:09:18",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/IA2/5knowledge graphs.pptx",
+      "dimensione": "1503 KB"
+    },
+    {
+      "titolo": "Semantic Web",
+      "dataUpload": "23.10.2017 10:14:14",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/IA2/SemWeb Tech - EN.pdf",
+      "dimensione": "471 KB"
+    },
+    {
+      "titolo": "RDF-RDFS",
+      "dataUpload": "23.10.2017 10:14:03",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/IA2/RDF-RDFS - EN.pdf",
+      "dimensione": "2686 KB"
+    },
+    {
+      "titolo": "OWL2",
+      "dataUpload": "23.10.2017 10:13:43",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/IA2/OWL2 - EN.pdf",
+      "dimensione": "2252 KB"
+    },
+    {
+      "titolo": "OWL1",
+      "dataUpload": "23.10.2017 10:13:32",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/IA2/OWL - EN.pdf",
+      "dimensione": "3444 KB"
+    },
+    {
+      "titolo": "big data management",
+      "dataUpload": "16.10.2017 11:49:08",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/IA2/4Big Data management.pptx",
+      "dimensione": "82 KB"
+    },
+    {
+      "titolo": "ruolo del linguaggio nella rappresentazione concettuale",
+      "dataUpload": "12.10.2017 16:05:36",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/IA2/3OntolEngineering.ppt",
+      "dimensione": "1313 KB"
+    },
+    {
+      "titolo": "cenni sulla rilevanza dell'elaborazione del linguaggio naturale nel contesto Big Data",
+      "dataUpload": "09.10.2017 12:41:00",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/IA2/2introElaborazLinguagNaturale.pptx",
+      "dimensione": "384 KB"
+    },
+    {
+      "titolo": "introduzione alle tematiche del corso di IA2",
+      "dataUpload": "05.10.2017 16:46:54",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/IA2/introdAIandBigData.pptx",
+      "dimensione": "5823 KB"
+    },
+    {
+      "titolo": "articolo di riferimento",
+      "dataUpload": "28.09.2017 16:27:38",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/IA2/Using Semantics and Statistics to Turn Data into Knowledge.pdf",
+      "dimensione": "338 KB"
+    },
+    {
+      "titolo": "articolo di riferimento",
+      "dataUpload": "28.09.2017 16:27:26",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/IA2/Truth Is a Lie_ Crowd Truth and the Seven Myths of Human Annotation.pdf",
+      "dimensione": "281 KB"
+    },
+    {
+      "titolo": "articolo di riferimento",
+      "dataUpload": "28.09.2017 16:27:15",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/IA2/Semantics-Empowered Big Data Processing with Applications.pdf",
+      "dimensione": "378 KB"
+    },
+    {
+      "titolo": "articolo di riferimento",
+      "dataUpload": "28.09.2017 16:27:04",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/IA2/Exploiting Semantics for Big Data Integration.pdf",
+      "dimensione": "15311 KB"
+    },
+    {
+      "titolo": "articolo di riferimento",
+      "dataUpload": "28.09.2017 16:26:47",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/IA2/EuropeanBigDataValuePartnership_SRIA__v30_draftversion.pdf",
+      "dimensione": "1909 KB"
+    },
+    {
+      "titolo": "articolo di riferimento",
+      "dataUpload": "28.09.2017 16:26:36",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/IA2/Entity Type Recognition for Heterogeneous Semantic Graphs.pdf",
+      "dimensione": "320 KB"
+    },
+    {
+      "titolo": "articolo di riferimento",
+      "dataUpload": "28.09.2017 16:26:25",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/IA2/Editorial Introduction_ Semantics for Big Data.pdf",
+      "dimensione": "242 KB"
+    },
+    {
+      "titolo": "articolo di riferimento",
+      "dataUpload": "28.09.2017 16:26:06",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/IA2/Early Steps Toward Web-Scale Information Extraction with LODIE.pdf",
+      "dimensione": "1237 KB"
+    }
+  ],
+  "programma": "<table><tr><td><p align=\"center\" class=\"MsoNormal\" style=\"text-align: center;\"><strong><span style=\"font-size: 20.0pt; line-height: 115%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; color: #333333; mso-fareast-language: IT;\">Intelligenza Artificiale 2 / Big Data Semantics</span></strong></p>\n<p align=\"center\" class=\"MsoNormal\" style=\"text-align: center;\"><strong><span style=\"font-size: 10.5pt; line-height: 115%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; color: #333333; mso-fareast-language: IT;\">Programma del corso</span></strong></p>\n<p align=\"center\" class=\"MsoNormal\" style=\"text-align: center;\"><strong><span style=\"font-size: 10.5pt; line-height: 115%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; color: #333333; mso-fareast-language: IT;\">a.a. 2017-18</span></strong></p>\n<p class=\"MsoNormal\"><span style=\"font-size: 10.5pt; line-height: 115%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; color: #333333; mso-fareast-language: IT;\">\u00a0</span></p>\n<p class=\"MsoNormal\"><span style=\"font-size: 10.5pt; line-height: 115%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; color: #333333; mso-fareast-language: IT;\">Quotidianamente persone e sistemi rilasciano sul web una enorme quantit\u00e0 di dati. Il termine Big Data \u00e8 stato coniato per descrivere questo fenomeno che va al di l\u00e0 della sola grande quantit\u00e0 di dati. \u00a0</span></p>\n<p class=\"MsoNormal\"><span style=\"font-size: 10.5pt; line-height: 115%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; color: #333333; mso-fareast-language: IT;\">Caratteristiche proprie dei Big Data sono (in inglese): volume, variety, velocity, value, veracity.</span></p>\n<p class=\"MsoNormal\"><strong><span style=\"font-size: 10.5pt; line-height: 115%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; color: #333333; mso-fareast-language: IT;\">Volume</span></strong><span style=\"font-size: 10.5pt; line-height: 115%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; color: #333333; mso-fareast-language: IT;\"> \u2013 il vantaggio derivante dalla capacit\u00e0/possibilit\u00e0 di elaborare grandi quantit\u00e0 di informazioni \u00a0</span></p>\n<p class=\"MsoNormal\"><strong><span style=\"font-size: 10.5pt; line-height: 115%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; color: #333333; mso-fareast-language: IT;\">Variety</span></strong><span style=\"font-size: 10.5pt; line-height: 115%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; color: #333333; mso-fareast-language: IT;\"> \u2013 dati in formati eterogenei: senza una struttura prefissata \u00a0questi dati solo raramente si presentano in una forma perfetta e pronti per essere elaborati. \u00a0<em>Variabilit\u00e0</em> pu\u00f2 essere un problema ulteriore che pone l\u2019attenzione sulla <strong>semantica</strong>, o sulla variabilit\u00e0 del significato nei linguaggi cos\u00ec come nei protocolli di comunicazione \u00a0\u00a0</span></p>\n<p class=\"MsoNormal\"><strong><span style=\"font-size: 10.5pt; line-height: 115%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; color: #333333; mso-fareast-language: IT;\">Velocity</span></strong><span style=\"font-size: 10.5pt; line-height: 115%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; color: #333333; mso-fareast-language: IT;\"> \u2013 \u00a0non tanto la velocit\u00e0 con cui arrivano I dati in ingresso: l\u2019attenzione \u00e8 posta sulla velocit\u00e0 con cui si attiva il ciclo di reazione, dalla presa in carico dei dati in ingresso al prendere una decisione finale. \u00a0\u00a0</span></p>\n<p class=\"MsoNormal\"><strong><span style=\"font-size: 10.5pt; line-height: 115%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; color: #333333; mso-fareast-language: IT;\">Value</span></strong><span style=\"font-size: 10.5pt; line-height: 115%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; color: #333333; mso-fareast-language: IT;\"> \u2013 le <strong>architetture per Big Data</strong> sono disegnate per estrarre, <em>in maniera economica</em>, valore da grandi volumi di una grande variet\u00e0 di dati ponendo in essere approcci veloci ed efficaci per la cattura, identificazione ed analisi di dati. \u00a0\u00a0</span></p>\n<p class=\"MsoNormal\"><strong><span style=\"font-size: 10.5pt; line-height: 115%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; color: #333333; mso-fareast-language: IT;\">Veracity</span></strong><span style=\"font-size: 10.5pt; line-height: 115%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; color: #333333; mso-fareast-language: IT;\"> \u2013 conformit\u00e0 alla verit\u00e0 ed ai fatti: l\u2019incertezza pu\u00f2 essere causata da inconsistenze, modelli approssimati, ambiguit\u00e0, raggiri, frodi, duplicazioni, incompletezza, spam e latenza. A causa della\u00a0 <em>veracity</em>, I risultati ottenuti tramite Big Data non possono essere provati, ma ad essi pu\u00f2 essere assegnato un valore di probabilit\u00e0. \u00a0\u00a0\u00a0</span></p>\n<p class=\"MsoNormal\"><span style=\"font-size: 10.5pt; line-height: 115%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; color: #333333; mso-fareast-language: IT;\">\u00a0</span></p>\n<p class=\"MsoNormal\"><span style=\"font-size: 10.5pt; line-height: 115%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; color: #333333; mso-fareast-language: IT;\">Alla fine del corso gli studenti avranno acquisito competenze su come: \u00a0</span></p>\n<p class=\"MsoNormal\"><span style=\"font-size: 10.5pt; line-height: 115%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; color: #333333; mso-fareast-language: IT;\">* Descrivere come progettare una applicazione di Big Data anche attraverso l\u2019uso di dati reali.\u00a0 </span></p>\n<p class=\"MsoNormal\"><span style=\"font-size: 10.5pt; line-height: 115%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; color: #333333; mso-fareast-language: IT;\">\u00a0* Avere consapevolezza delle V dei Big Data (volume, velocity, variety, veracity, and value) e come ciascuna di esse impatti sulla raccolta dati, il monitoraggio, la memorizzazione, l\u2019analisi e la reportistica conseguente.\u00a0 </span></p>\n<p class=\"MsoNormal\"><span style=\"font-size: 10.5pt; line-height: 115%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; color: #333333; mso-fareast-language: IT;\">* Estrarre valore dai Big Data usando processi articolati per strutturare la propria analisi.\u00a0 </span></p>\n<p class=\"MsoNormal\"><span style=\"font-size: 10.5pt; line-height: 115%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; color: #333333; mso-fareast-language: IT;\">* Riconoscere quali sono effettivamente problemi collegati ai Big Data da quelli che non lo sono \u00a0ed essere capaci di riformulare il problema come problematiche di data science.</span></p>\n<p class=\"MsoNormal\"><span style=\"font-size: 10.5pt; line-height: 115%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; color: #333333; mso-fareast-language: IT;\">\u00a0* Fornire una spiegazione dei componenti architetturali e modelli di programmazione usati per scalare l\u2019analisi dei Big Data. \u00a0</span></p></td></tr></table>",
+  "testiRiferimento": "<table><tr><td><p>presentazioni ppt del docente e articoli selezionati dalla recente letteratura del settore</p></td></tr></table>",
+  "ricevimento": "<table><tr><td><p>dopo ciascuna lezione e su richiesta dello studente in qualunque data; inviare una mail al docente per fissare un incontro (pazienza@info.uniroma2.it)</p>\n<p>\u00a0</p></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td><p>esame orale sugli argomenti del corso oltre a realizzazione di un progetto ed alla sua presentazione.</p></td></tr></table>"
+}

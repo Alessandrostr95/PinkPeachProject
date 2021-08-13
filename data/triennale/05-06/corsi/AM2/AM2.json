@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Analisi matematica 2",
+  "docente": [
+    {
+      "first_name": "Francesco",
+      "second_name": "Nicol\u00f2"
+    }
+  ],
+  "annoAccademico": "2005-2006",
+  "crediti": "3",
+  "settore": "",
+  "anno": "1",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>null</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>null</td></tr></table>",
+  "ricevimento": "<table><tr><td>null</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

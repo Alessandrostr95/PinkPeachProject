@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Sistemi cooperativi e reti sociali",
+  "docente": [
+    {
+      "first_name": "Maurizio",
+      "second_name": "Talamo"
+    }
+  ],
+  "annoAccademico": "2014-2015",
+  "crediti": "6",
+  "settore": "INF/01",
+  "anno": "2",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td><p>Programma 2014-2015<br style=\"color: #646464; font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 18px;\"><br/></br></p>\n<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 0pt; padding: 0px; line-height: 18px;\">- Organizzazioni Virtuali; Social Network; Il cooperation Agreement; i concetti fondamentali dei sistemi cooperativi</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 0pt; padding: 0px; line-height: 18px;\">- Relazioni di fiducia: il trust, le propriet\u00e0 del trust, la delega e le mansioni</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 0pt; padding: 0px; line-height: 18px;\">- Rappresentazione di una virtual organization: grafo di contesto, grafo delle transazioni, workflow analysis</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 0pt; padding: 0px; line-height: 18px;\">- Il modello soa: propriet\u00e0 e limiti</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 0pt; padding: 0px; line-height: 18px;\">- Le propriet\u00e0 di un modello per la rappresentazione di un business process cooperativo</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 0pt; padding: 0px; line-height: 18px;\">- Introduzione alla peria dei giochi: le preferenze e la funzione di utilit\u00e0</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 0pt; padding: 0px; line-height: 18px;\">- Equilibrio di Nash: studio delle condizioni di esistenza e convergenza</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 0pt; padding: 0px; line-height: 18px;\">-\u00a0\u00a0</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 0pt; padding: 0px; line-height: 18px;\">- Applicazioni ai sistemi cooperativi: es. Google, e-bay etc ..</p></td></tr></table>",
+  "testiRiferimento": "<table><tr><td><p><span style=\"color: #646464; font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 18px; background-color: #f0f0f0;\">Maurizio Talamo ed altri</span><br style=\"color: #646464; font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 18px;\"><span style=\"color: #646464; font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 18px; background-color: #f0f0f0;\">Modelli di cooperazione e reti sociali: metodi e strumenti di progetto</span><br style=\"color: #646464; font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 18px;\"><span style=\"color: #646464; font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 18px; background-color: #f0f0f0;\">Aracne Editrice - 2009\u00a0</span></br></br></p></td></tr></table>",
+  "ricevimento": "<table><tr><td><p><span style=\"color: #646464; font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 18px; text-align: justify; background-color: #f0f0f0;\">Studio: lunedi' e venerdi' dalle 10 alle 11 su appuntamento</span></p></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td><p>Orale e discussione del progetto.</p></td></tr></table>"
+}

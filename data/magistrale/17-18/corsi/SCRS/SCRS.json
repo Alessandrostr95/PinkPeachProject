@@ -1,0 +1,59 @@
+{
+  "nomeCorso": "Sistemi cooperativi e reti sociali",
+  "docente": [
+    {
+      "first_name": "Maurizio",
+      "second_name": "Talamo"
+    }
+  ],
+  "annoAccademico": "2017-2018",
+  "crediti": "6",
+  "settore": "INF/01",
+  "anno": "2",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [
+    {
+      "titolo": "Articolo sul problema dei generali bizantini",
+      "dataUpload": "10.06.2018 16:14:52",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/SCRS/byzantine.pdf",
+      "dimensione": "1216 KB"
+    },
+    {
+      "titolo": "Linguaggio golang:\u00a0<a href=\"https://golang.org/\">The Go Programming Language</a>",
+      "dataUpload": "04.06.2018 11:10:35",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/SCRS/Getting Started - The Go Programming Language.pdf",
+      "dimensione": "93 KB"
+    },
+    {
+      "titolo": "2 The Hyperledger Vision-1",
+      "dataUpload": "23.04.2018 12:42:31",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/SCRS/2 The Hyperledger Vision-1.pdf",
+      "dimensione": "6642 KB"
+    },
+    {
+      "titolo": "1 Hyperledger Project Overview - January 2018-1",
+      "dataUpload": "23.04.2018 12:42:04",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/SCRS/1 Hyperledger Project Overview - January 2018-1.pdf",
+      "dimensione": "1489 KB"
+    },
+    {
+      "titolo": "0 Hyperledger Overview_March 2018-1",
+      "dataUpload": "23.04.2018 12:41:40",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/SCRS/0 Hyperledger Overview_March 2018-1.pdf",
+      "dimensione": "3113 KB"
+    },
+    {
+      "titolo": "Articolo originale BitCoin",
+      "dataUpload": "05.04.2018 10:03:04",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/SCRS/bitcoin.pdf",
+      "dimensione": "179 KB"
+    }
+  ],
+  "programma": "<table><tr><td><ul>\n<li style=\"margin: 0px; font-stretch: normal; font-size: 12px; line-height: normal; font-family: 'Helvetica Neue'; color: #454545;\"><br>Distributed ledger e Blockchain: definizioni</br></li>\n<li style=\"margin: 0px; font-stretch: normal; font-size: 12px; line-height: normal; font-family: 'Helvetica Neue'; color: #454545;\">L'eliminazione degli intermediari (zecca)</li>\n<li style=\"margin: 0px; font-stretch: normal; font-size: 12px; line-height: normal; font-family: 'Helvetica Neue'; color: #454545;\">Ledger permissioned e Unpermissioned</li>\n<li style=\"margin: 0px; font-stretch: normal; font-size: 12px; line-height: normal; font-family: 'Helvetica Neue'; color: #454545;\">Database distribuiti vs ledger distribuiti</li>\n<li style=\"margin: 0px; font-stretch: normal; font-size: 12px; line-height: normal; font-family: 'Helvetica Neue'; color: #454545;\">Il consenso e il problema dei generali bizantini</li>\n<li style=\"margin: 0px; font-stretch: normal; font-size: 12px; line-height: normal; font-family: 'Helvetica Neue'; color: #454545;\">il modello Bitcoin</li>\n<li style=\"margin: 0px; font-stretch: normal; font-size: 12px; line-height: normal; font-family: 'Helvetica Neue'; color: #454545;\">Il modello Hyperledger</li>\n<li style=\"margin: 0px; font-stretch: normal; font-size: 12px; line-height: normal; font-family: 'Helvetica Neue'; color: #454545;\">Esercitazioni e laboratorio</li>\n<ul>\n<li style=\"margin: 0px; font-stretch: normal; font-size: 12px; line-height: normal; font-family: 'Helvetica Neue'; color: #454545;\">Proof of Work e altre soluzioni per la sincronizzazione</li>\n<li style=\"margin: 0px; font-stretch: normal; font-size: 12px; line-height: normal; font-family: 'Helvetica Neue'; color: #454545;\">Struttura collegata di una blockchain</li>\n<li style=\"margin: 0px; font-stretch: normal; font-size: 12px; line-height: normal; font-family: 'Helvetica Neue'; color: #454545;\">Aggiunta di una transazione a una blockchain</li>\n<li style=\"margin: 0px; font-stretch: normal; font-size: 12px; line-height: normal; font-family: 'Helvetica Neue'; color: #454545;\">Un esempio di realizzazione di una criptovaluta</li>\n<li style=\"margin: 0px; font-stretch: normal; font-size: 12px; line-height: normal; font-family: 'Helvetica Neue'; color: #454545;\">microtransazioni: aspetti progettuali e criticit\u00e0</li>\n<li style=\"margin: 0px; font-stretch: normal; font-size: 12px; line-height: normal; font-family: 'Helvetica Neue'; color: #454545;\">esempi di soluzioni progettuali per microtransazioni</li>\n<li style=\"margin: 0px; font-stretch: normal; font-size: 12px; line-height: normal; font-family: 'Helvetica Neue'; color: #454545;\">Architettura del framework Fabric</li>\n<li style=\"margin: 0px; font-stretch: normal; font-size: 12px; line-height: normal; font-family: 'Helvetica Neue'; color: #454545;\">Architettura sempli\udbff\udc00cata di uno smart contract</li>\n<li style=\"margin: 0px; font-stretch: normal; font-size: 12px; line-height: normal; font-family: 'Helvetica Neue'; color: #454545;\">Sviluppo di un\u2019applicazione a ledger distribuito su web (rete, ruoli, attori, asset, privilegi, transazioni)</li>\n</ul>\n</ul>\n<p>\u00a0</p></td></tr></table>",
+  "testiRiferimento": "<table><tr><td>null</td></tr></table>",
+  "ricevimento": "<table><tr><td><p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"><span style=\"color: #646464; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: #f0f0f0;\">Appuntamento, da concordare via email.</span></p></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td><ul>\n<li>L\u2019esame prevede la realizzazione di un progetto di applicazione della blockchain Fabric e una prova orale.</li>\n<li>Il tema del progetto deve essere concordato con il docente.</li>\n<li>Lo studente deve inviare il progetto realizzato prima della prova orale.</li>\n<li>Il progetto verr\u00e0 discusso durante l\u2019orale</li>\n</ul>\n<p><span style=\"caret-color: #454545; color: #454545; font-family: 'Helvetica Neue'; font-size: 12px;\">Studenti lavoratori e studenti impossibilitati a seguire le lezioni sono pregati di contattare il docente per avere le dispense aggiornate e per concordare il progetto.</span></p></td></tr></table>"
+}

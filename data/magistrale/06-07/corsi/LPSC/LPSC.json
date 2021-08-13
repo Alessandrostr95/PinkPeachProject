@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Linguaggi e protocolli per sistemi cooperativi",
+  "docente": [
+    {
+      "first_name": "Andrea",
+      "second_name": "Dimitri"
+    }
+  ],
+  "annoAccademico": "2006-2007",
+  "crediti": "9",
+  "settore": "",
+  "anno": "1",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>Definizione di sicurezza di un Sistema Informatico Cooperativo. Sistemi di WFG (WorkFlow graphs). Rappresentazione di Virtual Organization con WFG. Rappresentazione di modelli di sicurezza con WFG. Il problema diretto. Sicurezza come ricostruzione a posteriori di un WFG: il problema inverso. Monitoraggio ed intrusion detection su Sistemi Informatici Cooperativi. Algoritmi di learning su WFG.</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>Dispense consegnate dal docente durante il corso.</td></tr></table>",
+  "ricevimento": "<table><tr><td>null</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

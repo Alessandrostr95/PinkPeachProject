@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Laboratorio di ingegneria del software",
+  "docente": [
+    {
+      "first_name": "Andrea",
+      "second_name": "Bei"
+    }
+  ],
+  "annoAccademico": "2010-2011",
+  "crediti": "6",
+  "settore": "",
+  "anno": "3",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>Design di architetture software \r\n1.\tTecniche di progettazione Object Oriented \r\n2.\tDesign &amp; Architectural Pattern (GRASP, GOF, Java EE) \r\n3.\tAnalisi architetturale \r\n\r\nArchitetture, Framework e Tecnologie JEE \r\n4.\tModelli architetturali di riferimento \r\n5.\tArchitetture e tecnologie JEE (JDBC, Servlet, JSP, JSF, Web Services, EJB) \r\n6.\tFramework: Hibernate, Struts, Spring, Axis\r\n\r\nMobile Development \r\n7.\tMobile: overview su servizi e tecnologie \r\n8.\tSviluppo su ANDROID\r\n</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>Applying UML and Patterns: An Introduction to Object-Oriented Analysis and Design and Iterative Development \r\n3rd Edition \r\nCraig Larman - Pearson \r\n</td></tr></table>",
+  "ricevimento": "<table><tr><td>null</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

@@ -1,0 +1,199 @@
+{
+  "nomeCorso": "Intelligenza artificiale 2",
+  "docente": [
+    {
+      "first_name": "Maria Teresa",
+      "second_name": "Pazienza"
+    }
+  ],
+  "annoAccademico": "2015-2016",
+  "crediti": "9",
+  "settore": "ING-INF/05",
+  "anno": "2",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [
+    {
+      "titolo": "tecnologie per i progetti",
+      "data": "27-11-2015 13:34",
+      "contenuto": "<p>A partire da luned\u00ec 30 novembre ci sar\u00e0 un gruppo di 4 lezioni (circa) per la presentazione di tecnologie avanzate da utilizzare nella preparazione dei progetti.</p>\n<p>Si invitano tutti gli studenti a partecipare a queste lezioni.</p><hr/>"
+    },
+    {
+      "titolo": "assegnazione progetti",
+      "data": "16-11-2015 09:42",
+      "contenuto": "<p>si avvisano gli studenti che gli argomenti deli progetti saranno assegnati prima di Natale per dar modo ad ognuno di avere tempo a sufficienza per la loro implementazione</p><hr/>"
+    },
+    {
+      "titolo": "calendario delle lezioni",
+      "data": "12-10-2015 12:25",
+      "contenuto": "<p class=\"MsoPlainText\">le lezioni si svolgeranno presso la maroarea di Ingegneria secondo il seguente calendario:</p>\n<p class=\"MsoPlainText\">\u00a0</p>\n<p class=\"MsoPlainText\">luned\u00ec dalle ore 09.30 alle ore 11.15 aula B11</p>\n<p class=\"MsoPlainText\">mercoled\u00ec dalle ore 09.30 alle ore 11.15 aula B12</p>\n<p class=\"MsoPlainText\">venerd\u00ec dalle ore 09.30 alle ore 11.15 aula B5</p><hr/>"
+    },
+    {
+      "titolo": "comunicazioni con il docente",
+      "data": "12-10-2015 11:38",
+      "contenuto": "<p>per qualunque motivo, lo studente pu\u00f2 inviare una mail al docente per comunicazioni personali.</p>"
+    }
+  ],
+  "lezioni": [
+    {
+      "id": "31",
+      "data": "13-01-2016",
+      "contenuto": "<p>esercitazioni su progetti</p>"
+    },
+    {
+      "id": "30",
+      "data": "11-01-2016",
+      "contenuto": "<p>esercitazioni su progetti</p>"
+    },
+    {
+      "id": "29",
+      "data": "21-12-2015",
+      "contenuto": "<p>esercitazioni su progetti</p>"
+    },
+    {
+      "id": "28",
+      "data": "18-12-2015",
+      "contenuto": "<p>esercitazioni</p>"
+    },
+    {
+      "id": "27",
+      "data": "16-12-2015",
+      "contenuto": "<p>analisi progetti organizzati per gruppi di studenti</p>"
+    },
+    {
+      "id": "26",
+      "data": "14-12-2015",
+      "contenuto": "<p>seminario David Israel</p>"
+    },
+    {
+      "id": "25",
+      "data": "14-12-2015",
+      "contenuto": "<p>presentazione progetti da svolgere da parte degli studenti</p>"
+    },
+    {
+      "id": "24",
+      "data": "11-12-2015",
+      "contenuto": "<p>Relation Extraction, DKpro (enfasi sui tagset), fondamenti di CODA e Apache Ruta</p>"
+    },
+    {
+      "id": "23",
+      "data": "09-12-2015",
+      "contenuto": "<p>aeminario su motivazioni ed rappresentazione della conoscenza in Watson (sistema di Q/A dell'IBM)</p>"
+    },
+    {
+      "id": "22",
+      "data": "07-12-2015",
+      "contenuto": "<p>Relation Extraction, DKpro (enfasi sui tagset), fondamenti di CODA e Apache Ruta</p>"
+    },
+    {
+      "id": "21",
+      "data": "04-12-2015",
+      "contenuto": "<p>A<span data-mce-mark=\"1\" style=\"font-size: 12.0pt; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: IT; mso-fareast-language: IT; mso-bidi-language: AR-SA;\">ncora</span><span data-mce-mark=\"1\" style=\"font-size: 12.0pt; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: IT; mso-fareast-language: IT; mso-bidi-language: AR-SA;\">UIMA ed in particolare DKPro ed introduzione alla relation extraction.</span></p>\n<p><span data-mce-mark=\"1\" style=\"font-size: 12.0pt; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: IT; mso-fareast-language: IT; mso-bidi-language: AR-SA;\"> <!--[if !supportLineBreakNewLine]--><br> <!--[endif]--></br></span></p>"
+    },
+    {
+      "id": "20",
+      "data": "02-12-2015",
+      "contenuto": "<p><span style=\"font-size: 12.0pt; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: IT; mso-fareast-language: IT; mso-bidi-language: AR-SA;\">L'argomento di oggi \u00e8 stato: UIMA + alcuni programmi di esempio su OWLART API<br> <br> Link ai programmi mostrati a lezione:<br> <a href=\"https://dl.dropboxusercontent.com/u/47961860/esempi_uima-versione_2015-12-02.zip\">https://dl.dropboxusercontent.com/u/47961860/esempi_uima-versione_2015-12-02.zip</a><br> <br> Links a due file di testo contenenti link di studio e alcune query da provare con triple store<br clear=\"all\"> <a href=\"https://dl.dropboxusercontent.com/u/47961860/LINKS_20151202.txt\">https://dl.dropboxusercontent.com/u/47961860/LINKS_20151202.txt</a><br> <a href=\"https://dl.dropboxusercontent.com/u/47961860/QUERY_20151202.txt\">https://dl.dropboxusercontent.com/u/47961860/QUERY_20151202.txt</a></br></br></br></br></br></br></br></span></p>"
+    },
+    {
+      "id": "19",
+      "data": "30-11-2015",
+      "contenuto": "<p class=\"MsoNormal\">argomenti trattati oggi:</p>\n<p class=\"MsoNormal\">- alcuni servizi e tool per il semantic web (prefix.cc, Linked Open Vocabularies,\u00a0WebVOWL, Parrot, Vapour, OOPS! (gli ultimi due solo accennati))</p>\n<p class=\"MsoNormal\">- OWL ART API (programmi di esempio)</p>\n<p>\u00a0</p>\n<p class=\"MsoNormal\">\u00a0</p>"
+    },
+    {
+      "id": "18",
+      "data": "27-11-2015",
+      "contenuto": "<ul type=\"disc\">\n<li class=\"MsoNormal\">risoluzione di ambiguit\u00e0 attraverso il reasoner (capitolo 7 del libro)</li>\n<li class=\"MsoNormal\">novit\u00e0 introdotte da e RDF 1.1 e da OWL 2 (parte del capitolo 2)</li>\n</ul>"
+    },
+    {
+      "id": "17",
+      "data": "25-11-2015",
+      "contenuto": "<p>SPARQL ed introduzione al Q/A su RDF (II parte)</p>"
+    },
+    {
+      "id": "16",
+      "data": "23-11-2015",
+      "contenuto": "<p>SPARQL ed introduzione al Q/A su RDF</p>"
+    },
+    {
+      "id": "15",
+      "data": "20-11-2015",
+      "contenuto": "<p>RDF-WordNet</p>"
+    },
+    {
+      "id": "14",
+      "data": "18-11-2015",
+      "contenuto": "<p>linguistic linked data</p>"
+    },
+    {
+      "id": "13",
+      "data": "16-11-2015",
+      "contenuto": "<p>lessici ontologici</p>"
+    },
+    {
+      "id": "12",
+      "data": "13-11-2015",
+      "contenuto": "<p>teconologie del semantic web</p>"
+    },
+    {
+      "id": "11",
+      "data": "11-11-2015",
+      "contenuto": "<p>DRS discourse representation structure</p>"
+    },
+    {
+      "id": "10",
+      "data": "09-11-2015",
+      "contenuto": "<p>sostistuzione e aggiunta di alber TAG</p>"
+    },
+    {
+      "id": "9",
+      "data": "04-11-2015",
+      "contenuto": "<p>analisi sintattica di una frase e rilevanza dei ruoli sintattici</p>"
+    },
+    {
+      "id": "8",
+      "data": "30-10-2015",
+      "contenuto": "<p>RDF ed ontologie</p>"
+    },
+    {
+      "id": "7",
+      "data": "28-10-2015",
+      "contenuto": "<p>rappresentazione del significato di una espressione linguistica\u00a0</p>"
+    },
+    {
+      "id": "6",
+      "data": "28-10-2015",
+      "contenuto": "<p>FOL e linguaggio naturale</p>"
+    },
+    {
+      "id": "5",
+      "data": "21-10-2015",
+      "contenuto": "<p>ontologie lessicali</p>"
+    },
+    {
+      "id": "4",
+      "data": "19-10-2015",
+      "contenuto": "<p>differenti fasi dell'elaborazione del linguaggio naturale: ruolo della semantica</p>"
+    },
+    {
+      "id": "3",
+      "data": "16-10-2015",
+      "contenuto": "<p>ontologie e semantica del linguaggio naturale: introduzione</p>"
+    },
+    {
+      "id": "2",
+      "data": "14-10-2015",
+      "contenuto": "<p>introduzione all'elaborazione del linguaggio naturale</p>"
+    },
+    {
+      "id": "1",
+      "data": "12-10-2015",
+      "contenuto": "<p>presentazione delle tematiche del corso e delle modalit\u00e0 di svolgimento di lezioni, esercitazioni ed esami</p>"
+    }
+  ],
+  "materiale": [],
+  "programma": "<table><tr><td><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"MsoNormalTable\" style=\"width: 512.0pt; margin-left: 3.5pt; border-collapse: collapse; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 3.5pt 0cm 3.5pt;\" width=\"683\">\n<tbody>\n<tr style=\"mso-yfti-irow: 0; mso-yfti-firstrow: yes; height: 20.25pt;\">\n<td style=\"width: 512.0pt; border-top: solid gray 1.5pt; border-left: none; border-bottom: solid gray 1.0pt; border-right: none; padding: 0cm 3.5pt 0cm 3.5pt; height: 20.25pt;\" valign=\"top\" width=\"683\">\n<p class=\"MsoNormal\" style=\"margin-bottom: 0.0001pt;\"><strong><span style=\"font-size: 14pt; font-family: Garamond, serif;\">Programma del corso di Intelligenza Artificiale 2</span></strong></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 1; height: 18.75pt;\">\n<td style=\"width: 512.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 18.75pt;\" valign=\"top\" width=\"683\">\u00a0</td>\n</tr>\n<tr style=\"mso-yfti-irow: 2; height: 18.75pt;\">\n<td style=\"width: 512.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 18.75pt;\" valign=\"top\" width=\"683\">\n<p style=\"margin-top: 3.35pt; margin-right: 0cm; margin-bottom: .0001pt; margin-left: 0cm; text-align: justify; vertical-align: baseline;\"><span style=\"font-size: 11.0pt; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-fareast-language: EN-US;\">Introduzione all\u2019elaborazione del linguaggio naturale (NLP simbolico)</span></p>\n<p style=\"margin-top: 3.35pt; margin-right: 0cm; margin-bottom: .0001pt; margin-left: 0cm; text-align: justify; vertical-align: baseline;\"><span style=\"font-size: 11.0pt; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-fareast-language: EN-US;\">Semantica, semantica lessicale, sistemi basati su semantica\u00a0 \u00a0</span></p>\n<p style=\"margin-top: 3.35pt; margin-right: 0cm; margin-bottom: .0001pt; margin-left: 0cm; text-align: justify; vertical-align: baseline;\"><span style=\"font-size: 11.0pt; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-fareast-language: EN-US;\">Analisi del discorso</span></p>\n<p style=\"margin-top: 3.35pt; margin-right: 0cm; margin-bottom: .0001pt; margin-left: 0cm; text-align: justify; vertical-align: baseline;\"><span style=\"font-size: 11.0pt; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-fareast-language: EN-US;\">Ontologie</span></p>\n<p style=\"margin-top: 3.35pt; margin-right: 0cm; margin-bottom: .0001pt; margin-left: 0cm; text-align: justify; vertical-align: baseline;\"><span style=\"font-size: 11.0pt; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-fareast-language: EN-US;\">Modelli, metodologie di rappresentazione di conoscenza concettuale, linguaggi, tecnologie</span></p>\n<p style=\"margin-top: 3.35pt; margin-right: 0cm; margin-bottom: .0001pt; margin-left: 0cm; text-align: justify; vertical-align: baseline;\"><span style=\"font-size: 11.0pt; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-fareast-language: EN-US;\">Logiche terminologiche, logiche descrittive</span></p>\n<p style=\"margin-top: 3.35pt; margin-right: 0cm; margin-bottom: .0001pt; margin-left: 0cm; text-align: justify; vertical-align: baseline;\"><span style=\"font-size: 11.0pt; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-fareast-language: EN-US;\">Semantic Web</span></p>\n<p style=\"margin-top: 3.35pt; margin-right: 0cm; margin-bottom: .0001pt; margin-left: 0cm; text-align: justify; vertical-align: baseline;\"><span style=\"font-size: 11.0pt; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-fareast-language: EN-US;\">Applicazioni\u00a0(es. IE, Q/A, reasoning) che traggono vantaggio\u00a0da approcci misti basati su\u00a0NLP e\u00a0ontologie</span></p>\n<p class=\"MsoNormal\">Semantica e Big Data, linguaggi, tecnologie, applicazioni</p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 3; height: 20.25pt;\">\n<td style=\"width: 512.0pt; border-top: solid gray 1.5pt; border-left: none; border-bottom: solid gray 1.0pt; border-right: none; padding: 0cm 3.5pt 0cm 3.5pt; height: 20.25pt;\" valign=\"top\" width=\"683\">\n<p class=\"MsoNormal\" style=\"margin-bottom: 0.0001pt;\"><strong><span style=\"font-size: 14pt; font-family: Garamond, serif;\">Esercitazioni del corso di Intelligenza Artificiale 2</span></strong></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 4; height: 26.25pt;\">\n<td style=\"width: 512.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 26.25pt;\" valign=\"bottom\" width=\"683\">\n<p class=\"MsoNormal\" style=\"margin-bottom: 0.0001pt;\">LIME e LEMON: struttura dei linguaggi</p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 5; height: 15.0pt;\">\n<td style=\"width: 512.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 15.0pt;\" valign=\"bottom\" width=\"683\">\n<p class=\"MsoNormal\" style=\"margin-bottom: 0.0001pt;\">Framework \u00a0avanzati per lo sviluppo e la gestione di Ontologie \u00a0</p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 6; height: 15.0pt;\">\n<td style=\"width: 512.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 15.0pt;\" valign=\"bottom\" width=\"683\">\n<p class=\"MsoNormal\" style=\"margin-bottom: 0.0001pt;\">Integrazione di risorse di conoscenza open access in sistemi intelligenti</p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 7; mso-yfti-lastrow: yes; height: 20.25pt;\">\n<td style=\"width: 512.0pt; border-top: solid gray 1.5pt; border-left: none; border-bottom: solid gray 1.0pt; border-right: none; padding: 0cm 3.5pt 0cm 3.5pt; height: 20.25pt;\" valign=\"top\" width=\"683\">\n<p class=\"MsoNormal\" style=\"margin-bottom: 0.0001pt;\"><strong><span style=\"font-size: 14pt; font-family: Garamond, serif;\">Obiettivi formativi del corso di Intelligenza Artificiale 2</span></strong></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p class=\"MsoNormal\" style=\"text-align: justify;\">\u00a0</p>\n<p class=\"MsoNormal\" style=\"text-align: justify;\">Fornire agli studenti conoscenze formali e tecnologiche avanzate per la modellazione di sistemi intelligenti; in particolare sistemi di information extraction e di question answering \u00a0anche nel contesto del Semantic Web.</p>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"MsoNormalTable\" style=\"width: 512.0pt; margin-left: 3.5pt; border-collapse: collapse; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 3.5pt 0cm 3.5pt;\" width=\"683\">\n<tbody>\n<tr style=\"mso-yfti-irow: 0; mso-yfti-firstrow: yes; mso-yfti-lastrow: yes; height: 20.25pt;\">\n<td style=\"width: 512.0pt; border-top: solid gray 1.5pt; border-left: none; border-bottom: solid gray 1.0pt; border-right: none; padding: 0cm 3.5pt 0cm 3.5pt; height: 20.25pt;\" valign=\"top\" width=\"683\">\n<p class=\"MsoNormal\" style=\"margin-bottom: 0.0001pt;\"><strong><span style=\"font-size: 14pt; font-family: Garamond, serif;\">Testi consigliati del corso di Intelligenza Artificiale 2</span></strong></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p style=\"margin-top: 3.35pt; margin-right: 0cm; margin-bottom: .0001pt; margin-left: 27.35pt; text-align: justify; text-indent: -27.35pt; mso-line-height-alt: 7.4pt; vertical-align: baseline;\"><span style=\"font-size: 11.0pt; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-fareast-language: EN-US;\">\u00a0</span></p>\n<p style=\"margin-top: 3.35pt; margin-right: 0cm; margin-bottom: .0001pt; margin-left: 27.35pt; text-align: justify; text-indent: -27.35pt; mso-line-height-alt: 7.4pt; vertical-align: baseline;\"><span lang=\"EN-US\" style=\"font-size: 11.0pt; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-US; mso-fareast-language: EN-US;\">\u201cOntology-based Interpretation of Natural Language\u201d</span></p>\n<p style=\"margin-top: 3.35pt; margin-right: 0cm; margin-bottom: .0001pt; margin-left: 27.35pt; text-align: justify; text-indent: -27.35pt; mso-line-height-alt: 7.4pt; vertical-align: baseline;\"><span style=\"font-size: 11.0pt; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-fareast-language: EN-US;\">Autori: P. Cimiano, C. Unger, J. McCrae</span></p>\n<p style=\"margin: 0cm; margin-bottom: .0001pt; text-align: justify;\"><span style=\"font-size: 11.0pt; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-fareast-language: EN-US;\">Morgan &amp; Claypool\u00a0publishers, 2014\u00a0</span></p>\n<p style=\"margin: 0cm; margin-bottom: .0001pt; text-align: justify;\"><span style=\"font-size: 11.0pt; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-fareast-language: EN-US;\">\u00a0</span></p>\n<p style=\"margin: 0cm; margin-bottom: .0001pt; text-align: justify;\"><span style=\"font-size: 8.5pt; font-family: Verdana, sans-serif;\">\u00a0</span></p>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"MsoNormalTable\" style=\"width: 512.0pt; margin-left: 3.5pt; border-collapse: collapse; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 3.5pt 0cm 3.5pt;\" width=\"683\">\n<tbody>\n<tr style=\"mso-yfti-irow: 0; mso-yfti-firstrow: yes; mso-yfti-lastrow: yes; height: 20.25pt;\">\n<td style=\"width: 512.0pt; border-top: solid gray 1.5pt; border-left: none; border-bottom: solid gray 1.0pt; border-right: none; padding: 0cm 3.5pt 0cm 3.5pt; height: 20.25pt;\" valign=\"top\" width=\"683\">\n<p class=\"MsoPlainText\"><strong><span style=\"font-size: 14pt; font-family: Garamond, serif;\">Modalit\u00e0 di accertamento del corso di Intelligenza Artificiale 1</span></strong></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p class=\"MsoNormal\">\u00a0</p>\n<p class=\"MsoNormal\">Esame orale e progetto</p></td></tr></table>",
+  "testiRiferimento": "<table><tr><td><p>libro di testo:</p>\n<p style=\"margin-top: 3.35pt; margin-right: 0cm; margin-bottom: .0001pt; margin-left: 27.35pt; text-align: justify; text-indent: -27.35pt; mso-line-height-alt: 7.4pt; vertical-align: baseline;\"><span lang=\"EN-US\" style=\"font-size: 11.0pt; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-US; mso-fareast-language: EN-US;\">\u201cOntology-based Interpretation of Natural Language\u201d</span></p>\n<p style=\"margin-top: 3.35pt; margin-right: 0cm; margin-bottom: .0001pt; margin-left: 27.35pt; text-align: justify; text-indent: -27.35pt; mso-line-height-alt: 7.4pt; vertical-align: baseline;\"><span style=\"font-size: 11.0pt; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-fareast-language: EN-US;\">Autori: P. Cimiano, C. Unger, J. McCrae</span></p>\n<p>\u00a0</p>\n<p style=\"margin: 0cm; margin-bottom: .0001pt; text-align: justify;\"><span style=\"font-size: 11.0pt; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-fareast-language: EN-US;\">Morgan &amp; Claypool\u00a0publishers, 2014\u00a0</span></p>\n<p style=\"margin: 0cm; margin-bottom: .0001pt; text-align: justify;\">\u00a0</p>\n<p style=\"margin: 0cm; margin-bottom: .0001pt; text-align: justify;\">capitoli 1,2,3,4,5,6,7,9,10</p></td></tr></table>",
+  "ricevimento": "<table><tr><td><p>subito dopo ogni lezione; inoltre ove necessario lo studente pu\u00f2 inviare una mail al docente con richiesta di ricevimento personalizzato (giorno, ora da concordarsi)</p></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td><p class=\"MsoNormal\">\u00a0</p>\n<p>\u00a0</p>\n<p class=\"MsoNormal\">Esame orale e progetto</p></td></tr></table>"
+}

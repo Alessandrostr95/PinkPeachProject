@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Progettazione di algoritmi",
+  "docente": [
+    {
+      "first_name": "Gianluca",
+      "second_name": "Rossi"
+    }
+  ],
+  "annoAccademico": "2005-2006",
+  "crediti": "6",
+  "settore": "",
+  "anno": "1",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>Algoritmi distribuiti:\r\n===============\r\n- Leader election in ring asincroni [1]\r\n------------------------------------------\r\n-- protocollo con O(n^2) messaggi scambiati\r\n-- protocollo con O(n log n) messaggi scambiati\r\n-- lower bound Omega(n log n) sul numero di messaggi.\r\n\r\n- Leader election in grafi completi asincroni [1]\r\n-----------------------------------------------------\r\n-- Un protocollo  con O(n log n) messaggi scambiati\r\n\r\n- Routing implicito su reti generiche. Un algoritmo 4-efficiente e ottimo se la rete e' aciclica [2]\r\n\r\n- Shortest Path su reti asincrone  non contenenti cicli negativi  [3]\r\n\r\n- An algoritmo per il calcolo dei centri in reti asincrone [4]\r\n\r\n\r\n- Ripasso dei conccetti di approssimazione efficiente di problemi di ottimizzazione;\r\n- Esempi di algoritmi deterministici approssimanti;\r\n- Analisi dell'approssimazione nel caso medio: definizioni preliminari;\r\n- Bounds sulla deviazione dal valor medio delle variabili aleatorie: Disuguaglianze di Markov   e Chernoff-Hoeffding;\r\n- Analisi Probabilistica dell'Algoritmo List-Scheduling per Multiprocessor Scheduling;\r\n- Analisi Probabilistica dell'Algoritmo NN per TSP;\r\n- Analisi Probabilistica dell'Algoritmo Strip per TSP Euclideo.\r\n\r\n- Ripasso dei concetti di base  della  probabilit\u00e0 discreta;\r\n- Linearit\u00e0 del Valor Medio:  il RANDOM QUICK-SORT \r\n- Il Metodo delle Probabilit\u00e0 Condizionate:Il problema  MIN-CUT;\r\n- Occupancy Problems;\r\n\r\nTeoria dei Giochi ed Internet\r\n=======================\r\n\r\n- Problemi di ottimizzazione in ambito distribuito in presenza di agenti egoistici [5];\r\n\r\n- Introduzione alla teoria dei giochi: Giochi strategici, Equilibrio di Nash [6].\r\n\r\n- Problemi di ottimizzazione su reti e teoria dei giochi:\r\n\r\n-- Condivisione dei costi di trasmissione nel processo di multicast; Funzioni potenziale; Esisitenza di un Equilibrio di Nash il cui costo e' al piu' un fattore H(n) del costo della soluzione ottima [5,7].\r\n\r\n- Equilibri di Nash a strategia mista. Condizione necessaria e sufficiente affinche' una stategia mista sia un E.N. a strategia mista [6].\r\n\r\n-- Worst Case Equilibria [8]\r\n--- Il problema degli m link parallelli: caso m=2 lower bound e upper bound [8].\r\n</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>[1] Attiya, Lecture Notes on Distributed Algorithms.\r\nhttp://www.uni-paderborn.de/fachbereich/AG/agmadh/Scripts/GENERAL/distrib_alg-Attiya.ps.gz\r\n\r\n[2] Santoro, Khatib. \"Labelling and Implicit Routing in Networks\". The Computer Journal Vol 28, pp 5-8, 1985\r\n\r\n[3]Chandy, Misra. \"Distributed Computing: Shortest Path Algorithms\". Communication of the ACM, Vol 25, pp 833-837, 1982\r\n\r\n[4] Korach, Rotem, Santoro. \"Distributed Algorithms for Finding Centers and Medians in Networks\". ACM Transactions on Programming Languages and Systems, Vol. 6, pp 380-401, 1984.\r\n\r\n[5] Kleinberg, Tardos. \"Algorithm Design\" Addison-Wesley\r\n\r\n[6] Osborne, Rubinstein. \"A Course in Game Theory\" MIT-Press\r\n\r\n[7] Anshelevich, Dasgupta, Kelinberg, Tardos, Wexler, Roughgarden. \"The price of stability for network design with fair cost allocation\". 45th Annual IEEE Symposium on Foundations of Computer Science (FOCS'04).\r\n\r\n[8] Koutsopias, Papadimitriou. \"Worst-Case Equilibria\",    \t\r\nSymposium on Theoretical Aspects in Computer Science (STACS), 1999. \r\n\r\nAusiello, Crescenzi, Gambosi, Kann, Marchetti-Spaccamela, Protasi. \"Complexity and Approximation\" Ed. Springer.\r\n\r\nMotwani, Raghavan. \"Randomized Algorithms\" Ed. Cambridge</td></tr></table>",
+  "ricevimento": "<table><tr><td>su appuntamento</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

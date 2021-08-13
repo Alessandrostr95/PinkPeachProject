@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Elementi di matematica",
+  "docente": [
+    {
+      "first_name": "Giulia Maria Piacentini",
+      "second_name": "Cattaneo"
+    }
+  ],
+  "annoAccademico": "2007-2008",
+  "crediti": "3",
+  "settore": "",
+  "anno": "1",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td> Il corso ha come obiettivo didattico quello di consolidare e rinforzare i concetti matematici e logici fondamentali per un'efficace fruizione del corso di laurea stesso. Tale insegnamento e' propedeutico a qualunque insegnamento di matematica o fisica impartito nell'ambito del corso di laurea. \r\nGran parte degli argomenti trattati nel corso dovrebbero gia' essere noti allo studente, perche' fanno parte del bagaglio di un qualunque corso di matematica delle scuole superiori. Si consiglia quindi vivamente lo studente di riprendere i testi di matematica utilizzati alle scuole superiori e di fare (rifare) gli esercizi in esso contenuti. \r\nAccanto agli argomenti che dovrebbero gia' essere noti, verranno inoltre presentate altre nozioni, forse meno note, o forse presentate in forma piu' generale, che comunque sono nozioni che stanno alla base per un qualunque corso di matematica. \r\nIn definitiva, questo corso, piu' che essere un ulteriore carico didattico per lo studente, vuole rappresentare un aiuto allo studente stesso, per permettergli di affrontare in modo corretto il corso di studi. \r\n</td></tr></table>",
+  "testiRiferimento": "<table><tr><td> </td></tr></table>",
+  "ricevimento": "<table><tr><td> Mercoledi' ore 14-16.30 nel mio studio 1119</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

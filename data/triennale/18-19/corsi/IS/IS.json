@@ -1,0 +1,81 @@
+{
+  "nomeCorso": "Ingegneria del software",
+  "docente": [
+    {
+      "first_name": "Benedetto",
+      "second_name": "Intrigila"
+    },
+    {
+      "first_name": "Andrea",
+      "second_name": "D'Ambrogio"
+    }
+  ],
+  "annoAccademico": "2018-2019",
+  "crediti": "12",
+  "settore": "INF/01",
+  "anno": "3",
+  "semestre": "1-2",
+  "propedeuticit\u00e0": "Linguaggi e metodologie di programmazione.",
+  "comunicazioni": [
+    {
+      "titolo": "Gruppi",
+      "data": "01-10-2018 19:14",
+      "contenuto": "<p><span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Tutti gli studenti (SIA GLI STUDENTI CHE FREQUENTANO CHE QUELLI CHE NON FREQUENTANO) devono formare dei gruppi e darne comunicazione al docente.</span></p>"
+    }
+  ],
+  "lezioni": [],
+  "materiale": [
+    {
+      "titolo": "Prova scritta 17/2/2020",
+      "dataUpload": "20.02.2020 13:49:46",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IS/Risultati_scritto_IS_2020_02_17.pdf",
+      "dimensione": "485 KB"
+    },
+    {
+      "titolo": "Prova scritta 3/2/2020",
+      "dataUpload": "05.02.2020 12:06:54",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IS/Risultati_scritto_IS_2020_02_03.pdf",
+      "dimensione": "472 KB"
+    },
+    {
+      "titolo": "Prova scritta 26/9/2019",
+      "dataUpload": "29.09.2019 12:51:59",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IS/Risultati_scritto_IS_26_09_2019.pdf",
+      "dimensione": "468 KB"
+    },
+    {
+      "titolo": "Prova scritta 12/9/2019",
+      "dataUpload": "13.09.2019 12:19:55",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IS/Risultati_scritto_IS_2019_09_12.pdf",
+      "dimensione": "394 KB"
+    },
+    {
+      "titolo": "Prova scritta 11/7/2019",
+      "dataUpload": "15.07.2019 15:06:35",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IS/Risultati_scritto_IS_2019_07_11.pdf",
+      "dimensione": "402 KB"
+    },
+    {
+      "titolo": "Prova scritta 20/6/2019",
+      "dataUpload": "23.06.2019 14:09:42",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IS/Risultati_20giu19.pdf",
+      "dimensione": "172 KB"
+    },
+    {
+      "titolo": "Esonero 26/2/2019",
+      "dataUpload": "28.02.2019 17:01:28",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IS/risultati_26_2_19.pdf",
+      "dimensione": "379 KB"
+    },
+    {
+      "titolo": "Esonero 12/2/2019",
+      "dataUpload": "15.02.2019 11:55:41",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IS/risultati_12_2_19.pdf",
+      "dimensione": "388 KB"
+    }
+  ],
+  "programma": "<table><tr><td><p><span style=\"font-family: verdana, arial, helvetica, sans-serif; font-size: 11px; text-align: justify;\">Programma\u00a0</span><br style=\"font-family: verdana, arial, helvetica, sans-serif; font-size: 11px; text-align: justify;\"><span style=\"font-family: verdana, arial, helvetica, sans-serif; font-size: 11px; text-align: justify;\">Prima Parte:\u00a0</span><br style=\"font-family: verdana, arial, helvetica, sans-serif; font-size: 11px; text-align: justify;\"><span style=\"font-family: verdana, arial, helvetica, sans-serif; font-size: 11px; text-align: justify;\">Il ciclo di vita del software\u00a0</span><br style=\"font-family: verdana, arial, helvetica, sans-serif; font-size: 11px; text-align: justify;\"><span style=\"font-family: verdana, arial, helvetica, sans-serif; font-size: 11px; text-align: justify;\">Gestione dei requisiti software (Principalmente).\u00a0</span><br style=\"font-family: verdana, arial, helvetica, sans-serif; font-size: 11px; text-align: justify;\"><span style=\"font-family: verdana, arial, helvetica, sans-serif; font-size: 11px; text-align: justify;\">Design (Cenni).\u00a0</span><br style=\"font-family: verdana, arial, helvetica, sans-serif; font-size: 11px; text-align: justify;\"><span style=\"font-family: verdana, arial, helvetica, sans-serif; font-size: 11px; text-align: justify;\">Sviluppo (Cenni).\u00a0</span><br style=\"font-family: verdana, arial, helvetica, sans-serif; font-size: 11px; text-align: justify;\"><span style=\"font-family: verdana, arial, helvetica, sans-serif; font-size: 11px; text-align: justify;\">Verifica e validazione (Cenni).\u00a0</span><br style=\"font-family: verdana, arial, helvetica, sans-serif; font-size: 11px; text-align: justify;\"/><span style=\"font-family: verdana, arial, helvetica, sans-serif; font-size: 11px; text-align: justify;\">Il linguaggio di modellazione UML e il suo uso nell'analisi dei requisiti.</span></br></br></br></br></br></br></p></td></tr></table>",
+  "testiRiferimento": "<table><tr><td><p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">I. Sommerville\u00a0<br>Software Engineering 7\u00a0<br/>(o edizioni successive)\u00a0<br/><br/>(come integrazione sar\u00e0 usato anche:\u00a0<br/>CRAIG LARMAN:\u00a0<br/>Applicare UML e i pattern. Analisi e progettazione orientata agli oggetti.)\u00a0<br/><br/>Per UML:\u00a0<br/>L. Baresi, L. Lavazza, M. Pianciamore\u00a0<br/>Dall'idea al codice con UML 2\u00a0<br/>Addison Wesley</br></p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">NOTA BENE. Molto materiale didattico verr\u00e0 fornito direttamente ai gruppi.</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Tool di Modellazione UML: Visual Paradigm</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">As an <a href=\"https://www.visual-paradigm.com/partner/academic/\" target=\"_blank\">academic partner</a> of <a href=\"https://www.visual-paradigm.com/\" target=\"_blank\">Visual Paradigm</a>, Visual Paradigm is providing us with their <a href=\"https://www.visual-paradigm.com/features/uml-and-sysml-tools/\" target=\"_blank\">UML tools</a>, <a href=\"https://www.visual-paradigm.com/features/database-design-with-erd-tools/\" target=\"_blank\">database design tools</a> and <a href=\"https://www.visual-paradigm.com/features/agile-development-tools/#user-story-map\" target=\"_blank\">agile tools</a> for educational use.</p></td></tr></table>",
+  "ricevimento": "<table><tr><td>null</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

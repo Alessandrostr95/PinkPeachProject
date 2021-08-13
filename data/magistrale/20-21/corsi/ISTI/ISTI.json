@@ -1,6 +1,11 @@
 {
   "nomeCorso": "Inferenza statistica e teoria dell'informazione",
-  "docente": "Giampaolo Scalia Tomba",
+  "docente": [
+    {
+      "first_name": "Gimpaolo",
+      "second_name": "Scalia Tomba"
+    }
+  ],
   "annoAccademico": "2020-2021",
   "crediti": "6",
   "settore": "MAT/06",
@@ -10,8 +15,8 @@
   "comunicazioni": [],
   "lezioni": [],
   "materiale": [],
-  "programma": "null",
-  "testiRiferimento": "null",
-  "ricevimento": "null",
-  "modalit\u00e0Esame": "null"
+  "programma": "<table><tr><td>null</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>null</td></tr></table>",
+  "ricevimento": "<table><tr><td>null</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
 }

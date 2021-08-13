@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Analisi numerica",
+  "docente": [
+    {
+      "first_name": "Stefano",
+      "second_name": "Fanelli"
+    }
+  ],
+  "annoAccademico": "2001-2002",
+  "crediti": "6",
+  "settore": "",
+  "anno": "3",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>Complessita' degli algoritmi algebrici e numerici. Complessita' di funzioni razionali. Programmi bilineari. Applicazione alla risoluzione di sistemi lineari. Algoritmi paralleli. Trasformata rapida di Fourier.</td></tr></table>",
+  "testiRiferimento": "<table><tr><td></td></tr></table>",
+  "ricevimento": "<table><tr><td></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

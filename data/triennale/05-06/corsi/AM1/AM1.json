@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Analisi matematica 1",
+  "docente": [
+    {
+      "first_name": "Carlangelo",
+      "second_name": "Liverani"
+    }
+  ],
+  "annoAccademico": "2005-2006",
+  "crediti": "6",
+  "settore": "",
+  "anno": "1",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>vedi pagina web docente</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>vedi pagina web docente</td></tr></table>",
+  "ricevimento": "<table><tr><td>vedi pagina web docente</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

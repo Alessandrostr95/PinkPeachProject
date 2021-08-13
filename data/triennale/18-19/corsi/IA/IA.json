@@ -1,0 +1,348 @@
+{
+  "nomeCorso": "Intelligenza artificiale 1",
+  "docente": [
+    {
+      "first_name": "Maria Teresa",
+      "second_name": "Pazienza"
+    }
+  ],
+  "annoAccademico": "2018-2019",
+  "crediti": "6",
+  "settore": "ING-INF/05",
+  "anno": "3",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Programmazione dei calcolatori con laboratorio.",
+  "comunicazioni": [
+    {
+      "titolo": "risultati del primo appello di Intelligenza Artificiale 1",
+      "data": "07-02-2019 15:18",
+      "contenuto": "<p>sono stati pubblicati i risultati della prova d'esame del 6 febbraio 2019</p><hr/>"
+    },
+    {
+      "titolo": "erronea prenotazione su sito di Delphi",
+      "data": "18-01-2019 15:41",
+      "contenuto": "<p>Si invitano gli studenti:</p>\n<p>\u00a0</p>\n<p>Politi Marcello,</p>\n<p>Bruno Simone</p>\n<p>Altobelli Andrea,</p>\n<p>Sandona Stefano,</p>\n<p>Ciucci Giordano,</p>\n<p>\u00a0</p>\n<p>a spostare la loro prenotazione d'esame del primo appello di IA1 sulla sessione estiva anticipata dell'a.a. 2018 2019.</p>\n<p>Altrimenti non sar\u00e0 possibile verbalizzare i risultati della prova d'esame\u00a0</p>\n<p>\u00a0</p>\n<p>Per eventuali chiarimenti contattare il docente</p><hr/>"
+    },
+    {
+      "titolo": "premio per gli studenti di Intelligenza Artificiale",
+      "data": "06-12-2018 16:33",
+      "contenuto": "<p><span style=\"color: #1f497d; font-family: Calibri, sans-serif; font-size: 11pt;\">Mi fa piacere comunicare che agli studenti della nostra laurea magistrale in Informatica: Tiziano Di Condina, Leonardo Ranaldi, Dario Onorati, Valentina Maiello, Pierfrancesco Tommasino e Luca Berloco \u00e8 stato conferito il premio per la \u201cproposta pi\u00f9 innovativa\u201d al concorso rivolto a team sul tema Artificial Intelligence per le risorse umane con ADECCO FORMAZIONE bandito da Lazio Innova.\u00a0</span></p><hr/>"
+    },
+    {
+      "titolo": "lezioni IA1 del 20 e 22/11/2018",
+      "data": "16-11-2018 15:11",
+      "contenuto": "<p>Le\u00a0lezioni IA1 del 20 e 22/11/2018 non si terranno a casusa di impegno internazionale del docente</p><hr/>"
+    },
+    {
+      "titolo": "lezione IA1 del 08/11/2018",
+      "data": "06-11-2018 15:37",
+      "contenuto": "<p>La lezione dell'8 novembre non sar\u00e0 tenuta a causa di sovrapposizione con l'appello straordinario d'esame.</p><hr/>"
+    },
+    {
+      "titolo": "",
+      "data": "01-10-2018 13:23",
+      "contenuto": "<p>Ciascuno studente pu\u00f2 richiedere informazioni e/o spiegazioni inviando una mail al docente per fissare un ricevimento in data ed ora da concordarsi</p>"
+    }
+  ],
+  "lezioni": [
+    {
+      "id": "25",
+      "data": "24-01-2019",
+      "contenuto": "<p>esercitazioni su esercizi d'esame\u00a0</p>"
+    },
+    {
+      "id": "24",
+      "data": "22-01-2019",
+      "contenuto": "<p>esempio di esercizio d'esame con spiegazioni</p>"
+    },
+    {
+      "id": "23",
+      "data": "17-01-2019",
+      "contenuto": "<p>esempio di esercizio d'esame con spiegazioni</p>"
+    },
+    {
+      "id": "22",
+      "data": "15-01-2019",
+      "contenuto": "<p>esercitazioni</p>"
+    },
+    {
+      "id": "21",
+      "data": "10-01-2019",
+      "contenuto": "<p>SPARQL - mappatura OWL-DL</p>"
+    },
+    {
+      "id": "20",
+      "data": "08-01-2019",
+      "contenuto": "<p>RDF-RDFS OWL</p>"
+    },
+    {
+      "id": "19",
+      "data": "20-12-2018",
+      "contenuto": "<p>reasoning nelle DL</p>"
+    },
+    {
+      "id": "18",
+      "data": "18-12-2018",
+      "contenuto": "<p>description logics: entailment</p>"
+    },
+    {
+      "id": "17",
+      "data": "13-12-2018",
+      "contenuto": "<p>Descriprion logics: struttura del linguaggio</p>"
+    },
+    {
+      "id": "16",
+      "data": "11-12-2018",
+      "contenuto": "<p>ontologie</p>"
+    },
+    {
+      "id": "15",
+      "data": "06-12-2018",
+      "contenuto": "<p>esercitazioni su frames</p>"
+    },
+    {
+      "id": "14",
+      "data": "04-12-2018",
+      "contenuto": "<p>rapresentazioni della conoscenza orientate agli oggetti - frames</p>"
+    },
+    {
+      "id": "13",
+      "data": "29-11-2018",
+      "contenuto": "<p>clausole di Horn</p>"
+    },
+    {
+      "id": "12",
+      "data": "27-11-2018",
+      "contenuto": "<p>resoluzione in presenza di quantificatori</p>"
+    },
+    {
+      "id": "11",
+      "data": "15-11-2018",
+      "contenuto": "<p>risoluzione - CNF</p>"
+    },
+    {
+      "id": "10",
+      "data": "13-11-2018",
+      "contenuto": "<p>creazione di una bdc</p>"
+    },
+    {
+      "id": "9",
+      "data": "06-11-2018",
+      "contenuto": "<p>conoscenza esplicita\u00a0e conoscenza implicita\u00a0</p>"
+    },
+    {
+      "id": "8",
+      "data": "25-10-2018",
+      "contenuto": "<p>FOL: pragmatica</p>"
+    },
+    {
+      "id": "7",
+      "data": "23-10-2018",
+      "contenuto": "<p>esercizi FOL</p>"
+    },
+    {
+      "id": "6",
+      "data": "18-10-2018",
+      "contenuto": "<p>FOL: interpretazione, denotazione e satisfaction</p>"
+    },
+    {
+      "id": "5",
+      "data": "16-10-2018",
+      "contenuto": "<p>FOL: semantica</p>"
+    },
+    {
+      "id": "4",
+      "data": "11-10-2018",
+      "contenuto": "<p>FOL: simboli logici e non logici</p>"
+    },
+    {
+      "id": "3",
+      "data": "09-10-2018",
+      "contenuto": "<p>ragionamento logico</p>"
+    },
+    {
+      "id": "2",
+      "data": "04-10-2018",
+      "contenuto": "<p>Rappresentazione della conoscenza e ragionamento automatico</p>"
+    },
+    {
+      "id": "1",
+      "data": "02-10-2018",
+      "contenuto": "<p>presentazione del corso di Intelligenza Artificiale: tematiche e modalit\u00e0 di svolgimento</p>"
+    }
+  ],
+  "materiale": [
+    {
+      "titolo": "risultati prova d'esame di Intelligenza Artificiale 1 del 19/09/2019",
+      "dataUpload": "19.09.2019 14:48:47",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA/IA1 - II appello autunnale - risultati.docx",
+      "dimensione": "15 KB"
+    },
+    {
+      "titolo": "RISULTATI ESAME DEL 5 SETTEMBRE 2019",
+      "dataUpload": "05.09.2019 15:20:37",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA/IA - I appello autunnale - risultati.docx",
+      "dimensione": "15 KB"
+    },
+    {
+      "titolo": "<span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">risultati 2 appello sessione estiva di IA1</span>",
+      "dataUpload": "19.07.2019 14:21:56",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA/IA - II appello estivo - risultati.docx",
+      "dimensione": "15 KB"
+    },
+    {
+      "titolo": "risultati 1 appello sessione estiva di IA1",
+      "dataUpload": "08.07.2019 14:28:13",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA/IA - I appello estivo - risultati.docx",
+      "dimensione": "15 KB"
+    },
+    {
+      "titolo": "Risultati secondo appello dell'esame di Intelligneza Artificiale 1",
+      "dataUpload": "22.02.2019 16:33:01",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA/IA1 - II appello - risultati.docx",
+      "dimensione": "14 KB"
+    },
+    {
+      "titolo": "risultati prova d'esame del 6 febbraio 2019",
+      "dataUpload": "07.02.2019 15:15:07",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA/IA1 - I appello - risultati.docx",
+      "dimensione": "14 KB"
+    },
+    {
+      "titolo": "esempio di esercizio d'esame",
+      "dataUpload": "17.01.2019 14:36:16",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA/Compito_di_prova.pdf",
+      "dimensione": "404 KB"
+    },
+    {
+      "titolo": "esercizi su ontologie con soluzioni 2",
+      "dataUpload": "16.01.2019 11:19:25",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA/Esercizi_Ontologie_-_OWL_+_SPARQL_8-9_con_soluzioni.pdf",
+      "dimensione": "699 KB"
+    },
+    {
+      "titolo": "esercizi su ontologie con soluzioni",
+      "dataUpload": "16.01.2019 11:19:11",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA/Esercizi_Ontologie_-_OWL_1-7_con_soluzioni.pdf",
+      "dimensione": "244 KB"
+    },
+    {
+      "titolo": "esercizi su ontologie 2",
+      "dataUpload": "16.01.2019 11:18:54",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA/esercizi_addizionali.pdf",
+      "dimensione": "249 KB"
+    },
+    {
+      "titolo": "esercizi su ontologie",
+      "dataUpload": "16.01.2019 11:18:34",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA/nuovi_esercizi_con_soluzioni.pdf",
+      "dimensione": "622 KB"
+    },
+    {
+      "titolo": "modali\u00e0 di gestione dell'eriditariet\u00e0 delle propriet\u00e0",
+      "dataUpload": "11.01.2019 11:43:30",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA/10.Inheritance.pdf",
+      "dimensione": "44 KB"
+    },
+    {
+      "titolo": "esercizi con soluzioni",
+      "dataUpload": "10.01.2019 16:36:45",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA/nuovi-Esercizi-N-Soluzioni.pdf",
+      "dimensione": "504 KB"
+    },
+    {
+      "titolo": "mappatura OWL-DL",
+      "dataUpload": "10.01.2019 16:36:27",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA/mappatura_owl-DL.pdf",
+      "dimensione": "181 KB"
+    },
+    {
+      "titolo": "SPARQL",
+      "dataUpload": "10.01.2019 16:35:53",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA/SPARQL.pdf",
+      "dimensione": "800 KB"
+    },
+    {
+      "titolo": "OWL",
+      "dataUpload": "08.01.2019 14:58:01",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA/OWL.pdf",
+      "dimensione": "935 KB"
+    },
+    {
+      "titolo": "RDF-RDFS",
+      "dataUpload": "08.01.2019 14:57:36",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA/RDF-RDFS.pdf",
+      "dimensione": "848 KB"
+    },
+    {
+      "titolo": "Rappresentazioni concettuali",
+      "dataUpload": "11.12.2018 14:57:55",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA/09.DescriptionLogics.pdf",
+      "dimensione": "43 KB"
+    },
+    {
+      "titolo": "Frames",
+      "dataUpload": "04.12.2018 16:09:11",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA/08.Frames.pdf",
+      "dimensione": "26 KB"
+    },
+    {
+      "titolo": "clausole di Horn",
+      "dataUpload": "29.11.2018 15:20:42",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA/05.HornLogic.pdf",
+      "dimensione": "21 KB"
+    },
+    {
+      "titolo": "risoluzione in CNF",
+      "dataUpload": "15.11.2018 11:11:43",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA/04.Resolution.pdf",
+      "dimensione": "79 KB"
+    },
+    {
+      "titolo": "risultati appello straordinario",
+      "dataUpload": "15.11.2018 11:10:46",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA/IA1 - appello straordinario - risultati.docx",
+      "dimensione": "14 KB"
+    },
+    {
+      "titolo": "rappresentazione conoscenza di un contesto in una KB",
+      "dataUpload": "06.11.2018 11:35:48",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA/03.ExpressingKnowledge.pdf",
+      "dimensione": "14 KB"
+    },
+    {
+      "titolo": "esempi FOL",
+      "dataUpload": "24.10.2018 13:09:41",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA/esercizi FOL.pdf",
+      "dimensione": "107 KB"
+    },
+    {
+      "titolo": "FOL",
+      "dataUpload": "08.10.2018 17:00:30",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA/02FOL.pdf",
+      "dimensione": "27 KB"
+    },
+    {
+      "titolo": "sistemi basati su conoscenza",
+      "dataUpload": "03.10.2018 18:14:50",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA/2RapConoscRagionamento.ppt",
+      "dimensione": "562 KB"
+    },
+    {
+      "titolo": "concetti di \"rappresentazione\" e \"ragionamento\"",
+      "dataUpload": "03.10.2018 15:41:29",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA/01.Introduction.pdf",
+      "dimensione": "22 KB"
+    },
+    {
+      "titolo": "Presentazione corso Intelligenza Artificiale 1.",
+      "dataUpload": "02.10.2018 14:34:30",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/IA/1presentazIA1.ppt",
+      "dimensione": "846 KB"
+    }
+  ],
+  "programma": "<table><tr><td><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"MsoNormalTable\" style=\"width: 512.0pt; margin-left: 3.5pt; border-collapse: collapse; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 3.5pt 0cm 3.5pt;\" width=\"683\">\n<tbody>\n<tr style=\"mso-yfti-irow: 0; mso-yfti-firstrow: yes; height: 20.25pt;\">\n<td style=\"width: 512.0pt; border-top: solid gray 1.5pt; border-left: none; border-bottom: solid gray 1.0pt; border-right: none; padding: 0cm 3.5pt 0cm 3.5pt; height: 20.25pt;\" valign=\"top\" width=\"683\">\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\"><strong><span style=\"font-size: 14.0pt; font-family: 'Garamond','serif'; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black; mso-fareast-language: IT;\">Programma del corso di Intelligenza Artificiale 1 \u2013 <em style=\"mso-bidi-font-style: normal;\">\u201cRappresentazione della conoscenza e Ragionamento automatico\u201d</em></span></strong></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 1; height: 18.75pt;\">\n<td style=\"width: 512.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 18.75pt;\" valign=\"bottom\" width=\"683\">\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\">Presentazione del corso, introduzione agli argomenti trattati ed alle modalit\u00e0 d\u2019esame</p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 2; height: 18.75pt;\">\n<td style=\"width: 512.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 18.75pt;\" valign=\"bottom\" width=\"683\">\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\">Rappresentazione della conoscenza e ragionamento automatico</p>\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\">Logica del primo ordine</p>\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\">Basi di conoscenza: ontologie, inferenza</p>\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\">Sistemi di ragionamento logico: frame e reti semantiche</p>\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\">Introduzione al Semantic Web</p>\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\">RDF/RDFS</p>\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\">\u00a0</p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 3; height: 20.25pt;\">\n<td style=\"width: 512.0pt; border-top: solid gray 1.5pt; border-left: none; border-bottom: solid gray 1.0pt; border-right: none; padding: 0cm 3.5pt 0cm 3.5pt; height: 20.25pt;\" valign=\"top\" width=\"683\">\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\"><strong><span style=\"font-size: 14.0pt; font-family: 'Garamond','serif'; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black; mso-fareast-language: IT;\">Esercitazioni del corso di Intelligenza Artificiale 1</span></strong></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 4; height: 26.25pt;\">\n<td style=\"width: 512.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 26.25pt;\" valign=\"bottom\" width=\"683\">\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\">OWL: struttura del linguaggio<span style=\"mso-spacerun: yes;\">\u00a0 </span><span style=\"mso-spacerun: yes;\">\u00a0</span></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 5; height: 16.5pt;\">\n<td style=\"width: 512.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 16.5pt;\" valign=\"bottom\" width=\"683\">\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\">Esercizi su gestione conoscenza <span style=\"mso-spacerun: yes;\">\u00a0</span></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 6; height: 16.5pt;\">\n<td style=\"width: 512.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 16.5pt;\" valign=\"bottom\" width=\"683\">\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\">Linguaggi di Interrogazione per il Web Semantico<span style=\"mso-spacerun: yes;\">\u00a0 </span><span style=\"mso-spacerun: yes;\">\u00a0</span></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 7; height: 15.0pt;\">\n<td style=\"width: 512.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 15.0pt;\" valign=\"bottom\" width=\"683\">\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\">Strumenti per lo sviluppo e la gestione di Ontologie <span style=\"mso-spacerun: yes;\">\u00a0</span></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 8; height: 15.0pt;\">\n<td style=\"width: 512.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 15.0pt;\" valign=\"bottom\" width=\"683\">\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\"><span lang=\"EN-US\" style=\"mso-ansi-language: EN-US;\">Thesauri and Concept Scheme Development: SKOS &amp; SKOS-XL </span></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 9; height: 15.0pt;\">\n<td style=\"width: 512.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 15.0pt;\" valign=\"bottom\" width=\"683\">\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\">Esercizi su gestione conoscenza</p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 10; height: 15.0pt;\">\n<td style=\"width: 512.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 15.0pt;\" valign=\"bottom\" width=\"683\">\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\">Tecnologie per la gestione di repository RDF <span style=\"mso-spacerun: yes;\">\u00a0</span></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 11; mso-yfti-lastrow: yes; height: 15.0pt;\">\n<td style=\"width: 512.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 15.0pt;\" valign=\"bottom\" width=\"683\">\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\">Linked Open Data<span style=\"mso-spacerun: yes;\">\u00a0 </span><span style=\"mso-spacerun: yes;\">\u00a0</span></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"mso-ansi-language: EN-US;\">\u00a0</span></p>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"MsoNormalTable\" style=\"width: 512.0pt; margin-left: 3.5pt; border-collapse: collapse; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 3.5pt 0cm 3.5pt;\" width=\"683\">\n<tbody>\n<tr style=\"mso-yfti-irow: 0; mso-yfti-firstrow: yes; mso-yfti-lastrow: yes; height: 20.25pt;\">\n<td style=\"width: 512.0pt; border-top: solid gray 1.5pt; border-left: none; border-bottom: solid gray 1.0pt; border-right: none; padding: 0cm 3.5pt 0cm 3.5pt; height: 20.25pt;\" valign=\"top\" width=\"683\">\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\"><strong><span style=\"font-size: 14.0pt; font-family: 'Garamond','serif'; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black; mso-fareast-language: IT;\">Obiettivi formativi del corso di Intelligenza Artificiale 1</span></strong></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p class=\"MsoNormal\" style=\"text-align: justify;\">Fornire agli studenti che seguono questo corso le motivazioni e la conoscenza di base relative alla modellazione dei sistemi intelligenti; in particolare la gestione della conoscenza (Knowledge Management) e le basi dell\u2019apprendimento automatico oltre alla possibilit\u00e0 del loro uso per risolvere problemi complessi (Knowledge Based Systems) anche nel contesto del Semantic Web.</p>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"MsoNormalTable\" style=\"width: 512.0pt; margin-left: 3.5pt; border-collapse: collapse; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 3.5pt 0cm 3.5pt;\" width=\"683\">\n<tbody>\n<tr style=\"mso-yfti-irow: 0; mso-yfti-firstrow: yes; mso-yfti-lastrow: yes; height: 20.25pt;\">\n<td style=\"width: 512.0pt; border-top: solid gray 1.5pt; border-left: none; border-bottom: solid gray 1.0pt; border-right: none; padding: 0cm 3.5pt 0cm 3.5pt; height: 20.25pt;\" valign=\"top\" width=\"683\">\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\"><strong><span style=\"font-size: 14.0pt; font-family: 'Garamond','serif'; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black; mso-fareast-language: IT;\">Testo consigliato del corso di Intelligenza Artificiale 1</span></strong></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p class=\"MsoNormal\" style=\"text-align: justify;\"><span lang=\"EN-US\" style=\"mso-ansi-language: EN-US;\">\u201cKnowledge representation and reasoning\u201d, \u00a0Brachman\u00a0e Levesque:, Morgan Kaufmann, Cap. 1,2,3,4.1,4.2,5,8,9,10\u00a0(solo capitoli\u00a0selezionati)\u00a0</span></p>\n<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"mso-ansi-language: EN-US;\">\u00a0</span></p>\n<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"mso-ansi-language: EN-US;\">\u00a0</span></p>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"MsoNormalTable\" style=\"width: 512.0pt; margin-left: 3.5pt; border-collapse: collapse; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 3.5pt 0cm 3.5pt;\" width=\"683\">\n<tbody>\n<tr style=\"mso-yfti-irow: 0; mso-yfti-firstrow: yes; mso-yfti-lastrow: yes; height: 20.25pt;\">\n<td style=\"width: 512.0pt; border-top: solid gray 1.5pt; border-left: none; border-bottom: solid gray 1.0pt; border-right: none; padding: 0cm 3.5pt 0cm 3.5pt; height: 20.25pt;\" valign=\"top\" width=\"683\">\n<p class=\"MsoPlainText\"><strong><span style=\"font-size: 14.0pt; font-family: 'Garamond','serif'; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black; mso-fareast-language: IT;\">Modalit\u00e0 di accertamento del corso di Intelligenza Artificiale 1</span></strong></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p class=\"MsoNormal\">\u00a0</p>\n<p class=\"MsoNormal\">Esame scritto con domande a risposta libera ed esercizi</p></td></tr></table>",
+  "testiRiferimento": "<table><tr><td><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"MsoNormalTable\" style=\"width: 512.0pt; margin-left: 3.5pt; border-collapse: collapse; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 3.5pt 0cm 3.5pt;\" width=\"683\">\n<tbody>\n<tr style=\"mso-yfti-irow: 0; mso-yfti-firstrow: yes; mso-yfti-lastrow: yes; height: 20.25pt;\">\n<td style=\"width: 512.0pt; border-top: solid gray 1.5pt; border-left: none; border-bottom: solid gray 1.0pt; border-right: none; padding: 0cm 3.5pt 0cm 3.5pt; height: 20.25pt;\" valign=\"top\" width=\"683\">\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\"><strong><span style=\"font-size: 14.0pt; font-family: 'Garamond','serif'; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black; mso-fareast-language: IT;\">Testo consigliato del corso di Intelligenza Artificiale 1</span></strong></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p class=\"MsoNormal\" style=\"text-align: justify;\"><span lang=\"EN-US\" style=\"mso-ansi-language: EN-US;\">\u201cKnowledge representation and reasoning\u201d, \u00a0Brachman\u00a0e Levesque:, Morgan Kaufmann, Cap. 1,2,3,4.1,4.2,5,8,9,10\u00a0(solo capitoli\u00a0selezionati)\u00a0</span></p></td></tr></table>",
+  "ricevimento": "<table><tr><td><p>a richiesta subito dopo la lezione o richiedendo per mail un ricevimento in data ed ora da concordarsi</p></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td><p class=\"MsoNormal\">Esame scritto con domande a risposta libera ed esercizi</p></td></tr></table>"
+}

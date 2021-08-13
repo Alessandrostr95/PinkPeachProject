@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Interazione uomo calcolatore",
+  "docente": [
+    {
+      "first_name": "Enrico",
+      "second_name": "Nardelli"
+    }
+  ],
+  "annoAccademico": "2007-2008",
+  "crediti": "9",
+  "settore": "",
+  "anno": "2",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>http://www.mat.uniroma2.it/~nardelli/interazione/</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>http://www.mat.uniroma2.it/~nardelli/interazione/</td></tr></table>",
+  "ricevimento": "<table><tr><td>http://www.mat.uniroma2.it/~nardelli/interazione/</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

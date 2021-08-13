@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Ottimizzazione combinatoria",
+  "docente": [
+    {
+      "first_name": "Fabrizio",
+      "second_name": "Rossi"
+    }
+  ],
+  "annoAccademico": "2006-2007",
+  "crediti": "6",
+  "settore": "",
+  "anno": "1",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>Complementi di Programmazione Lineare (LP): calcolo di tutte \r\nle soluzioni ottime di un problema LP. Risoluzione efficiente\r\ndi un problema LP.\r\nIl problema della Programmazione Lineare a variabili intere (ILP).  \r\nAlgoritmi classici per problemi ILP: l'algoritmo duale frazionario\r\ned il metodo dei tagli di Gomory.\r\nL'approccio Branch &amp; Bound (B&amp;B): l'algoritmo B&amp;B efficiente. \r\nIl principio di Bellmann.\r\nIl problema dello zaino: l'algoritmo goloso.\r\nL'approccio gruppale: rilassamento ILPC di un ILP.\r\nL'algoritmo asintotico di Gomory. \r\nL'algoritmo di Hu e relazioni con l'algoritmo di Dijkstra. \r\nEstensioni dell'algoritmo di Hu.\r\nIl metodo Branch &amp; Cut.\r\nApplicazioni operative.</td></tr></table>",
+  "testiRiferimento": "<table><tr><td></td></tr></table>",
+  "ricevimento": "<table><tr><td></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

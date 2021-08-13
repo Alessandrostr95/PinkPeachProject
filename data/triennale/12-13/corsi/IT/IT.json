@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Informatica teorica",
+  "docente": [
+    {
+      "first_name": "Miriam",
+      "second_name": "Di Ianni"
+    }
+  ],
+  "annoAccademico": "2012-2013",
+  "crediti": "6",
+  "settore": "INF/01",
+  "anno": "3",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>Ove non diversamente specificato, si fa riferimento al testo in italiano. \r<br/> <br/><b>Concetti preliminari.</b> (Capitolo 1) Cardinalit\u00e0 di insiemi. Insiemi numerabili e non numerabili. Diagonalizzazione. \r<br/> <br/><b>Macchine di Turing.</b> (Capitolo 2) Definizioni ed esempi (Dispensa 1). Macchine ad un nastro e a k nastri (Dispensa 2). Macchine di Turing deterministiche e non deterministiche e loro equivalenza. Macchina di Turing universale (Dispensa 3). Macchine di Turing con oracolo. \r<br/> <br/><b>Linguaggi e funzioni.</b> (Capitolo 2 e dispensa 4) Linguaggi e linguaggi complemento. Accettabilit\u00e0 e decidibilit\u00e0 di linguaggi. Calcolabilit\u00e0 di funzioni. Linguaggi non decidibili. Riducibilit\u00e0 tra linguaggi: m-riducibilit\u00e0 e T-riducibilit\u00e0 e loro propriet\u00e0. \r<br/> <br/><b>Problemi e codifiche.</b> (Capitolo 3 e par. 3.3 del testo in inglese) Problemi decisionali. Problemi Problemi complementari. Problemi di ottimizzazione. \r<br/> <br/><b>Misure di complessit\u00e0.</b> (Capitolo 4) Misure statiche e dinamiche. Assiomi di Blum. Misure di complessit\u00e0: DTIME, DSPACE, NTIME, NSPACE. \r<br/> <br/><b>Classi di linguaggi.</b> (Capitolo 5) Inclusione, inclusione propria, completezza. Funzioni time-constructible (Paragrafo 5.3.1 con riferimenti alle note del Prof. Gambosi ed al testo in inglese, Dispensa 5). Definizione delle classi di complessit\u00e0 spaziale e temporale. Teorema di accelerazione (note del Prof. Gambosi). Classi di complessit\u00e0 temporale: classi complemento, chiusura rispetto a variazioni finite (Paragrafo 3.4.2 -pag. 44-46- del testo inglese). \r<br/> <br/><b>La classe P.</b> (Capitolo 6) Definizione. Riducibilit\u00e0 polinomiale e chiusura di P rispetto alla riducibilit\u00e0 polinomiale. Problemi in P: 2-SAT, 2-COLORABILITA' (dispensa 6). Funzioni in FP: trasformazione di una funzione booleana in forma congiuntiva normale (dispensa 6). \r<br/> <br/><b>La classe NP.</b> (Capitolo 7) Definizione. Linguaggi NP-completi e Teorema di Cook. Chiusura rispetto alla riduzione polinomiale. Esempi di dimostrazioni di NP-completezza (Note del Prof. Gambosi e Dispensa 7): 3-SAT, Vertex Cover, 3-COLORABILITa', COLORABILITA', Independent Set, Clique, Hamiltonian Circuit/Path, Longest Path, Commesso Viaggiatore. \r<br/>Problemi NP-intermedi: il teorema di Ladner (Dispensa 8). Algoritmi pseudo-polinomiali, problemi numerici e NP-completezza in senso forte; il problema Knapsack (pag. 152-153 del testo e pag. 49-52 delle Note del Prof. Gambosi). \r<br/> <br/><b>Oltre NP.</b> (Capitolo 9) La classe coNP. Definizione della gerarchia polinomiale. Complessit\u00e0 esponenziale: classi LEXP e PEXP (definizione). \r<br/> <br/><b>Problemi di ottimizzazione.</b> (Capitolo 8) Le classi PO e NPO. Linguaggi soggiacenti. La questione: \"PO = NPO?\" (Dispensa 9). La classe APX. Appartenenza ad APX di min-Vertex Cover. Inclusione propria di APX in NPO: non Appartenenza ad AXP di min-TSP (se P diverso da NP). Appartenenza ad AXP di min-TSP con disuguaglianza triangolare: algoritmo di Christofiedes (Dispensa 10).</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>Bovet Daniel P., Crescenzi Pierluigi, \"Teoria della complessit\u00e0 computazionale\". Editore: Franco Angeli, collana \"Scienze e tecnologie informatiche\". ISBN: 8820465558 \r<br/> <br/>D.P. Bovet e P. Crescenzi, \"Introduction to the theory of complexity\", scaricabile liberamente da Internet sotto licenza Creative Commons.</td></tr></table>",
+  "ricevimento": "<table><tr><td>Per appuntamento, da richiedere a mezzo posta elettronica</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

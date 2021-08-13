@@ -1,0 +1,48 @@
+{
+  "nomeCorso": "Intelligenza artificiale 2",
+  "docente": [
+    {
+      "first_name": "Maria Teresa",
+      "second_name": "Pazienza"
+    }
+  ],
+  "annoAccademico": "2014-2015",
+  "crediti": "9",
+  "settore": "ING-INF/05",
+  "anno": "2",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [
+    {
+      "id": "5",
+      "data": "20-10-2014",
+      "contenuto": "<p>inferenza deduttiva</p>"
+    },
+    {
+      "id": "4",
+      "data": "17-10-2014",
+      "contenuto": "<p>fome di ragionamento</p>"
+    },
+    {
+      "id": "3",
+      "data": "13-10-2014",
+      "contenuto": "<p>concettualizzazione</p>"
+    },
+    {
+      "id": "2",
+      "data": "10-10-2014",
+      "contenuto": "<p>rappresentazione della conoscenza, linguaggio naturale e ragionamento automatico</p>"
+    },
+    {
+      "id": "1",
+      "data": "06-10-2014",
+      "contenuto": "<p>presentazione del corso</p>"
+    }
+  ],
+  "materiale": [],
+  "programma": "<table><tr><td><p style=\"margin-top: 3.36pt; margin-bottom: 0pt; margin-left: 0in; text-indent: 0in; direction: ltr; unicode-bidi: embed; vertical-align: baseline;\"><span style=\"font-size: 14pt; font-family: 'Times New Roman';\">Interpretazione</span><span style=\"font-size: 14pt; font-family: 'Times New Roman';\"> del </span><span style=\"font-size: 14pt; font-family: 'Times New Roman';\">linguaggio</span><span style=\"font-size: 14pt; font-family: 'Times New Roman';\">naturale</span><span style=\"font-size: 14pt; font-family: 'Times New Roman';\">basata</span><span style=\"font-size: 14pt; font-family: 'Times New Roman';\">su</span><span style=\"font-size: 14pt; font-family: 'Times New Roman';\">ontologie</span><span style=\"font-size: 14pt; font-family: 'Times New Roman';\">:</span></p>\n<p style=\"margin-top: 3.36pt; margin-bottom: 0pt; margin-left: 0in; text-indent: 0in; direction: ltr; unicode-bidi: embed; vertical-align: baseline;\"><span style=\"font-size: 14pt; font-family: 'Times New Roman';\">Cenni</span><span style=\"font-size: 14pt; font-family: 'Times New Roman';\"> di NLP</span></p>\n<p style=\"margin-top: 3.36pt; margin-bottom: 0pt; margin-left: 0in; text-indent: 0in; direction: ltr; unicode-bidi: embed; vertical-align: baseline;\"><span style=\"font-size: 14pt; font-family: 'Times New Roman';\">Ontologie</span></p>\n<p style=\"margin-top: 3.36pt; margin-bottom: 0pt; margin-left: 0in; text-indent: 0in; direction: ltr; unicode-bidi: embed; vertical-align: baseline;\"><span style=\"font-size: 14pt; font-family: 'Times New Roman';\">Analisi</span><span style=\"font-size: 14pt; font-family: 'Times New Roman';\"> del </span><span style=\"font-size: 14pt; font-family: 'Times New Roman';\">significato</span><span style=\"font-size: 14pt; font-family: 'Times New Roman';\"> del </span><span style=\"font-size: 14pt; font-family: 'Times New Roman';\">testo</span><span style=\"font-size: 14pt; font-family: 'Times New Roman';\">basata</span><span style=\"font-size: 14pt; font-family: 'Times New Roman';\">su</span><span style=\"font-size: 14pt; font-family: 'Times New Roman';\">ontologie</span></p>\n<p>\u00a0</p>\n<p style=\"margin-top: 3.36pt; margin-bottom: 0pt; margin-left: 0in; text-indent: 0in; direction: ltr; unicode-bidi: embed; vertical-align: baseline;\"><span style=\"font-size: 14pt; font-family: 'Times New Roman';\">Applicazioni</span><span style=\"font-size: 14pt; font-family: 'Times New Roman';\"> (</span><span style=\"font-size: 14pt; font-family: 'Times New Roman';\">es</span><span style=\"font-size: 14pt; font-family: 'Times New Roman';\">. IE, Q/A, reasoning) </span><span style=\"font-size: 14pt; font-family: 'Times New Roman';\">che</span><span style=\"font-size: 14pt; font-family: 'Times New Roman';\">traggono</span><span style=\"font-size: 14pt; font-family: 'Times New Roman';\">vantaggio</span><span style=\"font-size: 14pt; font-family: 'Times New Roman';\"> da </span><span style=\"font-size: 14pt; font-family: 'Times New Roman';\">approcci</span><span style=\"font-size: 14pt; font-family: 'Times New Roman';\">misti</span><span style=\"font-size: 14pt; font-family: 'Times New Roman';\">basati</span><span style=\"font-size: 14pt; font-family: 'Times New Roman';\">su</span><span style=\"font-size: 14pt; font-family: 'Times New Roman';\"> NLP e </span><span style=\"font-size: 14pt; font-family: 'Times New Roman';\">ontologie</span></p></td></tr></table>",
+  "testiRiferimento": "<table><tr><td><p style=\"line-height: 90%; margin-top: 3.36pt; margin-bottom: 0pt; margin-left: 0.38in; text-indent: -0.38in; direction: ltr; unicode-bidi: embed; vertical-align: baseline;\"><span style=\"font-size: 14pt; font-family: 'Times New Roman';\">Libro di testo: \u201cOntology-based Interpretation of Natural Language\u201d </span></p>\n<p style=\"line-height: 90%; margin-top: 3.36pt; margin-bottom: 0pt; margin-left: 0.38in; text-indent: -0.38in; direction: ltr; unicode-bidi: embed; vertical-align: baseline;\"><span style=\"font-size: 14pt; font-family: 'Times New Roman';\">Autori</span><span style=\"font-size: 14pt; font-family: 'Times New Roman';\">: P. Cimiano, C. Unger, J. McCrae</span></p>\n<p><span style=\"font-size: 14pt; font-family: 'Times New Roman';\">Morgan &amp; Claypool </span><span style=\"font-size: 14pt; font-family: 'Times New Roman';\">publishers, 2014\u00a0</span></p>\n<p>\u00a0</p>\n<p>\u00a0</p>\n<p style=\"line-height: 90%; margin-top: 3.36pt; margin-bottom: 0pt; margin-left: 0.38in; text-indent: -0.38in; direction: ltr; unicode-bidi: embed; vertical-align: baseline;\"><span style=\"font-size: 14pt; font-family: 'Times New Roman';\">Presentazioni del docente e degli autori del libro di testo </span><span style=\"font-size: 14pt; font-family: 'Times New Roman';\">disponibili sul </span><span style=\"font-size: 14pt; font-family: 'Times New Roman';\">sito del corso</span></p></td></tr></table>",
+  "ricevimento": "<table><tr><td><p style=\"line-height: 90%; margin-top: 3.36pt; margin-bottom: 0pt; margin-left: 0.38in; text-indent: -0.38in; direction: ltr; unicode-bidi: embed; vertical-align: baseline;\"><span style=\"font-size: 14pt; font-family: 'Times New Roman';\">Il docente riceve gli studenti a fine lezione o nel suo studio in giorni ed ore da concordarsi via mail</span></p></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td><p>prova orale.</p>\n<p>studenti interessati potranno eventualmente richiedere al docente di partecipare ad una esperienza applicativa</p></td></tr></table>"
+}

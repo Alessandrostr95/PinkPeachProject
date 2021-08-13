@@ -1,0 +1,34 @@
+{
+  "nomeCorso": "Natural distributed algorithms",
+  "docente": [
+    {
+      "first_name": "Emanuele",
+      "second_name": "Natale"
+    }
+  ],
+  "annoAccademico": "2019-2020",
+  "crediti": "3",
+  "settore": "INF/01",
+  "anno": "1",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [
+    {
+      "titolo": "Modalit\u00e0 di verbalizzazione corso NDA",
+      "data": "17-01-2020 14:07",
+      "contenuto": "<p>Il <a href=\"index2.htm\">sito del corso </a>\u00e8 stato aggiornato con informazioni relative alla verbalizzazione del voto finale.</p>"
+    }
+  ],
+  "lezioni": [
+    {
+      "id": "0",
+      "data": "04-11-2019",
+      "contenuto": "<p>Il diario delle lezioni \u00e8 disponibile sul\u00a0<a href=\"https://www-sop.inria.fr/members/Emanuele.Natale/teaching/nda19/\" target=\"_blank\" title=\"sito del corso\">sito del corso</a>. </p>"
+    }
+  ],
+  "materiale": [],
+  "programma": "<table><tr><td><p>Disponibile sul <a href=\"https://www-sop.inria.fr/members/Emanuele.Natale/teaching/nda19/\" target=\"_blank\" title=\"sito del corso\">sito del corso</a>.\u00a0<br><br/></br></p></td></tr></table>",
+  "testiRiferimento": "<table><tr><td><p>Disponibili sul\u00a0<a href=\"https://www-sop.inria.fr/members/Emanuele.Natale/teaching/nda19/\" target=\"_blank\" title=\"sito del corso\">sito del corso</a>.\u00a0</p></td></tr></table>",
+  "ricevimento": "<table><tr><td><p>Su appuntamento il luned\u00ec pomeriggio (prima della lezione) e il marted\u00ec dalle 11:00 alle 17:00.\u00a0</p></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td><p>Disponibile sul\u00a0<a href=\"https://www-sop.inria.fr/members/Emanuele.Natale/teaching/nda19/\" target=\"_blank\" title=\"sito del corso\">sito del corso</a>.\u00a0</p></td></tr></table>"
+}

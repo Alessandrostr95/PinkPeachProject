@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Sistemi distribuiti cooperativi",
+  "docente": [
+    {
+      "first_name": "Franco",
+      "second_name": "Arcieri"
+    }
+  ],
+  "annoAccademico": "2015-2016",
+  "crediti": "9",
+  "settore": "INF/01",
+  "anno": "1",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td><p>Cooperazione tra processi: peer e scambi informativi in ambiente distribuito</p>\n<p>Modello di flussi di cooperazione</p>\n<p>Ruolo di una terza parte \"fidata\"</p>\n<p>Intrusivit\u00e0 della terza parte \"fidata\"</p>\n<p>L'albero di cooperazione</p>\n<p>Certificazione della cooperazione</p>\n<p>Cooperazione su protocolli di sicurezza (HTTPS)</p>\n<p>Process mining: verifica \"on line\" dell'evoluzione di processi cooperativi distribuiti</p>\n<p>Process mining: ricostruzione dell'evoluzione di processi cooperativi distribuiti</p>\n<p>\u00a0</p>\n<p>Esercitazioni:</p>\n<p>Per le esercitazioni \u00e8 previsto l'uso del linguaggio SCHEME/GUILE</p>\n<p>\u00a0</p></td></tr></table>",
+  "testiRiferimento": "<table><tr><td><p>Communicating Sequential Processes,\u00a0C. A. R. Hoare</p>\n<p>Process mining manifesto,\u00a0Wil van der Aalst</p>\n<p>The Guile Reference Manual, GNU OSF</p></td></tr></table>",
+  "ricevimento": "<table><tr><td><p>Studio: lunedi' e venerdi' dalle 10 alle 11 su appuntamento</p>\n<p>\u00a0</p></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td><p><span style=\"font-family: verdana, arial, helvetica, sans-serif; line-height: normal; text-align: justify; widows: 1;\">presentazione di un progetto e relativa discussione</span></p>\n<p><span style=\"font-family: verdana, arial, helvetica, sans-serif; line-height: normal; text-align: justify; widows: 1;\">\u00a0</span></p></td></tr></table>"
+}

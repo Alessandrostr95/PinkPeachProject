@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Laboratorio di informatica 3 (Programmazione di sistemi)",
+  "docente": [
+    {
+      "first_name": "Pietro",
+      "second_name": "Frasca"
+    }
+  ],
+  "annoAccademico": "2002-2003",
+  "crediti": "6",
+  "settore": "",
+  "anno": "2",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>Comunicazione tra processi in UNIX:\r\ncreazione di processi: chiamate di sistema fork(), wait(), exec(), esempi\r\nstruttura di un server\r\ngestione di file: chiamate di sistema open(), creat(), close(), read(), write(), esempi\r\nredirezione di file: chiamata di sistema dup(), esempi\r\ncreazione di pipe: chiamata di sistema pipe(), exempi\r\nstruttura di una command shell\r\ncode di messaggi: chiamate di sistema msgget(), msgsnd(), msgrcv(), esempi\r\nComunicazione tra thread in Java:\r\ncreazione di thread: classe Thread ed interfaccia Runnable, esempi\r\ncomunicazione locale tra thread: costrutto synchronized, variabili condivise, esempi\r\ncomunicazione remota: classi Socket e ServerSocket, esempi\r\nesempio: echo server\r\nesempio: server HTTP 0.9</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>F. Quaglia, C. Demetrescu: Programmazione in ambiente UNIX</td></tr></table>",
+  "ricevimento": "<table><tr><td>Laboratorio Nestor\r\nGiovedi ore 14:30</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

@@ -1,0 +1,28 @@
+{
+  "nomeCorso": "Sistemi cooperativi e reti sociali",
+  "docente": [
+    {
+      "first_name": "Maurizio",
+      "second_name": "Talamo"
+    }
+  ],
+  "annoAccademico": "2013-2014",
+  "crediti": "6",
+  "settore": "INF/01",
+  "anno": "2",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [
+    {
+      "id": "0",
+      "data": "null",
+      "contenuto": ""
+    }
+  ],
+  "materiale": [],
+  "programma": "<table><tr><td><p><span style=\"font-family: verdana, arial, helvetica, sans-serif;\">null</span></p></td></tr></table>",
+  "testiRiferimento": "<table><tr><td><p><span style=\"font-family: verdana, arial, helvetica, sans-serif;\">null</span></p></td></tr></table>",
+  "ricevimento": "<table><tr><td><p class=\"MsoNormal\" style=\"margin: 0cm 0cm 0pt; padding: 0px; line-height: 18px;\"><span style=\"color: #595959; font-family: Arial, sans-serif;\"><span style=\"color: #595959; font-family: Arial, sans-serif;\">\u00a0</span></span><span style=\"font-family: verdana, arial, helvetica, sans-serif;\">null</span></p>\n<p><span style=\"color: #595959; font-family: Arial, sans-serif;\"><span style=\"font-size: 12px;\">\u00a0</span></span></p></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td><p class=\"MsoNormal\" style=\"margin: 0cm 0cm 0pt; padding: 0px; line-height: 18px;\"><span style=\"font-family: verdana, arial, helvetica, sans-serif; line-height: normal;\">null</span></p></td></tr></table>"
+}

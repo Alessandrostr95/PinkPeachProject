@@ -1,0 +1,263 @@
+{
+  "nomeCorso": "Sistemi operativi e reti",
+  "docente": [
+    {
+      "first_name": "Pietro",
+      "second_name": "Frasca"
+    }
+  ],
+  "annoAccademico": "2012-2013",
+  "crediti": "12",
+  "settore": "INF/01",
+  "anno": "2",
+  "semestre": "1-2",
+  "propedeuticit\u00e0": "Architettura elaboratori. Programmazione.",
+  "comunicazioni": [],
+  "lezioni": [
+    {
+      "id": "48",
+      "data": "30-05-2013",
+      "contenuto": "<p>Reti wireless. Collegamenti wireless e caratteristiche di rete. Wi-Fi 802.11. CSMA/CA. Esempio di progettazione LAN.</p>"
+    },
+    {
+      "id": "47",
+      "data": "28-05-2013",
+      "contenuto": "<p>Efficienza di Ethernet. Tecnologie Ethernet. Hub. Switch dello strato di collegamento. Confronto tra switch e router.</p>"
+    },
+    {
+      "id": "46",
+      "data": "23-05-2013",
+      "contenuto": "<p>Reti LAN. Indirizzi LAN. ARP. Invio di datagram a nodi interni ed esterni alla LAN. Ethernet. Struttura del frame Ethernet. CSMA/CD di Ethernet.</p>"
+    },
+    {
+      "id": "45",
+      "data": "21-05-2013",
+      "contenuto": "<p>Tecniche di rilevazione e correzione degli errori. Controllo di parit\u00e0. Controllo di parit\u00e0 a due dimensioni. Somma di controllo. Controllo a ridondanza ciclica. Protocolli di accesso multiplo. Protocolli a suddivisione di canale. Protocolli di accesso casuale. CSMA e CSMA/CD. Protocolli a turno.</p>"
+    },
+    {
+      "id": "44",
+      "data": "22-10-2013",
+      "contenuto": "<p>IGMP. Algoritmi di instradamento multicast (solo conclusioni). Lo strato di collegamento. Servizi offerti dallo strato di collegamento. Adattatori (schede di rete).</p>"
+    },
+    {
+      "id": "43",
+      "data": "14-05-2013",
+      "contenuto": "<p>Instradamento tra sistemi autonomi. BGP. Instradamento multicast.</p>"
+    },
+    {
+      "id": "42",
+      "data": "09-05-2013",
+      "contenuto": "<p>Algoritmi di instradamento. Algoritmi di instradamento LS. Algoritmi di instradamento DV. Confronto tra LS e DV. Instradamento gerarchico. Instradamento in Internet. Instradamento intra-sistema. RIP. OSPF.</p>"
+    },
+    {
+      "id": "41",
+      "data": "07-05-2013",
+      "contenuto": "<p>Traduzione degli indirizzi di rete (NAT). UPnP. ICMP. IPv6. Formato del datagram IPv6. Passaggio da IPv4 a IPv6. Metodo dual-stack. Metodo del tunneling.</p>"
+    },
+    {
+      "id": "40",
+      "data": "02-05-2013",
+      "contenuto": "<p>Indirizzamento IPv4. Indirizzamento per classe. Indirizzamento CIDR. Assegnazione di indirizzi IP. Configurazione delle interfacce di rete di host e router. DHCP.</p>"
+    },
+    {
+      "id": "39",
+      "data": "30-04-2013",
+      "contenuto": "<p>Strato di rete. Reti a circuito virtuale e a datagram. Il protocollo IP. Formato dei datagram IPv4. Frammentazione IP.</p>"
+    },
+    {
+      "id": "38",
+      "data": "23-04-2013",
+      "contenuto": "<p>Controllo del flusso. Controllo della congestione TCP. AIMD. Partenza lenta. Reazione a eventi di timeout. Prevenzione della congestione. Descrizione macroscopica del throughput TCP.</p>"
+    },
+    {
+      "id": "37",
+      "data": "18-04-2013",
+      "contenuto": "<p>Stima del tempo di andata e ritorno e di timeout. Intervallo di timeout per le ritrasmissioni. Trasferimento affidabile dei dati. Raddoppio del timeout. Ritrasmissione rapida. Instaurazione della connessione TCP.</p>"
+    },
+    {
+      "id": "36",
+      "data": "16-04-2013",
+      "contenuto": "<p>Lo strato di trasporto. Multiplexing e demultiplexing. UDP. Struttura del segmento UDP. Checksum di UDP. TCP. La connessione TCP.</p>"
+    },
+    {
+      "id": "35",
+      "data": "11-04-2013",
+      "contenuto": "<p>Programmazione delle socket con UDP. Esempio di applicazione Client/Server con UDP in Java. Esempio di un semplice server web.</p>"
+    },
+    {
+      "id": "34",
+      "data": "09-04-2013",
+      "contenuto": "<p>Esempio d'uso dei proxy. Reti per la distribuzione dei contenuti (CDN). Programmazione delle Socket. Programmazione delle Socket con TCP. Esempio di applicazione Client/Server con TCP in Java.</p>"
+    },
+    {
+      "id": "33",
+      "data": "04-04-2013",
+      "contenuto": "<p>Condivisione di file P2P. Directory centralizzata. Directory decentralizzata. Query flooding. Confronto architetture C/S e P2P. Calcolo semplificato del tempo di distribuzione di un file per C/S e P2P. Distribuzione di contenuti. Server proxy.</p>"
+    },
+    {
+      "id": "32",
+      "data": "28-03-2013",
+      "contenuto": "<p>DNS. Servizi forniti dal DNS. Funzionamento del DNS. Record DNS. Messaggi DNS.</p>"
+    },
+    {
+      "id": "31",
+      "data": "26-03-2013",
+      "contenuto": "<p>Il protocollo FTP. Posta Elettronica. SMTP. Formati dei messaggi di posta e MIME. Estensioni MIME per dati non ascii. Protocolli di accesso alla posta. POP3. IMAP. Posta elettronica con HTTP.</p>"
+    },
+    {
+      "id": "30",
+      "data": "21-03-2013",
+      "contenuto": "<p>Formato del messaggio di risposta HTTP. Get condizionato. Interazione utente-server: i cookie. Connessione non persistente e persistente. Connessione persistente senza parallelismo e con parallelismo.</p>"
+    },
+    {
+      "id": "29",
+      "data": "19-03-2013",
+      "contenuto": "<p>Livello di applicazione. I principi delle applicazioni di rete. Lati client e server di un applicazione. Indirizzamento dei processi. Processi di comunicazione nella rete. Servizi formiti dai protocolli di trasporto alle applicazioni. Applicazioni di rete. Web. Il protocollo HTTP. Formato del messaggio di richiesta HTTP.</p>"
+    },
+    {
+      "id": "28",
+      "data": "14-03-2013",
+      "contenuto": "<p>Ritardo totale. Ritardo da host a host. Ritardi e percorsi in Internet. Traceroute e tracert. Perdita di pacchetti. Intensit\u00e0 del traffico. Lo stack protocollare di Internet e il modello ISO OSI. Gli strati di Internet e i servizi che forniscono.</p>"
+    },
+    {
+      "id": "27",
+      "data": "12-03-2013",
+      "contenuto": "<p>Accesso aziendale. Accesso wireless. Mezzi trasmissivi. Doppini in rame. Cavi coassiali. Fibre ottiche. Canali radio terrestri. Canali radio satellitari. Gli ISP e le reti dorsali di Internet. Ritardi e perdite nelle reti a commutazione di pacchetto. Tipi di ritardo: trasmissione, propagazione, elaborazione, coda.\u00a0</p>"
+    },
+    {
+      "id": "26",
+      "data": "07-03-2013",
+      "contenuto": "<p>Multiplazione (multiplexing) nelle reti a commutazione di circuito. Confronto tra commutazione di circuito e commutazione di pacchetto. Frammentazione del messaggio. Reti a commutazione di pacchetto datagram. Accesso alla rete. Accesso residenziale.</p>"
+    },
+    {
+      "id": "25",
+      "data": "05-03-2013",
+      "contenuto": "<p>Internet. Descrizione dei servizi. Definizione di protocollo di rete. Applicazioni client/server. Servizi senza connessione e orientati alla connessione. La sezione interna della rete (nucleo). Commutazione di circuito e commutazione di pacchetto.</p>"
+    },
+    {
+      "id": "24",
+      "data": "15-01-2013",
+      "contenuto": "<p>Le variabili condition. Esempi di sincronizzazione con le variabili condition. Esempio d'uso delle variabili condition nell'implementazione del modello produttore-consumatore.</p>"
+    },
+    {
+      "id": "23",
+      "data": "10-01-2013",
+      "contenuto": "<p>I thread in Linux e Unix. I thread POSIX: la libreria pthread. Creazione e terminazione dei thread. Sincronizzazione tra thread. I mutex pthread. I semafori.</p>"
+    },
+    {
+      "id": "22",
+      "data": "08-01-2013",
+      "contenuto": "<p>Comunicazione: pipe. Esempio d'uso delle pipe. Chiamate di sistema per la sospensione di processi: pause, sleep e uspleep.</p>"
+    },
+    {
+      "id": "21",
+      "data": "20-12-2012",
+      "contenuto": "<p>System call per i file. Interazione tra processi. Sincronizzazione: i segnali. System call per l'uso di segnali. Invio di segnali tra processi.</p>"
+    },
+    {
+      "id": "20",
+      "data": "18-12-2012",
+      "contenuto": "<p>Il file system. Struttura logica del file system. La variabile PATH. Protezione. Autenticazione degli utenti. Il file /etc/passwd. Il file /etc/group. Controllo di accesso alle risorse. ACL in Unix. Organizzazione fisica del file system. Strutture dati del kernel per l'accesso ai file.</p>"
+    },
+    {
+      "id": "19",
+      "data": "13-12-2012",
+      "contenuto": "<p>Terminazione di processi. Sostituzione del codice. Scheduling in Unix. Gestione della memoria.</p>"
+    },
+    {
+      "id": "18",
+      "data": "11-12-2012",
+      "contenuto": "<p>Protezione di file e directory. Matrice di protezione. ACL e C-list. Storia di Unix e Linux. Architettura di Unix. Interazione con l'utente. Shell.Processi e thread. Diagramma degli stati. Immagine di un processo Unix. System call per la gestione di processi. Creazione di processi.</p>"
+    },
+    {
+      "id": "17",
+      "data": "06-12-2012",
+      "contenuto": "<p>Il livello di accesso. Strutture dati e operazioni di accesso ai file. Metodi di accesso: sequenziale, diretto e ad indice. Il livello organizzazione fisica. Tecniche di allocazione dei file. Allocazione contigua. Allocazione a lista concatenata, a lista con FAT, a indice.</p>"
+    },
+    {
+      "id": "16",
+      "data": "04-12-2012",
+      "contenuto": "<p>Gestione del timer. Gestione dei dischi. Criteri di ordinamento dei dati su disco e politiche di scheduling. Esempio di memorizzazione su due tracce contigue e su tracce e settori sparsi. Algoritmi di scheduling FCFS, SSTF e SCAN. Dischi raid. Il file system. Struttura logica del file system. Gestione della stuttura logica del file system.</p>"
+    },
+    {
+      "id": "15",
+      "data": "29-11-2012",
+      "contenuto": "<p>Controller di un dispositivo. Gestione di un dispositivo mediante controllo di programma. Gestione di un dispositivo mediante interrupt. Descrittore di dispositivo. Driver di dispositivo. Gestione di un dispositivo con DMA. Flusso di controllo durante un trasferimento.</p>"
+    },
+    {
+      "id": "14",
+      "data": "27-11-2012",
+      "contenuto": "<p>Classificazione dei dispositivi. Struttura logica del sistema di I/O. Livello indipendente dai dispositivi. Bufferizzazione. Gestione degli errori e delle eccezioni. Tecnica di spooling. Livello dipendente dai dispositivi.</p>"
+    },
+    {
+      "id": "13",
+      "data": "22-11-2012",
+      "contenuto": "<p>Algoritmi di rimpiazzamento delle pagine. Algoritmo second chance. Memoria segmentata e paginata. Gestione degli spazi virtuali. Paginazione a pi\u00f9 livelli. Gestione dell'I/O.</p>"
+    },
+    {
+      "id": "12",
+      "data": "20-11-2012",
+      "contenuto": "<p>Segmentazione su richiesta. Paginazione su richiesta. Gestione del page-fault. Rimpiazzamento delle pagine.</p>"
+    },
+    {
+      "id": "11",
+      "data": "15-12-2012",
+      "contenuto": "<p>Partizioni multiple. Memoria segmentata. Memoria paginata.</p>"
+    },
+    {
+      "id": "10",
+      "data": "13-11-2012",
+      "contenuto": "<p>Gestione della memoria. La memoria virtuale di un processo. Rilocazione statica e dinamica. MMU. Organizzazione della memoria virtuale. Allocazione della memoria fisica. Tecniche di gestione della memoria. Memoria partizionata. Partizioni fisse e variabili.Tecniche di allocazione mediante free-list.</p>"
+    },
+    {
+      "id": "9",
+      "data": "08-11-2012",
+      "contenuto": "<p>Blocco critico (stallo). Esempi di situazioni di stallo. Stallo con risorse consumabili. Condizioni per il blocco critico. Metodi per il trattamento del blocco cristico. Prevenzione statica e dinamica. Algoritmo del banchiere. Rilevamento dei blocchi critici.</p>"
+    },
+    {
+      "id": "8",
+      "data": "06-11-2012",
+      "contenuto": "<p>Semafori. Soluzione al problema della mutua esclusione con semafori. Problema della comunicazione. Soluzione al problema della comunicazione con semafori: produttore-consumatore con buffer di capacit\u00e0 1. Produttore-consumatore con buffer di capacit\u00e0 N. Sincronizzazione dei processi con scambio di messaggi (message passing). Send e receive. Soluzione al problema della comunicazione tra processi. Comunicazione diretta e indiretta. Sincronizzazione tra processi comunicanti.</p>"
+    },
+    {
+      "id": "7",
+      "data": "30-10-2012",
+      "contenuto": "<p>Algoritmi di scheduling real-time. Algoritmo Rate Monotonic (RM). Thread. Thread a livello utente e a livello kernel. Sincronizzazione tra processi. Cooperazione e competizione. Modello ad ambiente globale. Modello ad ambiente locale. Problema della mutua esclusione. Soluzioni al problema della mutua esclusione con attesa attiva.</p>"
+    },
+    {
+      "id": "6",
+      "data": "25-10-2012",
+      "contenuto": "<p>Comportamento dei processi: cpu burst e i/o burst. Parametri di scheduling. Principali algoritmi di scheduling. FCFS. SJF. SRTF. Round robin. Algoritmi di scheduling basati sulle priorit\u00e0. Algoritmi di scheduling a code multiple.</p>"
+    },
+    {
+      "id": "5",
+      "data": "23-10-2012",
+      "contenuto": "<p>Thread. Thread a livello utente e a livello kernel. Scheduling. Scheduling a breve termine, a medio termine e lungo termine.</p>"
+    },
+    {
+      "id": "4",
+      "data": "18-10-2012",
+      "contenuto": "<p>Code di processi. Cambio di contesto. Creazione e terminazione dei processi. Esempio di creazione di processo in unix. Interazione tra i processi. Esempio di processi cooperanti: modello produttore-consumatore. Esempio di processi in competizione. Il kernel di un sistema a processi. Trasferimento tra l'ambiente del kernel e l'ambiente dei processi.</p>"
+    },
+    {
+      "id": "3",
+      "data": "16-10-2012",
+      "contenuto": "<p>Principali modelli strutturali. Sistemi stratificati. Struttura a microkernel. Struttura client-server. Gestione dei processi. Definizione di processo. Stati di un processo. Transizioni di stato. Descrittore del processo.</p>"
+    },
+    {
+      "id": "2",
+      "data": "11-10-2012",
+      "contenuto": "<p>Sistemi a partizione di tempo (time-sharing). Sistemi in tempo reale. Sistemi paralleli e distribuiti. Sistemi operativi per PC. Struttura dei sistemi operativi. Principali componenti del sistema operativo.</p>"
+    },
+    {
+      "id": "1",
+      "data": "09-10-2012",
+      "contenuto": "<p>Introduzione al corso. Principali funzioni di un Sistema operativo. Storia dei sistemi operativi. Sistemi batch. Sistemi batch multiprogrammati.</p>"
+    }
+  ],
+  "materiale": [],
+  "programma": "<table><tr><td><p><em>Parte I: Sistemi operativi </em> (I semestre)\u00a0</p>\n<ul>\n<li>Introduzione ai sistemi operativi.</li>\n<li>Storia e classificazione dei sistemi operativi.</li>\n<li>Principali modelli strutturali.</li>\n<li>Gestione dei processi.</li>\n<li>Threads.</li>\n<li>Sincronizzazione dei processi.</li>\n<li>Gestione della memoria.</li>\n<li>Gestione dell' I/O.</li>\n<li>Gestione del file system.</li>\n<li>I sistemi operativi Unix e Linux.</li>\n<li>Casi di studio: Unix e Linux</li>\n</ul>\n<p><br><em>Parte II: Reti di calcolatori (II semestre)\u00a0 </em></br></p>\n<ul>\n<li>Reti di calcolatori e Internet.</li>\n<li>Strato di applicazione.</li>\n<li>Strato di trasporto.</li>\n<li>Strato di rete e instradamento.</li>\n<li>Strato di collegamento e reti di area locale.</li>\n<li>Reti wireless</li>\n</ul></td></tr></table>",
+  "testiRiferimento": "<table><tr><td><p><em>Testi di riferimento </em><br>Sistemi operativi, II ed. - P. Ancilotti, M. Boari, A. Ciampolini, G. Lipari - McGraw-Hill <br>Reti di Calcolatori e Internet, IV ed. - Un approccio top-down - J.F. Kurose, K.W. Ross - Pearson - Addison Wesley. <br> <br><em>Libri consigliati per approfondimenti </em><br>Sistemi Operativi, VII ed., A. Silberschatz, P. Galvin, G. Gagne. Pearson. <br>I moderni Sistemi Operativi, III ed., A. S. Tanenbaum. Pearson - Prentice Hall. <br>Sistemi operativi, D. M. Dhamdhere, McGraw-Hill. <br>Reti di Calcolatori e Internet, B. A. Forouzan, McGraw-Hill.</br></br></br></br></br></br></br></br></p></td></tr></table>",
+  "ricevimento": "<table><tr><td>Stanza docente (0103) - Marted\u00ec ore 14.00 - 15.00.\r<br/>Per appuntamento via email. \r<br/></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td><p>Gli studenti iscritti al nuovo ordinamento devono sostenere l'esame \"Sistemi operativi e reti\" di 12 crediti. Gli studenti iscritti al vecchio ordinamento devono sostenere separatamente gli esami \"Sistemi operativi\" di 6 crediti e \"Reti di calcolatori\" di 6 crediti. <br>L'esame consiste in una prova scritta e in una prova orale. Il testo della prova scritta \u00e8 suddiviso in due parti. La prima parte \u00e8 composta da un gruppo di 4-5 domande che riguardano argomenti di \"Sistemi operativi\". La seconda parte, \u00e8 composta da un gruppo di 4-5 domande, relative ad argomenti di \"Reti di calcolatori\". Le domande sono del tipo a risposta aperta o sottoforma di problemi. Per la parte Sistemi operativi una delle domande consiste nello sviluppo di un breve programma in linguaggio C basato sulle system call POSIX studiate durante il corso. <br>La durata dell'esame di 12 crediti \u00e8 di 3 ore, mentre la durata dell'esame di 6 crediti \u00e8 di 1 ora e 30 minuti. Durante lo svolgimento della prova scritta \u00e8 vietato l'uso di libri e/o appunti di qualsiasi genere. <br>Per sostenere la prova orale \u00e8 necessario aver superato la prova scritta con una votazione di almeno 18/30. Inoltre, lo studente pu\u00f2 svolgere una tesina facoltativa consistente nella realizzazione di un'applicazione in java basata sulla programmazione dei socket o di un'applicazione multi-thread scritta in c .<br>La tesina deve essere consegnata (personalmente o via e-mail) almeno una settimana prima della data della prova orale. La realizzazione della tesina consente di migliorare la votazione di 1,2 o 3 punti. <br>Per sostenere l'esame \u00e8 obbligatorio prenotarsi mediante il servizio \"Servizi on Line\" all'indirizzo http://delphi.uniroma2.it<br>Una raccolta di testi di esame relativi agli a.a. passati e vari esempi di programmi sulle system call POSIX e sulla programmazione dei socket sono disponibili nell'area \"materiale didattico\".</br></br></br></br></br></br></p>\n<p>\u00a0</p>\n<p><em>Esame parziale (esonero) A.A. 2011/2012 </em></p>\n<p>Gli studenti del nuovo ordinamento possono sostenere, nel solo appello invernale, l'esame parziale (esonero) di \"Sistemi operativi e reti\" che consiste in una prova scritta e in una prova orale basate sugli argomenti della prima parte del corso (Sistemi operativi).</p>\n<p>Lo studente che intende sostenere l'esame parziale deve prenotarsi inviando una e-mail all'indirizzo del docente: frasca@mat.uniroma2.it, indicando come oggetto la frase \"esame parziale SOR A.A. 2011/2012\" e indicando nel messaggio il proprio cognome, nome e numero di matricola. L'e-mail di prenotazione deve arrivare entro il 18/02/2012. <br>Lo studente che supera l'esame parziale deve sostenere la restante parte di SOR entro l'anno accademico 2011/2012. <br>Il testo della prova scritta \u00e8 composto da un gruppo di 4-5 domande. Le domande sono del tipo a risposta aperta o sottoforma di problemi. Una delle domande consiste nello sviluppo di un breve programma in linguaggio C basato sulle system call POSIX studiate durante il corso. La durata della prova scritta dell'esame parziale \u00e8 di 1 ora e 30 minuti. Durante lo svolgimento della prova scritta \u00e8 vietato l'uso di libri e/o appunti di qualsiasi genere. <br>Per sostenere la prova orale \u00e8 necessario aver superato la prova scritta con una votazione di almeno 18/30.</br></br></br></p></td></tr></table>"
+}

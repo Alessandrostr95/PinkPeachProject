@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Linguaggi e traduttori",
+  "docente": [
+    {
+      "first_name": "Stefano",
+      "second_name": "Varricchio"
+    }
+  ],
+  "annoAccademico": "2005-2006",
+  "crediti": "6",
+  "settore": "",
+  "anno": "3",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td> Linguaggi Formali e Compilatori. Grammatiche e automi. Fasi della compilazione. Analisi Lessicale: token, pattern, lessemi. \r\n- Il compilatore LEX. Analisi Sintattica: parsing top-down e bottom-up. \r\n- Parsing predittivo non ricorsivo. Parsing LR: tecniche SLR, LALR, LR canonica. \r\n- Generazione automatica di compilatori. Il compilatore YACC. \r\n- Traduzione Guidata dalla Sintassi: definizioni dirette dalla sintassi, schemi di traslazione. \r\n- Analisi semantica e type checking. Codice intermedio. \r\n</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>Aho, Sethi, Ullmann - Compilers, principles, techniques and tools - Addison-Wesley, Reading, Mass \r\n\r\n</td></tr></table>",
+  "ricevimento": "<table><tr><td>null</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

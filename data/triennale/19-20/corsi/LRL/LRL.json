@@ -1,0 +1,166 @@
+{
+  "nomeCorso": "Logica e reti logiche",
+  "docente": [
+    {
+      "first_name": "Francesco",
+      "second_name": "Pasquale"
+    }
+  ],
+  "annoAccademico": "2019-2020",
+  "crediti": "6",
+  "settore": "INF/01",
+  "anno": "1",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [
+    {
+      "titolo": "Esami sessione estiva - Modalit\u00e0 on-line",
+      "data": "17-06-2020 13:15",
+      "contenuto": "<p>In ottemperanza al D.R. <a href=\"http://web.uniroma2.it/module/name/Content/newlang/italiano/action/showpage/navpath/HOM/content_id/83741/section_id/229\" target=\"_blank\">888/2020 del 11/05/2020</a> gli esami della sessione estiva si svolgeranno \"con modalit\u00e0 a distanza\".</p>\n<p>\u00a0</p>\n<p>Io non uso Microsoft Office 365 per la gestione dei corsi e personalmente disapprovo l'utilizzo in ambito accademico di qualunque piattaforma basata su software proprietario.<br> Gli esami di Logica e Reti Logiche si svolgeranno qui: <br> <a href=\"https://tvalgoteam.site/lrl\" target=\"_blank\">https://tvalgoteam.site/lrl</a><br> (si tratta di un'istanza di <a href=\"https://jitsi.org/\" target=\"_blank\">Jitsi</a> installata su un pc che si trova nella nostra Universit\u00e0).</br></br></br></p>\n<p>\u00a0</p>\n<p>Per sostenere l'esame \u00e8 necessario prenotarsi tramite il sistema <a href=\"https://delphi.uniroma2.it\" target=\"_blank\">Delphi</a>. Istruzioni dettagliate sulle modalit\u00e0 di svolgimento delle prove d'esame sono disponibili <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa1920/lrl/istruzioni_esame_online.html\" target=\"_blank\">qui</a>.</p><hr/>"
+    },
+    {
+      "titolo": "Test Intermedi",
+      "data": "17-06-2020 13:13",
+      "contenuto": "<p><strong>Primo Test</strong> (23 aprile 2020): <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa1920/lrl/test1.pdf\" target=\"_blank\">Compito</a>. <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa1920/lrl/consegnati_primo_test.html\" target=\"_blank\">Hash consegnati</a>. <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa1920/lrl/risultati_primo_test.html\" target=\"_blank\">Risultati</a>.<br> <strong>Secondo Test</strong> (11 giugno 2020): <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa1920/lrl/test2.pdf\" target=\"_blank\">Compito</a>. <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa1920/lrl/consegnati_secondo_test.html\" target=\"_blank\">Hash consegnati</a>. <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa1920/lrl/risultati_secondo_test.html\" target=\"_blank\">Risultati</a>.<br/> <strong><a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa1920/lrl/esonerati.html\" target=\"_blank\">Ammessi</a></strong> direttamente al colloquio orale.</br></p>"
+    }
+  ],
+  "lezioni": [
+    {
+      "id": "25",
+      "data": "11-06-2020",
+      "contenuto": "<p>Secondo test intermedio. <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa1920/lrl/test2.pdf\" target=\"_blank\">Compito</a>. <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa1920/lrl/consegnati_secondo_test.html\" target=\"_blank\">Hash consegnati</a>. <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa1920/lrl/risultati_secondo_test.html\" target=\"_blank\">Risultati</a>.</p>"
+    },
+    {
+      "id": "24",
+      "data": "08-06-2020",
+      "contenuto": "<p><a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa1920/lrl/esercitazione200608.pdf\" target=\"_blank\">Esercitazione</a>. <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa1920/lrl/lavagna_200608.pdf\" target=\"_blank\">Lavagna</a>.</p>"
+    },
+    {
+      "id": "23",
+      "data": "04-06-2020",
+      "contenuto": "<p>Rappresentazione dei numeri frazionari: notazione in <em>virgola fissa</em> e notazione in <em>virgola mobile</em>, lo standard <a href=\"https://en.wikipedia.org/wiki/IEEE_754\" target=\"_blank\">IEEE 754</a>. ([2]: Cap. 5). Cenni allo standard <a href=\"https://en.wikipedia.org/wiki/Unicode\" target=\"_blank\">Unicode</a> e alla codifica <a href=\"https://en.wikipedia.org/wiki/UTF-8\" target=\"_blank\">utf-8</a>.<br> <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa1920/lrl/lavagna_200604.pdf\" target=\"_blank\">Lavagna</a>.</br></p>"
+    },
+    {
+      "id": "22",
+      "data": "28-05-2020",
+      "contenuto": "<p>Circuiti aritmetici: un circuito Sommatore/Sottratore (<em>ripple-carry adder</em>). Riconoscere gli <em>overflow</em>. Migliorare l'efficienza del circuito: sommatore/sottrattore con \"<em>anticipazione di riporto</em>\" (<a href=\"https://en.wikipedia.org/wiki/Carry-lookahead_adder\" target=\"_blank\">carry-lookahead adder</a>). Cenni alle <a href=\"https://en.wikipedia.org/wiki/Arithmetic_logic_unit\" target=\"_blank\">ALU</a> (<em>Arithmetic/Logic Unit</em>). ([2]: Cap. 5).<br> <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa1920/lrl/lavagna_200528.pdf\" target=\"_blank\">Lavagna</a>.</br></p>"
+    },
+    {
+      "id": "21",
+      "data": "25-05-2020",
+      "contenuto": "<p>Cenni ai linguaggi per la descrizione dell'<em>hardware</em> (HDLs). Simulazione e sintesi. ([2]: Cap. 4). Cenni ai <em>sistemi di controllo versione</em> e <a href=\"https://git-scm.com/\" target=\"_blank\">Git</a>.<br> <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa1920/lrl/hdl_examples.zip\">Esempi</a>.<br> (I software utilizzati durante la lezione sono: <a href=\"http://iverilog.icarus.com/\" target=\"_blank\"><em>Icarus Verilog</em></a> per la compilazione del codice <em>Verilog</em>, <a href=\"http://www.clifford.at/yosys/\" target=\"_blank\"><em>Yosys</em></a> per la sintesi dei circuiti, <a href=\"http://gtkwave.sourceforge.net/\" target=\"_blank\"><em>GTKWave</em></a> per le simulazioni).</br></br></p>"
+    },
+    {
+      "id": "20",
+      "data": "21-05-2020",
+      "contenuto": "<p><a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa1920/lrl/esercitazione200521.pdf\" target=\"_blank\">Esercitazione</a>. <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa1920/lrl/lavagna_200521.pdf\" target=\"_blank\">Lavagna</a>.</p>"
+    },
+    {
+      "id": "19",
+      "data": "18-05-2020",
+      "contenuto": "<p>Macchine <a href=\"https://en.wikipedia.org/wiki/Moore_machine\" target=\"_blank\"><em>alla Moore</em></a> e macchine <a href=\"https://en.wikipedia.org/wiki/Mealy_machine\" target=\"_blank\"><em>alla Mealy</em></a>. Codifica degli stati: binaria e <a href=\"https://en.wikipedia.org/wiki/One-hot\" target=\"_blank\"><em>one-hot</em></a>. Modello matematico di automa a stati finiti. Linguaggi. ([2]: Cap. 3)<br> <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa1920/lrl/lavagna_200518.pdf\" target=\"_blank\">Lavagna</a>.</br></p>"
+    },
+    {
+      "id": "18",
+      "data": "14-05-2020",
+      "contenuto": "<p>Circuiti sequenziali sincroni. <a href=\"https://en.wikipedia.org/wiki/Finite-state_machine\" target=\"_blank\">Macchine a stati finiti</a>: equazioni, tabelle e diagrammi di stato. Esempi. ([2]: Cap. 3)<br> <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa1920/lrl/lavagna_200514.pdf\" target=\"_blank\">Lavagna</a>.</br></p>"
+    },
+    {
+      "id": "17",
+      "data": "11-05-2020",
+      "contenuto": "<p>Introduzione ai circuiti sequenziali: <em>Latch</em>, <em>Flip-Flop</em> e registri. ([2]: Cap. 3) <br> <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa1920/lrl/lavagna_200511.pdf\" target=\"_blank\">Lavagna</a>.</br></p>"
+    },
+    {
+      "id": "16",
+      "data": "07-05-2020",
+      "contenuto": "<p><a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa1920/lrl/esercitazione200507.pdf\" target=\"_blank\">Esercitazione</a>. <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa1920/lrl/lavagna_200507.pdf\" target=\"_blank\">Lavagna</a>.</p>"
+    },
+    {
+      "id": "15",
+      "data": "04-05-2020",
+      "contenuto": "<p>Minimizzazione di formule in forma normale: Il <a href=\"https://en.wikipedia.org/wiki/Gray_code\" target=\"_blank\">codice Gray</a> e le <a href=\"https://en.wikipedia.org/wiki/Karnaugh_map\" target=\"_blank\">mappe di Karnaugh</a>. I blocchi funzionali principali dei circuiti combinatori: <em>Encoder</em>, <em>Decoder</em> e <em>Multiplexer</em>. ([2]: Cap. 2) <br> <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa1920/lrl/lavagna_200504.pdf\" target=\"_blank\">Lavagna</a>. Appunti ed esercizi: <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa1920/lrl/ep11a.pdf\" target=\"_blank\">Prima parte</a>, <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa1920/lrl/ep11b.pdf\" target=\"_blank\">Seconda parte</a>.</br></p>"
+    },
+    {
+      "id": "14",
+      "data": "30-04-2020",
+      "contenuto": "<p>Dalla logica ai circuiti. Circuiti per le operazioni aritmetiche <em>Half Adder</em>, <em>Full Adder</em> e un circuito Addizionatore. Forme normali e circuiti: Somme di prodotti (<em>alias</em>, disgiuntiva) e prodotto di somme (<em>alias</em>, congiuntiva). ([2]: Cap. 1-2) <br> <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa1920/lrl/lavagna_200430.pdf\" target=\"_blank\">Lavagna</a>. <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa1920/lrl/ep10.pdf\" target=\"_blank\">Appunti ed esercizi</a>.</br></p>"
+    },
+    {
+      "id": "13",
+      "data": "27-04-2020",
+      "contenuto": "<p>Introduzione alla seconda parte del corso: Reti Logiche. Rappresentazione delle informazioni: binaria, esadecimale, base64. Operazioni aritmetiche e conversioni. Rappresentazione dei numeri in <em>complemento a due</em> (esempio in c: <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa1920/lrl/es2compl.c\" target=\"_blank\">es2compl.c</a>). ([2]: Cap. 1) <br> <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa1920/lrl/lavagna_200427.pdf\" target=\"_blank\">Lavagna</a>. <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa1920/lrl/ep09.pdf\" target=\"_blank\">Appunti ed esercizi</a>.</br></p>"
+    },
+    {
+      "id": "12",
+      "data": "23-04-2020",
+      "contenuto": "<p>Primo test intermedio. <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa1920/lrl/test1.pdf\" target=\"_blank\">Compito</a>. <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa1920/lrl/consegnati_primo_test.html\" target=\"_blank\">Hash consegnati</a>. <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa1920/lrl/risultati_primo_test.html\" target=\"_blank\">Risultati</a>.</p>"
+    },
+    {
+      "id": "11",
+      "data": "20-04-2020",
+      "contenuto": "<p><a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa1920/lrl/esercitazione200420.pdf\" target=\"_blank\">Esercitazione</a>. <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa1920/lrl/lavagna_200420.pdf\" target=\"_blank\">Lavagna</a>.</p>"
+    },
+    {
+      "id": "10",
+      "data": "16-04-2020",
+      "contenuto": "<p>Logica del Primo Ordine (IV). Sistemi assiomatici per la logica del primo ordine. Teorie del primo ordine: assiomi propri e modelli. Cenni all'aritmetica di Peano e di Presburger. I concetti di consistenza, completezza sintattica e decidibilit\u00e0 di una teoria del primo ordine. ([1]: Cap. 8-10)<br> Cenni ad altre logiche: <a href=\"https://en.wikipedia.org/wiki/Epistemic_modal_logic\" target=\"_blank\">Logica della conoscenza</a> e <a href=\"https://terrytao.wordpress.com/2008/02/05/the-blue-eyed-islanders-puzzle/\" target=\"_blank\">il mistero degli isolani dagli occhi blu</a>. (Chi volesse approfondire pu\u00f2 vedere, per esempio, <a href=\"https://terrytao.wordpress.com/2011/05/19/epistemic-logic-temporal-epistemic-logic-and-the-blue-eyed-islander-puzzle-lower-bound/\" target=\"_blank\">qui</a>).<br> <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa1920/lrl/lavagna_200416.pdf\" target=\"_blank\">Lavagna</a>. <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa1920/lrl/ep08.pdf\" target=\"_blank\">Appunti ed esercizi</a>.</br></br></p>"
+    },
+    {
+      "id": "9",
+      "data": "09-04-2020",
+      "contenuto": "<p>Logica del Primo Ordine (III). Formule soddisfacibili e insiemi soddifacibili. Correttezza del metodo dei <em>tableaux</em> per la logica del primo ordine. Insiemi di Hintikka e cenni alla completezza del metodo ([1]: Cap. 9)<br> <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa1920/lrl/lavagna_200409.pdf\" target=\"_blank\">Lavagna</a>. <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa1920/lrl/ep07.pdf\" target=\"_blank\">Appunti ed esercizi</a>.</br></p>"
+    },
+    {
+      "id": "8",
+      "data": "06-04-2020",
+      "contenuto": "<p>Logica del Primo Ordine (II). Il metodo dei <em>tableaux</em> per la logica del primo ordine. ([1]: Cap. 9)<br> <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa1920/lrl/lavagna_200406.pdf\" target=\"_blank\">Lavagna</a>. <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa1920/lrl/ep06.pdf\" target=\"_blank\">Appunti ed esercizi</a>.</br></p>"
+    },
+    {
+      "id": "7",
+      "data": "02-04-2020",
+      "contenuto": "<p>Logica del Primo Ordine (I). Sintassi e semantica. Quantificatori, variabili, lettere predicative, formule. Variabili libere e vincolate, formule chiuse. Formule e interpretazioni nella logica del primo ordine. Formule valide <em>vs</em> tautologie. ([1]: Cap. 8)<br> <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa1920/lrl/lavagna_200402.pdf\" target=\"_blank\">Lavagna</a>. <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa1920/lrl/ep05.pdf\" target=\"_blank\">Appunti ed esercizi</a>.</br></p>"
+    },
+    {
+      "id": "6",
+      "data": "30-03-2020",
+      "contenuto": "<p>Logica Proposizionale (IV). Sistemi assiomatici (<em>Hilbert systems</em>) per la logica proposizionale. Schemi di assiomi e regole di inferenza. La regola di inferenza <em>Modus Ponens</em>. Le definizioni di \"Dimostrazione\", \"Teorema\" e \"Derivazione\" in un sistema assiomatico. Il teorema di deduzione. ([1]: Prima parte del Cap. 7]).<br> <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa1920/lrl/lavagna_200330.pdf\" target=\"_blank\">Lavagna</a>. <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa1920/lrl/ep04.pdf\" target=\"_blank\">Appunti ed esercizi</a>.</br></p>"
+    },
+    {
+      "id": "5",
+      "data": "25-03-2020",
+      "contenuto": "<p>Logica Proposizionale (III). Correttezza e completezza del metodo dei <em>tableaux</em>. ([1]: Cap. 6)<br> <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa1920/lrl/ep03.pdf\" target=\"_blank\">Appunti ed esercizi</a>.</br></p>"
+    },
+    {
+      "id": "4",
+      "data": "19-03-2020",
+      "contenuto": "<p>Logica Proposizionale (II). Il metodo dei <em>tableaux</em> per dimostrare una formula. ([1]: Cap. 6)<br> <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa1920/lrl/ep02.pdf\" target=\"_blank\">Appunti ed esercizi</a>.</br></p>"
+    },
+    {
+      "id": "3",
+      "data": "13-03-2020",
+      "contenuto": "<p>Logica Proposizionale (I). Sintassi e semantica. Variabili, costanti e connettivi. Formule ben formate. Tabelle di verit\u00e0. Tautologie, contraddizioni, contingenze. Interdipendenza dei connettivi: definire un connettivo in termini di altri connettivi. I connettivi <em>joint denial (NOR)</em> e <em>alternative denial (NAND)</em>. ([1]: Cap. 5)<br> <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa1920/lrl/ep01.pdf\" target=\"_blank\">Appunti ed esercizi</a>. <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa1920/lrl/sol_es0105.mp4\" target=\"_blank\">Soluzione dell'Esercizio 5</a>.</br></p>"
+    },
+    {
+      "id": "2",
+      "data": "10-03-2020",
+      "contenuto": "<p>Richiami di matematica: Il principio di induzione e le dimostrazioni per induzione. ([1]: Cap. 4)<br> <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa1920/lrl/ep00.pdf\" target=\"_blank\">Appunti ed esercizi</a>. <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa1920/lrl/v01.mp4\" target=\"_blank\">Video</a>.</br></p>"
+    },
+    {
+      "id": "1",
+      "data": "02-03-2020",
+      "contenuto": "<p>Introduzione al corso. Richiami di matematica: teoria elementare degli insiemi; operatori Booleani ed equazioni Booleane; il metodo degli \"indici\" per verificare le equazioni Booleane; insiemi infiniti e cardinalit\u00e0; insiemi numerabili; corrispondenze biunivoche; il teorema di Cantor. ([1]: Cap. 1 e 2)</p>"
+    }
+  ],
+  "materiale": [
+    {
+      "titolo": "Si veda la pagina del corso sul sito del docente <br> <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa1920/lrl/index.html\" target=\"_blank\">https://www.mat.uniroma2.it/~pasquale/dida/aa1920/lrl/index.html</a></br>",
+      "dataUpload": "28.02.2020 18:58:25",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/LRL/redirect.html",
+      "dimensione": "0 KB"
+    }
+  ],
+  "programma": "<table><tr><td><p><strong>Prima Parte (Logica)</strong><br><br>Richiami di matematica: teoria degli insiemi elementare, algebra Booleana, relazioni e funzioni, principio di induzione.<br>Logica proposizionale: connettivi logici, tabelle di verit\u00e0, variabili, formule, <em>tableaux</em>. Sistemi assiomatici. Correttezza e completezza.<br>Logica del primo ordine: quantificatori, relazioni, propriet\u00e0 e predicati, formule della logica del primo ordine. <em>Tableaux</em> del primo ordine.<br>Cenni al fenomeno dell'incompletezza.<br><br><br/><strong>Seconda Parte (Reti Logiche)</strong><br/><br/>Sistemi numerici e rappresentazione dei numeri: binaria, esadecimale, base64. Le operazioni aritmetiche. Rappresentazione delle informazioni: le codifiche <em>ASCII</em> e <em>Unicode;</em> lo standard <em>IEEE754 </em>per i numeri in virgola mobile.</br></br></br></br></br></br></br></p>\n<p>Funzioni Booleane e forme canoniche. Mappe di Karnaugh. Porte logiche e circuiti logici.<br/>Circuiti combinatori: codificatori e decodificatori, <em>multiplexer</em>, sommatori e sottrattori.<br/>Circuiti sequenziali: <em>Latch</em> e <em>Flip-Flop</em>.</p>\n<p>Cenni ai linguaggi per la descrizione dell'hardware (<em>HDLs</em>).</p>\n<p>Automi a stati finiti.</p></td></tr></table>",
+  "testiRiferimento": "<table><tr><td><p>\u00a0\u00a0\u00a0\u00a0\u00a0 Raymond M. Smullyan<br>[1]\u00a0 <strong>A Beginner's Guide to Mathematical Logic</strong><br/>\u00a0\u00a0\u00a0\u00a0\u00a0 Dover Publications, 2014<br/>\u00a0<br/>\u00a0\u00a0\u00a0\u00a0\u00a0 Sarah L. Harris and David Money Harris<br/>[2]\u00a0 <strong>Sistemi digitali e architettura dei calcolatori</strong><br/>\u00a0\u00a0\u00a0\u00a0\u00a0 Zanichelli, 2017</br></p></td></tr></table>",
+  "ricevimento": "<table><tr><td><p>Durante il periodo delle lezioni (Marzo - Giugno 2020):<br>Marted\u00ec 15:30 - 18:30 oppure su appuntamento.<br/><br/>Al di fuori del periodo delle lezioni:<br/>Su appuntamento.</br></p></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td><p>L'esame consiste in una prova scritta e in un colloquio orale.<br><br/>Durante il corso si effettueranno due test intermedi. Gli studenti che ricevono una valutazione positiva a entrambi i test sono esonerati dalla prova scritta e ammessi a sostenere direttamente il colloquio orale.</br></p></td></tr></table>"
+}

@@ -1,0 +1,181 @@
+{
+  "nomeCorso": "Logica e reti logiche",
+  "docente": [
+    {
+      "first_name": "Francesco",
+      "second_name": "Pasquale"
+    }
+  ],
+  "annoAccademico": "2016-2017",
+  "crediti": "6",
+  "settore": "INF/01",
+  "anno": "1",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [
+    {
+      "titolo": "Sessione Invernale",
+      "data": "15-02-2018 16:39",
+      "contenuto": "<p><strong>Primo Appello </strong>(7 febbraio 2018): <a href=\"http://www.mat.uniroma2.it/~pasquale/dida/aa1617/lrl/invernale1.pdf\" target=\"_blank\">Compito</a>. <a href=\"http://www.mat.uniroma2.it/~pasquale/dida/aa1617/lrl/risultati_invernale_primo.html\" target=\"_blank\">Risultati</a>.</p>\n<p>(Prova orale il 9 febbraio, a partire dalle 10:00 in Aula 3A)</p>\n<p>\u00a0</p>\n<p><strong>Secondo Appello </strong>(14 febbraio 2018): <a href=\"http://www.mat.uniroma2.it/~pasquale/dida/aa1617/lrl/invernale2.pdf\" target=\"_blank\">Compito</a>. <a href=\"http://www.mat.uniroma2.it/~pasquale/dida/aa1617/lrl/risultati_invernale_secondo.html\" target=\"_blank\">Risultati</a>.</p>\n<p>(Prova orale il 16 febbraio, a partire dalle 10:00 in Aula 3A)</p><hr/>"
+    },
+    {
+      "titolo": "Sessione Autunnale",
+      "data": "20-09-2017 20:29",
+      "contenuto": "<p><strong>Primo Appello</strong> (4 settembre 2017): <a href=\"http://www.mat.uniroma2.it/~pasquale/dida/aa1617/lrl/autunnale1.pdf\" target=\"_blank\">Compito</a>. <a href=\"http://www.mat.uniroma2.it/~pasquale/dida/aa1617/lrl/risultati_autunnale_primo.html\" target=\"_blank\">Risultati</a>.</p>\n<p>(Prova orale il 6 settembre, a partire dalle 10:00 in Aula 3A)</p>\n<p>\u00a0</p>\n<p><strong>Secondo Appello</strong> (20 settembre 2017): <a href=\"http://www.mat.uniroma2.it/~pasquale/dida/aa1617/lrl/autunnale2.pdf\" target=\"_blank\">Compito</a>. <a href=\"http://www.mat.uniroma2.it/~pasquale/dida/aa1617/lrl/risultati_autunnale_secondo.html\" target=\"_blank\">Risultati</a>.</p>\n<p>(Prova orale il 22 settembre, a partire dalle 10:00 in Aula 3A)</p><hr/>"
+    },
+    {
+      "titolo": "Sessione Estiva",
+      "data": "21-07-2017 17:20",
+      "contenuto": "<p><strong>Primo Appello</strong> (22 giugno 2017): <a href=\"http://www.mat.uniroma2.it/~pasquale/dida/aa1617/lrl/estiva1a.pdf\" target=\"_blank\">Compito A</a>, <a href=\"http://www.mat.uniroma2.it/~pasquale/dida/aa1617/lrl/estiva1b.pdf\" target=\"_blank\">Compito B</a>. <a href=\"http://www.mat.uniroma2.it/~pasquale/dida/aa1617/lrl/risultati_estiva_primo.html\" target=\"_blank\">Risultati</a>.</p>\n<p>(Prova orale il 26 giugno, a partire dalle 10:00 in Aula 3A)</p>\n<p>\u00a0</p>\n<p><strong>Secondo Appello</strong> (20 luglio 2017): <a href=\"http://www.mat.uniroma2.it/~pasquale/dida/aa1617/lrl/estiva2a.pdf\" target=\"_blank\">Compito A</a>, <a href=\"http://www.mat.uniroma2.it/~pasquale/dida/aa1617/lrl/estiva2b.pdf\" target=\"_blank\">Compito B</a>. <a href=\"http://www.mat.uniroma2.it/~pasquale/dida/aa1617/lrl/risultati_estiva_secondo.html\" target=\"_blank\">Risultati</a>.</p>\n<p>(Prova orale il 24 luglio, a partire dalle 10:00 in Aula 3A)</p><hr/>"
+    },
+    {
+      "titolo": "Test Intermedi",
+      "data": "24-06-2017 11:39",
+      "contenuto": "<p><strong>Primo Test</strong> (4 maggio 2017): <a href=\"http://www.mat.uniroma2.it/~pasquale/dida/aa1617/lrl/test1a.pdf\" target=\"_blank\">Compito A</a>, <a href=\"http://www.mat.uniroma2.it/~pasquale/dida/aa1617/lrl/test1b.pdf\" target=\"_blank\">Compito B</a>. <a href=\"http://www.mat.uniroma2.it/~pasquale/dida/aa1617/lrl/risultati_primo_test.html\" target=\"_blank\">Risultati</a>.</p>\n<p><strong>Secondo Test</strong> (12 giugno 2017): <a href=\"http://www.mat.uniroma2.it/~pasquale/dida/aa1617/lrl/test2a.pdf\" target=\"_blank\">Compito A</a>, <a href=\"http://www.mat.uniroma2.it/~pasquale/dida/aa1617/lrl/test2b.pdf\" target=\"_blank\">Compito B</a>. <a href=\"http://www.mat.uniroma2.it/~pasquale/dida/aa1617/lrl/risultati_secondo_test.html\" target=\"_blank\">Risultati</a>.</p>\n<p><a href=\"http://www.mat.uniroma2.it/~pasquale/dida/aa1617/lrl/ammessi_test_intermedi.html\" target=\"_blank\"><strong>Ammessi</strong></a> all'orale.</p>"
+    }
+  ],
+  "lezioni": [
+    {
+      "id": "26",
+      "data": "15-06-2017",
+      "contenuto": "<p>Discussione degli esercizi del compito.</p>"
+    },
+    {
+      "id": "25",
+      "data": "12-06-2017",
+      "contenuto": "<p>Secondo test intermedio:\u00a0 <a href=\"http://www.mat.uniroma2.it/~pasquale/dida/aa1617/lrl/test2a.pdf\" target=\"_blank\">Compito A</a>, <a href=\"http://www.mat.uniroma2.it/~pasquale/dida/aa1617/lrl/test2b.pdf\" target=\"_blank\">Compito B</a>. <a href=\"http://www.mat.uniroma2.it/~pasquale/dida/aa1617/lrl/risultati_secondo_test.html\" target=\"_blank\">Risultati</a>.</p>"
+    },
+    {
+      "id": "24",
+      "data": "08-06-2017",
+      "contenuto": "<p><a href=\"http://www.mat.uniroma2.it/~pasquale/dida/aa1617/lrl/esercitazione170608.pdf\" target=\"_blank\">Esercitazione</a> sui Circuiti Sequenziali.</p>"
+    },
+    {
+      "id": "23",
+      "data": "05-06-2017",
+      "contenuto": "<p>Circuiti sequenziali: equazioni d'ingresso, tabelle di stato, diagrammi di stato. Automi a stati finiti. ([2]: Cap. 5.4, 5.6)</p>"
+    },
+    {
+      "id": "22",
+      "data": "01-06-2017",
+      "contenuto": "<p>Circuiti Sequenziali: <em>Latch</em>, <em>Flip-Flop</em> e Registri. ([2]: Cap. 5.2, 5.3, 7.1)</p>"
+    },
+    {
+      "id": "21",
+      "data": "29-05-2017",
+      "contenuto": "<p><a href=\"http://www.mat.uniroma2.it/~pasquale/dida/aa1617/lrl/esercitazione170529.pdf\" target=\"_blank\">Esercitazione</a> sui Circuiti Combinatori.</p>"
+    },
+    {
+      "id": "20",
+      "data": "25-05-2017",
+      "contenuto": "<p>Circuiti per la <a href=\"http://www.mat.uniroma2.it/~pasquale/dida/aa1617/lrl/mult.pdf\">moltiplicazione</a>. Cenni ai linguaggi per la descrizione <em>hardware</em> (HDL). ([2]: Cap. 4.5, 4.6)</p>"
+    },
+    {
+      "id": "19",
+      "data": "22-05-2017",
+      "contenuto": "<p>Circuiti per operazioni aritmetiche: <em>Half Adder</em> e <em>Full Adder</em>, richiami sulla rappresentazione dei numeri in complemento a due, Sommatori e Sottrattori, un circuito <em>Adder/Subtractor</em>. Riconoscere gli <em>overflow</em>. ([2]: Cap. 4.2, 4.3, 4.4)</p>"
+    },
+    {
+      "id": "18",
+      "data": "18-05-2017",
+      "contenuto": "<p>Progettazione di circuiti combinatori: affrontare un problema complesso scomponendolo in <em>blocchi funzionali</em> pi\u00f9 semplici. I blocchi funzionali principali dei circuiti combinatori: Codificatori e Decodificatori, Multiplexer e Demultiplexer. ([2]: Cap. 3.2, 3.7, 3.8, 3.9)</p>"
+    },
+    {
+      "id": "17",
+      "data": "15-05-2017",
+      "contenuto": "<p><a href=\"http://www.mat.uniroma2.it/~pasquale/dida/aa1617/lrl/esercitazione170515.pdf\" target=\"_blank\">Esercitazione</a>.</p>"
+    },
+    {
+      "id": "16",
+      "data": "11-05-2017",
+      "contenuto": "<p>Convenzioni sul disegno di circuiti. Semplificazioni di formule: Mappe di Karnaugh ([2]: Cap. 2.4, 2.5)</p>"
+    },
+    {
+      "id": "15",
+      "data": "08-05-2017",
+      "contenuto": "<p>Rappresentazione dei numeri in <a href=\"https://it.wikipedia.org/wiki/Complemento_a_due\" target=\"_blank\">complemento a due</a>. Porte logiche e circuiti. Implementazione di formule della logica proposizionale tramite circuiti. Forme canoniche: <em>maxtermini</em> (alias <em>clausole</em>) e <em>mintermini</em> (alias <em>clausole congiuntive</em>), <em>prodotto di somme</em> (alias <em>forma normale congiuntiva</em>) e <em>somma di prodotti</em> (alias <em>forma normale disgiuntiva</em>). ([2]: Cap. 2.1, 2.2, 2.3)</p>"
+    },
+    {
+      "id": "14",
+      "data": "04-05-2017",
+      "contenuto": "<p>Primo test intermedio:\u00a0 <a href=\"http://www.mat.uniroma2.it/~pasquale/dida/aa1617/lrl/test1a.pdf\" target=\"_blank\">Compito A</a>, <a href=\"http://www.mat.uniroma2.it/~pasquale/dida/aa1617/lrl/test1b.pdf\" target=\"_blank\">Compito B</a>. <a href=\"http://www.mat.uniroma2.it/~pasquale/dida/aa1617/lrl/risultati_primo_test.html\" target=\"_blank\">Risultati</a>.</p>"
+    },
+    {
+      "id": "13",
+      "data": "27-04-2017",
+      "contenuto": "<p>Introduzione alla seconda parte del corso: Reti Logiche. Rappresentazione delle informazioni: rappresentazione binaria ed esadecimale. Operazioni aritmetiche e conversioni. Codici alfanumerici. Codici Gray. ([2]: Cap. 1)</p>"
+    },
+    {
+      "id": "12",
+      "data": "20-04-2017",
+      "contenuto": "<p><a href=\"http://www.mat.uniroma2.it/~pasquale/dida/aa1617/lrl/esercitazione170420.pdf\" target=\"_blank\">Esercitazione</a> sulla Logica del Primo Ordine.</p>"
+    },
+    {
+      "id": "11",
+      "data": "13-04-2017",
+      "contenuto": "<p>Logica del Primo Ordine (III): Correttezza del metodo dei <em>tableaux</em> e cenni alla sua completezza: gli insiemi di Hintikka e il Lemma di Hintikka per la logica del primo ordine. ([1]: Cap. 9)<br> Cenni ad altre logiche: Logica della <em>conoscenza</em> e <a href=\"https://terrytao.wordpress.com/2008/02/05/the-blue-eyed-islanders-puzzle/\" target=\"_blank\">il mistero degli isolani dagli occhi blu</a>.</br></p>"
+    },
+    {
+      "id": "10",
+      "data": "10-04-2017",
+      "contenuto": "<p>Logica del Primo Ordine (II): Variabili libere e vincolate. Formule valide <em>vs</em> tautologie. Il metodo dei <em>tableaux</em> per la logica del primo ordine. ([1]: Cap. 8, 9)</p>"
+    },
+    {
+      "id": "9",
+      "data": "06-04-2017",
+      "contenuto": "<p>Logica del Primo Ordine (I): Quantificatore esistenziale e quantificatore universale. Interdipendenza dei quantificatori. Variabili, parametri e predicati. Le formule nella logica del primo ordine. Interpretazioni: il <em>dominio</em> dell'interpretazione. ([1]: Cap. 8)</p>"
+    },
+    {
+      "id": "8",
+      "data": "03-04-2017",
+      "contenuto": "<p><a href=\"http://www.mat.uniroma2.it/~pasquale/dida/aa1617/lrl/esercitazione170403.pdf\" target=\"_blank\">Esercitazione</a> sulla Logica Proposizionale</p>"
+    },
+    {
+      "id": "7",
+      "data": "27-03-2017",
+      "contenuto": "<p>Logica Proposizionale (IV). Sistemi assiomatici (<em>Hilbert systems</em>) per la logica proposizionale. Schemi di assiomi e regole di inferenza. La regola di inferenza <em>Modus Ponens</em>. Le definizioni di \"Teorema\", \"Dimostrazione\" e \"Derivazione\" in un sistema assiomatico. Due esempi di sistemi assiomatici per la logica proposizionale. Correttezza dei sistemi e cenni alla loro completezza. ([1]: Prima parte del Cap. 7)</p>"
+    },
+    {
+      "id": "6",
+      "data": "23-03-2017",
+      "contenuto": "<p>Logica Proposizionale (III). Correttezza e completezza del metodo dei <em>tableaux</em>. Gli insiemi di Hintikka e il Lemma di Hintikka. ([1]: Cap. 6). Cenni a un altro sistema di refutazione: Formule in forma normale congiuntiva e <a href=\"https://en.wikipedia.org/wiki/Resolution_%28logic%29\" target=\"_blank\"><em>resolution</em></a>.</p>"
+    },
+    {
+      "id": "5",
+      "data": "20-03-2017",
+      "contenuto": "<p>Logica Proposizionale (II). Il metodo dei <em>tableaux</em> per dimostrare una formula. ([1]: Cap. 6) Implicazione logica e il significato di <a href=\"https://en.wikipedia.org/wiki/Necessity_and_sufficiency\" target=\"_blank\">condizione necessaria e condizione sufficiente</a>.</p>"
+    },
+    {
+      "id": "4",
+      "data": "16-03-2017",
+      "contenuto": "<p><a href=\"http://www.mat.uniroma2.it/~pasquale/dida/aa1617/lrl/esercitazione170316.pdf\" target=\"_blank\">Esercitazione</a>.</p>"
+    },
+    {
+      "id": "3",
+      "data": "13-03-2017",
+      "contenuto": "<p>Logica Proposizionale (I). Variabili proposizionali e connettivi logici: negazione, congiunzione, disgiunzione, implicazione, equivalenza. Tabelle di verit\u00e0. Formule proposizionali e interpretazioni. Tautologie, contraddizioni, contingenze. Implicazione logica e equivalenza logica di due formule. Interdipendenza dei connettivi: definire un connettivo in termini di altri connettivi. I connettivi <em>joint denial (NOR)</em> e <em>alternative denial (NAND)</em>. ([1]: Cap. 5)</p>"
+    },
+    {
+      "id": "2",
+      "data": "09-03-2017",
+      "contenuto": "<p>I paradossi nella teoria degli insiemi elementare: \"l'insieme di tutti gli insiemi\", il paradosso di Russell, Hypergame. Cenni alla teoria assiomatica degli insiemi. Richiami di matematica: Il principio di induzione matematica e le dimostrazioni per induzione. ([1]: Cap 3 e 4)</p>"
+    },
+    {
+      "id": "1",
+      "data": "06-03-2017",
+      "contenuto": "<p>Introduzione al corso. Richiami di teoria elementare degli insiemi: operatori Booleani ed equazioni Booleane, il metodo degli \"indici\" per verificare le equazioni Booleane; insiemi infiniti e cardinalit\u00e0; insiemi numerabili, il teorema di Cantor. ([1]: Cap. 1 e 2)</p>"
+    }
+  ],
+  "materiale": [
+    {
+      "titolo": "Si veda la pagina del corso sul sito del docente",
+      "dataUpload": "08.03.2017 19:59:59",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/LRL/lrl.html",
+      "dimensione": "0 KB"
+    }
+  ],
+  "programma": "<table><tr><td><p>Prima Parte (Logica)</p>\n<p>Richiami di matematica: teoria degli insiemi elementare, algebra Booleana, relazioni e funzioni, principio di induzione.</p>\n<p>Logica proposizionale: connettivi logici, tabelle di verit\u00e0, variabili, formule, tableaux. Logica proposizionale assiomatica.</p>\n<p>Logica del primo ordine: quantificatore universale e quantificatore esistenziale, relazioni, propriet\u00e0 e predicati, formule della logica del primo ordine. Logica del primo ordine assiomatica. Correttezza e completezza.</p>\n<p>Cenni al fenomeno dell'incompletezza.</p>\n<p>\u00a0</p>\n<p>Seconda Parte (Reti Logiche)</p>\n<p>Segnali analogici e informazione digitale. Sistemi numerici, operazioni aritmetiche. Le codifiche ASCII e Unicode. I codici Gray. Porte logiche e circuiti logici, linguaggi per la descrizione dell'hardware (HDLs). Funzioni Booleane e forme canoniche. Mappe di Karnaugh.</p>\n<p>Circuiti combinatori: codificatori e decodificatori, multiplexer, sommatori e sottrattori.</p>\n<p>Circuiti sequenziali: Latch e Flip-Flop. Sincronizzazione e metastabilit\u00e0.</p>\n<p>Automi a stati finiti.</p></td></tr></table>",
+  "testiRiferimento": "<table><tr><td><p>\u00a0 \u00a0 \u00a0 Raymond M. Smullyan</p>\n<p>[1]<em>\u00a0 A Beginner's Guide to Mathematical Logic</em></p>\n<p>\u00a0 \u00a0 \u00a0 Dover Publications, 2014</p>\n<p>\u00a0</p>\n<p>\u00a0</p>\n<p>\u00a0 \u00a0 \u00a0 Morris Mano, Charles R. Kime</p>\n<p>[2] \u00a0<em>Reti Logiche</em></p>\n<p>\u00a0 \u00a0 \u00a0 Prentice Hall, 2008</p></td></tr></table>",
+  "ricevimento": "<table><tr><td><p>Durante il periodo delle lezioni (Marzo - Giugno 2017):<br>Mercoled\u00ec 15:00 - 18:00 oppure su appuntamento. <br><br> Al di fuori del periodo delle lezioni:<br> Su appuntamento. \u00a0</br></br></br></br></p></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td><p>L'esame consiste in una prova scritta e in un colloquio orale.</p>\n<p>\u00a0</p>\n<p>Durante il corso si effettueranno due test intermedi. Gli studenti che ricevono una valutazione positiva a entrambi i test sono esonerati dalla prova scritta e ammessi a sostenere direttamente il colloquio orale.</p></td></tr></table>"
+}

@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Algoritmi e strutture di dati 2",
+  "docente": [
+    {
+      "first_name": "Andrea",
+      "second_name": "Clementi"
+    }
+  ],
+  "annoAccademico": "2007-2008",
+  "crediti": "6",
+  "settore": "",
+  "anno": "3",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>Il programma e il materiale del corso (UGUALI A QUELLI DELL'ANNO 06-07) sono  disponibili  al sito \r\n\r\nhttp://www.mat.uniroma2.it/~pasquale/aa0607/asd2.htm</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>null</td></tr></table>",
+  "ricevimento": "<table><tr><td> per appuntamento tramite email  \r\n\r\nclementi@mat.uniroma2.it , pasquale@mat.uniroma2.it</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

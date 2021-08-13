@@ -1,0 +1,99 @@
+{
+  "nomeCorso": "Machine learning",
+  "docente": [
+    {
+      "first_name": "Giorgio",
+      "second_name": "Gambosi"
+    }
+  ],
+  "annoAccademico": "2015-2016",
+  "crediti": "9",
+  "settore": "INF/01",
+  "anno": "2",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [
+    {
+      "titolo": "Appello sessione invernale",
+      "data": "29-01-2017 17:52",
+      "contenuto": "<p><span style=\"widows: 1;\">L'appello di esame della sessione invernale avr\u00e0 luogo marted\u00ec 28-2-2017 alle ore 14 nello studio del docente.</span></p><hr/>"
+    },
+    {
+      "titolo": "",
+      "data": "11-06-2016 14:39",
+      "contenuto": "<p><span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">I materiali messi a disposizione degli studenti saranno accessibili alla seguente\u00a0</span><a href=\"https://www.dropbox.com/sh/z8ghmlahr1k077c/AACutvdlob9FMZVdoVPmrkQYa?dl=0\" style=\"text-align: justify;\">cartella dropbox</a><span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0(aprire il link in una diversa finestra)</span></p><hr/>"
+    },
+    {
+      "titolo": "Date esami sessione estiva",
+      "data": "24-05-2016 22:11",
+      "contenuto": "<p><span style=\"color: #000000; font-family: verdana, arial, helvetica; font-size: 11px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; display: inline !important; float: none; background-color: #ffffff;\">I due appelli di esame della sessione estiva avranno luogo, rispettivamente, venerd\u00ec 24-6 e luned\u00ec 25-7, in entrambi i casi alle ore 10 nello studio del docente.</span></p><hr/>"
+    },
+    {
+      "titolo": "",
+      "data": "26-03-2016 11:25",
+      "contenuto": "<p>Si comunica che, successivamente alla pausa per la Pasqua, le lezioni riprenderanno venerd\u00ec 1 Aprile.</p><hr/>"
+    },
+    {
+      "titolo": "",
+      "data": "21-03-2016 14:17",
+      "contenuto": "<p>Per motivi di salute, la lezione di marted\u00ec 22 marzo \u00e8 rimandata a data da definire. Le lezioni riprenderanno dopo le vacanze pasquali.</p><hr/>"
+    },
+    {
+      "titolo": "",
+      "data": "09-03-2016 18:33",
+      "contenuto": "<p>Nella cartella 'Libri', all'interno della cartella dropbox condivisa, sono disponibili alcuni testi di Machine learning e di programmazione Python liberamente disponibili su Internet</p><hr/>"
+    },
+    {
+      "titolo": "",
+      "data": "09-03-2016 18:30",
+      "contenuto": "<p>All'indirizzo\u00a0<a href=\"http://pybrain.org/\">http://pybrain.org/</a>\u00a0\u00e8 disponibile la documentazione di PyBrain, package Python per la definizione di reti neurali</p><hr/>"
+    },
+    {
+      "titolo": "",
+      "data": "09-03-2016 18:29",
+      "contenuto": "<p>All'indirizzo\u00a0<a href=\"http://scikit-learn.org/stable/\">http://scikit-learn.org/stable/</a> \u00e8 disponibile la documentazione di scikit-learn, package Python di machine learning</p><hr/>"
+    },
+    {
+      "titolo": "",
+      "data": "09-03-2016 18:27",
+      "contenuto": "<p>All'indirizzo\u00a0<a href=\"http://www.scipy-lectures.org/\">http://www.scipy-lectures.org/</a> sono disponibili tutorial sui package Numpy, Scipy, Matplotlib</p><hr/>"
+    },
+    {
+      "titolo": "",
+      "data": "09-03-2016 18:25",
+      "contenuto": "<p>All'indirizzo\u00a0<a href=\"https://www.continuum.io/downloads\">https://www.continuum.io/downloads</a> \u00e8 disponibile l'ambiente di programmazione Python Anaconda: include l'editor Spyder</p><hr/>"
+    },
+    {
+      "titolo": "",
+      "data": "09-03-2016 18:23",
+      "contenuto": "<p>All'indirizzo\u00a0<a href=\"https://store.enthought.com/downloads\">https://store.enthought.com/downloads</a> \u00e8 disponibile l'ambiente Enthought Canopy di programmazione Python: \u00e8 prevista una academic license per docenti e studenti.\u00a0</p><hr/>"
+    },
+    {
+      "titolo": "",
+      "data": "09-03-2016 18:18",
+      "contenuto": "<p><span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Al seguente <a href=\"http://www.scipy.org/index.html\">indirizzo</a>, documentazione sui package Pyhton Numpy, Scipy, Matplotlib, Pandas\u00a0</span><span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">e sull'ambiente IPython</span></p>"
+    }
+  ],
+  "lezioni": [
+    {
+      "id": "3",
+      "data": "15-03-2016",
+      "contenuto": "<p>Cenni di statistica bayesiana.\u00a0Distribuzioni coniugate. Esempi.\u00a0Model fitting: maximum likelihood, maximum a posteriori. Modelli di previsione: approccio fully bayesian.</p>"
+    },
+    {
+      "id": "2",
+      "data": "09-03-2016",
+      "contenuto": "<p>Esempio di regressione polinomiale. Overfitting. Utilizzo di funzioni di penalit\u00e0. Richiami di probabilit\u00e0.</p>"
+    },
+    {
+      "id": "1",
+      "data": "08-03-2016",
+      "contenuto": "<p>Aspetti organizzativi del corso. Introduzione all'apprendimento automatico. Supervised e unsupervised learning.</p>"
+    }
+  ],
+  "materiale": [],
+  "programma": "<table><tr><td><p><span style=\"color: #666154; font-family: 'trebuchet ms', sans-serif; font-size: 12px;\">Pattern recognition e machine learning. Schema generale di un sistema di ML. Inferenza. Apprendimento supervisionato e non supervisionato. Regressione lineare. Funzioni base e regressione. Overfitting e funzioni di penalizzazione. Model selection. Introduzione alla teoria delle decisioni. Classificazione: approcci (funzioni di discriminazione, modelli probabilistici discriminativi, modelli probabilistici generativi). Riduzione di dimensionalit\u00e0 e feature selection. Il modello connessionistico. Reti neurali a pi\u00f9 strati. Apprendimento di reti neurali. Optimal margin classifiers e support vector machines. Funzioni kernel. Metodi non parametrici per la stima di probabilit\u00e0: applicazione alla classificazione. Apprendimento non supervisionato. Clustering. Algoritmo k-means. Modelli di mistura di distribuzioni. Modelli a variabili latenti e algoritmo EM. Modello probabilistico di PCA. Factor analysis.\u00a0</span><span style=\"color: #666154; font-family: 'trebuchet ms', sans-serif; font-size: 12px;\">Ensemble methods.</span><span style=\"color: #666154; font-family: 'trebuchet ms', sans-serif; font-size: 12px;\">\u00a0</span><span style=\"color: #666154; font-family: 'trebuchet ms', sans-serif; font-size: 12px;\">Modelli statistici del testo. LSA, PLSA, Topic models. Utilizzo di strumenti in ambiente Python per l'analisi e l'apprendimento da dataset reali.</span></p></td></tr></table>",
+  "testiRiferimento": "<table><tr><td><p><span style=\"color: #666154; font-family: 'trebuchet ms', sans-serif; font-size: 12px;\">C. M. Bishop \"Pattern recognition and machine learning\", Springer</span></p></td></tr></table>",
+  "ricevimento": "<table><tr><td><p><span style=\"color: #666154; font-family: 'trebuchet ms', sans-serif; font-size: 12px; text-align: justify;\">Al termine delle lezioni. E' possibile inoltre richiedere un appuntamento via mail.</span></p></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td><p><span style=\"color: #666154; font-family: 'trebuchet ms', sans-serif; font-size: 12px; text-align: justify;\">Colloquio orale. E' previsto un progetto di applicazione di metodi di ML ad uno specifico problema e la redazione della relativa relazione. Per l'iscrizione all'esame \u00e8 richiesta la prenotazione sul sito delphi.uniroma2.it</span></p></td></tr></table>"
+}

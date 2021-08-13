@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Fisica 2",
+  "docente": [
+    {
+      "first_name": "Claudio",
+      "second_name": "Goletti"
+    }
+  ],
+  "annoAccademico": "2007-2008",
+  "crediti": "3",
+  "settore": "",
+  "anno": "3",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>Programma del corso di Fisica 2.\r\nA.A. 2007-2008\r\n\r\n1. La carica elettrica. Modi per elettrizzare un corpo. Conduttori ed isolanti. Propriet\u00e0 della carica elettrica. Unit\u00e0 di misura della carica elettrica. Legge di Coulomb.\r\n\r\n(Cap. 22 dellla quinta edizione del testo indicato, tutto) \r\n\r\n2. Il campo elettrico. Linee di forza del campo elettrico. Principio di sovrapposizione. Campo elettrico di una carica puntiforme, di un dipolo, di un anello carico, di un disco carico, di un piano carico infinito. Comportamento di una carica puntiforme e di un dipolo in un campo elettrico.\r\n\r\n(Cap. 23) \r\n\r\n3. Legge di Gauss. Flusso del campo elettrico. Equivalenza tra legge di gauss e legge di Coulomb. Campo elettrico di un filo infinito, di un piano infinito. Campo elettrico all'interno di un conduttore. distribuzione di carica su un conduttore. Campo elettrico di:  una distribuzione sferica di carica con densit\u00e0 costante; due piastre conduttrici; due piastre isolanti. \r\n\r\n(Cap. 24)\r\n\r\n4. Potenziale elettrico. Energia potenziale elettrica. Campi conservativi. Il volt. Come calcolare il potenziale dal campo elettrico.  \r\nPotenziale di una singola carica puntiforme e di un insieme di cariche puntiformi.\r\nPotenziale di un dipolo elettrico. Potenziale dovuto ad una distribuzione continua di carica: i) carica lineare (barretta di lunghezza finita, filo infinito); ii) disco carico.\r\nPotenziale di un guscio carico, di una sfera conduttrice piena, di una sfera di materiale isolante uniformemente carica. Potenziale di un generico conduttore carico isolato.\r\nEnergia potenziale elettrica di un sistema di cariche.\r\nCome calcolare il campo elettrico noto il potenziale.\r\n\r\n(Cap. 25)\r\n\r\n\r\n5. Capacit\u00e0 elettrica. Definizione ed unit\u00e0 di misura: il farad. Il condensatore. Calcolo della capacit\u00e0 di un condensatore: i) a facce piane e parallele; ii) cilindrico; iii) sferico. Condensatori collegati in serie e in parallelo.\r\nEnergia immagazzinata in un condensatore. Densit\u00e0 di energia del campo elettrico.\r\nCondensatore in presenza di un dielettrico. Costante dielettrica relativa. Aspetto atomico dei dielettrici. Legge di Gauss per un dielttrico. Il vettore spostamento dielettrico D.\r\n\r\n(Cap. 26)\r\n\r\nIl corso \u00e8 integrato dallo svolgimento e discussione di esercizi sugli argomenti trattati\r\n\r\nRoma, 20 dicembre 2007.</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>D. Halliday, R. Resnick, J. Walker: \"Fondamenti di Fisica\", vol. 2, Casa Editrice Ambrosiana</td></tr></table>",
+  "ricevimento": "<table><tr><td>studio (corridoio C1, tel. 4288) o laboratorio (corridoio E0, tel 4427) del docente, ogni marted\u00ec dalle 15 alle 16</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Metodi numerici per l'ottimizzazione",
+  "docente": [
+    {
+      "first_name": "Stefano",
+      "second_name": "Fanelli"
+    }
+  ],
+  "annoAccademico": "2004-2005",
+  "crediti": "6",
+  "settore": "",
+  "anno": "1",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>L'approccio del gradiente. Il metodo di discesa piu' ripida \r\nIl metodo del gradiente coniugato: il caso quadratico. \r\nIl metodo di Fletcher-Reeves : il caso generale. \r\nIl metodo di Newton-Raphson. \r\nFunzioni convesse n-dimensionali. \r\nProblemi di Programmazione Convessa. Condizioni di Kuhn-Tucker\r\nL'algoritmo di Wolfe. L'algoritmo del gradiente ridotto.\r\nProblemi di Programmazione Non Lineare generale.\r\nL'approccio Quasi-Newtoniano:  metodi BFGS. \r\nApplicazioni a problemi di ottimizzazione su Reti Neuronali. \r\nAttrattori terminali e modelli di ottimizzazione globale su Reti\r\nMLP.</td></tr></table>",
+  "testiRiferimento": "<table><tr><td></td></tr></table>",
+  "ricevimento": "<table><tr><td>Martedi ore 17.00-19.00 studio 1120 - Primo piano</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

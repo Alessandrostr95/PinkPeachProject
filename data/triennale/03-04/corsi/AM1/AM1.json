@@ -1,0 +1,26 @@
+{
+  "nomeCorso": "Analisi matematica 1",
+  "docente": [
+    {
+      "first_name": "Giuseppe",
+      "second_name": "Benfatto"
+    },
+    {
+      "first_name": "Enrico",
+      "second_name": "Valdinoci"
+    }
+  ],
+  "annoAccademico": "2003-2004",
+  "crediti": "6",
+  "settore": "",
+  "anno": "1",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>http://axp.mat.uniroma2.it/~liverani/Inform1-2/analisi1.html</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>null</td></tr></table>",
+  "ricevimento": "<table><tr><td>null</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

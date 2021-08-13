@@ -1,0 +1,26 @@
+{
+  "nomeCorso": "Linguaggi e traduttori",
+  "docente": [
+    {
+      "first_name": "Dora",
+      "second_name": "Giammarresi"
+    },
+    {
+      "first_name": "Maurizio",
+      "second_name": "Letizia"
+    }
+  ],
+  "annoAccademico": "2011-2012",
+  "crediti": "6",
+  "settore": "INF/01",
+  "anno": "3",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Fondamenti di informatica. Programmazione dei calcolatori con laboratorio.",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>vedi pag. personale \"http://www.mat.uniroma2.it/~giammarr/Teaching/Compilatori/index.html\"\r<br/></td></tr></table>",
+  "testiRiferimento": "<table><tr><td>vedi pag. personale \"http://www.mat.uniroma2.it/~giammarr/Teaching/Compilatori/index.html\"\r<br/></td></tr></table>",
+  "ricevimento": "<table><tr><td>vedi pag. personale \"http://www.mat.uniroma2.it/~giammarr/Teaching/Compilatori/index.html\"\r<br/></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

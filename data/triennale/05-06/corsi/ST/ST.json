@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Statistica per la ricerca sperimentale e tecnologica",
+  "docente": [
+    {
+      "first_name": "Claudio",
+      "second_name": "Macci"
+    }
+  ],
+  "annoAccademico": "2005-2006",
+  "crediti": "6",
+  "settore": "",
+  "anno": "2",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>La stesura del programma verra' effettuata a fine corso; comunque coincide con gli argomenti delle lezioni.\r\n\r\nA meno di piccole varianti il programma dovrebbe coincidere con quello dell'anno passato (2004-2005):\r\nhttp://www.mat.uniroma2.it/~macci/programmaST20042005.rtf</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>Anche per quest'anno faro' riferimento al seguente libro:\r\nP. Baldi, \"Introduzione alla probabilita' con elementi di statistica\", McGraw-Hill, 2003.\r\nPer un approfondimento e un'introduzione elementare di argomenti piu' avanzati ed applicati (es. catene di Markov, code) si consiglia il seguente libro:\r\nF. Biagini, M. Campanino, \"Elementi di Probabilita' e Statistica\", Springer, 2005.</td></tr></table>",
+  "ricevimento": "<table><tr><td>da fissare in accordo con gli studenti o per appuntamento</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

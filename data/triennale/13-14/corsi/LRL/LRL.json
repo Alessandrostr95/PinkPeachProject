@@ -1,0 +1,58 @@
+{
+  "nomeCorso": "Logica e reti logiche",
+  "docente": [
+    {
+      "first_name": "Fabio Massimo",
+      "second_name": "Zanzotto"
+    }
+  ],
+  "annoAccademico": "2013-2014",
+  "crediti": "6",
+  "settore": "ING-INF/05",
+  "anno": "1",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [
+    {
+      "titolo": "Risultati prova 13/2/2015",
+      "data": "16-02-2015 23:07",
+      "contenuto": "<p>I risultati all'url:</p>\n<p>http://www.mat.uniroma2.it/~intrigil/RISULTATI_LRL_12_2_15.pdf</p><hr/>"
+    },
+    {
+      "titolo": "Risultati prova 19/9/14",
+      "data": "27-09-2014 01:47",
+      "contenuto": "<p>I risultati all'url:</p>\n<p>http://www.mat.uniroma2.it/~intrigil/Risultati_prova_19_9_14.pdf</p><hr/>"
+    },
+    {
+      "titolo": "Risultati prova 17/7/14",
+      "data": "23-07-2014 23:33",
+      "contenuto": "<p>I risultati all'url:</p>\n<p>http://www.mat.uniroma2.it/~intrigil/Risultati_LRL_17_7_14.pdf</p><hr/>"
+    },
+    {
+      "titolo": "Risultati prova 23/6/2014",
+      "data": "02-07-2014 13:37",
+      "contenuto": "<p>I risultati della prova all'url:</p>\n<p>http://www.mat.uniroma2.it/~intrigil/Prova_LRL_23_6_14.pdf</p><hr/>"
+    },
+    {
+      "titolo": "Supporto per la formazione dei gruppi.",
+      "data": "15-03-2014 13:17",
+      "contenuto": "<p>Tutti coloro che non riescono a formare i gruppi devono darne comunicazione per email.</p><hr/>"
+    },
+    {
+      "titolo": "GRUPPI",
+      "data": "09-03-2014 18:21",
+      "contenuto": "<p>TUTTI coloro che seguono il corso, INDIPENDENTEMENTE DALLA FREQUENZA, devono formare dei gruppi e darne comunicazione per email all'indirizzo: intrigil@mat.uniroma2.it.</p>\n<p>I gruppi devono essere formati da almeno tre persone e non pi\u00f9 di cinque persone. Coloro che trovano difficolt\u00e0 a formare i gruppi ne devono dare comunicazione per email all'indirizzo precedente.</p><hr/>"
+    },
+    {
+      "titolo": "Contatti",
+      "data": "04-03-2014 19:56",
+      "contenuto": "<p>Per contattare il docente scrivere a :</p>\n<p>intrigil@mat.uniroma2.it</p>"
+    }
+  ],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td><p>PRIMA PARTE (LOGICA)</p>\n<p>(riferimenti al libro: L. Carlucci Aiello\u00a0 - F. Pirri Strutture Logica Linguaggi)</p>\n<p>1) Aspetti generali della sintassi: (Punto 4.3 del libro)<br> - alfabeti<br> - stringhe<br> - linguaggi<br> - operazione di concatenazione<br> - definizioni ricorsive sulle stringhe<br> 2) Sintassi della logica proposizionale: (Punto 5.2 \u00a0del libro)<br> - simboli proposizionali (chiamati anche: variabili proposizionali)<br> - costanti true/false<br> - connettivi<br> - parentesi<br> - formule ben formate (vedi anche punto 4.4)<br> - precedenza degli operatori<br/> - albero sintattico (vedi dispensa)<br/> - definizioni ricorsive su alberi sintattici<br/> 3) Semantica della logica proposizionale (Punto 5.3 del libro)<br/> - semantica delle costant true/false<br/> - semantica dei connettivi (tavole di verit\u00e0)<br/> - assegnazione<br/> - valutazione<br/> - soddifacibilit\u00e0<br/> - tautologie<br/> -conseguenza logica<br/> - equivalenza logica<br/> - tavola di verit\u00e0 di una formula proposizionale<br/> - completezza dei connettivi logici (vedi dispensa e Punto 5.5)<br/> 4) Sistema assiomatico hilbertiano per la logica proposizionale (Punto<br/> 6.1 del libro)<br/> - sistema di assiomi (NOTA BENE vedi correzione su dispensa)<br/> - regole di inferenza: sostituzione su assiomi e modus ponens<br/> - dimostrazione<br/> - derivazione da un insieme di premesse<br/> - teorema di deduzione<br/> - correttezza e completezza del sistema assiomatico (vedi Punto 6.2 +<br/> dispensa per la completezza)<br/> 5) Sintassi della logica predicativa: (Punto 7.1 \u00a0del libro)<br/> - simboli predicati \u00a0(chiamati anche: simboli di relazioni)<br/> - arit\u00e0 o numero di posti di un simbolo di relazione<br/> - simbolo dell'uguaglianza<br/> - simboli di funzione<br/> - arit\u00e0 o numero di posti di un simbolo di funzione<br/> - simboli di costante<br/> - simboli di variabile<br/> - costanti true/false<br/> - connettivi<br/> -quantificatori<br/> - parentesi<br/> - termini<br/> - formule ben formate<br/> - albero sintattico<br/> - precedenza degli operatori<br/> - variabili libere e legate (o vincolate)<br/> - sostituzioni di termini al posto di variabili<br/> - \"cattura di variabili libere\" nelle sostituzioni<br/> 3) Semantica della logica predicativa (Punto 7.2 del libro)<br/> - domini<br/> - interpretazioni<br/> - strutture<br/> - assegnazioni (di elementi del dominio alle variabili)<br/> - soddifacibilit\u00e0<br/> - verit\u00e0<br/> - validit\u00e0<br/> - implicazione logica (7.19)<br/> - equivalenza logica<br/> 4) (opzionale) Soddisfacibilit\u00e0 e definizione di insiemi e relazioni<br/> (Punto 7.2.3 e esempi fatti a lezione)</br></br></br></br></br></br></br></br></br></br></br></br></p>\n<p>5) Sistema hilbertiano predicativo (Punto 8.3 del libro)<br/> - Assiomi logici<br/> - Regole di inferenza<br/> - Concetto di derivazione e dimostrazione<br/> - Esempi semplici di derivazioni<br/> 6) Assiomi propri e teorie del primo ordine<br/> - Esempi di teorie del primo ordine:<br/> - grafi<br/> - liste<br/> - algebre di boole</p>\n<p>\u00a0</p>\n<p>SECONDA PARTE RETI LOGICHE</p>\n<p>(Riferimenti al libro:</p>\n<p>M. Morris Mano - Charles R. Kime</p>\n<p>Reti logiche)</p>\n<p><br/> <br/> 1) Segnali logici e segnali analogici<br/> - Elaborazione digitale e analogica, sistemi ibridi<br/> - Digitalizzazione di un segnale analogico: quantizzazione<br/> dell'intervallo dei valori, tempo di campionamento<br/> (Capitolo 1 del libro)<br/> 2) Sistemi numerici digitali<br/> - Conversione di numeri interi e decimali in binario<br/> - operazioni aritmetiche in rappresentazione binaria<br/> (Capitolo 1 del libro)<br/> - operazione di somma di numeri positivi con limitazione del numero di<br/> bit, overflow<br/> - operazione di differenza fra numeri positivi con comparazione<br/> - operazione di differenza fra numeri positivi con correzione<br/> - operazione di somma (e sottrazione) di numeri interi rappresentati<br/> con valore assoluto e segno<br/> - operazione di somma (e sottrazione) di numeri interi rappresentati<br/> in complemento a due, condizioni di overflow<br/> (Capitolo 4 del libro)<br/> 3) la rappresentazione dei numeri interi decimali in virgola mobile<br/> - segno, mantissa, esponente<br/> - normalizzazione<br/> - operazione di somma e prodotto<br/> - lo standard IEEE 754<br/> - problemi nella gestione dei numeri in virgola mobile</p>\n<p>(NOTA BENE: questa parte non si trova sul libro, contattate il docente)<br/> 4) Circuiti logici combinatori<br/> - algebra di boole {0,1}<br/> - operatori booleani e porte logiche<br/> - leggi dell'algebra di boole<br/> - funzioni booleane a n <span class=\"il\">argomenti</span> e m valori<br/> - rappresentazione delle funzioni booleane:<br/> tavole di verit\u00e0, circuiti logici, equazioni funzionali<br/> - qualche esempio di circuito:<br/> half adder, full adder, bit di parit\u00e0<br/> - definizione generale di circuito combinatorio<br/> - cenni all'ingegneria dei circuiti: progettazione, sintesi, ottimizzazione<br/> - qualche esempio di uso delle equazioni dell'algebra di boole per la<br/> semplificazione dei circuiti<br/> - forme canoniche: forma normale congiuntiva (prodotto di somme)<br/> - forme canoniche: forma normale disgiuntiva (somma di \u00a0prodotti)<br/> - il teorema di Shannon<br/> (Capitolo 2 del libro, per il teorema di Shannon:<br/> <a href=\"http://it.wikipedia.org/wiki/Teorema_di_Shannon_%28elettronica%29\" target=\"_blank\">http://it.wikipedia.org/wiki/Teorema_di_Shannon_%28elettronica%29</a>)<br/> 5) Circuiti logici sequenziali:<br/> - aspetti generali: stato interno, dipendenza dagli ingressi e dallo<br/> stato interno (Punto 5.1 del libro)<br/> - il circuito latch (punto 5.2)</p>\n<p>\u00a0</p></td></tr></table>",
+  "testiRiferimento": "<table><tr><td><p>Per la parte di logica:</p>\n<p>L. Carlucci Aiello\u00a0 - F. Pirri</p>\n<p>Strutture Logica Linguaggi</p>\n<p>\u00a0</p>\n<p>Per la parte di reti logiche:</p>\n<p>M. Morris Mano - Charles R. Kime</p>\n<p>Reti logiche</p></td></tr></table>",
+  "ricevimento": "<table><tr><td></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

@@ -1,0 +1,26 @@
+{
+  "nomeCorso": "Geometria ed algebra",
+  "docente": [
+    {
+      "first_name": "Fabio",
+      "second_name": "Gavarini"
+    },
+    {
+      "first_name": "Paolo",
+      "second_name": "Salvatore"
+    }
+  ],
+  "annoAccademico": "2007-2008",
+  "crediti": "6",
+  "settore": "",
+  "anno": "1",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>  Retta, piano e spazio euclidei.  Vettori applicati.\r\n  Rette e piani nel piano e nello spazio euclidei: equazioni vettoriali, parametriche, affini.  Trattamento di problemi geometrici con metodi algebrici.\r\n  Richiami di algebra: gruppi, anelli, campi\r\n  Spazi vettoriali: spazi e sottospazi vettoriali. Dipendenza e indipendenza lineare. Generatori, basi, dimensione. Somma e intersezione di sottospazi.  \r\n  Applicazioni lineari: nucleo e immagine, iniettivita` e suriettivita`.\r\nIsomorfismi; rango. Prodotto di composizione.\r\n  Matrici: lo spazio vettoriale delle matrici, prodotto tra matrici, matrici\r\ninvertibili, relazione tra applicazioni lineari e matrici, rango di matrici.\r\n  Sistemi di equazioni lineari: sistemi qualsiasi, sistemi omogenei.\r\nCriteri di risolubilita` dei sistemi lineari. Spazi di soluzioni di sistemi lineari; spazi affini e sottospazi affini.\r\n  Sistemi lineari a scala, metodo di eliminazione di Gauss. Criteri per l'esistenza e per l'unicita` delle soluzioni dei sistemi lineari. Calcolo del rango di una matrice tramite eliminazione di Gauss.\r\n  Determinante di una matrice quadrata: esistenza e unicita`, sviluppi di Laplace, determinante di un prodotto (teorema di Binet). Soluzione di sistemi lineari quadrati compatibili (teorema di Cramer). Inversa di una matrice invertibile. Calcolo del rango di una matrice tramite i suoi minori.\r\n  Autovalori e autovettori. Molteplicita` geometrica degli autovalori.\r\nEndomorfismi diagonalizzabili: criteri di diagonalizzabilita` (in termini di basi di autovalori o di soma degli autospazi). Il polinomio caratteristico di una matrice quadrata. Calcolo esplicito degli autovalori e degli autospazi associati ad una matrice quadrata.</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>- per la *teoria* -\r\n   Marco Abate, \"Algebra lineare\", McGraw-Hill Libri Italia, Milano, 2000\r\n        *OPPURE*\r\n   Marco Abate, Chiara de Fabritiis, \"Geometria analitica con elementi\r\ndi algebra lineare\", McGraw-Hill Libri Italia, Milano, 2006\r\n        *OPPURE*\r\n   Marco Abate, \"Geometria\", McGraw-Hill Libri Italia, Milano, 1996 \r\n\r\n - per gli *esercizi*:  \r\n    Marco Abate, Chiara de Fabritiis, \"Esercizi di geometria\",\r\nMcGraw-Hill Libri Italia, Milano, 1999\r\n</td></tr></table>",
+  "ricevimento": "<table><tr><td>studio 0214 (piano terra - dente 2 / corridoio B0) - GIOVEDI` ore 15:00\r\n        *OPPURE*  \r\nper appuntamento  -  tel. 067259.4606  -  e-mail:  gavarini@mat.uniroma2.it</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

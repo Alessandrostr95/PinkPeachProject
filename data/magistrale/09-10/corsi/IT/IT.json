@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Informatica teorica",
+  "docente": [
+    {
+      "first_name": "Giorgio",
+      "second_name": "Gambosi"
+    }
+  ],
+  "annoAccademico": "2009-2010",
+  "crediti": "6",
+  "settore": "",
+  "anno": "1",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>Ove non diversamente specificato, si fa riferimento al testo in italiano.\r\n\r\n<b> Concetti preliminari.</b> (Capitolo 1) Cardinalit\u00e0 di insiemi. Insiemi numerabili e non numerabili. Diagonalizzazione. \r\n\r\n<b>Macchine di Turing.</b> (Capitolo 2) Macchine ad un nastro e a k nastri (Dispensa 1). Macchine di Turing deterministiche e non deterministiche e loro equivalenza. Macchina di Turing universale (Dispensa 2). Macchine di Turing con oracolo. \r\n\r\n<b>Linguaggi, problemi e codifiche.</b> (Capitoli 2 e 3)Accettabilit\u00e0, decidibilit\u00e0, enumerabilit\u00e0 di linguaggi. Linguaggio complemento. Problema della fermata. Riducibilit\u00e0 tra linguaggi: m-riducibilit\u00e0 e T-riducibilit\u00e0 e loro propriet\u00e0. Problemi decisionali. Problemi decidibili. Problemi complementari.\r\n\r\n<b>Misure di complessit\u00e0.</b> (Capitolo 4) Misure statiche e dinamiche. Assiomi di Blum. Misure di complessit\u00e0: DTIME, DSPACE, NTIME, NSPACE. \r\n\r\n<b>Classi di linguaggi.</b> (Capitolo 5) Inclusione, inclusione propria, completezza. Funzioni time-constructible e space-constructible (Paragrafo 5.3.1 con riferimenti alle note del Prof. Gambosi ed al testo in inglese, Dispensa 3 e Dispensa 4). Definizione delle classi di complessit\u00e0 spaziale e temporale. Teoremi di compressione e di accelerazione (Note del Prof. Gambosi). Classi di complessit\u00e0 temporale: classi complemento, chiusura rispetto a variazioni finite, numerabilit\u00e0 costruttiva (Paragrafo 3.4.2 -pag. 44-46- del testo inglese, Dispensa 5).\r\n\r\n<b>La classe P.</b> (Capitolo 6) Definizione. Riducibilit\u00e0 polinomiale e chiusura di P rispetto alla riducibilit\u00e0 polinomiale. Problemi in P: 2-SAT (Dispensa 6), 2-COLORABILITA'. Funzioni in FP: trasformazione di una funzione booleana in forma congiuntiva normale (Dispensa 9)\r\n\r\n<b>La classe NP.</b>  (Capitolo 7) Definizione. Linguaggi NP-completi e Teorema di Cook. Chiusura rispetto alla riduzione polinomiale. Esempi di dimostrazioni di NP-completezza (Note del Prof. Gambosi e Dispensa 7): 3-SAT, Vertex Cover, 3-COLORABILITa', COLORABILITA', Independent Set, Clique, Hamiltonian Circuit/Path, Longest Path, Commesso Viaggiatore. \r\nProblemi NP-intermedi: il teorema di Ladner (Dispensa 8).\r\n\r\n<b>Oltre NP.</b> (Capitolo 9) La classe coNP. Il problema Formula Equivalente. La gerarchia polinomiale: definizione, enunciato del teorema di inclusione, enunciato del teorema relativo al collasso della gerarchia. Complessit\u00e0 esponenziale: classi LEXP e PEXP (definizione ed enunciato del teorema di separazione).\r\n\r\n<b>Classi di complessit\u00e0 spaziale.</b>  (Capitolo 10) La misura SPAZIO*. La classe LOGSPAZIO: definizione, relazione fra LOGSPAZIO e P. La classe FLOGSPAZIO: definizione, logspazio-riduzioni, P-completezza, il problema Accessibilit\u00e0 a nodi terminali. Le classi PSPAZIO e NPSPAZIO e loro coincidenza.\r\n\r\n<b> Problemi di ottimizzazione.</b> (Capitolo 8) Le classi PO e NPO. Linguaggi soggiacenti. La questione: PO = NPO? La classe APX. Appartenenza ad AXP di min-Vertex Cover. Appartenenza ad AXP di min-TSP con disuguaglianza triangolare (Dispensa 10). Non Appartenenza ad AXP di min-TSP (se P \u00e8 diverso da NP). La classe PAS e il problema MINIMA PARTIZIONE. La classe FPAS e il problema MINIMA PARTIZIONE (per il FPTAS di tale problema si veda pag. 124 del testo inglese). Problemi numerici, pseudo-polinomialit\u00e0 e NP-completezza forte.\r\n\r\n </td></tr></table>",
+  "testiRiferimento": "<table><tr><td>\"Teoria della complessit\u00e0 computazionale\", di Bovet Daniel P., Crescenzi Pierluigi. Editore: Franco Angeli, collana \"Scienze e tecnologie informatiche\". ISBN: 8820465558\r\n\r\n\"Introduction to the theory of complexity\" di D.P. Bovet e P. Crescenzi, scaricabile liberamente da Internet sotto licenza Creative Commons. </td></tr></table>",
+  "ricevimento": "<table><tr><td>Luned\u00ec, 11:00-12:00</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

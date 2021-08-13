@@ -1,0 +1,147 @@
+{
+  "nomeCorso": "Basi di dati e di conoscenza",
+  "docente": [
+    {
+      "first_name": "Loredana",
+      "second_name": "Vigliano"
+    }
+  ],
+  "annoAccademico": "2018-2019",
+  "crediti": "12",
+  "settore": "INF/01",
+  "anno": "2",
+  "semestre": "1-2",
+  "propedeuticit\u00e0": "Matematica discreta. Programmazione dei calcolatori con laboratorio.",
+  "comunicazioni": [
+    {
+      "titolo": "ESAMI SESSIONEAUTUNNALE",
+      "data": "25-09-2019 17:16",
+      "contenuto": "<p>\u00a0</p>\n<p><strong>IV Appello</strong>\u00a0(V per Bioinformatici)\u00a0</p>\n<p>26 Settembre orali aula 3A con il seguente ordine:</p>\n<p>ore 11,30 : Di Girolamo-Villani, Casanica</p><hr/>"
+    },
+    {
+      "titolo": "",
+      "data": "06-09-2018 19:02",
+      "contenuto": "<p>\u00a0</p>\n<table cellpadding=\"0\" cellspacing=\"0\">\n<tbody>\n<tr>\n<td class=\"td1\" valign=\"middle\">\n<p class=\"p1\"><strong>ATTENZIONE !!!!!!</strong>\u00a0: per poter sostenere l' esame (anche solo orale) \u00e8 necessario prenotarsi sul sito \u00a0delphi.uniroma2.it.</p>\n<p class=\"p1\"><strong>ATTENZIONE !!!!!!\u00a0 :\u00a0useremo la verbalizzazione automatica e quindi non sar\u00e0 pi\u00f9 possibile sostenere l'esame senza prenotazione!!!!!</strong><br> \u00a0<br> ESAMI PROPEDEUTICI : MD e PR\u00a0</br></br></p>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "lezioni": [
+    {
+      "id": "1",
+      "data": "01-10-2018",
+      "contenuto": "<p>Orario Secondo semestre :</p>\n<p>Luned\u00ec ore 14-16 aula 17</p>\n<p>Marted\u00ec ore 16-18 aula 17</p>"
+    },
+    {
+      "id": "0",
+      "data": "null",
+      "contenuto": ""
+    }
+  ],
+  "materiale": [
+    {
+      "titolo": "Risultati scritto IV appello del 23 Settembre 2019",
+      "dataUpload": "23.09.2019 19:46:00",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/BDC/risIVappello.pdf",
+      "dimensione": "58 KB"
+    },
+    {
+      "titolo": "Testo scritto del 23 Settembre 2019",
+      "dataUpload": "23.09.2019 16:20:32",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/BDC/IVappello.doc",
+      "dimensione": "27 KB"
+    },
+    {
+      "titolo": "13 GIS e GeoDatabase",
+      "dataUpload": "30.04.2019 16:08:14",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/BDC/GISnew.pdf",
+      "dimensione": "4595 KB"
+    },
+    {
+      "titolo": "<span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Linee guida per il progetto di Basi di dati (cfu 12 Informatica)</span>",
+      "dataUpload": "16.04.2019 17:47:51",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/BDC/guidaprogettoBasididati2019.pdf",
+      "dimensione": "71 KB"
+    },
+    {
+      "titolo": "",
+      "dataUpload": "01.04.2019 16:33:43",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/BDC/12Database_NoSQL_en2.pdf",
+      "dimensione": "179 KB"
+    },
+    {
+      "titolo": "11 Architettura e Motori MySQL",
+      "dataUpload": "27.03.2019 13:38:58",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/BDC/4Architettura_MySQL.pdf",
+      "dimensione": "228 KB"
+    },
+    {
+      "titolo": "",
+      "dataUpload": "18.03.2019 17:08:07",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/BDC/07SqlTuning.pdf",
+      "dimensione": "5157 KB"
+    },
+    {
+      "titolo": "",
+      "dataUpload": "18.03.2019 13:19:56",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/BDC/2terQuery_performance_optimization.pdf",
+      "dimensione": "205 KB"
+    },
+    {
+      "titolo": "08 Ottimizzazione indici",
+      "dataUpload": "05.03.2019 18:25:21",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/BDC/08IndexTuning.pdf",
+      "dimensione": "6875 KB"
+    },
+    {
+      "titolo": "07 Organizzazione fisica dei dati",
+      "dataUpload": "05.03.2019 18:24:28",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/BDC/1organizzazione_fisica_dei_dati_senza_figure.pdf",
+      "dimensione": "3983 KB"
+    },
+    {
+      "titolo": "Linee guida del progetto (BioInformatica - crediti 6)",
+      "dataUpload": "17.12.2018 18:24:35",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/BDC/guidaprogettoBasididatibio.pdf",
+      "dimensione": "58 KB"
+    },
+    {
+      "titolo": "",
+      "dataUpload": "12.12.2018 16:43:59",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/BDC/07Explain.pdf",
+      "dimensione": "3082 KB"
+    },
+    {
+      "titolo": "",
+      "dataUpload": "12.12.2018 16:43:28",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/BDC/5DBMSeSQL.pdf",
+      "dimensione": "166 KB"
+    },
+    {
+      "titolo": "04 Modello concettuale, schema E-R logico e schema E-R normalizzato",
+      "dataUpload": "07.11.2018 16:26:25",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/BDC/4Modconcettualeschemae-r.pdf",
+      "dimensione": "418 KB"
+    },
+    {
+      "titolo": "03 Algebra Relazionale e Calcolo Relazionale",
+      "dataUpload": "10.10.2018 17:10:21",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/BDC/3algebra_calcolo_relazionale.pdf",
+      "dimensione": "190 KB"
+    },
+    {
+      "titolo": "02 Modello Relazionale",
+      "dataUpload": "08.10.2018 15:21:39",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/BDC/2modello_relazionale.pdf",
+      "dimensione": "80 KB"
+    },
+    {
+      "titolo": "01 Introduzione, storia e definizioni",
+      "dataUpload": "08.10.2018 15:17:40",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/BDC/1definizioni_storia_new.pdf",
+      "dimensione": "359 KB"
+    }
+  ],
+  "programma": "<table><tr><td><p>\u00a0</p>\n<table cellpadding=\"0\" cellspacing=\"0\">\n<tbody>\n<tr>\n<td class=\"td1\" valign=\"middle\">\n<p class=\"p1\">Introduzione\u00a0<br> <br> - Modello relazionale\u00a0<br> - Algebra relazionale\u00a0<br> - Calcolo relazionale\u00a0<br> - Flusso di progetto e visione dei dati\u00a0<br> - Modello concettuale dei dati\u00a0<br> - Disegno logico DB\u00a0<br/> <br/> Schema Entity-relationship\u00a0<br/> - Disegno fisico DB\u00a0<br/> - Forme normali\u00a0<br/> - Query language e implementazioni su mySQL\u00a0<br/> DML\u00a0<br/> SQL\u00a0<br/> <br/> - Organizzazione fisica dei dati\u00a0<br/> - Ottimizzazione degli indici\u00a0<br/> - Normalizzazione e Denormalizzazione\u00a0<br/> - Ottimizzazione delle interrogazioni\u00a0<br/> <em>------ MySQL e ottimizzazioni\u00a0</em></br></br></br></br></br></br></br></p>\n<p class=\"p1\"><br/> - Transazioni\u00a0<br/> <em>------ Locking a due fasi, Timestamp,MVCC\u00a0<br/> ------ MySQL e Storage Engine</em>\u00a0<br/> <br/> - Basi di dati attive\u00a0<br/> <em>------ Trigger e Stored Procedure\u00a0<br/> ------ Cursor, Trigger e Stored Procedure in MySQL\u00a0</em></p>\n<p class=\"p1\">- Basi di dati\u00a0geospaziali e GIS\u00a0<br/> - Basi di dati su architetture distribuite\u00a0<br/> <em>------ Commit a due fasi\u00a0</em>\u00a0<br/> - Architetture per l' analisi dei dati\u00a0<br/> <em>------ Data Warehouse\u00a0<br/> ------ Data Mining</em>\u00a0</p>\n<p class=\"p1\">- \u00a0DB NoSQL : MongoDB<br/> <br/> - Implementazione progetto</p>\n</td>\n</tr>\n</tbody>\n</table></td></tr></table>",
+  "testiRiferimento": "<table><tr><td><p>Prima parte</p>\n<p>- Atzeni,Ceri,Fraternali,Paraboschi,Torlone\u00a0<em>Basi di dati -Modelli e Linguaggi di interrogazione-</em>\u00a0ed. McGraw-Hill 4nd edition (\u00e8 il libro piccolo)</p>\n<p>\u00a0</p>\n<p>Seconda parte</p>\n<p>- Elmasri,Navathe <em>Sistemi di basi di dati, Fondamenti e complementi\u00a0</em>Pearson 7a edizione italiana</p>\n<p>\u00a0</p>\n<p>\u00a0</p>\n<p class=\"p1\">- lucidi di L. Vigliano presentati a Lezione</p></td></tr></table>",
+  "ricevimento": "<table><tr><td><p>\u00a0</p>\n<p class=\"p1\">Al termine di ogni lezione o previo appuntamento via mail</p></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td><table cellpadding=\"0\" cellspacing=\"0\">\n<tbody>\n<tr>\n<td class=\"td1\" valign=\"middle\">\n<p class=\"p1\">L\u2019 esame comprende uno scritto, un progetto e un orale. Lo scritto pu\u00f2 essere conservato per un solo appello, eccetto per l\u2019 ultimo appello dell\u2019 anno accademico (non si pu\u00f2 conservare).</p>\n<p class=\"p1\">Nello specifico :\u00a0</p>\n<p class=\"p1\">se supero lo scritto a Giugno posso portare il progetto a Luglio</p>\n<p class=\"p1\">se supero lo scritto a Luglio posso portare il progetto solo al primo appello di Settembre</p>\n<p class=\"p1\">se supero lo scritto a Settembre posso portare il progetto solo al primo appello di Febbraio, poi stop.</p>\n<p class=\"p1\">Infine il primo appello di Settembre e il primo appello di Gennaio/Febbraio sono riservati ai soli studenti che hanno superato lo scritto nell' appello precedente.</p>\n</td>\n</tr>\n</tbody>\n</table></td></tr></table>"
+}

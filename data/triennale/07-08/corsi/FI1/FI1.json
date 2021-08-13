@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Fisica 1",
+  "docente": [
+    {
+      "first_name": "Claudio",
+      "second_name": "Goletti"
+    }
+  ],
+  "annoAccademico": "2007-2008",
+  "crediti": "3",
+  "settore": "",
+  "anno": "2",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>Programma del corso\r\nA.A. 2007-2008\r\n\r\n\r\n1. I vettori\r\nVettori e scalari. Somma e differenza di vettori, moltiplicazione per uno scalare. I vettori e le loro componenti. Versori. Prodotto di un vettore con  uno scalare. Prodotto scalare. Prodotto vettoriale.\r\n(Cap. 3 di Halliday-Resnick-Walker)\r\n\r\n2. Moto rettilineo\r\nPosizione e spostamento. Velocit\u00e0 media e istantanea. Accelerazione.  Un caso particolare: accelerazione costante. Le equazioni del moto uniformemente accelerato. Moto di un corpo in caduta libera.\r\n(Cap. 2 di Halliday-Resnick-Walker)\r\n\r\n3. Moto in due e tre dimensioni.\r\nPosizione, spostamento, velocit\u00e0 e accelerazione. Equazioni del moto uniformemente accelerato. Analisi del moto di un proiettile sottoposto ad accelerazione di gravit\u00e0. Equazione della traiettoria. Moto circolare uniforme. Accelerazione centripeta.\r\n(Cap. 4 di Halliday-Resnick-Walker)\r\n\r\n4. Le forze ed il moto\r\nIl principio di inerzia.  La massa. Relazione tra massa ed accelerazione. La forza. Unit\u00e0 di misura: il newton. Seconda legge di Newton. Alcune forze particolari: forza di attrazione gravitazionale; forza di attrito; forza normale ad un piano di appoggio; tensione di una fune; forza centripeta. Composizione di forze. Forza risultante. La terza legge di Newton. Discussione di esercizi. \r\n(Cap. 5 e 6 di Halliday-Resnick-Walker)\r\n\r\n5. Energia cinetica e lavoro\r\nEnergia. Unit\u00e0 di misura: il joule. Energia cinetica. Lavoro di una forza. Caso semplice: forza costante e spostamento in una dimensione. Lavoro svolto da una generica forza variabile. Teorema dell'energia cinetica (o delle forze vive). Lavoro svolto dalla forza gravitazionale e da una forza elastica.\r\n(Cap. 7 di Halliday-Resnick-Walker)\r\n\r\n6. Energia potenziale e conservazione dell' energia.\r\nForze conservative. Energia potenziale. Due casi; energia potenziale gravitazionale e energia potenziale elastica. Conservazione dell'energia meccanica. Bilancio dell' energia meccanica in presenza di forze non conservative. Lavoro esterno su un sistema svolto da una forza. Come ricavare la forza qualora sia noto il potenziale. Le curve dell'energia potenziale: punti di equilibrio, punti di inversione del moto. Discussione di esercizi.\r\n(Cap. 8 di Halliday-Resnick-Walker)\r\n\r\n7. Sistemi di punti materiali.\r\nIl centro di massa. moto del centro di massa. Equazione di Newton per un sistema di punti materiali. \r\nQuantit\u00e0 di moto. Quantit\u00e0 di moto di un sistema di punti materiali. Conservazione della quantit\u00e0 di moto. Discussione di esercizi.\r\n(Cap. 9 di Halliday-Resnick-Walker, tranne paragrafo 9.7 su \"Sistemi a massa variabile\").\r\n\r\n8. Urti.\r\nImpulso e quantit\u00e0 di moto. Quantit\u00e0 di moto ed energia cinetica in un urto. Urti elastici ed anelastici in una dimensione. Discussione di esercizi.\r\n(Cap. 10 di Halliday-Resnick-Walker).\r\n\r\n\r\nTesto consigliato:\r\nD. Halliday. R. Resnick, J. Walker\r\nFondamenti di Fisica: meccanica e termologia.\r\nCasa Editrice Ambrosiana\r\n</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>D. Halliday, R. Resnick, J. Walker: \"Fondamenti di Fisica\", vol. 1, Casa Editrice Ambrosiana</td></tr></table>",
+  "ricevimento": "<table><tr><td>studio (corridoio C1, tel. 4288) o laboratorio (corridoio E0, tel 4427) del docente, ogni marted\u00ec dalle 14.30 alle 16</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

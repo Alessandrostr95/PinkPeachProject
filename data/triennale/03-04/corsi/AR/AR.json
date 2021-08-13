@@ -1,0 +1,26 @@
+{
+  "nomeCorso": "Architettura degli elaboratori",
+  "docente": [
+    {
+      "first_name": "Enrico",
+      "second_name": "Nardelli"
+    },
+    {
+      "first_name": "Enrico",
+      "second_name": "Nardelli"
+    }
+  ],
+  "annoAccademico": "2003-2004",
+  "crediti": "6",
+  "settore": "",
+  "anno": "1",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td><html>\r\nSul sito <a href=\"http://www.di.univaq.it/~nardelli/architettura\">http://www.di.univaq.it/~nardelli/architettura</a>\n</html></td></tr></table>",
+  "testiRiferimento": "<table><tr><td>Vedi sito.</td></tr></table>",
+  "ricevimento": "<table><tr><td>Vedi sito.</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

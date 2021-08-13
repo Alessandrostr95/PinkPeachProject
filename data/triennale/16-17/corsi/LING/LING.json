@@ -1,0 +1,32 @@
+{
+  "nomeCorso": "Lingua inglese",
+  "docente": [
+    {
+      "first_name": "Martin",
+      "second_name": "Bennett"
+    },
+    {
+      "first_name": "Alessandro",
+      "second_name": "Cianfanelli"
+    }
+  ],
+  "annoAccademico": "2016-2017",
+  "crediti": "3",
+  "settore": "L-LIN/02",
+  "anno": "3",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [
+    {
+      "titolo": "Informazioni",
+      "data": "08-06-2017 13:29",
+      "contenuto": "<p>Tutte le informazioni sull'insegnamento\u00a0<em style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Lingua inglese</em>\u00a0sono pubblicate sul sito\u00a0<a href=\"http://www.scienze.uniroma2.it/?cat=22&amp;catParent=16\" style=\"text-align: justify;\" target=\"_blank\">http://www.scienze.uniroma2.it/?cat=22&amp;catParent=16</a></p>"
+    }
+  ],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>null</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>null</td></tr></table>",
+  "ricevimento": "<table><tr><td>null</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}
