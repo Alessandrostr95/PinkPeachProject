@@ -12,8 +12,6 @@ from bs4 import NavigableString
 from enum import Enum
 
 ''' TODOs:
-- Refactor exams code
-- Check if exams code is correct with respect to current year
 '''
 
 # ----- Globals -----
@@ -398,7 +396,7 @@ class UniScraper(object):
                     settore = cols[2].decode_contents().strip()
                     cfu = cols[3].decode_contents().strip()
                     semestre = cols[4].decode_contents().strip()
-                    docente = cols[5].decode_contents().strip()
+                    docente = cols[5].decode_contents().strip().replace(", ", "-")
 
                     prop = ""
                     # -- iterate over all preparatory courses
@@ -957,4 +955,3 @@ if __name__ == "__main__":
 
     master_scraper = UniScraper(Degree.MASTER)
     master_scraper.get_all_data()
-    # master_scraper.get_course_data("OSI", scholar_year="15-16")

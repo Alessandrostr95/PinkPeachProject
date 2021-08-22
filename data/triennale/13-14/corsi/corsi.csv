@@ -8,15 +8,15 @@ anno,insegnamento,link,codice,settore,CFU,semetre,docente,propedeuticità
 1,Matematica discreta,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2013&cdl=0&id=MD,MD,MAT/02,9,1,Brenti,
 1,Programmazione,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2013&cdl=0&id=PR,PR,INF/01,12,1-2,Rossi,
 2,Algoritmi e strutture dati,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2013&cdl=0&id=ASD,ASD,INF/01,12,1-2,Guala',Analisi Matematica-Matematica discreta-Programmazione-
-2,Basi di dati e di conoscenza,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2013&cdl=0&id=BDC,BDC,INF/01,12,1-2,Vigliano, Basili,Matematica discreta-Programmazione-
+2,Basi di dati e di conoscenza,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2013&cdl=0&id=BDC,BDC,INF/01,12,1-2,Vigliano-Basili,Matematica discreta-Programmazione-
 2,Calcolo delle probabilità,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2013&cdl=0&id=CP,CP,MAT/06,6,1,Macci,Analisi Matematica-
-2,Linguaggi e metodologie di programmazione,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2013&cdl=0&id=LMP,LMP,INF/01,12,1-2,Zanzotto, Stellato,Programmazione-
+2,Linguaggi e metodologie di programmazione,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2013&cdl=0&id=LMP,LMP,INF/01,12,1-2,Zanzotto-Stellato,Programmazione-
 2,Ricerca operativa,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2013&cdl=0&id=RO,RO,MAT/09,6,2,Scozzari,
 2,Sistemi operativi e reti,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2013&cdl=0&id=SOR,SOR,INF/01,12,1-2,Frasca,Architettura degli elaboratori-Programmazione-
 3,Algoritmi e strutture dati 2,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2013&cdl=0&id=ASD2,ASD2,INF/01,6,1,Vocca,Algoritmi e strutture dati-
 3,Calcolo numerico,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2013&cdl=0&id=CN,CN,MAT/08,6,2,Pelosi,Analisi Matematica-Matematica discreta-
 3,Informatica teorica,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2013&cdl=0&id=IT,IT,INF/01,6,1,Di Ianni,
-3,Ingegneria del software,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2013&cdl=0&id=IS,IS,INF/01,12,1-2,Intrigila, D'Ambrogio,Linguaggi e metodologie di programmazione-
+3,Ingegneria del software,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2013&cdl=0&id=IS,IS,INF/01,12,1-2,Intrigila-D'Ambrogio,Linguaggi e metodologie di programmazione-
 3,Intelligenza artificiale 1,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2013&cdl=0&id=IA,IA,ING-INF/05,6,1,Pazienza,Programmazione-
 3,Laboratorio di ingegneria del software,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2013&cdl=0&id=LIS,LIS,INF/01,12,1-2,Intrigila,Ingegneria del software-
 3,Modelli e linguaggi di simulazione,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2013&cdl=0&id=MLS,MLS,ING-INF/05,6,2,Iazeolla,
