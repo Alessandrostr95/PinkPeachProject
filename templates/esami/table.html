@@ -1,0 +1,51 @@
+{% extends 'base.html' %}
+
+{% block tabella %}
+<!-- auto-generated table -->
+<div class="table-responsive-sm">
+    <table class="table table-bordered align-middle">
+        <thead>
+            <tr class="text-center">
+              <th rowspan="2" colspan="1">Corso</th>
+              <th rowspan="2" colspan="1">Docente</th>
+              <th rowspan="1" colspan="3">Scritto</th>
+              <th rowspan="1" colspan="3">Orale</th>
+            </tr>
+
+            <tr>
+              <th>data</th>
+              <th>ora</th>
+              <th>aula</th>
+              <th>data</th>
+              <th>ora</th>
+              <th>aula</th>
+            </tr>
+          </thead>
+
+          <tbody>
+
+              {% for anno in anni %}
+              <tr>
+                <td class="fw-bold h6" colspan="8">{{ anno }}° anno</td>
+              </tr>
+
+                {% for esame in esami[sessioni[i]][appello][anno] %}
+                <tr>
+                    <td><a href="./{{ esame['codice'] }}.html">{{ esame['insegnamento'] }}</a></td>
+                    <td>{{ esame['docente'] }}</td>
+                    <td>{{ esame['scritto']['data'] }}</td>
+                    <td>{{ esame['scritto']['ora'] }}</td>
+                    <td>{{ esame['scritto']['aula'] }}</td>
+                    <td>{{ esame['orale']['data'] }}</td>
+                    <td>{{ esame['orale']['ora'] }}</td>
+                    <td>{{ esame['orale']['aula'] }}</td>
+                </tr>
+                {% endfor %}
+
+              {% endfor %}
+
+          </tbody>
+
+    </table>
+</div>
+{% endblock %}
