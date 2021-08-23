@@ -810,7 +810,7 @@ class UniScraper(object):
 
                         # -- get juicy data
                         insegnamento = cols[0].a.decode_contents().strip()
-                        docente = cols[1].decode_contents().strip()
+                        docente = cols[1].decode_contents().strip().replace(", ", "-")
                         scritto_data = cols[2].decode_contents().strip()
                         scritto_ora = cols[3].decode_contents().strip()
                         scritto_aula = cols[4].decode_contents().strip()
