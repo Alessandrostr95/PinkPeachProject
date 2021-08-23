@@ -1,29 +1,21 @@
 appello,anno,insegnamento,docente,scritto_data,scritto_ora,scritto_aula,orale_data,orale_ora,orale_aula
-1,1,Fisica,Camarri,28-01-2021,09:00,NULL,01-02-2021,09:30,NULL
-1,1,Geometria ed algebra,Bracci,03-02-2021,09:30,NULL,04-02-2021,09:30,NULL
-1,1,Logica e reti logiche,Pasquale,26-01-2021,14:30,NULL,29-01-2021,10:00,NULL
-1,1,Programmazione dei calcolatori con laboratorio,Rossi,22-01-2021,10:00,NULL,25-01-2021,10:00,NULL
-1,2,Algoritmi e strutture dati,Clementi, Guala',02-02-2021,09:00,NULL,03-02-2021,09:00,NULL
-1,2,Basi di dati e di conoscenza,Vigliano,21-09-2020,null,NULL,27-01-2021,null,NULL
-1,2,Fondamenti di informatica,Gambosi, Di Ianni,25-01-2021,10:00,NULL,29-01-2021,null,NULL
-1,2,Linguaggi e metodologie di programmazione,Zanzotto, Stellato,04-02-2021,11:00,NULL,null,null,NULL
-1,2,Ricerca operativa,Caramia,21-01-2021,09:00,NULL,21-01-2021,11:00,NULL
-1,2,Sistemi operativi e reti,Frasca,26-01-2021,10:00,NULL,01-02-2021,10:00,NULL
-1,3,Ingegneria del software,Intrigila, D'Ambrogio,null,null,NULL,28-01-2021,16:00,ONLINE
-1,3,Modelli e linguaggi di simulazione,Iazeolla,null,null,NULL,null,null,NULL
-1,3,Programmazione Java per dispositivi mobili,Loreti, Croce,null,null,NULL,null,null,NULL
-1,3,Programmazione Web,Loreti,null,null,NULL,null,null,NULL
-2,1,Fisica,Camarri,17-02-2021,09:00,NULL,22-02-2021,09:00,NULL
-2,1,Geometria ed algebra,Bracci,24-02-2021,09:30,NULL,25-02-2021,09:30,NULL
-2,1,Logica e reti logiche,Pasquale,23-02-2021,14:30,NULL,26-02-2021,15:30,NULL
-2,1,Programmazione dei calcolatori con laboratorio,Rossi,11-02-2021,10:00,NULL,17-02-2021,15:00,NULL
-2,2,Algoritmi e strutture dati,Clementi, Guala',24-02-2021,09:00,NULL,25-02-2021,09:00,NULL
-2,2,Basi di dati e di conoscenza,Vigliano,15-02-2021,null,NULL,18-02-2021,null,NULL
-2,2,Fondamenti di informatica,Gambosi, Di Ianni,22-02-2021,10:00,NULL,26-02-2021,null,NULL
-2,2,Linguaggi e metodologie di programmazione,Zanzotto, Stellato,17-02-2021,10:00,NULL,null,null,NULL
-2,2,Ricerca operativa,Caramia,18-02-2021,09:00,NULL,18-02-2021,09:00,NULL
-2,2,Sistemi operativi e reti,Frasca,16-02-2021,10:00,NULL,23-02-2021,10:00,NULL
-2,3,Ingegneria del software,Intrigila, D'Ambrogio,null,null,NULL,17-02-2021,12:00,ONLINE
-2,3,Modelli e linguaggi di simulazione,Iazeolla,null,null,NULL,null,null,NULL
-2,3,Programmazione Java per dispositivi mobili,Loreti, Croce,null,null,NULL,null,null,NULL
-2,3,Programmazione Web,Loreti,null,null,NULL,null,null,NULL
+1,1,Calcolo delle probabilità,Macci,null,null,NULL,28-01-2021,10:00,TEAMS
+1,1,Inferenza statistica e teoria dell'informazione,Scalia Tomba,null,null,NULL,null,null,NULL
+1,1,Sistemi di simulazione distribuita,Iazeolla-D'Ambrogio,null,null,NULL,null,null,NULL
+1,1,Sistemi distribuiti cooperativi,Talamo,null,null,NULL,null,null,NULL
+1,1,Statistical learning and high dimensional data,De Canditiis,null,null,NULL,null,null,NULL
+1,2,Machine learning,Gambosi,--,,,04-02-2021,10:00,TEAMS
+1,2,Sicurezza dei sistemi informativi,Talamo,,null,NULL,22-01-2021,09:30,ONLINE
+1,2,Sistemi cooperativi e reti sociali,Talamo,null,null,NULL,null,null,NULL
+1,2,Teoria spettrale,Longo,null,null,NULL,null,null,NULL
+1,2,Web mining and retrieval,Basili,null,null,NULL,null,null,NULL
+2,1,Calcolo delle probabilità,Macci,null,null,NULL,18-02-2021,10:00,TEAMS
+2,1,Inferenza statistica e teoria dell'informazione,Scalia Tomba,null,null,NULL,null,null,NULL
+2,1,Sistemi di simulazione distribuita,Iazeolla-D'Ambrogio,null,null,NULL,null,null,NULL
+2,1,Sistemi distribuiti cooperativi,Talamo,null,null,NULL,null,null,NULL
+2,1,Statistical learning and high dimensional data,De Canditiis,null,null,NULL,null,null,NULL
+2,2,Machine learning,Gambosi,--,,,25-02-2021,10:00,TEAMS
+2,2,Sicurezza dei sistemi informativi,Talamo,null,null,NULL,19-02-2021,09:30,ONLINE
+2,2,Sistemi cooperativi e reti sociali,Talamo,null,null,NULL,null,null,NULL
+2,2,Teoria spettrale,Longo,null,null,NULL,null,null,NULL
+2,2,Web mining and retrieval,Basili,null,null,NULL,null,null,NULL

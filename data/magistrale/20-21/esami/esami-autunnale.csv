@@ -1,45 +1,53 @@
 appello,anno,insegnamento,docente,scritto_data,scritto_ora,scritto_aula,orale_data,orale_ora,orale_aula
-1,1,Analisi Matematica,Fidaleo,03-09-2021,10:30,ONLINE,06-09-2021,11:30,NULL
-1,1,Architettura dei sistemi di elaborazione,Simonetta,null,null,NULL,null,null,NULL
-1,1,Fisica,Camarri,null,null,NULL,null,null,NULL
-1,1,Geometria ed algebra,Arosio,15-09-2021,10:00,ONLINE,16-09-2021,10:00,3PP2
-1,1,Logica e reti logiche,Pasquale,07-09-2021,14:30,13,09-09-2021,10:00,13
-1,1,Matematica discreta,Brenti,null,null,NULL,null,null,NULL
-1,1,Programmazione dei calcolatori con laboratorio,Rossi,08-09-2021,10:00,NULL,10-09-2021,10:00,NULL
-1,2,Algoritmi e strutture dati,Clementi, Guala',15-09-2021,09:30,ONLINE,16-09-2021,09:30,13
-1,2,Basi di dati e di conoscenza,Vigliano,05-07-2021,,,15-09-2021,10:00,20
-1,2,Calcolo delle probabilità e statistica,Macci,02-09-2021,10:00,NULL,07-09-2021,10:00,NULL
-1,2,Fondamenti di informatica,Gambosi, Di Ianni,06-09-2021,10:00,NULL,09-09-2021,10:00,NULL
-1,2,Linguaggi e metodologie di programmazione,Zanzotto, Stellato,null,null,NULL,null,null,NULL
-1,2,Ricerca operativa,Caramia,08-09-2021,09:30,C2,null,null,NULL
-1,2,Sistemi operativi e reti,Frasca,null,null,NULL,null,null,NULL
-1,3,Algoritmi e strutture dati 2,Pasquale,14-09-2021,10:00,13,14-09-2021,15:30,13
-1,3,Calcolo numerico,Pelosi,06-09-2021,10:00,ONLINE,08-09-2021,10:00,ONLINE
-1,3,Ingegneria del software,Intrigila, D'Ambrogio,null,null,NULL,null,null,NULL
-1,3,Intelligenza artificiale 1,Basili,null,null,NULL,null,null,NULL
-1,3,Lingua inglese,Monorchio,null,null,NULL,null,null,NULL
-1,3,Modelli e linguaggi di simulazione,Iazeolla,null,null,NULL,null,null,NULL
-1,3,Programmazione Java per dispositivi mobili,Loreti,null,null,NULL,null,null,NULL
-1,3,Programmazione Web,Loreti,null,null,NULL,null,null,NULL
-2,1,Analisi Matematica,Fidaleo,22-09-2021,10:30,ONLINE,30-09-2021,11:30,NULL
-2,1,Architettura dei sistemi di elaborazione,Simonetta,null,null,NULL,null,null,NULL
-2,1,Fisica,Camarri,null,null,NULL,null,null,NULL
-2,1,Geometria ed algebra,Arosio,28-09-2021,10:00,ONLINE,29-05-2021,10:00,3PP2
-2,1,Logica e reti logiche,Pasquale,21-09-2021,14:30,13,23-09-2021,10:00,13
-2,1,Matematica discreta,Brenti,null,null,NULL,null,null,NULL
-2,1,Programmazione dei calcolatori con laboratorio,Rossi,24-09-2021,10:00,NULL,27-09-2021,10:00,NULL
-2,2,Algoritmi e strutture dati,Clementi, Guala',29-09-2021,09:30,ONLINE,30-09-2021,09:30,13
-2,2,Basi di dati e di conoscenza,Vigliano,27-09-2021,14:00,3PP2,30-09-2021,10:00,3PP2
-2,2,Calcolo delle probabilità e statistica,Macci,21-09-2021,10:00,NULL,23-09-2021,10:00,NULL
-2,2,Fondamenti di informatica,Gambosi, Di Ianni,20-09-2021,10:00,NULL,28-09-2021,10:00,NULL
-2,2,Linguaggi e metodologie di programmazione,Zanzotto, Stellato,null,null,NULL,null,null,NULL
-2,2,Ricerca operativa,Caramia,17-09-2021,09:30,B4,null,null,NULL
-2,2,Sistemi operativi e reti,Frasca,null,null,NULL,null,null,NULL
-2,3,Algoritmi e strutture dati 2,Pasquale,28-09-2021,10:00,13,28-09-2021,15:30,13
-2,3,Calcolo numerico,Pelosi,27-09-2021,,ONLINE,30-09-2021,null,ONLINE
-2,3,Ingegneria del software,Intrigila, D'Ambrogio,null,null,NULL,null,null,NULL
-2,3,Intelligenza artificiale 1,Basili,null,null,NULL,null,null,NULL
-2,3,Lingua inglese,Monorchio,null,null,NULL,null,null,NULL
-2,3,Modelli e linguaggi di simulazione,Iazeolla,null,null,NULL,null,null,NULL
-2,3,Programmazione Java per dispositivi mobili,Loreti,null,null,NULL,null,null,NULL
-2,3,Programmazione Web,Loreti,null,null,NULL,null,null,NULL
+1,1,Algoritmi distribuiti e reti complesse,Clementi-Guala',null,null,NULL,16-09-2021,15:00,13
+1,1,Analisi di reti,Di Ianni,null,null,NULL,null,null,NULL
+1,1,Bioinformatica,Ausiello,null,null,NULL,null,null,NULL
+1,1,Calcolo delle probabilità,Macci,,,,07-09-2021,14:00,NULL
+1,1,Economia  dell'ICT,Vatalaro,null,null,NULL,null,null,NULL
+1,1,Elementi di analisi numerica,Di Fiore,null,null,NULL,null,null,NULL
+1,1,Geometria algebrica,Pareschi,null,null,NULL,null,null,NULL
+1,1,Inferenza statistica e teoria dell'informazione,Scalia Tomba,null,null,NULL,null,null,NULL
+1,1,Logica matematica 1,Lipparini,null,null,NULL,null,null,NULL
+1,1,Modellizzazione geometrica e simulazione numerica,Manni-Speleers,null,null,NULL,null,null,NULL
+1,1,Service oriented software engineering,D'Ambrogio,null,null,NULL,null,null,NULL
+1,1,Sicurezza informatica e Internet,Bianchi,null,null,NULL,null,null,NULL
+1,1,Sistemi di simulazione distribuita,D'Ambrogio,null,null,NULL,null,null,NULL
+1,1,Sistemi distribuiti cooperativi,Talamo-Arcieri,null,null,NULL,null,null,NULL
+1,1,Teoria della sicurezza e crittografia,Talamo,null,null,NULL,null,null,NULL
+1,2,Information retrieval,Croce-Gambosi,null,null,NULL,null,null,NULL
+1,2,Intelligenza artificiale 2,Stellato,null,null,NULL,null,null,NULL
+1,2,Internet technology and protocols,Salsano,null,null,NULL,null,null,NULL
+1,2,Machine learning,Gambosi,,,,07-09-2021,10:00,3PP2/TEAMS
+1,2,Metodi di verifica di sistemi,Intrigila,null,null,NULL,null,null,NULL
+1,2,Modelli e qualità del SW,Iazeolla,null,null,NULL,null,null,NULL
+1,2,Natural language processing,Zanzotto,null,null,NULL,null,null,NULL
+1,2,Sicurezza dei sistemi informativi,Talamo-Dimitri,null,null,NULL,null,null,NULL
+1,2,Sistemi cooperativi e reti sociali,Talamo,null,null,NULL,null,null,NULL
+1,2,Teoria spettrale,Isola,null,null,NULL,null,null,NULL
+1,2,Web mining and retrieval,Basili,null,null,NULL,null,null,NULL
+2,1,Algoritmi distribuiti e reti complesse,Clementi-Guala',null,null,NULL,30-09-2021,15:00,13
+2,1,Analisi di reti,Di Ianni,null,null,NULL,null,null,NULL
+2,1,Bioinformatica,Ausiello,null,null,NULL,null,null,NULL
+2,1,Calcolo delle probabilità,Macci,,,,29-09-2021,10:00,NULL
+2,1,Economia  dell'ICT,Vatalaro,null,null,NULL,null,null,NULL
+2,1,Elementi di analisi numerica,Di Fiore,null,null,NULL,null,null,NULL
+2,1,Geometria algebrica,Pareschi,null,null,NULL,null,null,NULL
+2,1,Inferenza statistica e teoria dell'informazione,Scalia Tomba,null,null,NULL,null,null,NULL
+2,1,Logica matematica 1,Lipparini,null,null,NULL,null,null,NULL
+2,1,Modellizzazione geometrica e simulazione numerica,Manni-Speleers,null,null,NULL,null,null,NULL
+2,1,Service oriented software engineering,D'Ambrogio,null,null,NULL,null,null,NULL
+2,1,Sicurezza informatica e Internet,Bianchi,null,null,NULL,null,null,NULL
+2,1,Sistemi di simulazione distribuita,D'Ambrogio,null,null,NULL,null,null,NULL
+2,1,Sistemi distribuiti cooperativi,Talamo-Arcieri,null,null,NULL,null,null,NULL
+2,1,Teoria della sicurezza e crittografia,Talamo,null,null,NULL,null,null,NULL
+2,2,Information retrieval,Croce-Gambosi,null,null,NULL,null,null,NULL
+2,2,Intelligenza artificiale 2,Stellato,null,null,NULL,null,null,NULL
+2,2,Internet technology and protocols,Salsano,null,null,NULL,null,null,NULL
+2,2,Machine learning,Gambosi,,,,30-09-2021,10:00,3PP2/TEAMS
+2,2,Metodi di verifica di sistemi,Intrigila,null,null,NULL,null,null,NULL
+2,2,Modelli e qualità del SW,Iazeolla,null,null,NULL,null,null,NULL
+2,2,Natural language processing,Zanzotto,null,null,NULL,null,null,NULL
+2,2,Sicurezza dei sistemi informativi,Talamo-Dimitri,null,null,NULL,null,null,NULL
+2,2,Sistemi cooperativi e reti sociali,Talamo,null,null,NULL,null,null,NULL
+2,2,Teoria spettrale,Isola,null,null,NULL,null,null,NULL
+2,2,Web mining and retrieval,Basili,null,null,NULL,null,null,NULL

@@ -764,16 +764,17 @@ class UniScraper(object):
 
         # -- compute year and URL
         s = int(str(datetime.datetime.now().year)[2:])
+        url_base = f"/pages/{'trien' if self.degree == Degree.BACHELOR else 'magis'}/esami/"
         if session == "invernale":
             # -- this belongs to previous year
             s = int(str(datetime.datetime.now().year - 1)[2:])
-            URL_PARAMS = "/pages/trien/esami/dateEsami0.htm"
+            URL_PARAMS = url_base + "dateEsami0.htm"
         elif session == "estiva-anticipata":
-            URL_PARAMS = "/pages/trien/esami/dateEsami1.htm"
+            URL_PARAMS = url_base + "dateEsami1.htm"
         elif session == "estiva":
-            URL_PARAMS = "/pages/trien/esami/dateEsami3.htm"
+            URL_PARAMS = url_base + "dateEsami3.htm"
         elif session == "autunnale":
-            URL_PARAMS = "/pages/trien/esami/dateEsami5.htm"            
+            URL_PARAMS = url_base + "dateEsami5.htm"            
         year = str(s - 1) + "-" + str(s)
 
         URL = self.BASE_URL + URL_PARAMS
