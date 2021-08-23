@@ -33,7 +33,7 @@ def compute_courses_data(data, sort_by='anno'):
             'nome': corso['insegnamento'],
             'anno': int(corso['anno']),
             'codice': corso['codice'],
-            'docente': corso['docente'],
+            'docente': corso['docente'].replace("-", ", "),
             'cfu': int(corso['CFU'])
             # altri dati in seguito ...
         })
