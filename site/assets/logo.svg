@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -52,17 +52,19 @@
      inkscape:label="Livello 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.6718px;line-height:1.25;font-family:roboto;-inkscape-font-specification:roboto;letter-spacing:-2.41698px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.40283"
-       x="-3.4104743"
-       y="52.504768"
-       id="text3128-0"><tspan
-         id="tspan3126-6"
-         x="-3.4104743"
-         y="52.504768"
+    <g
+       aria-label="{  }"
+       id="text3128-0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.6718px;line-height:1.25;font-family:roboto;-inkscape-font-specification:roboto;letter-spacing:-2.41698px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.40283">
+      <path
+         d="m 15.698832,56.092484 v 2.719111 h -1.208493 q -4.7017961,0 -6.3068268,-1.397321 -1.586148,-1.397321 -1.586148,-5.570401 v -4.512968 q 0,-2.85129 -1.0196665,-3.946488 Q 4.5769138,42.28922 1.9333338,42.28922 H 0.76260554 V 39.588992 H 1.9333338 q 2.6624627,0 3.6632466,-1.076315 1.0007838,-1.076315 1.0007838,-3.908722 v -4.531851 q 0,-4.17308 1.586148,-5.551518 1.6050307,-1.397321 6.3068268,-1.397321 h 1.208493 v 2.700228 h -1.32179 q -2.64358,0 -3.455536,0.83084 -0.793074,0.811956 -0.793074,3.493302 v 4.682913 q 0,2.964586 -0.8686051,4.305259 -0.8497221,1.340672 -2.9268207,1.81274 2.0959813,0.509834 2.9457035,1.850506 0.8497223,1.340673 0.8497223,4.286376 v 4.682914 q 0,2.700228 0.793074,3.512184 0.811956,0.811957 3.455536,0.811957 z"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.6718px;font-family:monospace;-inkscape-font-specification:monospace;stroke-width:0.40283"
-         sodipodi:role="line">{  }</tspan></text>
+         id="path18" />
+      <path
+         d="m 63.358827,56.092484 h 1.284025 q 2.662463,0 3.474419,-0.830839 0.811957,-0.83084 0.811957,-3.493302 v -4.682914 q 0,-2.945703 0.849722,-4.286376 0.849722,-1.340672 2.945704,-1.850506 -2.077099,-0.472068 -2.945704,-1.81274 -0.849722,-1.340673 -0.849722,-4.305259 v -4.682913 q 0,-2.662463 -0.811957,-3.493302 -0.811956,-0.83084 -3.474419,-0.83084 h -1.284025 v -2.700228 h 1.170729 q 4.701796,0 6.287944,1.397321 1.586148,1.378438 1.586148,5.551518 v 4.531851 q 0,2.832407 1.000783,3.908722 1.019667,1.076315 3.68213,1.076315 h 1.208493 v 2.700228 h -1.208493 q -2.662463,0 -3.68213,1.095197 -1.000783,1.095198 -1.000783,3.946488 v 4.512968 q 0,4.17308 -1.586148,5.570401 -1.586148,1.397321 -6.287944,1.397321 h -1.170729 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.6718px;font-family:monospace;-inkscape-font-specification:monospace;stroke-width:0.40283"
+         id="path20" />
+    </g>
     <g
        id="g2908-3-8-54"
        transform="matrix(0.84378784,0.23933606,-0.23933513,0.84378474,4.6058088,-81.483218)">
