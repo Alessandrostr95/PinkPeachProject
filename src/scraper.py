@@ -952,7 +952,7 @@ class UniScraper(object):
 
 if __name__ == "__main__":
     bachelor_scraper = UniScraper(Degree.BACHELOR)
-    bachelor_scraper.get_all_data()
+    bachelor_scraper.get_all_data("20-21")
 
     master_scraper = UniScraper(Degree.MASTER)
-    master_scraper.get_all_data()
+    master_scraper.get_all_data("20-21")
