@@ -68,7 +68,7 @@ def write_contributors( contributors ):
     template = env.get_template( template_file )
     output_from_parsed_template = template.render( contributors=contributors )
     
-    print( output_from_parsed_template )
+    # print( output_from_parsed_template )
     
     # to save the results
     with open(result_file, "w") as fh:

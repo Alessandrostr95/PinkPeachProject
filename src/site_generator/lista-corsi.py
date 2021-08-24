@@ -47,7 +47,7 @@ def compute_courses_data(data, sort_by='anno'):
 def write_courses_list(triennale=True):
     cdl = "triennale" if triennale else "magistrale"
     corsi = compute_courses_data(import_courses(triennale))
-    pprint(corsi)
+    # pprint(corsi)
 
     template_dir = TEMPLATES_ROOT + "corsi/"
     template_file = "lista.html"

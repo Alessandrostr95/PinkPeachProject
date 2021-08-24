@@ -103,14 +103,14 @@ if __name__ == "__main__":
         "magistrale": create_tree_data(False)
     }
 
-    pprint( items)
-    pprint( tree_data )
+    # pprint( items)
+    # pprint( tree_data )
 
     env = Environment( loader=FileSystemLoader( template_dir ) )
     template = env.get_template( template_file )
     output_from_parsed_template = template.render( items=items, tree=tree_data, year=get_current_school_year() )
     
-    print( output_from_parsed_template )
+    # print( output_from_parsed_template )
     
     # to save the results
     with open(result_file, "w") as fh:
