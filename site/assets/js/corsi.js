@@ -7,6 +7,7 @@ window.onload = function() {
     var prevScrollpos = window.pageYOffset;
     const barraMenu = document.getElementById("barraMenu");
 
+    /*
     window.onscroll = function() {
         var currentScrollPos = window.pageYOffset;
         // var h = barraMenu.style.height;
@@ -20,6 +21,7 @@ window.onload = function() {
         }
         prevScrollpos = currentScrollPos;
     }
+    */
 
     
     /* Faccio collassare gli elementi del NAV-TREE quando clicco su un elemento padre */
