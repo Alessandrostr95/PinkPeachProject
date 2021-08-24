@@ -37,3 +37,40 @@ osservazione degna di nota è il fatto che il nostro servizio sarà
 unico nel suo genere, perché sarà fatto *dagli studenti per gli
 studenti*.
 
+---
+
+### Description
+
+L'idea di base di questo progetto è quella di avere un codice che con 
+un solo click *generi in automatico* tutto il sito finale, bello pronto e impacchettato.
+Per prima cosa il modulo python `src/scraper.py` scarica tutte le informazioni
+utili dal sito ufficiale `http://www.informatica.uniroma2.it/` e li salva nella 
+cartella `data/`.
+La cartella data ha la seguente struttura
+```
+  data
+  ├── magistrale
+  │   └── < Anno Accademico >
+  │       ├── annunci
+  │       ├── corsi
+  │       ├── docenti
+  │       ├── esami
+  │       └── orario
+  └── triennale
+      └── < Anno Accademico >
+          ├── annunci
+          ├── corsi
+          ├── docenti
+          ├── esami
+          └── orario
+```
+
+Dopodiche nella cartella `src/site_generator/` ci sono una serie di script python che 
+costruiscono le pagine html del sito, basandosi su dei **template** nella cartella
+`templates/`.
+La libreria usata per la compilazione dei template html è **jinja2** (https://jinja.palletsprojects.com/en/3.0.x/).
+
+I vantaggi di questo approccio sono:
+1. Scalabilità del sito
+2. Pagine generate dinamicamente lato server, ma viste come pagine statiche lato client, riducento il carico di lavoro dei client
+3. Modificare un template in comune per tutti anzichè ogni singola pagina
