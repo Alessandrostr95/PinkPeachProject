@@ -33,12 +33,12 @@
                 <tr>
                     <td><a href="./{{ esame['codice'] }}.html">{{ esame['insegnamento'] }}</a></td>
                     <td>{{ esame['docente'] }}</td>
-                    <td>{{ esame['scritto']['data'] }}</td>
-                    <td>{{ esame['scritto']['ora'] }}</td>
-                    <td>{{ esame['scritto']['aula'] }}</td>
-                    <td>{{ esame['orale']['data'] }}</td>
-                    <td>{{ esame['orale']['ora'] }}</td>
-                    <td>{{ esame['orale']['aula'] }}</td>
+                    <td>{{ esame['scritto']['data'] if esame['scritto']['data'] != None else '&#10060;' }}</td>
+                    <td>{{ esame['scritto']['ora'] if esame['scritto']['ora'] != None else '&#10060;' }}</td>
+                    <td>{{ esame['scritto']['aula'] if esame['scritto']['aula'] != None else '&#10060;' }}</td>
+                    <td>{{ esame['orale']['data'] if esame['orale']['data'] != None else '&#10060;' }}</td>
+                    <td>{{ esame['orale']['ora'] if esame['orale']['ora'] != None else '&#10060;' }}</td>
+                    <td>{{ esame['orale']['aula'] if esame['orale']['aula'] != None else '&#10060;' }}</td>
                 </tr>
                 {% endfor %}
 

@@ -17,6 +17,9 @@ from scraper import get_current_school_year
 INVERANALE, ESTIVA_ANTICIPATA, ESTIVA, AUTUNNALE = ["invernale", "estiva-anticipata", "estiva", "autunnale"]
 
 def import_exams(sessione, triennale=True):
+    """
+        Data una sessione, legge il file csv degli esami e ritorna una lista di oggetti 'riga'
+    """
     cdl = "triennale" if triennale else "magistrale"
     assert sessione in [INVERANALE, ESTIVA_ANTICIPATA, ESTIVA, AUTUNNALE]
     f_name = DATA_ROOT + f"{cdl}/{get_current_school_year()}/esami/esami-{sessione}.csv"
@@ -28,11 +31,12 @@ def import_exams(sessione, triennale=True):
 
 def compute_exams_data(data, triennale=True):
     """
-        sessione <invernale|estiva-anticipata|estiva>
-          |
-          └──appello <1|2>
-               |
-               └──anno <1|2|3> => [lista di oggetti]
+        Data una lista in accordo con quanto ritornato nel metodo 'import_exams'
+        struttura i dati nel seguente formato:
+
+        appello <1|2>
+            |
+            └──anno <1|2|3> => [lista di oggetti]
     """
 
     cdl = "triennale" if triennale else "magistrale"
@@ -74,8 +78,8 @@ def compute_exams_data(data, triennale=True):
         pass
     
     table = {
-        1:{1:[],2:[],3:[],},
-        2:{1:[],2:[],3:[],}
+        1:{1:[],2:[],3:[]},
+        2:{1:[],2:[],3:[]}
     }
     for esame in esami:
         table[esame['appello']][esame['anno']].append(esame)
@@ -84,8 +88,8 @@ def compute_exams_data(data, triennale=True):
     return table
 
 def get(x:str):
-    if x == 'NULL' or x == 'null' or x == 'Null':
-        return ''
+    if x == 'NULL' or x == 'null' or x == 'Null' or x == '':
+        return None
     return x
 
 def write_exams(triennale=True):
@@ -94,6 +98,14 @@ def write_exams(triennale=True):
         ESTIVA: compute_exams_data(import_exams(ESTIVA, triennale=triennale), triennale=triennale),
         AUTUNNALE: compute_exams_data(import_exams(AUTUNNALE, triennale=triennale), triennale=triennale)
     }
+    """
+        L'oggetto esami ha la seguente struttura
+        sessione <invernale|estiva-anticipata|estiva>
+          |
+          └──appello <1|2>
+               |
+               └──anno <1|2|3> => [lista di oggetti]
+    """
 
     # pprint( esami )
 
