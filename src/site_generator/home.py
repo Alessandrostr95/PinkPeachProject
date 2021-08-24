@@ -64,7 +64,7 @@ def create_tree_data(triennale=True):
             'docente': corso['docente'],
             'nome': corso['insegnamento'],
             #'link': corso['link']   # inserire link pagina del corso
-            'link': SITE_ROOT + f"{cdl}/{get_current_school_year()}/{corso['codice']}.html"
+            'link': f"../{cdl}/{get_current_school_year()}/{corso['codice']}.html"
         })
     
     # pprint( corsi )
