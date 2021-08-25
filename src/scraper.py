@@ -850,14 +850,19 @@ class UniScraper(object):
 
     def __create_rss_entry(self, entry):
         title, date, author, description, enclosure = self.__extract_news_data(entry)
+        # NOTE: correct whitespaces here are crucial to be able to
+        # understand if a news was already added in
+        # __update_rss_feed()
         rss_entry = (
-            "      <item>\n"
-            f"       <title>{title}</title>\n"
-            f"       <author>{author}</author>\n"
-            f"       <pubDate>{date}</pubDate>\n"
-            f'       <enclosure url="{enclosure}" type="application/pdf" />\n'
-            f"       <description>\n<![CDATA[{description}\n]]></description>\n"
-            "      </item>\n\n")
+             "    <item>\n"
+            f"      <title>{title}</title>\n"
+            f"      <author>{author}</author>\n"
+            f"      <pubDate>{date}</pubDate>\n"
+            f'      <enclosure url="{enclosure}" type="application/pdf" />\n'
+            f"      <description>\n"
+            f"        <![CDATA[{description}\n"
+            f"        ]]></description>\n"
+             "    </item>\n\n")
         return rss_entry
 
     def __extract_news_data(self, entry):
@@ -912,9 +917,10 @@ class UniScraper(object):
         contents = rss_file.readlines()
         rss_file.close()
 
-        # # -- modify content accordingly
+        # -- modify content accordingly
         for rss_entry in rss_entries:
-            # NOTE: add entry only if not already present
+            # NOTE: this checks only works if the rss entry was
+            # created with the right spaces in __create_rss_entry()
             if "".join(contents).find(rss_entry) == -1:
                 contents.insert(8, rss_entry)
 
@@ -952,7 +958,8 @@ class UniScraper(object):
 
 if __name__ == "__main__":
     bachelor_scraper = UniScraper(Degree.BACHELOR)
-    bachelor_scraper.get_all_data("20-21")
+    # bachelor_scraper.get_all_data("20-21")
+    bachelor_scraper.get_news()
 
-    master_scraper = UniScraper(Degree.MASTER)
-    master_scraper.get_all_data("20-21")
+    # master_scraper = UniScraper(Degree.MASTER)
+    # master_scraper.get_all_data("20-21")
