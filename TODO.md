@@ -9,3 +9,7 @@
 - [ ] Creare repo github per il materiale condiviso e creare pagina di spiegazione
 
 - [ ] Decidere dove aggiungere il link alla pagina di spiegazione
+
+- [ ] Inserire scritta Triennale/Magistrale nel titolo per capire la sezione del sito in cui si trova in ogni momento
+
+- [ ] Il colore verde nelle tabelle deve essere schiarito un po' 
