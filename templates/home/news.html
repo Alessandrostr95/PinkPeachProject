@@ -3,7 +3,7 @@
 {% block news_triennale %}
         <!-- auto-generated message -->
         <div class="col p-1" >
-        <div class="message-xml">
+        <div class="message-xml hidden">
 
             &lt;<span class="tag-name">message</span><br />
               <span class="attr tab">author</span>=<span class="str">"{{ item['author'] }}"</span><br />
@@ -44,6 +44,30 @@
               <br />
 
             &lt;/<span class="tag-name">message</span>&gt;
+        </div>
+
+        <div class="message-normal">
+
+          <p class="h6 fw-bold">{{ item['title'] }}</p>
+          <p><span class="h6">{{ item['author'] }}</span> <span class="h6 text-muted">{{ item['date'] }}</span></p>
+
+          <p class="body-message">
+            {{ item['body']['value'] }}
+          </p>
+
+          {% if item['links']|length > 0 %}
+          <p><span class="fw-bold">Links:</span>
+            <ul>
+              {% for l in item['links'] %}
+              {% if l['url'] != "" %}
+              <li>
+                <a href="{{ l['url'] }}">{{ l['url'] }}</a>
+              </li>
+              {% endif %}
+              {% endfor %}
+            </ul>
+          </p>
+          {% endif %}
         </div>
         </div>
 {% endblock %}
@@ -51,7 +75,7 @@
 {% block news_magistrale %}
         <!-- auto-generated message -->
         <div class="col p-1" >
-        <div class="message">
+        <div class="message-xml hidden">
 
             &lt;<span class="tag-name">message</span><br />
               <span class="attr tab">author</span>=<span class="str">"{{ item['author'] }}"</span><br />
@@ -92,6 +116,30 @@
               <br />
 
             &lt;/<span class="tag-name">message</span>&gt;
+        </div>
+
+        <div class="message-normal">
+
+          <p class="h6 fw-bold">{{ item['title'] }}</p>
+          <p><span class="h6">{{ item['author'] }}</span> <span class="h6 text-muted">{{ item['date'] }}</span></p>
+
+          <p class="body-message">
+            {{ item['body']['value'] }}
+          </p>
+
+          {% if item['links']|length > 0 %}
+          <p><span class="fw-bold">Links:</span>
+            <ul>
+              {% for l in item['links'] %}
+              {% if l['url'] != "" %}
+              <li>
+                <a href="{{ l['url'] }}">{{ l['url'] }}</a>
+              </li>
+              {% endif %}
+              {% endfor %}
+            </ul>
+          </p>
+          {% endif %}
         </div>
         </div>
 {% endblock %}

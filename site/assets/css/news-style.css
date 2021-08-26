@@ -19,7 +19,7 @@
   margin: 0 !important;
 }
 
-.message-xml {
+.message-xml, .message-normal {
   /*box-shadow: 8px -4px 4px 0 rgba(0, 0, 0, 0.2);*/
   box-shadow: 4px 0px 4px 4px rgba(0, 0, 0, 0.2);
   border-radius: 10px;
@@ -33,7 +33,7 @@
 }
 
 @media screen and (min-width: 768px) {
-  .message-xml {
+  .message-xml, .message-normal {
     height: 100%;
   }
 }
@@ -49,7 +49,7 @@
     }
 }
 
-.message-xml a,
+.message-xml a, .message-normal a, 
 .body-message {
   /* -ms-word-break: break-all; */
   word-wrap: break-word; /* All browsers since IE 5.5+ */
