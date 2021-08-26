@@ -131,6 +131,13 @@ function write(k) {
     }
 }
 
+
+/** funzione che cambia lo stile delle news */
+function toggleXMLNewsStyle() {
+    document.querySelectorAll(".message-xml").forEach(e => e.classList.toggle("hidden"));
+    document.querySelectorAll(".message-normal").forEach(e => e.classList.toggle("hidden"));
+}
+
 /**
  * 
  * 
