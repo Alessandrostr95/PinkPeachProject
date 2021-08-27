@@ -10,6 +10,7 @@ window.onload = function() {
     document.querySelector("#link-corsi").href = `../${currentState}/${currentYear}/corsi.html`;
     document.querySelector("#link-docenti").href = `../${currentState}/${currentYear}/docenti.html`;
     document.querySelector("#link-esami").href = `../${currentState}/${currentYear}/esami.html`;
+    document.querySelector("#link-lauree").href = `../${currentState}/${currentYear}/lauree.html`;
 
     const slideBar = document.querySelector("#slide-bar");
     const triennale = document.querySelector("#triennale");
@@ -49,6 +50,7 @@ window.onload = function() {
         document.querySelector("#link-corsi").href = `../${currentState}/${currentYear}/corsi.html`;
         document.querySelector("#link-docenti").href = `../${currentState}/${currentYear}/docenti.html`;
         document.querySelector("#link-esami").href = `../${currentState}/${currentYear}/esami.html`;
+        document.querySelector("#link-lauree").href = `../${currentState}/${currentYear}/lauree.html`;
     });
 
 

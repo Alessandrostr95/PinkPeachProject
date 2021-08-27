@@ -107,6 +107,10 @@ versione vecchia quando gli elementi erano:
 }
 #barraMenu li:nth-of-type(5):hover ~ .underbar {
   left: 244px;
+  width: 49px;
+}
+#barraMenu li:nth-of-type(6):hover ~ .underbar {
+  left: 307px;
   width: 29px;
 }
 
