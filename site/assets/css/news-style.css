@@ -24,12 +24,15 @@
   box-shadow: 4px 0px 4px 4px rgba(0, 0, 0, 0.2);
   border-radius: 10px;
   padding: 10px;
-  font: small Inconsolata, monospace;
   /*width: 100%;*/
   height: fit-content;
   /*margin: 5px;*/
   background-color: white;
   transition: transform 0.2s;
+}
+
+.message-xml {
+  font: small Inconsolata, monospace;
 }
 
 @media screen and (min-width: 768px) {
