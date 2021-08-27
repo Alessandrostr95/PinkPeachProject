@@ -36,7 +36,7 @@ tbody td {
 
 tbody td:hover {
     color: honeydew !important;
-    font-weight: bold !important;
+    /*font-weight: bold !important;*/
 }
 
 tbody td a {
