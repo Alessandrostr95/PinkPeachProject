@@ -20,6 +20,7 @@ main() {
     python3 src/site_generator/corsi.py
     python3 src/site_generator/lista-corsi.py
     python3 src/site_generator/esami.py
+    python3 src/site_generator/lauree.py
 }
 
 # call main with all arguments passed from command line
