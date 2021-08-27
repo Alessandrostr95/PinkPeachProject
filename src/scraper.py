@@ -26,7 +26,8 @@ IT_DIR_NAMES = {
         "exams": "esami",
         "news": "annunci",
         "schedule": "orario",
-        "teachers": "docenti",        
+        "teachers": "docenti",
+        "graduation": "lauree",
     },
     "special_dirs": {
         "students": "studenti",        
@@ -41,7 +42,8 @@ ENG_DIR_NAMES = {
         "exams": "exams",
         "news": "news",
         "schedule": "schedule",
-        "teachers": "teachers",        
+        "teachers": "teachers",
+        "graduation": "graduation",
     },
     "special_dirs": {
         "students": "students",        
@@ -49,7 +51,6 @@ ENG_DIR_NAMES = {
         "master": "master",
     }
 }
-
 
 
 # Used to differentiate between first_name and last_name in case of
@@ -305,6 +306,7 @@ class UniScraper(object):
                 self.get_all_courses_data(scholar_year)
                 
     # ---------------------------
+    # CODICI CORSO
 
     def get_courses_codes(self, scholar_year=None):
         """
@@ -326,8 +328,8 @@ class UniScraper(object):
                     
             return codes
 
-    # ---------------------------        
-    
+    # ---------------------------
+    # DATI CORSO PER INTERO ANNO SCOLASTICO
 
     def get_all_courses_data(self, scholar_year=None):
         """
@@ -346,6 +348,7 @@ class UniScraper(object):
             self.get_course_data(code, scholar_year)
 
     # ---------------------------
+    # LISTA CORSI
 
     def get_courses_list(self, scholar_year=None):
         """
@@ -407,6 +410,7 @@ class UniScraper(object):
         return 0
 
     # ---------------------------
+    # DATI CORSO
     
     def get_course_data(self, course_code, scholar_year=None, download=False):
         """Downloads all the data regarding the course identified by the
@@ -604,6 +608,7 @@ class UniScraper(object):
                 f.write(r.content)
 
     # ---------------------------
+    # LISTA DOCENTI
         
     def get_teachers_list(self):
         """
@@ -652,6 +657,7 @@ class UniScraper(object):
                 out.write(f"{nome},{qualifica},{studio},{telefono},{mail},{homepage},{insegnamenti}\n")
 
     # ---------------------------
+    # ORARIO LEZIONI
 
     def get_schedule(self):
         """
@@ -734,6 +740,7 @@ class UniScraper(object):
                     out.write(f"{current_year},{hour}, {schedule[0]},{schedule[1]},{schedule[2]},{schedule[3]},{schedule[4]}\n")
         
     # ---------------------------
+    # ESAMI
 
     # TODO: make sure the exam section makes sense with respect to
     # scholar_year
@@ -788,7 +795,6 @@ class UniScraper(object):
         """        
         r = requests.get(url)
         if r.status_code != 200:
-            print("Shit")
             print(f"[(WARNING) {self.degree}]: Coud not download exam list: [{url}]")
             exit()
 
@@ -819,8 +825,63 @@ class UniScraper(object):
                         orale_ora = cols[6].decode_contents().strip()
                         orale_aula = cols[7].decode_contents().strip()
                         out.write(f"{appello},{current_year},{insegnamento},{docente},{scritto_data},{scritto_ora},{scritto_aula},{orale_data},{orale_ora},{orale_aula}\n")
-                    
+
     # ---------------------------
+    # SEDUTE DI LAUREA
+
+    def get_graduation_schedule(self):
+        # -- compute current year
+        scholar_year = get_current_school_year()
+        
+        URL_PARAMS = ""
+        if self.degree == Degree.BACHELOR:
+            URL_PARAMS = "/pages/trien/lauree/dateLauree.htm"
+        elif self.degree == Degree.MASTER:
+            URL_PARAMS = "/pages/magis/lauree/dateLauree.htm"            
+        URL = self.BASE_URL + URL_PARAMS
+        
+        r = requests.get(URL)
+        if r.status_code != 200:
+            print(f"[(WARNING) {self.degree}]: Coud not download graduation schedule: [{URL}]")
+            exit()
+
+        output = []
+        soup = BeautifulSoup(r.text, 'html.parser')
+        table = soup.find("table")
+        rows = table.find_all("tr")
+
+        for row in rows[1:]:
+            cols = row.find_all("td")
+            # -- sometimes there is a <p> there :D
+            rowData = {}
+            
+            # -- data
+            if cols[0].find("p"):
+                rowData["giorno"] = cols[0].p.span.decode_contents().strip()
+            else:
+                rowData["giorno"] = cols[0].span.decode_contents().strip()
+
+            # -- sessione
+            if cols[1].find("p"):
+                rowData["sessione"] = cols[1].p.span.decode_contents().strip()
+            else:
+                rowData["sessione"] = cols[1].span.decode_contents().strip()
+
+            # -- a.a.
+            if cols[2].find("p"):
+                rowData["aa"] = cols[2].p.span.decode_contents().strip()
+            else:
+                rowData["aa"] = cols[2].span.decode_contents().strip()
+
+            output.append(rowData)
+
+        # -- write output json
+        file_path = f"{self.DATA_ROOT}/{scholar_year}/{self.directories['basic_dirs']['graduation']}/{self.directories['basic_dirs']['graduation']}.json"
+        with open(file_path, "w+") as out:
+            json.dump(output, out, indent=2)
+    
+    # ---------------------------
+    # NEWS
 
     def __create_rss_feed(self):
         if self.degree == Degree.BACHELOR:
@@ -959,7 +1020,9 @@ class UniScraper(object):
 if __name__ == "__main__":
     bachelor_scraper = UniScraper(Degree.BACHELOR)
     # bachelor_scraper.get_all_data("20-21")
-    bachelor_scraper.get_news()
+    # bachelor_scraper.get_news()
+    # bachelor_scraper.get_graduation_schedule()
 
-    # master_scraper = UniScraper(Degree.MASTER)
+    master_scraper = UniScraper(Degree.MASTER)
     # master_scraper.get_all_data("20-21")
+    master_scraper.get_graduation_schedule()
