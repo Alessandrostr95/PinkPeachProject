@@ -2,7 +2,7 @@ appello,anno,insegnamento,docente,scritto_data,scritto_ora,scritto_aula,orale_da
 1,1,Analisi Matematica,Fidaleo,03-09-2021,10:30,ONLINE,06-09-2021,11:30,NULL
 1,1,Architettura dei sistemi di elaborazione,Simonetta,06-09-2021,16:00,TEAMS,06-09-2021,16:00,TEAMS
 1,1,Fisica,Camarri,02-09-2021,09:30,13,13-09-2021,09:30,13
-1,1,Geometria ed algebra,Arosio,15-09-2021,10:00,ONLINE,16-09-2021,10:00,3PP2
+1,1,Geometria ed algebra,Arosio,15-09-2021,10:00,ONLINE,16-09-2021,10:00,T4
 1,1,Logica e reti logiche,Pasquale,07-09-2021,14:30,13,09-09-2021,10:00,13
 1,1,Matematica discreta,Brenti,01-09-2021,10:30,ONLINE,03-09-2021,16:00,13
 1,1,Programmazione dei calcolatori con laboratorio,Rossi,08-09-2021,10:00,NULL,10-09-2021,10:00,NULL
@@ -15,7 +15,7 @@ appello,anno,insegnamento,docente,scritto_data,scritto_ora,scritto_aula,orale_da
 1,2,Sistemi operativi e reti,Frasca,14-09-2021,10:00,ONLINE,14-09-2021,10:00,ONLINE
 1,3,Algoritmi e strutture dati 2,Pasquale,14-09-2021,10:00,13,14-09-2021,15:30,13
 1,3,Calcolo numerico,Pelosi,06-09-2021,10:00,ONLINE,08-09-2021,10:00,ONLINE
-1,3,Ingegneria del software,Intrigila-D'Ambrogio,09-09-2021,11:00,NULL,null,null,NULL
+1,3,Ingegneria del software,Intrigila-D'Ambrogio,09-09-2021,11:00,13,null,null,NULL
 1,3,Intelligenza artificiale 1,Basili,null,null,NULL,null,null,NULL
 1,3,Lingua inglese,Monorchio,null,null,NULL,null,null,NULL
 1,3,Modelli e linguaggi di simulazione,Iazeolla,null,null,NULL,null,null,NULL
@@ -26,7 +26,7 @@ appello,anno,insegnamento,docente,scritto_data,scritto_ora,scritto_aula,orale_da
 2,1,Fisica,Camarri,17-09-2021,09:30,13,20-09-2021,09:30,13
 2,1,Geometria ed algebra,Arosio,28-09-2021,10:00,ONLINE,29-05-2021,10:00,3PP2
 2,1,Logica e reti logiche,Pasquale,21-09-2021,14:30,13,23-09-2021,10:00,13
-2,1,Matematica discreta,Brenti,29-09-2021,15:30,ONLINE,30-09-2021,16:00,3PP2
+2,1,Matematica discreta,Brenti,29-09-2021,15:30,ONLINE,30-09-2021,16:00,T4
 2,1,Programmazione dei calcolatori con laboratorio,Rossi,24-09-2021,10:00,NULL,27-09-2021,10:00,NULL
 2,2,Algoritmi e strutture dati,Clementi-Guala',29-09-2021,09:30,ONLINE,30-09-2021,09:30,13
 2,2,Basi di dati e di conoscenza,Vigliano,27-09-2021,14:00,3PP2,30-09-2021,10:00,3PP2
@@ -37,7 +37,7 @@ appello,anno,insegnamento,docente,scritto_data,scritto_ora,scritto_aula,orale_da
 2,2,Sistemi operativi e reti,Frasca,24-09-2021,10:00,ONLINE,24-09-2021,10:00,ONLINE
 2,3,Algoritmi e strutture dati 2,Pasquale,28-09-2021,10:00,13,28-09-2021,15:30,13
 2,3,Calcolo numerico,Pelosi,27-09-2021,,ONLINE,30-09-2021,null,ONLINE
-2,3,Ingegneria del software,Intrigila-D'Ambrogio,22-09-2021,11:00,NULL,null,null,NULL
+2,3,Ingegneria del software,Intrigila-D'Ambrogio,22-09-2021,11:00,13,null,null,NULL
 2,3,Intelligenza artificiale 1,Basili,null,null,NULL,null,null,NULL
 2,3,Lingua inglese,Monorchio,null,null,NULL,null,null,NULL
 2,3,Modelli e linguaggi di simulazione,Iazeolla,null,null,NULL,null,null,NULL

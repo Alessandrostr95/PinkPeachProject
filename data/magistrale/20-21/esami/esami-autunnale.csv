@@ -43,7 +43,7 @@ appello,anno,insegnamento,docente,scritto_data,scritto_ora,scritto_aula,orale_da
 2,2,Information retrieval,Croce-Gambosi,null,null,NULL,null,null,NULL
 2,2,Intelligenza artificiale 2,Stellato,28-09-2021,10:00,ONLINE,null,null,NULL
 2,2,Internet technology and protocols,Salsano,null,null,NULL,null,null,NULL
-2,2,Machine learning,Gambosi,,,,30-09-2021,10:00,3PP2/TEAMS
+2,2,Machine learning,Gambosi,,,,30-09-2021,10:00,T5/TEAMS
 2,2,Metodi di verifica di sistemi,Intrigila,null,null,NULL,null,null,NULL
 2,2,Modelli e qualità del SW,Iazeolla,null,null,NULL,null,null,NULL
 2,2,Natural language processing,Zanzotto,null,null,NULL,null,null,NULL
