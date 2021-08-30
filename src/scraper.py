@@ -10,6 +10,7 @@ import json
 from bs4 import BeautifulSoup
 from bs4 import NavigableString
 from enum import Enum
+from argparse import ArgumentParser
 
 ''' TODOs:
 '''
@@ -206,6 +207,41 @@ def get_current_school_year():
     else:
         scholar_year = str(s - 1) + "-" + str(s)
     return scholar_year
+
+
+# -----------
+
+def parse_command_line_options():
+    parser = ArgumentParser()
+    subparsers = parser.add_subparsers(dest='cmd_name')
+    
+    # -- subparsers
+    bachelor_parser = subparsers.add_parser('bachelor')
+    master_parser = subparsers.add_parser('master')
+
+    # -- bachelor arguments
+    bachelor_parser.add_argument("-a", "--all", action="store_true", dest="all", help="download all data")
+    bachelor_parser.add_argument("-t", "--teachers", action="store_true", dest="teachers", help="download teachers data")
+    bachelor_parser.add_argument("-e", "--exams", action="store_true", dest="exams", help="download exams data")
+    bachelor_parser.add_argument("-g", "--graduation", action="store_true", dest="graduation", help="download graduation data")
+    bachelor_parser.add_argument("-s", "--schedule", action="store_true", dest="schedule", help="download courses schedule data")
+    bachelor_parser.add_argument("-n", "--news", action="store_true", dest="news", help="download latest news")
+    
+    bachelor_parser.add_argument("-c", "--course", dest="course", help="download course data", metavar="COURSE_CODE")
+    bachelor_parser.add_argument("-y", "--year", dest="year", help="scholar year in the form 20-21", metavar="SCHOLAR_YEAR")
+
+    # -- master arguments
+    master_parser.add_argument("-a", "--all", action="store_true", dest="all", help="download all data")
+    master_parser.add_argument("-t", "--teachers", action="store_true", dest="teachers", help="download teachers data")
+    master_parser.add_argument("-e", "--exams", action="store_true", dest="exams", help="download exams data")
+    master_parser.add_argument("-g", "--graduation", action="store_true", dest="graduation", help="download graduation data")
+    master_parser.add_argument("-s", "--schedule", action="store_true", dest="schedule", help="download courses schedule data")
+    master_parser.add_argument("-n", "--news", action="store_true", dest="news", help="download latest news")
+    
+    master_parser.add_argument("-c", "--course", dest="course", help="download course data", metavar="COURSE_CODE")
+    master_parser.add_argument("-y", "--year", dest="year", help="scholar year in the form 20-21", metavar="SCHOLAR_YEAR")
+
+    return parser.parse_args()
                 
 # ---------------------------
 
@@ -295,6 +331,7 @@ class UniScraper(object):
         self.get_exams_schedule()
         self.get_teachers_list()
         self.get_news()
+        self.get_graduation_schedule()
 
         if scholar_year:
             self.get_all_courses_data(scholar_year)
@@ -1013,16 +1050,72 @@ class UniScraper(object):
 
         self.__update_rss_feed(rss_entries)
 
-# ----------------------------
-# Example Usage
-# ----------------------------
+# -------------------------------------------------------
 
 if __name__ == "__main__":
-    bachelor_scraper = UniScraper(Degree.BACHELOR)
-    # bachelor_scraper.get_all_data("20-21")
-    # bachelor_scraper.get_news()
-    # bachelor_scraper.get_graduation_schedule()
+    args = parse_command_line_options()
+    
+    scraper = None
+    if args.cmd_name == "bachelor":
+        scraper = UniScraper(Degree.BACHELOR)
+    elif args.cmd_name == "master":
+        scraper = UniScraper(Degree.MASTER)
+    else:
+        print("[ERROR]: Scraper only works in two modes: {bachelor, master}!")
+        exit()
 
-    master_scraper = UniScraper(Degree.MASTER)
-    # master_scraper.get_all_data("20-21")
-    master_scraper.get_graduation_schedule()
+    scholar_year = args.year if args.year else None
+    all_mode = args.all
+    teacher_mode = args.teachers
+    exam_mode = args.exams
+    schedule_mode = args.schedule
+    graduation_mode = args.graduation
+    news_mode = args.news
+    course_mode = True if args.course else False
+    course = args.course
+
+    # -- all mode overwrites everything else
+    if all_mode:
+        scraper.get_all_data(scholar_year)
+        exit()
+
+    if graduation_mode:
+        scraper.get_graduation_schedule()        
+
+    if teacher_mode:
+        scraper.get_teachers_list()
+
+    if exam_mode:
+        scraper.get_exams_schedule()
+
+    if news_mode:
+        scraper.get_news()
+
+    if course_mode:
+        scraper.get_course_data(course, scholar_year)
+
+# -------------------------------------------------------
+# Example Usage
+
+# scarica tutti i dati della triennale per l'anno 20-21
+# python3 scraper.py bachelor -a -y 20-21
+
+# scarica tutti i dati della triennale per l'anno 20-21
+# python3 scraper.py bachelor -a -y 20-21
+
+# scarica tutti i dati della triennale per l'anno 20-21
+# python3 scraper.py bachelor -a -y 20-21
+
+# scarica tutti i dati della triennale per l'anno 20-21
+# python3 scraper.py bachelor -a -y 20-21
+
+
+# for debugging
+# print("year: " + str(scholar_year))
+# print("all_mode: " + str(all_mode))
+# print("teacher_mode: " + str(teacher_mode))
+# print("exam_mode: " + str(exam_mode))
+# print("schedule_mode: " + str(schedule_mode))
+# print("news_mode: " + str(news_mode))
+# print("course_mode: " + str(course_mode))
+# print("course: " + str(course))
