@@ -3,6 +3,7 @@ import feedparser
 import csv
 import os
 from pprint import pprint
+from datetime import datetime
 
 SITE_ROOT = os.environ['SITE_ROOT'] if "SITE_ROOT" in os.environ else "../../site/"
 TEMPLATES_ROOT = os.environ['TEMPLATES_ROOT'] if "TEMPLATES_ROOT" in os.environ else "../../templates/"
@@ -106,9 +107,17 @@ if __name__ == "__main__":
     # pprint( items)
     # pprint( tree_data )
 
+    now = datetime.now()
+
     env = Environment( loader=FileSystemLoader( template_dir ) )
     template = env.get_template( template_file )
-    output_from_parsed_template = template.render( items=items, tree=tree_data, year=get_current_school_year() )
+    output_from_parsed_template = template.render(
+        items=items,
+        tree=tree_data,
+        year=get_current_school_year(),
+        data=now.strftime("%d/%m/%Y"),
+        ora=now.strftime("%H:%M")
+        )
     
     # print( output_from_parsed_template )
     
