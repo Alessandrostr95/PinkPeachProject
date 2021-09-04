@@ -116,7 +116,7 @@ def write_exams(triennale=True):
     output_from_parsed_template = template.render(
         sessioni = [ESTIVA_ANTICIPATA, ESTIVA, AUTUNNALE],
         esami = esami,
-        AA = get_current_school_year(),
+        AA = SCHOLAR_YEAR,
         anni = [1,2,3] if triennale else [1,2]
         )
     

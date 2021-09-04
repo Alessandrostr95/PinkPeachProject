@@ -58,7 +58,7 @@ def create_tree_data(triennale=True):
             'docente': corso['docente'],
             'nome': corso['insegnamento'],
             #'link': corso['link']   # inserire link pagina del corso
-            'link': f"../{cdl}/{get_current_school_year()}/{corso['codice']}.html"
+            'link': f"../{cdl}/{SCHOLAR_YEAR}/{corso['codice']}.html"
         })
     
     # pprint( corsi )
@@ -107,7 +107,7 @@ if __name__ == "__main__":
     output_from_parsed_template = template.render(
         items=items,
         tree=tree_data,
-        year=get_current_school_year(),
+        year=SCHOLAR_YEAR,
         data=now.strftime("%d/%m/%Y"),
         ora=now.strftime("%H:%M")
         )

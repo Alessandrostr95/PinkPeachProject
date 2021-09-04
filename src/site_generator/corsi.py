@@ -11,7 +11,7 @@ from header import *
 
 def import_courses(triennale=True):
     cdl = "triennale" if triennale else "magistrale"
-    f_name = DATA_ROOT + f"{cdl}/{get_current_school_year()}/corsi/corsi.csv"
+    f_name = DATA_ROOT + f"{cdl}/{SCHOLAR_YEAR}/corsi/corsi.csv"
     #path = DATA_ROOT + f"{cdl}/{get_current_school_year()}/corsi"
     #print( os.listdir( path ) )
 
@@ -92,7 +92,7 @@ def write_courses(triennale=True):
     template = env.get_template( template_file )
 
     for corso in corsi:
-        result_file = SITE_ROOT + f"{cdl}/{get_current_school_year()}/{corso['codice']}.html"
+        result_file = SITE_ROOT + f"{cdl}/{SCHOLAR_YEAR}/{corso['codice']}.html"
 
         output_from_parsed_template = template.render( data=corso )
         
