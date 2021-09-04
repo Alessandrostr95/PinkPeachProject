@@ -995,9 +995,10 @@ class UniScraper(object):
 
         return title, date, author, description, enclosure
 
-    def __update_rss_feed(self, rss_entries):
+    def __update_rss_feed(self, rss_entries, scholar_year=None):
         # -- compute filename
-        scholar_year = get_current_school_year()
+        if not scholar_year:
+            scholar_year = get_current_school_year()
 
         if self.degree == Degree.BACHELOR:
             rss_file = f"{self.directories['special_dirs']['bachelor']}.xml"
@@ -1027,7 +1028,7 @@ class UniScraper(object):
         rss_file.writelines(contents)
         rss_file.close()
 
-    def get_news(self):
+    def get_news(self, scholar_year=None):
         # -- compute URL
         cdl_param = self.__cdl_param()
         URL_PARAMS = f"/f0?fid=50&srv=4&cdl={cdl_param}&pag=0"
@@ -1048,7 +1049,7 @@ class UniScraper(object):
         for entry in entries:
             rss_entries.append(self.__create_rss_entry(entry))
 
-        self.__update_rss_feed(rss_entries)
+        self.__update_rss_feed(rss_entries, scholar_year)
 
 # -------------------------------------------------------
 
@@ -1089,7 +1090,7 @@ if __name__ == "__main__":
         scraper.get_exams_schedule()
 
     if news_mode:
-        scraper.get_news()
+        scraper.get_news(scholar_year)
 
     if course_mode:
         scraper.get_course_data(course, scholar_year)
