@@ -1,13 +1,13 @@
-from jinja2 import Environment, FileSystemLoader
-import requests
-import json
-from pprint import pprint
-import os
+# -- general imports
+from header import DATA_ROOT
+from header import TEMPLATES_ROOT
+from header import SITE_ROOT
+from header import SCHOLAR_YEAR
 
-SITE_ROOT = os.environ['SITE_ROOT'] if "SITE_ROOT" in os.environ else "../../site/"
-TEMPLATES_ROOT = os.environ['TEMPLATES_ROOT'] if "TEMPLATES_ROOT" in os.environ else "../../templates/"
-DATA_ROOT = os.environ['DATA_ROOT'] if "DATA_ROOT" in os.environ else "../../data/"
-SRC_ROOT = os.environ['SRC_ROOT'] if "SRC_ROOT" in os.environ else "../../src/"
+# -- import all libraries importer in header
+from header import *
+
+# ----------------------------------------------
 
 # Utilizzato da modify_contributors_with_custom_data() per cambiare le
 # informazioni scaricate da github con dati a piacere.
@@ -17,6 +17,8 @@ CUSTOM_DATA = {
         "html_url": "https://leonardotamiano.xyz",
     }
 }
+
+# ----------------------------------------------
 
 def download_github_avatars(contributors):
     for user in contributors:

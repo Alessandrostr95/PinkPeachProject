@@ -1,29 +1,22 @@
-from jinja2 import Environment, FileSystemLoader
-import csv
-import os
-from pprint import pprint
+# -- general imports
+from header import DATA_ROOT
+from header import TEMPLATES_ROOT
+from header import SITE_ROOT
+from header import SCHOLAR_YEAR
 
-SITE_ROOT = os.environ['SITE_ROOT'] if "SITE_ROOT" in os.environ else "../../site/"
-TEMPLATES_ROOT = os.environ['TEMPLATES_ROOT'] if "TEMPLATES_ROOT" in os.environ else "../../templates/"
-DATA_ROOT = os.environ['DATA_ROOT'] if "DATA_ROOT" in os.environ else "../../data/"
-SRC_ROOT = os.environ['SRC_ROOT'] if "SRC_ROOT" in os.environ else "../../src/"
+# -- import all libraries importer in header
+from header import *
 
-# -- imported from ../scraper.py
-import sys
-sys.path.append(SRC_ROOT)
-
-from scraper import get_current_school_year
-
-###################################
+# ------------------------------
 
 def import_courses( triennale=True ):
     """
         Funzione che importa i dati dei corsi
     """
     if triennale:
-        f_name = DATA_ROOT + f"triennale/{get_current_school_year()}/corsi/corsi.csv"
+        f_name = DATA_ROOT + f"triennale/{SCHOLAR_YEAR}/corsi/corsi.csv"
     else:
-        f_name = DATA_ROOT + f"magistrale/{get_current_school_year()}/corsi/corsi.csv"
+        f_name = DATA_ROOT + f"magistrale/{SCHOLAR_YEAR}/corsi/corsi.csv"
     
     f = open( f_name )
     sem = csv.DictReader(f)
@@ -82,9 +75,9 @@ def write_orari(triennale=True):
 
     cdl = "triennale" if triennale else "magistrale"
 
-    csv_file = DATA_ROOT + f"{cdl}/{get_current_school_year()}/orario/sem2.csv"
+    csv_file = DATA_ROOT + f"{cdl}/{SCHOLAR_YEAR}/orario/sem2.csv"
 
-    result_file = SITE_ROOT + f"{cdl}/{get_current_school_year()}/orario.html"
+    result_file = SITE_ROOT + f"{cdl}/{SCHOLAR_YEAR}/orario.html"
 
     template_dir = TEMPLATES_ROOT + "orario/"
     template_file = "table.html"

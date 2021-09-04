@@ -1,19 +1,13 @@
-from jinja2 import Environment, FileSystemLoader
-import json
-import csv
-import os
-from pprint import pprint
+# -- general imports
+from header import DATA_ROOT
+from header import TEMPLATES_ROOT
+from header import SITE_ROOT
+from header import SCHOLAR_YEAR
 
-SITE_ROOT = os.environ['SITE_ROOT'] if "SITE_ROOT" in os.environ else "../../site/"
-TEMPLATES_ROOT = os.environ['TEMPLATES_ROOT'] if "TEMPLATES_ROOT" in os.environ else "../../templates/"
-DATA_ROOT = os.environ['DATA_ROOT'] if "DATA_ROOT" in os.environ else "../../data/"
-SRC_ROOT = os.environ['SRC_ROOT'] if "SRC_ROOT" in os.environ else "../../src/"
+# -- import all libraries importer in header
+from header import *
 
-# -- imported from ../scraper.py
-import sys
-sys.path.append(SRC_ROOT)
-
-from scraper import get_current_school_year
+# ----------------------------------------------
 
 def import_courses(triennale=True):
     cdl = "triennale" if triennale else "magistrale"
@@ -81,7 +75,7 @@ def get_id_name(name):
 
 def write_courses(triennale=True):
     cdl = "triennale" if triennale else "magistrale"
-    courses_dir = DATA_ROOT + f"{cdl}/{get_current_school_year()}/corsi/"
+    courses_dir = DATA_ROOT + f"{cdl}/{SCHOLAR_YEAR}/corsi/"
 
     data = import_courses(triennale)
 

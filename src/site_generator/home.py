@@ -1,20 +1,13 @@
-from jinja2 import Environment, FileSystemLoader
-import feedparser
-import csv
-import os
-from pprint import pprint
-from datetime import datetime
+# -- general imports
+from header import DATA_ROOT
+from header import TEMPLATES_ROOT
+from header import SITE_ROOT
+from header import SCHOLAR_YEAR
 
-SITE_ROOT = os.environ['SITE_ROOT'] if "SITE_ROOT" in os.environ else "../../site/"
-TEMPLATES_ROOT = os.environ['TEMPLATES_ROOT'] if "TEMPLATES_ROOT" in os.environ else "../../templates/"
-DATA_ROOT = os.environ['DATA_ROOT'] if "DATA_ROOT" in os.environ else "../../data/"
-SRC_ROOT = os.environ['SRC_ROOT'] if "SRC_ROOT" in os.environ else "../../src/"
+# -- import all libraries importer in header
+from header import *
 
-# -- imported from ../scraper.py
-import sys
-sys.path.append(SRC_ROOT)
-
-from scraper import get_current_school_year
+# ------------------------------
 
 def import_news(f_name):
     data = feedparser.parse(f_name)['entries']
@@ -43,8 +36,8 @@ def create_tree_data(triennale=True):
     """
     cdl = "triennale" if triennale else "magistrale"
     paths = {
-        'corsi': DATA_ROOT + f"{cdl}/{get_current_school_year()}/corsi/corsi.csv",
-        'docenti': DATA_ROOT + f"{cdl}/{get_current_school_year()}/docenti/docenti.csv"
+        'corsi': DATA_ROOT + f"{cdl}/{SCHOLAR_YEAR}/corsi/corsi.csv",
+        'docenti': DATA_ROOT + f"{cdl}/{SCHOLAR_YEAR}/docenti/docenti.csv"
     }
 
     tabella_corsi = [line for line in csv.DictReader(open(paths['corsi']))]
@@ -86,8 +79,8 @@ def create_tree_data(triennale=True):
 
 if __name__ == "__main__":
     f_names = [
-        DATA_ROOT + "triennale/20-21/annunci/triennale.xml",
-        DATA_ROOT + "magistrale/20-21/annunci/magistrale.xml"
+        DATA_ROOT + f"triennale/{SCHOLAR_YEAR}/annunci/triennale.xml",
+        DATA_ROOT + f"magistrale/{SCHOLAR_YEAR}/annunci/magistrale.xml"
         ]
     result_file = SITE_ROOT + "home/index.html"
     
