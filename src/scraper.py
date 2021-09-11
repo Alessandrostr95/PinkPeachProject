@@ -13,6 +13,13 @@ from enum import Enum
 from argparse import ArgumentParser
 
 ''' TODOs:
+    - Aggiungere flag debug per stampare tutto ciò che scarica lo scraper.
+
+    - Rendere le flags dei parametri più intuitive, specialmente la -d
+      per la creazione delle cartelle.
+
+    - Fare in modo che lo scraper crei la struttura delle cartelle da
+      solo se si accorge che non sono tutte già presenti.
 '''
 
 # ----- Globals -----
@@ -226,6 +233,9 @@ def parse_command_line_options():
     bachelor_parser.add_argument("-g", "--graduation", action="store_true", dest="graduation", help="download graduation data")
     bachelor_parser.add_argument("-s", "--schedule", action="store_true", dest="schedule", help="download courses schedule data")
     bachelor_parser.add_argument("-n", "--news", action="store_true", dest="news", help="download latest news")
+
+    # TODO: make this more intuitive
+    bachelor_parser.add_argument("-d", "--create-dirs", action="store_true", dest="dirs", help="create basic dir structure")
     
     bachelor_parser.add_argument("-c", "--course", dest="course", help="download course data", metavar="COURSE_CODE")
     bachelor_parser.add_argument("-y", "--year", dest="year", help="scholar year in the form 20-21", metavar="SCHOLAR_YEAR")
@@ -237,6 +247,9 @@ def parse_command_line_options():
     master_parser.add_argument("-g", "--graduation", action="store_true", dest="graduation", help="download graduation data")
     master_parser.add_argument("-s", "--schedule", action="store_true", dest="schedule", help="download courses schedule data")
     master_parser.add_argument("-n", "--news", action="store_true", dest="news", help="download latest news")
+
+    # TODO: make this more intuitive
+    master_parser.add_argument("-d", "--create-dirs", action="store_true", dest="dirs", help="create basic dir structure")
     
     master_parser.add_argument("-c", "--course", dest="course", help="download course data", metavar="COURSE_CODE")
     master_parser.add_argument("-y", "--year", dest="year", help="scholar year in the form 20-21", metavar="SCHOLAR_YEAR")
@@ -275,15 +288,17 @@ class UniScraper(object):
 
     # ---------------------------
 
-    def create_directory_structure(self):
+    def create_directory_structure(self, scholar_year=None):
         """
         Sets up basic directory structure to hold all data.
         """
         dir_name = f"{self.DATA_ROOT}"
         os.makedirs(dir_name, exist_ok=True)
 
-        first_year = 2001
-        current_year = datetime.datetime.now().year
+        # TODO: improve this 
+        first_year = 2021
+        current_year = 2022
+            
         for year in range(first_year, current_year):
             # -- create year dir
             scholar_year = str(year)[2:] + "-" + str(year + 1)[2:]            
@@ -1067,6 +1082,7 @@ if __name__ == "__main__":
 
     scholar_year = args.year if args.year else None
     all_mode = args.all
+    dirs_mode = args.dirs
     teacher_mode = args.teachers
     exam_mode = args.exams
     schedule_mode = args.schedule
@@ -1074,6 +1090,9 @@ if __name__ == "__main__":
     news_mode = args.news
     course_mode = True if args.course else False
     course = args.course
+
+    if dirs_mode:
+        scraper.create_directory_structure(scholar_year)
 
     # -- all mode overwrites everything else
     if all_mode:

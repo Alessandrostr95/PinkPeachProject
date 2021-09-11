@@ -21,3 +21,7 @@
 - [x] Aggiungere pagina con date Lauree
 
 - [x] Togliere effetto bold quando si è sopra una casella delle tabelle (ogni tanto capita che le caselle cambiano dimensione e questo da fastidio)
+
+- [ ] Aggiungere flag --debug nello scraper per stampare tutto quello che scarica/trova
+
+- [ ] Fare in modo che lo scraper crei la struttura delle cartelle da solo se si accorge che non è già presente.
