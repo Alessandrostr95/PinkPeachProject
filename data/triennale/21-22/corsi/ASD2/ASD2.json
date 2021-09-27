@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Algoritmi e strutture dati 2",
+  "docente": [
+    {
+      "first_name": "Francesco",
+      "second_name": "Pasquale"
+    }
+  ],
+  "annoAccademico": "2021-2022",
+  "crediti": "6",
+  "settore": "INF/01",
+  "anno": "3",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Algoritmi e strutture dati.",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>null</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>null</td></tr></table>",
+  "ricevimento": "<table><tr><td>null</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

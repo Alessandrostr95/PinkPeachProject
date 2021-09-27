@@ -1,0 +1,31 @@
+anno,ora,lunedì,martedì,mercoledì,giovedì,venerdì
+1,9:00, X,Analisi Matematica(T5),X,X,X
+1,10:00, X,Analisi Matematica(T5),X,Matematica discreta(T5),X
+1,11:00, Matematica discreta(T5),Analisi Matematica(T5),Matematica discreta(T5),Matematica discreta(T5),Matematica discreta(T5)
+1,12:00, Matematica discreta(T5),X,Matematica discreta(T5),Matematica discreta(T5),Matematica discreta(T5)
+1,13:00, X,X,X,X,X
+1,14:00, X,Programmazione dei calcolatori con laboratorio(T5),X,Programmazione dei calcolatori con laboratorio(T5),X
+1,15:00, X,Programmazione dei calcolatori con laboratorio(T5),X,Programmazione dei calcolatori con laboratorio(T5),X
+1,16:00, Architettura dei sistemi di elaborazione(T5),X,X,X,X
+1,17:00, Architettura dei sistemi di elaborazione(T5),X,X,X,X
+1,18:00, X,X,X,X,X
+2,9:00, X,Calcolo delle probabilità e statistica(3PP2),X,Algoritmi e strutture dati(3PP2),Calcolo delle probabilità e statistica(T5)
+2,10:00, X,Calcolo delle probabilità e statistica(3PP2),X,Algoritmi e strutture dati(3PP2),Calcolo delle probabilità e statistica(T5)
+2,11:00, Algoritmi e strutture dati(3PP2),Sistemi operativi e reti(3PP2),Linguaggi e metodologie di programmazione(3PP2),Sistemi operativi e reti(3PP2),Fondamenti di informatica(3PP2)
+2,12:00, Algoritmi e strutture dati(3PP2),Sistemi operativi e reti(3PP2),Linguaggi e metodologie di programmazione(3PP2),Sistemi operativi e reti(3PP2),Fondamenti di informatica(3PP2)
+2,13:00, X,X,X,X,X
+2,14:00, Linguaggi e metodologie di programmazione(T5),Fondamenti di informatica(3PP2),Basi di dati e di conoscenza(3PP2),X,X
+2,15:00, Linguaggi e metodologie di programmazione(T5),Fondamenti di informatica(3PP2),Basi di dati e di conoscenza(3PP2),X,X
+2,16:00, Basi di dati e di conoscenza(3PP2),X,X,X,X
+2,17:00, Basi di dati e di conoscenza(3PP2),X,X,X,X
+2,18:00, X,X,X,X,X
+3,9:00, X,X,Algoritmi e strutture dati 2(16),X,X
+3,10:00, Calcolo numerico(16),X,Algoritmi e strutture dati 2(16),X,X
+3,11:00, Calcolo numerico(16),X,Intelligenza artificiale 1(11:30),X,X
+3,12:00, X,X,Intelligenza artificiale 1(12:30),X,X
+3,13:00, X,X,X,X,X
+3,14:00, Intelligenza artificiale 1(16),X,X,Algoritmi e strutture dati 2(16),X
+3,15:00, Intelligenza artificiale 1(16),Calcolo numerico(16),X,Algoritmi e strutture dati 2(16),X
+3,16:00, X,Calcolo numerico(16),Ingegneria del software(16),Ingegneria del software(16),X
+3,17:00, X,X,Ingegneria del software(16),Ingegneria del software(16),X
+3,18:00, X,X,X,X,X

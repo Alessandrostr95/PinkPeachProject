@@ -1,0 +1,22 @@
+{
+  "nomeCorso": "Programmazione Web",
+  "docente": [
+    {
+      "first_name": "Pierpaolo",
+      "second_name": "Loreti"
+    }
+  ],
+  "annoAccademico": "2021-2022",
+  "crediti": "6",
+  "settore": "ING-INF/05",
+  "anno": "3",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>null</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>null</td></tr></table>",
+  "ricevimento": "<table><tr><td>null</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

@@ -1,0 +1,374 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" href="../../assets/logo.svg" />
+    <link rel="stylesheet" href="../../assets/css/style.css" />
+    <link rel="stylesheet" href="../../assets/css/courses-style.css" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
+      crossorigin="anonymous"
+    />
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+      crossorigin="anonymous"
+    ></script>
+    <script src="../../assets/js/corsi.js"></script>
+    <title>Informatica Tor Vergata</title>
+  </head>
+
+  <body>
+    <!-- MENU -->
+    <nav
+      id="barraMenu"
+      class="
+        navbar
+        navbar-expand-md navbar-light
+        bg-light
+        ombra-menu
+      "
+    >
+      <div class="container-fluid">
+        <a class="navbar-brand" href="../../home/index.html">
+          <img
+            src="../../assets/logo.svg"
+            alt="logo"
+            height="60px"
+            class="d-inline-block align-text-top"
+          />
+          <div class="d-inline-block align-text-top h4">
+            CdL in Informatica <br />
+            Tor Vergata
+          </div>
+        </a>
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#navbarTogglerDemo02"
+          aria-controls="navbarTogglerDemo02"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div
+          class="collapse navbar-collapse justify-content-end"
+          id="navbarTogglerDemo02"
+        >
+          <ul class="navbar-nav">
+            <li class="nav-item">
+              <a class="nav-link" href="./orario.html">Orari</a>
+            </li>
+
+            <li class="nav-item">
+              <a class="nav-link" href="./corsi.html">Corsi</a>
+            </li>
+
+            <li class="nav-item">
+              <a class="nav-link" href="./docenti.html">Docenti</a>
+            </li>
+
+            <li class="nav-item">
+              <a class="nav-link" href="./esami.html">Esami</a>
+            </li>
+
+            <li class="nav-item">
+              <a id="link-lauree" class="nav-link" href="./lauree.html">Lauree</a>
+            </li>
+
+            <li class="nav-item">
+              <a class="nav-link" href="../../home/informazioni.html">Info</a>
+            </li>
+            <div class="underbar"></div>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <!-- MAIN -->
+    <main class="mt-5">
+      <div class="row">
+        <!-- INFO -->
+        <div
+          id="INFO"
+          class="border col-12 col-lg-3 order-first accordion-flush m-0 p-0"
+        >
+          <p class="h3 text-center m-2">
+            Intelligenza artificiale 1
+          </p>
+          <p class="h5 text-muted text-center m-2">- IA -</p>
+
+          <div class="accordion m-0" id="accordionPanelsStayOpenExample">
+            <div class="accordion-item">
+              <h2 class="accordion-header" id="btn-panel-info">
+                <button
+                  class="accordion-button"
+                  type="button"
+                  data-bs-toggle="collapse"
+                  data-bs-target="#panel-info"
+                  aria-expanded="true"
+                  aria-controls="panel-info"
+                >
+                  <strong>INFO</strong>
+                </button>
+              </h2>
+              <div
+                id="panel-info"
+                class="accordion-collapse collapse show"
+                aria-labelledby="btn-panel-info"
+              >
+                <div class="accordion-body">
+                  <dl>
+                    <dt>Docente</dt>
+                    
+                    <dd>
+                      <a href="./docenti.html#basili-roberto">
+                        Roberto Basili
+                      </a>
+                    </dd>
+                    
+
+                    <dt>A.A.</dt>
+                    <dd>2021-2022</dd>
+
+                    <dt>CFU</dt>
+                    <dd>6</dd>
+
+                    <dt>Settore</dt>
+                    <dd>ING-INF/05</dd>
+
+                    <dt>Anno</dt>
+                    <dd>3°</dd>
+
+                    <dt>Semestre</dt>
+                    <dd>1</dd>
+
+                    <dt>Propedeuticità</dt>
+                    <dd>Programmazione dei calcolatori con laboratorio.</dd>
+                    
+                    
+                  </dl>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="row col-12 col-lg-9 p-0 m-0">
+          <!-- BUTTONS -->
+          <ul
+            class="
+              nav nav-pills nav-justified
+              flex-row flex-sm-column flex-lg-row
+              col-12 col-sm-4 col-lg-12
+              order-last order-sm-first
+              p-0
+              m-0
+            "
+            id="pills-tab"
+            role="tablist"
+          >
+            <li class="nav-item" role="presentation">
+              <button
+                class="nav-link flex-sm-fill text-sm-center active"
+                id="btn-comunicazioni"
+                data-bs-toggle="pill"
+                data-bs-target="#comunicazioni"
+                type="button"
+                role="tab"
+                aria-controls="comunicazioni"
+                aria-selected="true"
+              >
+                Comunicazioni
+              </button>
+            </li>
+            <li class="nav-item" role="presentation">
+              <button
+                class="nav-link flex-sm-fill text-sm-center"
+                id="btn-lezioni"
+                data-bs-toggle="pill"
+                data-bs-target="#lezioni"
+                type="button"
+                role="tab"
+                aria-controls="lezioni"
+                aria-selected="false"
+              >
+                Lezioni
+              </button>
+            </li>
+            <li class="nav-item" role="presentation">
+              <button
+                class="nav-link flex-sm-fill text-sm-center"
+                id="btn-materiale"
+                data-bs-toggle="pill"
+                data-bs-target="#materiale"
+                type="button"
+                role="tab"
+                aria-controls="materiale"
+                aria-selected="false"
+              >
+                Materiale
+              </button>
+            </li>
+            <li class="nav-item" role="presentation">
+              <button
+                class="nav-link flex-sm-fill text-sm-center"
+                id="btn-programma"
+                data-bs-toggle="pill"
+                data-bs-target="#programma"
+                type="button"
+                role="tab"
+                aria-controls="programma"
+                aria-selected="false"
+              >
+                Programma
+              </button>
+            </li>
+            <li class="nav-item" role="presentation">
+              <button
+                class="nav-link flex-sm-fill text-sm-center"
+                id="btn-testi"
+                data-bs-toggle="pill"
+                data-bs-target="#testi"
+                type="button"
+                role="tab"
+                aria-controls="testi"
+                aria-selected="true"
+              >
+                Testi
+              </button>
+            </li>
+          </ul>
+
+          <!-- CONTENTS -->
+          <div
+            class="tab-content col-12 col-sm-8 col-lg-12 border p-0 m-0"
+            id="pills-tabContent"
+          >
+            <!-- SEZIONE COMUNICAZIONI -->
+            <div
+              class="tab-pane fade show active"
+              id="comunicazioni"
+              role="tabpanel"
+              aria-labelledby="btn-comunicazioni"
+            >
+              <p class="text-center m-2">
+                <span class="auto-write-text h4">> Comunicazioni</span>
+              </p>
+
+              
+              <p class="h4 text-center m-2 text-muted">
+                Il docente non ha caricato nessun contenuto :(
+              </p>
+              
+            </div>
+
+            <!-- SEZIONE LEZIONI -->
+            <div
+              class="tab-pane fade"
+              id="lezioni"
+              role="tabpanel"
+              aria-labelledby="btn-lezioni"
+            >
+              <p class="text-center m-2">
+                <span class="auto-write-text h4">> Lezioni</span>
+              </p>
+
+              
+              <p class="h4 text-center m-2 text-muted">
+                Il docente non ha caricato nessun contenuto :(
+              </p>
+              
+            </div>
+
+            <!-- SEZIONE MATERIALE -->
+            <div
+              class="tab-pane fade"
+              id="materiale"
+              role="tabpanel"
+              aria-labelledby="btn-materiale"
+            >
+              <p class="text-center m-2">
+                <span class="auto-write-text h4">> Materiale</span>
+              </p>
+              
+              <p class="h4 text-center m-2 text-muted">
+                Il docente non ha caricato nessun contenuto :(
+              </p>
+              
+              </ul>
+            </div>
+
+            <!-- SEZIONE PROGRAMMA -->
+            <div
+              class="tab-pane fade"
+              id="programma"
+              role="tabpanel"
+              aria-labelledby="btn-programma"
+            >
+              <div>
+                <p class="text-center m-2">
+                  <span class="auto-write-text h4">> Programma</span>
+                </p>
+                
+                <p class="h4 text-center m-2 text-muted">
+                  Il docente non ha caricato nessun contenuto :(
+                </p>
+                
+              </div>
+            </div>
+
+            <!-- SEZIONE TESTI RIFERIMENTO -->
+            <div
+              class="tab-pane fade"
+              id="testi"
+              role="tabpanel"
+              aria-labelledby="btn-testi"
+            >
+              <p class="text-center m-2">
+                <span class="auto-write-text h4">> Testi di riferimento</span>
+              </p>
+              
+              <p class="h4 text-center m-2 text-muted">
+                Il docente non ha caricato nessun contenuto :(
+              </p>
+              
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </main>
+
+    <hr />
+    <!-- footer -->
+    <footer>
+      <div id="gitIcon">
+        <a href="https://github.com/Alessandrostr95/PinkPeachProject">
+          <img
+            src="../../assets/icons/icons8-github-96.png"
+            alt="git"
+            width="28px"
+          />
+        </a>
+      </div>
+      <div id="sitoUfficialeIcon">
+        <a href="http://www.informatica.uniroma2.it/">
+          <img
+            src="../../assets/logo_TV.svg"
+            alt="sito-informatica"
+            width="28px"
+          />
+        </a>
+      </div>
+    </footer>
+    <span id="current-year" style="visibility:none";></span>
+  </body>
+</html>

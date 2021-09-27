@@ -1,0 +1,747 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" href="../../assets/logo.svg" />
+    <link rel="stylesheet" href="../../assets/css/style.css" />
+    <link rel="stylesheet" href="../../assets/css/courses-style.css" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
+      crossorigin="anonymous"
+    />
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+      crossorigin="anonymous"
+    ></script>
+    <script src="../../assets/js/corsi.js"></script>
+    <title>Informatica Tor Vergata</title>
+  </head>
+
+  <body>
+    <!-- MENU -->
+    <nav
+      id="barraMenu"
+      class="
+        navbar
+        navbar-expand-md navbar-light
+        bg-light
+        ombra-menu
+      "
+    >
+      <div class="container-fluid">
+        <a class="navbar-brand" href="../../home/index.html">
+          <img
+            src="../../assets/logo.svg"
+            alt="logo"
+            height="60px"
+            class="d-inline-block align-text-top"
+          />
+          <div class="d-inline-block align-text-top h4">
+            CdL in Informatica <br />
+            Tor Vergata
+          </div>
+        </a>
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#navbarTogglerDemo02"
+          aria-controls="navbarTogglerDemo02"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div
+          class="collapse navbar-collapse justify-content-end"
+          id="navbarTogglerDemo02"
+        >
+          <ul class="navbar-nav">
+            <li class="nav-item">
+              <a class="nav-link" href="./orario.html">Orari</a>
+            </li>
+
+            <li class="nav-item">
+              <a class="nav-link" href="./corsi.html">Corsi</a>
+            </li>
+
+            <li class="nav-item">
+              <a class="nav-link" href="./docenti.html">Docenti</a>
+            </li>
+
+            <li class="nav-item">
+              <a class="nav-link" href="./esami.html">Esami</a>
+            </li>
+
+            <li class="nav-item">
+              <a id="link-lauree" class="nav-link" href="./lauree.html">Lauree</a>
+            </li>
+
+            <li class="nav-item">
+              <a class="nav-link" href="../../home/informazioni.html">Info</a>
+            </li>
+            <div class="underbar"></div>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <!-- MAIN -->
+    <main class="mt-5">
+      <div class="row">
+        <!-- INFO -->
+        <div
+          id="INFO"
+          class="border col-12 col-lg-3 order-first accordion-flush m-0 p-0"
+        >
+          <p class="h3 text-center m-2">
+            Architettura dei sistemi di elaborazione
+          </p>
+          <p class="h5 text-muted text-center m-2">- AE -</p>
+
+          <div class="accordion m-0" id="accordionPanelsStayOpenExample">
+            <div class="accordion-item">
+              <h2 class="accordion-header" id="btn-panel-info">
+                <button
+                  class="accordion-button"
+                  type="button"
+                  data-bs-toggle="collapse"
+                  data-bs-target="#panel-info"
+                  aria-expanded="true"
+                  aria-controls="panel-info"
+                >
+                  <strong>INFO</strong>
+                </button>
+              </h2>
+              <div
+                id="panel-info"
+                class="accordion-collapse collapse show"
+                aria-labelledby="btn-panel-info"
+              >
+                <div class="accordion-body">
+                  <dl>
+                    <dt>Docente</dt>
+                    
+                    <dd>
+                      <a href="./docenti.html#simonetta-alessandro">
+                        Alessandro Simonetta
+                      </a>
+                    </dd>
+                    
+
+                    <dt>A.A.</dt>
+                    <dd>2021-2022</dd>
+
+                    <dt>CFU</dt>
+                    <dd>6</dd>
+
+                    <dt>Settore</dt>
+                    <dd>ING-INF/05</dd>
+
+                    <dt>Anno</dt>
+                    <dd>1°</dd>
+
+                    <dt>Semestre</dt>
+                    <dd>1</dd>
+
+                    <dt>Propedeuticità</dt>
+                    <dd>Nessuna</dd>
+                    
+                    
+                    <dt>Ricevimento</dt>
+                    <dd><table><tr><td><p>Al termine delle lezioni o concordato via email</p></td></tr></table></dd>
+                    
+                  </dl>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="row col-12 col-lg-9 p-0 m-0">
+          <!-- BUTTONS -->
+          <ul
+            class="
+              nav nav-pills nav-justified
+              flex-row flex-sm-column flex-lg-row
+              col-12 col-sm-4 col-lg-12
+              order-last order-sm-first
+              p-0
+              m-0
+            "
+            id="pills-tab"
+            role="tablist"
+          >
+            <li class="nav-item" role="presentation">
+              <button
+                class="nav-link flex-sm-fill text-sm-center active"
+                id="btn-comunicazioni"
+                data-bs-toggle="pill"
+                data-bs-target="#comunicazioni"
+                type="button"
+                role="tab"
+                aria-controls="comunicazioni"
+                aria-selected="true"
+              >
+                Comunicazioni
+              </button>
+            </li>
+            <li class="nav-item" role="presentation">
+              <button
+                class="nav-link flex-sm-fill text-sm-center"
+                id="btn-lezioni"
+                data-bs-toggle="pill"
+                data-bs-target="#lezioni"
+                type="button"
+                role="tab"
+                aria-controls="lezioni"
+                aria-selected="false"
+              >
+                Lezioni
+              </button>
+            </li>
+            <li class="nav-item" role="presentation">
+              <button
+                class="nav-link flex-sm-fill text-sm-center"
+                id="btn-materiale"
+                data-bs-toggle="pill"
+                data-bs-target="#materiale"
+                type="button"
+                role="tab"
+                aria-controls="materiale"
+                aria-selected="false"
+              >
+                Materiale
+              </button>
+            </li>
+            <li class="nav-item" role="presentation">
+              <button
+                class="nav-link flex-sm-fill text-sm-center"
+                id="btn-programma"
+                data-bs-toggle="pill"
+                data-bs-target="#programma"
+                type="button"
+                role="tab"
+                aria-controls="programma"
+                aria-selected="false"
+              >
+                Programma
+              </button>
+            </li>
+            <li class="nav-item" role="presentation">
+              <button
+                class="nav-link flex-sm-fill text-sm-center"
+                id="btn-testi"
+                data-bs-toggle="pill"
+                data-bs-target="#testi"
+                type="button"
+                role="tab"
+                aria-controls="testi"
+                aria-selected="true"
+              >
+                Testi
+              </button>
+            </li>
+          </ul>
+
+          <!-- CONTENTS -->
+          <div
+            class="tab-content col-12 col-sm-8 col-lg-12 border p-0 m-0"
+            id="pills-tabContent"
+          >
+            <!-- SEZIONE COMUNICAZIONI -->
+            <div
+              class="tab-pane fade show active"
+              id="comunicazioni"
+              role="tabpanel"
+              aria-labelledby="btn-comunicazioni"
+            >
+              <p class="text-center m-2">
+                <span class="auto-write-text h4">> Comunicazioni</span>
+              </p>
+
+              
+              <ul class="list-group list-group-flush">
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">LINK SOFTWARE UTILI</div>
+                    <div class="badge bg-primary text-wrap">
+                      23-09-2021 19:17
+                    </div>
+                  </div>
+                  <p class="text-break mt-2">
+                    <p><strong>TOOL PER ALGEBRA DI BOOLE</strong></p>
+<p>https://www.dcode.fr/boolean-expressions-calculator</p>
+<p>https://www.trutabgen.com/</p>
+<p> </p>
+<p><strong>AMBIENTE DI PROGETTAZIONE DNS </strong></p>
+<p><span style="font-family: verdana, helvetica, arial, sans-serif; font-size: 16px; background-color: #ffffff;">https://structorizer</span><span style="font-family: verdana, helvetica, arial, sans-serif; font-size: 16px; background-color: #ffffff;">.fisch.lu/</span></p>
+<p> </p>
+<p><strong>COMPILATORI ARM</strong></p>
+<p> </p>
+<p><strong>VisUAL</strong></p>
+<p>https://salmanarif.bitbucket.io/visual/index.html</p>
+<p> </p>
+<p><strong>CPUlator (online!)</strong></p>
+<p>https://cpulator.01xz.net/?sys=arm</p>
+<p> </p>
+<p>Professional</p>
+<p> </p>
+<p><strong>KEIL uVision</strong> (MDK for STM32F0, STM32G0, and STM32L0)</p>
+<p>https://www2.keil.com/stmicroelectronics-stm32/mdk</p>
+<p> </p>
+<p><strong>GNU</strong></p>
+<p>https://developer.arm.com/tools-and-software/open-source-software/developer-tools/gnu-toolchain/gnu-rm/downloads</p><hr/>
+                  </p>
+                </li>
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">DOMANDE DI AUTOVALUTAZIONE</div>
+                    <div class="badge bg-primary text-wrap">
+                      23-09-2021 18:27
+                    </div>
+                  </div>
+                  <p class="text-break mt-2">
+                    <p> </p>
+<p>ARCHITETTURE DI CALCOLATORI</p>
+<p> </p>
+<p>1) Il teorema del campionamento assicura che l'approssimazione discreta di un segnale analogico a banda limitata, è senza perdita di informazione utile se... </p>
+<p>2) La macchina di von Neumann è composta da? </p>
+<p>3) Quanti byte ci sono in 1 KB di memoria? </p>
+<p>4) Cosa sono il Program Counter e l'Instruction Register? </p>
+<p>5) Da quanti passaggi si compone il ciclo fetch-decode-execute ? </p>
+<p>6) Quali sono i principi di progettazione per i computer moderni? </p>
+<p>7) Un processore SIMD è costituito da? </p>
+<p>8) Per calcolare la distanza di Hamming tra due parole, quale operazione si deve utilizzare? </p>
+<p>9) In un hard disk le prestazioni dipendono da? </p>
+<p>10) In un CDROM un settore è costituito da quanti frame? Cosa contengono? </p>
+<p>11) Quali sono la principale differenza tra DVD e CD? </p>
+<p>12) Per quali valori di A e B l'uguaglianza A+B = A B è verificata? </p>
+<p>13) Quando si può utilizzare un multiplexer per realizzare una qualsiasi funzione logica? </p>
+<p>14) Un decoder è un circuito combinatorio che può essere utilizzato per? </p>
+<p>15) In un circuito digitale è possibile collegare due uscite insieme? </p>
+<p>16) Elencare le caratteristiche delle ROM </p>
+<p>17) Per incrementare la larghezza di banda di un bus occorre? </p>
+<p>18) In un Pentium 4 i principali segnali di risposta del bus sono? </p>
+<p>19) Descrivere lo schema adottato dalla CPU UltraSPARC III per la gestione della cache </p>
+<p>20) Descrivere l'integrato 8051 </p>
+<p>21) Descrivere il memory-mapped I/O </p>
+<p> </p>
+<p> </p>
+<p>SISTEMI OPERATIVI</p>
+<p> </p>
+<p>22) Quali funzioni ha un Sistema Operativo? </p>
+<p>23) In un Sistema Operativo le principali astrazioni sono? </p>
+<p>24) Un processo è un concetto chiave presente in ogni Sistema Operativo, si può definire come? </p>
+<p>25) I File in UNIX sono protetti con tre bit, a che servono? </p>
+<p>26) In UNIX ogni processo ha uno spazio di memoria assegnato diviso in tre segmenti, quali? </p>
+<p>27) Che cos'è un Sistema monolitico? </p>
+<p>28) In quale circostanza sono creati nuovi processi? E in quale altra termina un processo? </p>
+<p>29) Quali sono gli stati di un processo? </p>
+<p>30) Quali informazioni non possono essere condivise tra processi? </p>
+<p>31) Quando accade una corsa critica? </p>
+<p>32) In un ambiente concorrente per evitare le corse critiche si possono definire delle condizioni, quali? </p>
+<p>33) In quale circostanza è conveniente avviare lo scheduling? </p>
+<p>34) Gli algoritmi di scheduling posso essere divisi in due categorie, quali? </p>
+<p>35) Quali sono gli algoritmi di scheduling nei sistemi batch? </p>
+<p>36) Supponendo di disporre dei seguenti tempi di esecuzione T0, T1, T2 e T3 nell'algoritmo shortest process next con tecnica di aging, quale sarà la stima per T4? </p>
+<p>37) Per consentire a più applicazioni di essere in memoria allo stesso tempo senza interferire devono essere risolti due problemi, quali? </p>
+<p>38) Quali sono i metodi per tenere traccia dell'utilizzo della memoria? </p>
+<p>39) Qual è la struttura di una riga della tabella delle pagine? </p>
+<p>40) Nell'algoritmo Not Recently Used (NRU) la classe 0 è.. </p>
+<p>41) Quando il sistema operativo non è coinvolto con la paginazione? </p>
+<p>42) I programmatori sanno che tecnica di gestione della memoria (paginazione o segmentazione) è utilizzata? </p>
+<p>43) Perché è stata inventata la paginazione? </p>
+<p>44) Perché è stata inventata la segmentazione? </p>
+<p>45) Quali sono le strutture di file più comuni? </p>
+<p>46) Qual è la corretta sequenza dell'intestazione all'interno di un file eseguibile binario nelle prime versioni di UNIX? </p>
+<p>47) Qual è la chiamata di sistema UNIX per leggere gli attributi di un file? </p>
+<p>48) Qual è il separatore per i file utilizzato in MULTICS? </p>
+<p>49) In un sistema di gestione del file system, qual è la voce speciale che permette di riferirsi alla directory corrente? </p>
+<p>50) In UNIX, qual è la chiamata che permette di creare una directory vuota? </p>
+<p>51) In un programma C, i parametri passati al programma principale, main(), sono passati attraverso? </p>
+<p>52) Nel layout del file system, il master boot record è? </p>
+<p>53) Nel layout del file system, il blocco di boot è fatto di.. </p>
+<p>54) Che cos'è l'i-node in un sistema UNIX? </p>
+<p>55) I cambiamenti nella tecnologia spingono l'evoluzione dei file system: le CPU diventano più veloci; i dischi, le memorie e le cache sono sempre più grandi e economiche. Il collo di bottiglia diventa così il tempo di ricerca su disco (per quelli meccanici). Quali file system sono stati progettati per ridurre questo problema? </p>
+<p>56) Quali sono le principali categorie di dispositivi di I/O? </p>
+<p>57) Quali sono gli svantaggi del port-mapped I/O? </p>
+<p>58) Quali sono gli svantaggi del memory-mapped I/O? </p>
+<p>59) Quali sono le 4 proprietà di un interrupt preciso? </p>
+<p>60) Quali sono i principali obiettivi del software di I/O? </p>
+<p>61) Quali sono le tecniche di gestione degli I/O? </p>
+<p>62) Quali sono i livelli software per la gestione dell'I/O? </p>
+<p>63) Quali sono i fattori che compromettono il tempo necessario a leggere o scrivere un blocco del disco? </p>
+<p>64) Quali sono le modalità di funzionamento di un clock programmabile? </p>
+<p>65) In un computer con un clock di 10 GHz che distanza possono percorrere i segnali elettrici? </p>
+<p>66) Per incrementare drasticamente le performance di un calcolatore che architetture occorre progettare? </p>
+<p>67) In un'architettura UMA con rete di commutazione a più stadi di tipo omega con n CPU, n memorie and log2n stadi, con n/2 switch per stadio, complessivamente di quanti switch abbiamo bisogno? </p>
+<p>68) Quali sono le caratteristiche chiave di una macchina con accesso non uniforme alla memoria? </p>
+<p>69) Quali sono gli approcci per il Sistema Operativo adottati dai multiprocessori? </p>
+<p>70) Qual è un potenziali problema in un algoritmo di scheduling a condivisione del tempo su un multiprocessore? </p>
+<p>71) Che cosa si intende per diametro in un multicomputer? </p>
+<p>72) Qual è il vantaggio di utilizzare un'architettura di multicomputer ad ipercubo? </p>
+<p>73) Quali sono i vantaggi della virtualizzazione? </p>
+<p> </p>
+<p> </p>
+<p>ESERCIZI</p>
+<p> </p>
+<p>74) convertire in binario i numeri in base 10: 255, 127, 15 , 1023, 4095 </p>
+<p>75) convertire in ottale i numeri in base 10: 255, 127, 15 , 1023, 4095 </p>
+<p>76) convertire in esadecimale i numeri in base 10: 255, 127, 15 , 1023, 4095 </p>
+<p>77) convertire in decimale i numeri esadecimali: FF, FFE, 1A09, 2001, 1FA </p>
+<p>78) convertire in decimale i numeri ottali: 77, 775, 1702, 2001, 17679) convertire in decimale i numeri binari: 1111, 1000, 10, 11001, 11111111, 10001111, 111111111111, 111111111110</p>
+<p> </p>
+<p>ESERCIZI IN ASSEMBLY</p>
+<p>Suggerimento: descrivere prototipo, pre-condizioni e post-condizioni prima dell'algoritmo (preferibilmente in DNS)</p>
+<p> </p>
+<p>79) Dati X e Y interi calcolare X/Y senza utilizzare l'istruzione DIV</p>
+<p>89) Dati X e Y interi calcolare X*Y senza utilizzare l'istruzione MULTICS</p>
+<p>90) Dato un array di interi calcolare la media dei suoi elementi</p>
+<p>91) Dato un array di interi calcolare il massimo dei suoi elementi</p>
+<p>92) Dato un array di interi calcolare il minimo dei suoi elementi</p>
+<p>93) Dati due array di interi calcolare l'AND delle celle in medesima posizione e l'OR dei risultati</p>
+<p>94) Dati due array di interi calcolare l'OR delle celle in medesima posizione e l'AND dei risultati</p>
+<p>95) Dato un valore intero X calcolare il suo fattoriale</p>
+<p>96) Dati X e Y interi calcolare X^Y </p><hr/>
+                  </p>
+                </li>
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">Libro esercizi</div>
+                    <div class="badge bg-primary text-wrap">
+                      23-09-2021 18:23
+                    </div>
+                  </div>
+                  <p class="text-break mt-2">
+                    <div style="color: #222222; font-family: Arial, Helvetica, sans-serif; font-size: small;"><span style="color: #3d85c6; font-family: arial, sans-serif; font-size: large;">Presso la Libreria Universitalia è disponibile il libro</span></div>
+<div style="color: #222222; font-family: Arial, Helvetica, sans-serif; font-size: small;"><span style="color: #3d85c6; font-family: arial, sans-serif; font-size: large;">di esercitazione per l'esame di Architettura dei Sistemi di Elaborazione: "Introduzione alla programmazione su ARM"</span></div>
+<div style="color: #222222; font-family: Arial, Helvetica, sans-serif; font-size: small;"> </div>
+<div style="color: #222222; font-family: Arial, Helvetica, sans-serif; font-size: small;"><span style="color: #3d85c6; font-family: arial, sans-serif; font-size: large;">Il prezzo per i miei studenti è di 10 euro se acquistato presso la libreria, mentre se spedito 15 euro inserendo il codice coupon <strong>ARM2020.</strong></span></div>
+<div style="color: #222222; font-family: Arial, Helvetica, sans-serif; font-size: small;"> </div>
+<div style="color: #222222; font-family: Arial, Helvetica, sans-serif; font-size: small;"><span style="color: #3d85c6; font-family: arial, sans-serif; font-size: large;"><strong>Attenzione</strong> se non si inserisce il codice di sconto lo si acquista a prezzo pieno (15+5 euro).</span></div>
+<div style="color: #222222; font-family: Arial, Helvetica, sans-serif; font-size: small;"> </div>
+<div style="color: #222222; font-family: Arial, Helvetica, sans-serif; font-size: small;"><span style="color: #3d85c6; font-family: arial, sans-serif; font-size: large;">Il testo può essere acquistato con 18App ma il costo in questo caso è il prezzo di copertina (15 euro).</span></div>
+<div style="color: #222222; font-family: Arial, Helvetica, sans-serif; font-size: small;"> </div>
+<div style="color: #222222; font-family: Arial, Helvetica, sans-serif; font-size: small;"><span style="color: #3d85c6; font-family: arial, sans-serif; font-size: large;"><a data-saferedirecturl="https://www.google.com/url?q=https://www.universitaliasrl.it/editore-universitalia/2492-introduzione-alla-programmazione-su-arm-9788832934267.html&amp;source=gmail&amp;ust=1613722255112000&amp;usg=AFQjCNEfctxWaUZclr6ajXtUaE6G85e76g" href="https://www.universitaliasrl.it/editore-universitalia/2492-introduzione-alla-programmazione-su-arm-9788832934267.html" style="color: #1155cc; font-family: arial, helvetica, sans-serif; font-size: small;" target="_blank">https://www.universitaliasrl.it/editore-universitalia/2492-introduzione-alla-programmazione-su-<span class="il">arm</span>-9788832934267.html</a></span></div>
+<div style="color: #222222; font-family: Arial, Helvetica, sans-serif; font-size: small;"> </div>
+<div style="color: #222222; font-family: Arial, Helvetica, sans-serif; font-size: small;"> </div>
+<div style="color: #222222; font-family: Arial, Helvetica, sans-serif; font-size: small;"><span style="color: #3d85c6; font-family: arial, sans-serif; font-size: large;">Universitalia </span></div>
+<div style="color: #222222; font-family: Arial, Helvetica, sans-serif; font-size: small;">Via di Passo Lombardo, 421 - 00133 Roma</div>
+<div style="color: #222222; font-family: Arial, Helvetica, sans-serif; font-size: small;">
+<div><span style="color: #3d85c6; font-family: arial, sans-serif; font-size: large;">lun - ven </span><span style="color: #3d85c6; font-family: arial, sans-serif; font-size: large;"><strong>9 </strong></span><strong style="font-family: tahoma, sans-serif; color: #666666;">-18,30 </strong><span style="color: #3d85c6; font-family: arial, sans-serif; font-size: large;">orario continuato</span></div>
+<div><span style="color: #3d85c6; font-family: arial, sans-serif; font-size: large;"><span>sab</span><span> </span></span><strong style="color: #444444; font-family: tahoma, sans-serif;">9 - 12-30</strong></div>
+</div>
+<div style="color: #222222; font-family: Arial, Helvetica, sans-serif; font-size: small;"><span style="color: #3d85c6; font-family: arial, sans-serif; font-size: large;">Tel. 06 20.26.342 </span></div><hr/>
+                  </p>
+                </li>
+                
+                <li class="list-group-item">
+                  <div class="text-center">
+                    <div class="fw-bold">TEAMS A.A. 2021/22</div>
+                    <div class="badge bg-primary text-wrap">
+                      23-09-2021 17:44
+                    </div>
+                  </div>
+                  <p class="text-break mt-2">
+                    <p>https://teams.microsoft.com/l/team/19%3agn5GFhfoG4kVrah-BPyjAyxO2Q87La8uiF5-gsm6WPo1%40thread.tacv2/conversations?groupId=febeb901-26dc-4646-a2d5-c695a3e253d3&amp;tenantId=24c5be2a-d764-40c5-9975-82d08ae47d0e</p>
+                  </p>
+                </li>
+                
+              </ul>
+              
+            </div>
+
+            <!-- SEZIONE LEZIONI -->
+            <div
+              class="tab-pane fade"
+              id="lezioni"
+              role="tabpanel"
+              aria-labelledby="btn-lezioni"
+            >
+              <p class="text-center m-2">
+                <span class="auto-write-text h4">> Lezioni</span>
+              </p>
+
+              
+              <p class="h4 text-center m-2 text-muted">
+                Il docente non ha caricato nessun contenuto :(
+              </p>
+              
+            </div>
+
+            <!-- SEZIONE MATERIALE -->
+            <div
+              class="tab-pane fade"
+              id="materiale"
+              role="tabpanel"
+              aria-labelledby="btn-materiale"
+            >
+              <p class="text-center m-2">
+                <span class="auto-write-text h4">> Materiale</span>
+              </p>
+              
+              <p class="h4 text-center m-2 text-muted">
+                Il docente non ha caricato nessun contenuto :(
+              </p>
+              
+              </ul>
+            </div>
+
+            <!-- SEZIONE PROGRAMMA -->
+            <div
+              class="tab-pane fade"
+              id="programma"
+              role="tabpanel"
+              aria-labelledby="btn-programma"
+            >
+              <div>
+                <p class="text-center m-2">
+                  <span class="auto-write-text h4">> Programma</span>
+                </p>
+                
+                <div class="p-2">
+                  <table><tr><td><p>• <strong>INTRODUZIONE SULLE ARCHITETTURE</strong> (Cap 1 – Architettura dei calcolatori)</p>
+<p>o Dominio digitale e analogico</p>
+<p>o Linguaggi, livelli e macchine virtuali</p>
+<p>o Evoluzione delle architetture di computer</p>
+<p>o Approccio strutturale</p>
+<p>o Pietre miliari nell’architettura dei computer</p>
+<p>o Tipologie di computer</p>
+<p>o Unità metriche</p>
+<p> </p>
+<p>• <strong>PROCESSORI E MEMORIA PRINCIPALE</strong> (Cap 2 – Architettura dei calcolatori)</p>
+<p>o PROCESSORI</p>
+<p>- Organizzazione della CPU</p>
+<p>- Esecuzione dell’istruzione</p>
+<p>- RISC contro CISC</p>
+<p>- Principi di progettazione dei calcolatori</p>
+<p>- Parallelismo a livello di istruzione</p>
+<p>- Parallelismo a livello di processore</p>
+<p> </p>
+<p>o <strong>MEMORIA PRINCIPALE</strong></p>
+<p>- Bit</p>
+<p>- Sistemi di numerazione</p>
+<p>- Indirizzi di memoria</p>
+<p>- Ordinamento dei byte</p>
+<p>- Codici di correzione di errore</p>
+<p>- Memoria cache</p>
+<p>- Memoria principale</p>
+<p> </p>
+<p>o <strong>MEMORIA SECONDARIA</strong> </p>
+<p>- Gerarchie di memorie</p>
+<p>- Dischi magnetici</p>
+<p>- Floppy disk</p>
+<p>- Dischi IDE</p>
+<p>- Dischi SCSI</p>
+<p>- RAID</p>
+<p>- Dischi a stato solido</p>
+<p>- CD-ROM</p>
+<p>- CD-Registrabili</p>
+<p>- CD-Riscrivibili</p>
+<p>- DVD</p>
+<p> </p>
+<p>o <strong>INPUT/OUTPUT</strong></p>
+<p>- Il bus</p>
+<p>- Direct Memory Access (DMA)</p>
+<p>- Tastiere</p>
+<p>- Monitor LCD</p>
+<p>- RAM della scheda video (VRAM)</p>
+<p>- Dispositivi di puntamento</p>
+<p>- Stampanti</p>
+<p>- Apparati di Telecomunicazioni</p>
+<p>- Codifica dei caratteri</p>
+<p> </p>
+<p>• <strong>LIVELLO LOGICO DIGITALE</strong> (Cap 3 – Architettura dei calcolatori)</p>
+<p>o Algebra di Boole</p>
+<p>o Trasformazioni nel dominio di Boole</p>
+<p>o Circuiti logici digitali elementari</p>
+<p>o Circuiti Integrati</p>
+<p>o CIRCUITI COMBINATORI</p>
+<p>- Multiplexer</p>
+<p>- Decoder</p>
+<p>- Comparatori</p>
+<p>- Programmable Logic Arrays (PLA)</p>
+<p>- Shifter</p>
+<p>- Adder</p>
+<p>- Arithmetic Logic Units (ALU)</p>
+<p>o Clock</p>
+<p>o MEMORIA</p>
+<p>- Flip-flop</p>
+<p>- Registri</p>
+<p>- Organizzazione della Memoria</p>
+<p>- Buffer</p>
+<p>- Chip di memoria</p>
+<p>- Random Access Memory</p>
+<p>- Memorie Non-volatili (ROM, PROM, EPROM, EEPROM)</p>
+<p>o Chip di CPU</p>
+<p>o BUS</p>
+<p>- Ampiezza del bus</p>
+<p>- clock del bus</p>
+<p>- Bus sincroni/asincroni</p>
+<p>- Arbitraggio del bus</p>
+<p>- Interrupt handling</p>
+<p>o ESEMPI DI CPU</p>
+<p>- Intel Pentium 4</p>
+<p>- Intel Core i7</p>
+<p>- UltraSPARC III</p>
+<p>- Intel 8051</p>
+<p>o ESEMPI DI BUS</p>
+<p>- Bus ISA</p>
+<p>- Bus PCI</p>
+<p>- PCI Express</p>
+<p>- USB</p>
+<p>o INTERFACCE</p>
+<p>- Interfacce di I/O</p>
+<p>- Interfacce PIO</p>
+<p>- Decodifica dell’indirizzo</p>
+<p> </p>
+<p>• <strong>IL LIVELLO DI MICROARCHITETTURA</strong> (Cap 4 – Architettura dei calcolatori)</p>
+<p>o Un esempio di microarchitettura</p>
+<p>- Il modello di esecuzione</p>
+<p>- Data path (o percorso dati)</p>
+<p>- Formato delle microinstruzioni</p>
+<p>- Microarchitettura Mic-1</p>
+<p>o Esempio di ISA: IJVM</p>
+<p>- Lo stack</p>
+<p>- Il modello della memoria </p>
+<p>- Insieme delle istruzioni</p>
+<p> </p>
+<p>• <strong>IL LIVELLO DI MACROARCHITETTURA</strong> (Cap 5 – Architettura dei calcolatori)</p>
+<p>o Overview del livello ISA</p>
+<p>o Tipi di dati</p>
+<p>o Formati di istruzioni</p>
+<p>o Modalità di indirizzamento</p>
+<p>o Tipi di istruzioni</p>
+<p>o Controllo del flusso</p>
+<p>o Architetture Intel IA-32 e IA64</p>
+<p> </p>
+<p>•<strong> IL LIVELLO DEL LINGUAGGIO ASSEMBLATIVO</strong> (Cap 7 – Architettura dei calcolatori)</p>
+<p>o Introduzione al linguaggio assemblativo</p>
+<p>o Le macroistruzioni</p>
+<p>o Il processo di assemblaggio</p>
+<p>o Linker e loader </p>
+<p> </p>
+<p>• <strong>INTRODUZIONE AI SISTEMI OPERATIVI</strong> (Cap 1 – I moderni sistemi operativi)</p>
+<p>o Che cos’è un sistema operativo? </p>
+<p>o Storia dei sistemi operativi</p>
+<p>o Panoramica dei SO</p>
+<p>o Concetti di base dei SO</p>
+<p>o Le chiamate di sistema</p>
+<p>o Struttura di un sistema operativo</p>
+<p>o Introduzione al linguaggio C</p>
+<p> </p>
+<p>• <strong>PROCESSI E THREAD</strong> (Cap 2 – I moderni sistemi operativi)</p>
+<p>o PROCESSI</p>
+<p>o THREAD</p>
+<p>o COMUNICAZIONI TRA PROCESSI</p>
+<p>o SCHEDULING</p>
+<p> </p>
+<p>• <strong>GESTIONE DELLA MEMORIA</strong> (Cap 3 – I moderni sistemi operativi)</p>
+<p>o NESSUNA ASTRAZIONE DI MEMORIA.</p>
+<p>o LO SPAZIO DI INDIRIZAMENTO</p>
+<p>o MEMORIA VIRTUALE</p>
+<p>o ALGORITMI DI SOSTITUZIONE DELLE PAGINE</p>
+<p>o PROBLEMATICHE DI PROGETTAZIONE DEI SISTEMI DI PAGING</p>
+<p>o ASPETTI REALIZZATIVI</p>
+<p>o SEGMENTAZIONE</p>
+<p> </p>
+<p>• FILE SYSTEM (Cap 4 – I moderni sistemi operativi)</p>
+<p>o FILE </p>
+<p>o DIRECTORY</p>
+<p>o REALIZZAZIONE DEL FILE SYSTEM</p>
+<p>o REALIZZAZIONE DEL FILE SYSTEM</p>
+<p> </p>
+<p><strong>• INPUT/OUTPUT</strong> (Cap 5 – I moderni sistemi operativi)</p>
+<p>o PRINCIPI HARDWARE</p>
+<p>o PRINCIPI DEL SOFTWARE</p>
+<p>o LIVELLI SOFTWARE</p>
+<p>o DISCHI</p>
+<p>o CLOCK</p>
+<p> </p>
+<p><strong>• ARCHITETTURE PER IL CALCOLO PARALLELO</strong> (Cap 8 – I moderni sistemi operativi e Cap 8 – I moderni sistemi operativi)</p>
+<p>o INTRODUZIONE</p>
+<p>o PARALLELISMO NEL CHIP</p>
+<p>o COPROCESSORI</p>
+<p>o MULTIPROCESSORI</p>
+<p>o MULTICOMPUTER</p>
+<p>o VIRTUALIZZAZIONE</p></td></tr></table>
+                </div>
+                
+              </div>
+            </div>
+
+            <!-- SEZIONE TESTI RIFERIMENTO -->
+            <div
+              class="tab-pane fade"
+              id="testi"
+              role="tabpanel"
+              aria-labelledby="btn-testi"
+            >
+              <p class="text-center m-2">
+                <span class="auto-write-text h4">> Testi di riferimento</span>
+              </p>
+              
+              <div class="p-2">
+                <table><tr><td><p>1) Simonetta Alessandro</p>
+<p>"introduzione alla programmazione su ARM"</p>
+<p>Universitalia prezzo 10€</p>
+<p>(studenti del corso) </p>
+<p>Spedizione prezzo 15€</p>
+<p>(codice coupon ARM2020)</p>
+<p> </p>
+<p>https://shop.unipass.it/home</p>
+<p>/6039-alessandro-simonetta</p>
+<p>-introduzione-alla-programmazione</p>
+<p>-su-arm-circuiti-architettura-</p>
+<p>e-sistema-operativo-dei-</p>
+<p>calcolatori-elett</p>
+<p> </p>
+<p>ronici.html</p>
+<p> </p>
+<p>2)Tanenbaum Andrew S., <strong>Architettura dei calcolatori</strong>: Un approccio strutturale, 6a Ed., Pearson Education, 2013</p>
+<p>3) Tanenbaum Andrew S, Bos H. <strong>I moderni sistemi operativi</strong>. Ediz. MyLab. 4a Edizione Settembre 2019</p>
+<p> </p></td></tr></table>
+              </div>
+              
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </main>
+
+    <hr />
+    <!-- footer -->
+    <footer>
+      <div id="gitIcon">
+        <a href="https://github.com/Alessandrostr95/PinkPeachProject">
+          <img
+            src="../../assets/icons/icons8-github-96.png"
+            alt="git"
+            width="28px"
+          />
+        </a>
+      </div>
+      <div id="sitoUfficialeIcon">
+        <a href="http://www.informatica.uniroma2.it/">
+          <img
+            src="../../assets/logo_TV.svg"
+            alt="sito-informatica"
+            width="28px"
+          />
+        </a>
+      </div>
+    </footer>
+    <span id="current-year" style="visibility:none";></span>
+  </body>
+</html>

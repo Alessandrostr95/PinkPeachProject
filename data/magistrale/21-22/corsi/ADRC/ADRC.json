@@ -1,0 +1,32 @@
+{
+  "nomeCorso": "Algoritmi distribuiti e reti complesse",
+  "docente": [
+    {
+      "first_name": "Andrea",
+      "second_name": "Clementi"
+    },
+    {
+      "first_name": "Luciano",
+      "second_name": "Guala"
+    }
+  ],
+  "annoAccademico": "2021-2022",
+  "crediti": "9",
+  "settore": "INF/01",
+  "anno": "1",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [
+    {
+      "titolo": "CORSO ADRC 2021-2022",
+      "data": "21-09-2021 11:00",
+      "contenuto": "<p>Ci sar\u00e0 a breve una riunione sulla piattaforma Teams in cui i docenti\u00a0 illustreranno i principali argomenti del corso ADRC. Tutti gli studenti interessati\u00a0 \u00a0(anche se non ancora immatricolati alla Magistrale) possono inviare una email al prof. Clementi</p>\n<p>per poter essere invitati al meeting.</p>\n<p>\u00a0</p>\n<p>clementi@mat.uniroma2.it</p>\n<p>\u00a0</p>\n<p>INIZIO LEZIONI CORSO (da confermare): MARTEDI 12/10/2021, AULA C, ORE 14.30</p>"
+    }
+  ],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td><p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify; caret-color: #000000; text-size-adjust: auto;\">Il corso ADRC per l'a.a. 2020-21 sar\u00e0 costituito da due moduli:</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify; caret-color: #000000; text-size-adjust: auto;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify; caret-color: #000000; text-size-adjust: auto;\">a)\u00a0<strong>Calcolo Distribuito</strong>\u00a0 (Prof. Clementi)</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify; caret-color: #000000; text-size-adjust: auto;\">b)\u00a0<strong>Teoria Algoritmica dei Giochi</strong>\u00a0(Dr. Gual\u00e0)</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify; caret-color: #000000; text-size-adjust: auto;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify; caret-color: #000000; text-size-adjust: auto;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify; caret-color: #000000; text-size-adjust: auto;\"><strong>\u00a0</strong></p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify; caret-color: #000000; text-size-adjust: auto;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify; caret-color: #000000; text-size-adjust: auto;\"><strong>Il modulo (a)</strong></p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify; caret-color: #000000; text-size-adjust: auto;\">presenta i principi fondamentali del calcolo distribuito sia da un punto di vista dei modelli di comunicazione/computazione pi\u00f9 importanti che per quanto riguarda i metodi algoritmici fondamentali per tali modelli.\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify; caret-color: #000000; text-size-adjust: auto;\">L'obiettivo formativo e' quello di fornire degli strumenti efficienti e rigorosi per il Problem Solving in cui, rispetto ai corsi algoritmici della triennale, per la prima volta le entit\u00e0 computazionali (agenti)\u00a0 sono molteplici ed interagenti.<br>Questo nuovo paradigma offre ottime\u00a0 basi per progettare\u00a0 protocolli efficienti per tasks fondamentali, tra i quali il broadcast, la leader election, il graph-coloring,\u00a0 \u00a0ed estremamente attuali nel mondo dei moderni sistemi distribuiti.</br></p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify; caret-color: #000000; text-size-adjust: auto;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify; caret-color: #000000; text-size-adjust: auto;\">Si studieranno alcuni protocolli di diffusione di informazioni e di consenso su vari tipi di grafi\u00a0 che sono utilizzati e/o osservati su\u00a0 \u00a0importanti esempi di sistemi distribuiti\u00a0 sia artificiali (robot swarms) che naturali (colonie di insetti). Verranno analizzati pertanto i cosidetti processi epidemici nelle reti sociali. Verranno mostrati alcuni esempi di\u00a0 ''comportamento auto-organizzantie' e di ''intelligenza distribuita'' che sono tipici dei sistemi complessi\u00a0 generati da regole locali semplici.\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify; caret-color: #000000; text-size-adjust: auto;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify; caret-color: #000000; text-size-adjust: auto;\">Questa parte sar\u00e0 tenuta del Prof. Clementi e sar\u00e0 di 6 cfu.</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify; caret-color: #000000; text-size-adjust: auto;\">\u00a0<br><strong>Nel modulo (b),</strong>\u00a0il Dr. Gual\u00e0 tratter\u00e0 un altro aspetto fondamentale<br>dei sistemi distribuiti moderni: la presenza di comportamenti egoistici degli agenti di un sistema distribuito. Tale presenza ha portato negli ultimi decenni a sviluppare un'importante teoria:<br>l'Algorithmic Game Theory. Profondamente ispirata dalla famosa Game Theory (Nash Equilbria), questa teoria viene trattata nel corso per affrontare importanti problematiche nel campo dell'ottimizzazione di reti di comunicazione e di altre applicazioni.</br></br></br></p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify; caret-color: #000000; text-size-adjust: auto;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify; caret-color: #000000; text-size-adjust: auto;\"><strong>\u00a0</strong></p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify; caret-color: #000000; text-size-adjust: auto;\">Il programma dettagliato insieme a tutte le informazioni ed il materiale dei due moduli sara'\u00a0 \u00a0disponibile per gli studenti iscritti sulla piattaforma Teams.</p></td></tr></table>",
+  "testiRiferimento": "<table><tr><td>null</td></tr></table>",
+  "ricevimento": "<table><tr><td>null</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td><p>Mediante prova orale</p></td></tr></table>"
+}

@@ -1,0 +1,26 @@
+{
+  "nomeCorso": "Sicurezza dei sistemi informativi",
+  "docente": [
+    {
+      "first_name": "Maurizio",
+      "second_name": "Talamo"
+    },
+    {
+      "first_name": "Andrea",
+      "second_name": "Dimitri"
+    }
+  ],
+  "annoAccademico": "2021-2022",
+  "crediti": "9",
+  "settore": "INF/01",
+  "anno": "2",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>null</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>null</td></tr></table>",
+  "ricevimento": "<table><tr><td>null</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}

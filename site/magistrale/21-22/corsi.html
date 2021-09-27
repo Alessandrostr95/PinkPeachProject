@@ -1,0 +1,484 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" href="../../assets/logo.svg" />
+    <link rel="stylesheet" href="../../assets/css/style.css" />
+    <link rel="stylesheet" href="../../assets/css/table-style.css" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
+      crossorigin="anonymous"
+    />
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+      crossorigin="anonymous"
+    ></script>
+    <script src="../../assets/js/courses-list.js"></script>
+    <title>Informatica Tor Vergata</title>
+    <style>
+      #inputCorso {
+        background-image: url("../../assets/icons/icons8-ricerca-100.png");
+        background-size: 25px;
+        background-position: 10px 10px;
+        background-repeat: no-repeat;
+        width: 100%;
+        font-size: 16px;
+        padding: 12px 20px 12px 40px;
+        border: 1px solid #ddd;
+        margin-bottom: 12px;
+      }
+    </style>
+  </head>
+
+  <body>
+    <!-- MENU -->
+    <nav
+      id="barraMenu"
+      class="
+        navbar
+        sticky-top
+        navbar-expand-md navbar-light
+        bg-light
+        ombra-menu
+      "
+    >
+      <div class="container-fluid">
+        <a class="navbar-brand" href="../../home/index.html">
+          <img
+            src="../../assets/logo.svg"
+            alt="logo"
+            height="60px"
+            class="d-inline-block align-text-top"
+          />
+          <div class="d-inline-block align-text-top h4">
+            CdL in Informatica <br />
+            Tor Vergata
+          </div>
+        </a>
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#navbarTogglerDemo02"
+          aria-controls="navbarTogglerDemo02"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div
+          class="collapse navbar-collapse justify-content-end"
+          id="navbarTogglerDemo02"
+        >
+          <ul class="navbar-nav">
+            <li class="nav-item">
+              <a class="nav-link" href="./orario.html">Orari</a>
+            </li>
+
+            <li class="nav-item">
+              <a class="nav-link" href="#nogo">Corsi</a>
+            </li>
+
+            <li class="nav-item">
+              <a class="nav-link" href="./docenti.html">Docenti</a>
+            </li>
+
+            <li class="nav-item">
+              <a class="nav-link" href="./esami.html">Esami</a>
+            </li>
+
+            <li class="nav-item">
+              <a id="link-lauree" class="nav-link" href="./lauree.html">Lauree</a>
+            </li>
+
+            <li class="nav-item">
+              <a class="nav-link" href="../../home/informazioni.html">Info</a>
+            </li>
+            <div class="underbar"></div>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <!-- welcome message -->
+    <p id="teachers-list-header" class="text-center my-5 mx-2">
+      <span class="auto-write-text h1">> </span>
+    </p>
+
+    <!-- MAIN -->
+    <main class="container-lg">
+      <p class="mb-1 text-muted fst-italic">
+        - Ricerca i corsi in base al nome, codice o anno di corso.
+      </p>
+      <!-- BARRA RICERCA -->
+      <input
+        type="text"
+        id="inputCorso"
+        onkeyup="filtra()"
+        placeholder=". . ."
+        title="Type in a name"
+      />
+
+      <!-- TABELLA CORSI -->
+      <div class="table-responsive">
+        <table id="listaCorsi" class="table table-bordered align-middle">
+          <thead>
+            <tr>
+              <th class="text-center" scope="col">Corso</th>
+              <th class="text-center" scope="col">Codice</th>
+              <th class="text-center" scope="col">Anno</th>
+              <th class="text-center" scope="col">CFU</th>
+              <th class="text-center" scope="col">Docenti</th>
+            </tr>
+          </thead>
+
+          <tbody>
+            
+            <tr>
+              <td>
+                <a href="./ADRC.html">Algoritmi distribuiti e reti complesse</a>
+              </td>
+              <td>
+                <a href="./ADRC.html">ADRC</a>
+              </td>
+              <td>1</td>
+              <td>9</td>
+              <td>Clementi, Guala'</td>
+            </tr>
+            
+            <tr>
+              <td>
+                <a href="./AR.html">Analisi di reti</a>
+              </td>
+              <td>
+                <a href="./AR.html">AR</a>
+              </td>
+              <td>1</td>
+              <td>6</td>
+              <td>Di Ianni</td>
+            </tr>
+            
+            <tr>
+              <td>
+                <a href="./BIOI.html">Bioinformatica</a>
+              </td>
+              <td>
+                <a href="./BIOI.html">BIOI</a>
+              </td>
+              <td>1</td>
+              <td>6</td>
+              <td>Ausiello</td>
+            </tr>
+            
+            <tr>
+              <td>
+                <a href="./CP2.html">Calcolo delle probabilità</a>
+              </td>
+              <td>
+                <a href="./CP2.html">CP2</a>
+              </td>
+              <td>1</td>
+              <td>6</td>
+              <td>Macci</td>
+            </tr>
+            
+            <tr>
+              <td>
+                <a href="./EICT.html">Economia  dell'ICT</a>
+              </td>
+              <td>
+                <a href="./EICT.html">EICT</a>
+              </td>
+              <td>1</td>
+              <td>6</td>
+              <td>Vatalaro</td>
+            </tr>
+            
+            <tr>
+              <td>
+                <a href="./EAN.html">Elementi di analisi numerica</a>
+              </td>
+              <td>
+                <a href="./EAN.html">EAN</a>
+              </td>
+              <td>1</td>
+              <td>8</td>
+              <td>Di Fiore</td>
+            </tr>
+            
+            <tr>
+              <td>
+                <a href="./GA2.html">Geometria algebrica</a>
+              </td>
+              <td>
+                <a href="./GA2.html">GA2</a>
+              </td>
+              <td>1</td>
+              <td>8</td>
+              <td>Pareschi</td>
+            </tr>
+            
+            <tr>
+              <td>
+                <a href="./ISTI.html">Inferenza statistica e teoria dell'informazione</a>
+              </td>
+              <td>
+                <a href="./ISTI.html">ISTI</a>
+              </td>
+              <td>1</td>
+              <td>6</td>
+              <td>Scalia Tomba</td>
+            </tr>
+            
+            <tr>
+              <td>
+                <a href="./LM1.html">Logica matematica 1</a>
+              </td>
+              <td>
+                <a href="./LM1.html">LM1</a>
+              </td>
+              <td>1</td>
+              <td>8</td>
+              <td>Lipparini</td>
+            </tr>
+            
+            <tr>
+              <td>
+                <a href="./MGSN.html">Modellizzazione geometrica e simulazione numerica</a>
+              </td>
+              <td>
+                <a href="./MGSN.html">MGSN</a>
+              </td>
+              <td>1</td>
+              <td>8</td>
+              <td>Manni, Speleers</td>
+            </tr>
+            
+            <tr>
+              <td>
+                <a href="./SOSE.html">Service oriented software engineering</a>
+              </td>
+              <td>
+                <a href="./SOSE.html">SOSE</a>
+              </td>
+              <td>1</td>
+              <td>9</td>
+              <td>D'Ambrogio</td>
+            </tr>
+            
+            <tr>
+              <td>
+                <a href="./SII.html">Sicurezza informatica e Internet</a>
+              </td>
+              <td>
+                <a href="./SII.html">SII</a>
+              </td>
+              <td>1</td>
+              <td>9</td>
+              <td>Bianchi</td>
+            </tr>
+            
+            <tr>
+              <td>
+                <a href="./SSD.html">Sistemi di simulazione distribuita</a>
+              </td>
+              <td>
+                <a href="./SSD.html">SSD</a>
+              </td>
+              <td>1</td>
+              <td>6</td>
+              <td>D'Ambrogio</td>
+            </tr>
+            
+            <tr>
+              <td>
+                <a href="./SDC.html">Sistemi distribuiti cooperativi</a>
+              </td>
+              <td>
+                <a href="./SDC.html">SDC</a>
+              </td>
+              <td>1</td>
+              <td>9</td>
+              <td>Talamo, Arcieri</td>
+            </tr>
+            
+            <tr>
+              <td>
+                <a href="./TSC.html">Teoria della sicurezza e crittografia</a>
+              </td>
+              <td>
+                <a href="./TSC.html">TSC</a>
+              </td>
+              <td>1</td>
+              <td>6</td>
+              <td>Talamo</td>
+            </tr>
+            
+            <tr>
+              <td>
+                <a href="./IR.html">Information retrieval</a>
+              </td>
+              <td>
+                <a href="./IR.html">IR</a>
+              </td>
+              <td>2</td>
+              <td>6</td>
+              <td>Croce, Gambosi</td>
+            </tr>
+            
+            <tr>
+              <td>
+                <a href="./IA2.html">Intelligenza artificiale 2</a>
+              </td>
+              <td>
+                <a href="./IA2.html">IA2</a>
+              </td>
+              <td>2</td>
+              <td>6</td>
+              <td>Stellato</td>
+            </tr>
+            
+            <tr>
+              <td>
+                <a href="./ITP.html">Internet technology and protocols</a>
+              </td>
+              <td>
+                <a href="./ITP.html">ITP</a>
+              </td>
+              <td>2</td>
+              <td>6</td>
+              <td>Salsano</td>
+            </tr>
+            
+            <tr>
+              <td>
+                <a href="./ML.html">Machine learning</a>
+              </td>
+              <td>
+                <a href="./ML.html">ML</a>
+              </td>
+              <td>2</td>
+              <td>9</td>
+              <td>Gambosi</td>
+            </tr>
+            
+            <tr>
+              <td>
+                <a href="./MVS.html">Metodi di verifica di sistemi</a>
+              </td>
+              <td>
+                <a href="./MVS.html">MVS</a>
+              </td>
+              <td>2</td>
+              <td>6</td>
+              <td>Intrigila</td>
+            </tr>
+            
+            <tr>
+              <td>
+                <a href="./MQS.html">Modelli e qualità del SW</a>
+              </td>
+              <td>
+                <a href="./MQS.html">MQS</a>
+              </td>
+              <td>2</td>
+              <td>9</td>
+              <td>Iazeolla</td>
+            </tr>
+            
+            <tr>
+              <td>
+                <a href="./NLP.html">Natural language processing</a>
+              </td>
+              <td>
+                <a href="./NLP.html">NLP</a>
+              </td>
+              <td>2</td>
+              <td>6</td>
+              <td>Zanzotto</td>
+            </tr>
+            
+            <tr>
+              <td>
+                <a href="./SSI.html">Sicurezza dei sistemi informativi</a>
+              </td>
+              <td>
+                <a href="./SSI.html">SSI</a>
+              </td>
+              <td>2</td>
+              <td>9</td>
+              <td>Talamo, Dimitri</td>
+            </tr>
+            
+            <tr>
+              <td>
+                <a href="./SCRS.html">Sistemi cooperativi e reti sociali</a>
+              </td>
+              <td>
+                <a href="./SCRS.html">SCRS</a>
+              </td>
+              <td>2</td>
+              <td>6</td>
+              <td>Talamo</td>
+            </tr>
+            
+            <tr>
+              <td>
+                <a href="./TS.html">Teoria spettrale</a>
+              </td>
+              <td>
+                <a href="./TS.html">TS</a>
+              </td>
+              <td>2</td>
+              <td>8</td>
+              <td>Isola</td>
+            </tr>
+            
+            <tr>
+              <td>
+                <a href="./WMR.html">Web mining and retrieval</a>
+              </td>
+              <td>
+                <a href="./WMR.html">WMR</a>
+              </td>
+              <td>2</td>
+              <td>9</td>
+              <td>Basili</td>
+            </tr>
+            
+          </tbody>
+        </table>
+      </div>
+    </main>
+
+    <hr />
+    <!-- footer -->
+    <footer>
+      <div id="gitIcon">
+        <a href="https://github.com/Alessandrostr95/PinkPeachProject">
+          <img
+            src="../../assets/icons/icons8-github-96.png"
+            alt="git"
+            width="28px"
+          />
+        </a>
+      </div>
+      <div id="sitoUfficialeIcon">
+        <a href="http://www.informatica.uniroma2.it/">
+          <img
+	    src="../../assets/logo_TV.svg"
+            alt="sito-informatica"
+            width="28px"
+          />
+        </a>
+      </div>
+    </footer>
+    <span id="current-year" style="visibility:none";>21-22</span>
+  </body>
+</html>

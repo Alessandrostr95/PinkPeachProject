@@ -1,0 +1,26 @@
+{
+  "nomeCorso": "Fondamenti di informatica",
+  "docente": [
+    {
+      "first_name": "Giorgio",
+      "second_name": "Gambosi"
+    },
+    {
+      "first_name": "Miriam",
+      "second_name": "Di Ianni"
+    }
+  ],
+  "annoAccademico": "2021-2022",
+  "crediti": "12",
+  "settore": "INF/01",
+  "anno": "2",
+  "semestre": "1-2",
+  "propedeuticit\u00e0": "Matematica discreta.",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td>null</td></tr></table>",
+  "testiRiferimento": "<table><tr><td>null</td></tr></table>",
+  "ricevimento": "<table><tr><td>null</td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+}
