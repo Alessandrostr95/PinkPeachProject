@@ -4,10 +4,12 @@ from header import TEMPLATES_ROOT
 from header import SITE_ROOT
 from header import SCHOLAR_YEAR
 
+from header import Degree
+
 # -- import all libraries importer in header
 from header import *
 
-# ----------------------------------------------
+# ------------------------------
 
 def import_courses(triennale=True):
     cdl = "triennale" if triennale else "magistrale"
@@ -52,6 +54,7 @@ def get_course_data(path, short_name):
         }
 
 def get(s:str):
+
     """
         Filtra le stringhe "nulle"
     """
