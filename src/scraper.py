@@ -345,7 +345,7 @@ class UniScraper(object):
         self.get_schedule()
         self.get_exams_schedule()
         self.get_teachers_list()
-        self.get_news()
+        self.get_news(scholar_year)
         self.get_graduation_schedule()
 
         if scholar_year:
