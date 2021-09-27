@@ -7,6 +7,16 @@
     <!-- Items go here -->
 
     <item>
+      <title>Esame di Programmazione</title>
+      <author>Rossi</author>
+      <pubDate>Sun, 26 Sep 2021 10:52:00 </pubDate>
+      <enclosure url="" type="application/pdf" />
+      <description>
+        <![CDATA[A causa di una indisposizione fisica del docente, l'esame del 27/9 si svolgerà a distanza.
+        ]]></description>
+    </item>
+
+    <item>
       <title>YUFE Student Journey 2021/2022</title>
       <author>Stillitano</author>
       <pubDate>Mon, 20 Sep 2021 08:28:00 </pubDate>

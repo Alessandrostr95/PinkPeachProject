@@ -270,7 +270,8 @@
         
         <!-- TRIENNALE -->
         <div id="news-triennale" class="buffer container border border-3">
-        <div class="row row-cols-1 row-cols-lg-2">
+        <!--<div class="row row-cols-1 row-cols-lg-2">-->
+        <div class="row row-cols-1">
           {% for item in items['triennale'] %}
             {% block news_triennale scoped %}{% endblock %}
           {% endfor %}
@@ -279,7 +280,8 @@
 
         <!-- MAGISTRALE -->
         <div id="news-magistrale" class="buffer container border border-3 hidden">
-        <div class="row row-cols-1 row-cols-lg-2">
+        <!--<div class="row row-cols-1 row-cols-lg-2">-->
+        <div class="row row-cols-1">
             {% for item in items['magistrale'] %}
               {% block news_magistrale scoped %}{% endblock %}
             {% endfor %}
