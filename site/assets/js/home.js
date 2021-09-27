@@ -1,10 +1,13 @@
 const triennale = "triennale";
-const magistrale = "magistrale"
+const magistrale = "magistrale";
 
 var currentState = triennale;
-var currentYear = "20-21"
+var currentYear = ""
+
 
 window.onload = function() {
+    currentYear = document.getElementById("current-year").innerHTML;
+  
     /* setto i link della barra del menu */
     document.querySelector("#link-orari").href = `../${currentState}/${currentYear}/orario.html`;
     document.querySelector("#link-corsi").href = `../${currentState}/${currentYear}/corsi.html`;
@@ -78,7 +81,7 @@ window.onload = function() {
 
     /* Faccio collassare gli elementi del NAV-TREE quando clicco su un elemento padre */
     var coll = document.querySelectorAll(".tree .tree-node");
-    console.log( coll );
+    // console.log( coll );
 
     for(let i = 0; i < coll.length; i++){
         let u = coll[i].parentElement.querySelector("ul");
@@ -144,49 +147,49 @@ function toggleXMLNewsStyle() {
  * 
  * 
  */
-console.log("\
-_________________________________\n\
-| ESPRESSIONE DI UNO STUDENTE    |\n\
-| CHE PER LA PRIMA VOLTA VEDE IL |\n\
-| SITO DI INFORMATICA UFFICIALE  |\n\
-|________________________________|\n\
-\n\
-     .--'''''''''--.\n\
-  .'      .---.      '.\n\
- /    .-----------.    \\\n\
-/        .-----.        \\\n\
-|       .-.   .-.       |\n\
-|      /   \\ /   \\      |\n\
- \\    | .-. | .-. |    /\n\
-  '-._| | | | | | |_.-'\n\
-      | '-' | '-' |\n\
-       \\___/ \\___/\n\
-    _.-'  /   \\  `-._\n\
-  .' _.--|     |--._ '.\n\
-  ' _...-|     |-..._ '\n\
-         |     |\n\
-         '.___.'\n\
-           | |\n\
-          _| |_\n\
-         /\\(_)/\\\n\
-        /  ` '  \\\n\
-       | |     | |\n\
-       '-'     '-'\n\
-       | |     | |\n\
-       | |     | |\n\
-       | |-----| |\n\
-    .`/  |     | |/`.\n\
-    |    |     |    |\n\
-    '._.'| .-. |'._.'\n\
-          \\ | /\n\
-          | | |\n\
-          | | |\n\
-          | | |\n\
-         /| | |\\\n\
-       .'_| | |_`.\n\
-       `. | | | .'\n\
-    .    /  |  \\    .\n\
-   /o`.-'  / \  `-.` o\\\n\
-  /o  o\\ .'   `. /o  o\\\n\
-  `.___.'       `.___.'\n\
-");
+// console.log("\
+// _________________________________\n\
+// | ESPRESSIONE DI UNO STUDENTE    |\n\
+// | CHE PER LA PRIMA VOLTA VEDE IL |\n\
+// | SITO DI INFORMATICA UFFICIALE  |\n\
+// |________________________________|\n\
+// \n\
+//      .--'''''''''--.\n\
+//   .'      .---.      '.\n\
+//  /    .-----------.    \\\n\
+// /        .-----.        \\\n\
+// |       .-.   .-.       |\n\
+// |      /   \\ /   \\      |\n\
+//  \\    | .-. | .-. |    /\n\
+//   '-._| | | | | | |_.-'\n\
+//       | '-' | '-' |\n\
+//        \\___/ \\___/\n\
+//     _.-'  /   \\  `-._\n\
+//   .' _.--|     |--._ '.\n\
+//   ' _...-|     |-..._ '\n\
+//          |     |\n\
+//          '.___.'\n\
+//            | |\n\
+//           _| |_\n\
+//          /\\(_)/\\\n\
+//         /  ` '  \\\n\
+//        | |     | |\n\
+//        '-'     '-'\n\
+//        | |     | |\n\
+//        | |     | |\n\
+//        | |-----| |\n\
+//     .`/  |     | |/`.\n\
+//     |    |     |    |\n\
+//     '._.'| .-. |'._.'\n\
+//           \\ | /\n\
+//           | | |\n\
+//           | | |\n\
+//           | | |\n\
+//          /| | |\\\n\
+//        .'_| | |_`.\n\
+//        `. | | | .'\n\
+//     .    /  |  \\    .\n\
+//    /o`.-'  / \  `-.` o\\\n\
+//   /o  o\\ .'   `. /o  o\\\n\
+//   `.___.'       `.___.'\n\
+// ");

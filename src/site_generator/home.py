@@ -110,7 +110,7 @@ if __name__ == "__main__":
         year=SCHOLAR_YEAR,
         data=now.strftime("%d/%m/%Y"),
         ora=now.strftime("%H:%M")
-        )
+    )
     
     # print( output_from_parsed_template )
     

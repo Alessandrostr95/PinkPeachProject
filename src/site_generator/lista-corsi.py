@@ -49,7 +49,10 @@ def write_courses_list(triennale=True):
 
     env = Environment( loader=FileSystemLoader( template_dir ) )
     template = env.get_template( template_file )
-    output_from_parsed_template = template.render( corsi=corsi )
+    output_from_parsed_template = template.render(
+        corsi=corsi,
+        year=SCHOLAR_YEAR
+    )
 
     # to save the results
     with open(result_file, "w") as fh:

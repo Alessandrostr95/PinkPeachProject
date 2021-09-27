@@ -1,7 +1,23 @@
-const currentYear = "20-21"; // trovare un modo per modificare l'anno in maniera dinamica
+var currentYear = "";
+var text2write = "";
+const speed = 25;
+var i = 0;
+var s;
 
 window.onload = function() {
-    
+  currentYear = document.getElementById("current-year").innerHTML;
+
+  /**
+   * Auto-write text
+   */
+  text2write = [
+    "Lista corsi " + currentYear  // trovare un modo per modificare l'anno in maniera dinamica
+  ];
+  
+  const speed = 25;
+  var i = 0;
+  var s;  
+  
   /*
    * When the user scrolls down, hide the navbar. 
    * When the user scrolls up, show the navbar.
@@ -27,16 +43,6 @@ window.onload = function() {
 
 };
 
-/**
-* Auto-write text
-*/
-
-const text2write = [
-  "Lista corsi " + currentYear  // trovare un modo per modificare l'anno in maniera dinamica
-];
-const speed = 25;
-var i = 0;
-var s;
 
 function autoWrite() {
   s = document.querySelector(".auto-write-text");
