@@ -4,27 +4,30 @@ from header import TEMPLATES_ROOT
 from header import SITE_ROOT
 from header import SCHOLAR_YEAR
 
+from header import Degree
+
 # -- import all libraries importer in header
 from header import *
 
+from utils import get_degree_years
+from utils import get_degree_pathname
+from utils import write_output
+from utils import read_csv
+
 # ----------------------------------------------
 
-INVERANALE, ESTIVA_ANTICIPATA, ESTIVA, AUTUNNALE = ["invernale", "estiva-anticipata", "estiva", "autunnale"]
+INVERNALE, ESTIVA_ANTICIPATA, ESTIVA, AUTUNNALE = ["invernale", "estiva-anticipata", "estiva", "autunnale"]
 
-def import_exams(sessione, triennale=True):
+def import_exams(session, degree):
     """
         Data una sessione, legge il file csv degli esami e ritorna una lista di oggetti 'riga'
     """
-    cdl = "triennale" if triennale else "magistrale"
-    assert sessione in [INVERANALE, ESTIVA_ANTICIPATA, ESTIVA, AUTUNNALE]
-    f_name = DATA_ROOT + f"{cdl}/{SCHOLAR_YEAR}/esami/esami-{sessione}.csv"
+    assert session in [INVERNALE, ESTIVA_ANTICIPATA, ESTIVA, AUTUNNALE]
+    
+    f_name = DATA_ROOT + f"{get_degree_pathname(degree)}/{SCHOLAR_YEAR}/esami/esami-{session}.csv"
+    return read_csv(f_name)
 
-    f = open( f_name )
-    sem = csv.DictReader(f)
-
-    return[line for line in sem]
-
-def compute_exams_data(data, triennale=True):
+def compute_exams_data(data, degree):
     """
         Data una lista in accordo con quanto ritornato nel metodo 'import_exams'
         struttura i dati nel seguente formato:
@@ -34,13 +37,8 @@ def compute_exams_data(data, triennale=True):
             └──anno <1|2|3> => [lista di oggetti]
     """
 
-    cdl = "triennale" if triennale else "magistrale"
-    fname_corsi = DATA_ROOT + f"{cdl}/{SCHOLAR_YEAR}/corsi/corsi.csv"
-
-    f = open( fname_corsi )
-    table = csv.DictReader(f)
-    corsi = [line for line in table]
-    f.close()
+    fname_corsi = DATA_ROOT + f"{get_degree_pathname(degree)}/{SCHOLAR_YEAR}/corsi/corsi.csv"
+    corsi = read_csv(fname_corsi)
 
     def get_course_shortname(course_longname):
         for corso in corsi:
@@ -87,11 +85,11 @@ def get(x:str):
         return None
     return x
 
-def write_exams(triennale=True):
+def generate_exams(degree):
     esami = {
-        ESTIVA_ANTICIPATA: compute_exams_data(import_exams(ESTIVA_ANTICIPATA, triennale=triennale), triennale=triennale),
-        ESTIVA: compute_exams_data(import_exams(ESTIVA, triennale=triennale), triennale=triennale),
-        AUTUNNALE: compute_exams_data(import_exams(AUTUNNALE, triennale=triennale), triennale=triennale)
+        ESTIVA_ANTICIPATA: compute_exams_data(import_exams(ESTIVA_ANTICIPATA, degree), degree),
+        ESTIVA: compute_exams_data(import_exams(ESTIVA, degree), degree),
+        AUTUNNALE: compute_exams_data(import_exams(AUTUNNALE, degree), degree)
     }
     """
         L'oggetto esami ha la seguente struttura
@@ -103,13 +101,10 @@ def write_exams(triennale=True):
     """
 
     # pprint( esami )
-
-    cdl = "triennale" if triennale else "magistrale"
-    result_file = SITE_ROOT + f"{cdl}/{SCHOLAR_YEAR}/esami.html"
+    result_file = SITE_ROOT + f"{get_degree_pathname(degree)}/{SCHOLAR_YEAR}/esami.html"
 
     template_dir = TEMPLATES_ROOT + "esami/"
     template_file = "table.html"
-
 
     env = Environment( loader=FileSystemLoader( template_dir ) )
     template = env.get_template( template_file )
@@ -117,16 +112,16 @@ def write_exams(triennale=True):
         sessioni = [ESTIVA_ANTICIPATA, ESTIVA, AUTUNNALE],
         esami = esami,
         AA = SCHOLAR_YEAR,
-        anni = [1,2,3] if triennale else [1,2]
+        anni =  get_degree_years(degree)
         )
     
     # print( output_from_parsed_template )
     # {% block tabella scoped %}{% endblock %}
 
-    # to save the results
-    with open(result_file, "w") as fh:
-        fh.write( output_from_parsed_template )
+    # -- save results
+    write_output(output_from_parsed_template, result_file)
 
 if __name__ == '__main__':
-    write_exams()
-    write_exams(False)
+    generate_exams(Degree.BACHELOR)
+    generate_exams(Degree.MASTER)
+    

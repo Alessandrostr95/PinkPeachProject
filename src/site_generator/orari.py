@@ -14,6 +14,7 @@ from utils import get_degree_years
 from utils import get_days_of_week
 from utils import get_course_code_from_name_function
 from utils import write_output
+from utils import read_csv
 
 # ------------------------------
 # funzioni helpers
@@ -24,9 +25,7 @@ def csv2json(f_name, degree):
     ritorna un dizionario con una struttura JSON oriented
     """
 
-    f = open(f_name)
-    sem = csv.DictReader(f)
-    lines = [ line for line in sem ]
+    lines = read_csv(f_name)
 
     years = get_degree_years(degree)
     days = get_days_of_week()

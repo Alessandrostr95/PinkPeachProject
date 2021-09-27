@@ -27,11 +27,12 @@ def get_days_of_week():
 
 def get_course_code_from_name_function(degree):
     """This function returns a function that takes in input a course name
-    and gives as output the codename of the function concatenated with
+    and gives as output the codename of the course concatenated with
     '.html' if a course with the given name exists, or '#nogo' if it
     doesn't exist.
     
     This function its used in the orari.py for the generation of the schedules.
+
     """
     
     if degree == Degree.BACHELOR:
@@ -39,9 +40,7 @@ def get_course_code_from_name_function(degree):
     elif degree == Degree.MASTER:
         f_name = DATA_ROOT + f"magistrale/{SCHOLAR_YEAR}/corsi/corsi.csv"
 
-    f = open( f_name )
-    courses_list = [line for line in csv.DictReader(f)]        
-    f.close()
+    courses_list = read_csv(f_name)
 
     def get_link(course_name):
         for c in courses_list:
@@ -55,8 +54,14 @@ def get_course_code_from_name_function(degree):
 # -------
 
 def write_output(output, path):
-    # -- taken from:
-    # https://stackoverflow.com/questions/12517451/automatically-creating-directories-with-file-output
+    """This function creates the path and only then saves the output in
+    the given path. This is done to avoid OS exceptions like: path not
+    found.
+    
+    Taken from: 
+    https://stackoverflow.com/questions/12517451/automatically-creating-directories-with-file-output
+    """
+
     if not os.path.exists(os.path.dirname(path)):
         try:
             os.makedirs(os.path.dirname(path))
@@ -66,3 +71,15 @@ def write_output(output, path):
             
     with open(path, "w") as f:
         f.write(output)
+        
+# -------
+
+def read_csv(csv_path):
+    try:
+        f = open( csv_path )
+        result = [ line for line in csv.DictReader(f) ]
+        f.close()
+        return result
+    except FileNotFoundError as e:
+        return []
+    
