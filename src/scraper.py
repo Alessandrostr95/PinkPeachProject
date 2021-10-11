@@ -331,8 +331,9 @@ class UniScraper(object):
         return cdl_param
     
     def __os_param(self, scholar_year):
+        
         if scholar_year:
-            return datetime.datetime.now().year - int("20" + scholar_year.split("-")[1])
+            return int("20" + get_current_school_year().split("-")[1]) - int("20" + scholar_year.split("-")[1])
         else:
             return "0"  # -- for "current year"
 
@@ -479,12 +480,15 @@ class UniScraper(object):
         URL_PARAMS = f"/f0?fid=220&srv=0&os={os_param}&id={course_code}"
         URL = self.BASE_URL + URL_PARAMS
 
+        print(URL)
+
         # -- compute current scholar year in form 19-20, 20-21
         if not scholar_year:
             s = int(str(datetime.datetime.now().year)[2:])
             scholar_year = str(s - 1) + "-" + str(s)        
         
         r = requests.get(URL)
+        print(r.status_code)
         if r.status_code != 200:
             # -- no data available
             print(f"[(WARNING) {self.degree}, {scholar_year}]: Could not download course data for course: [{course_code}]")

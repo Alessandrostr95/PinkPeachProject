@@ -16,11 +16,38 @@
   "anno": "2",
   "semestre": "1-2",
   "propedeuticit\u00e0": "Analisi Matematica. Matematica discreta. Programmazione dei calcolatori con laboratorio.",
-  "comunicazioni": [],
-  "lezioni": [],
+  "comunicazioni": [
+    {
+      "titolo": "Settimana 11-15 ottobre: ancora aula magna!",
+      "data": "10-10-2021 21:24",
+      "contenuto": "<p>Cari, le lezioni di luned\u00ec 11 e gioved\u00ec 14 ottobre si svolgeranno in aula magna (Gismondi). Faranno fede anche le prenotazioni relative all'aula 3PP2. Ci vediamo in classe.\u00a0</p><hr/>"
+    },
+    {
+      "titolo": "Si parte!",
+      "data": "01-10-2021 13:23",
+      "contenuto": "<p>Cari studenti, benvenuti al corso di Algoritmi e Strutture Dati! Sar\u00e0 un corso impegnativo. Abbiamo molte cose da fare insieme e spero che troverete alcune di queste divertenti, oltre che utili.\u00a0</p>\n<p>Sar\u00e0 per me particolarmente piacevole vedervi di persona, quest'anno, e spero che parteciperete per quanto pi\u00f9 possibile alle lezioni in presenza. Ad ogni modo, le lezioni saranno erogate in modalit\u00e0 mista, per consentire anche a chi non riesce a venire in aula di seguire in remoto. Non sempre le aule sono attrezzate adeguatamente e la modalit\u00e0 mista \u00e8 da un punto di vista tecnico pi\u00f9 complicata. Faremo del nostro meglio.</p>\n<p>\u00a0</p>\n<p>La prima lezione si svolger\u00e0 luned\u00ec 4 ottobre alle ore 11, in aula magna (aula Gismondi). Ricordatevi di prenotare un posto tramite il sistema delphi.\u00a0</p>\n<p>La modalit\u00e0 remota sar\u00e0 erogata attraverso una classe virtuale su Teams. Peraltro vi invito a richiedere la partecipazione alla seguente classe:</p>\n<p>GUALA'-8067331-ALGORITMI_E_STRUTTURE_DATI</p>\n<p>Chi riscontrasse problemi tecnici pu\u00f2 scrivermi all'indirizzo\u00a0</p>\n<p>guala@mat.uniroma2.it</p>\n<p>\u00a0</p>\n<p>Mi sembra sia tutto. Ci vediamo luned\u00ec!</p>\n<p>LG\u00a0</p>"
+    }
+  ],
+  "lezioni": [
+    {
+      "id": "3",
+      "data": "11-10-2021",
+      "contenuto": "<p>Modello di calcolo RAM. Costi uniformi e logaritmici. Complessit\u00e0 caso peggiore, migliore, medio. Notazioni asintotiche: O-grande, Omega-grande, Theta. O-piccolo, Omega-piccolo. Definizioni e semplici esempi. Propriet\u00e0. Usare la notazione asintotica nelle analisi della complessit\u00e0 computazionale degli algoritmi.</p>"
+    },
+    {
+      "id": "2",
+      "data": "07-10-2021",
+      "contenuto": "<p>Il problema del calcolo dell\u2019n-esimo numero di Fibonacci. Un algoritmo numerico e un algoritmo ricorsivo. Analisi della complessit\u00e0 temporale dell\u2019algoritmo ricorsivo. Un algoritmo iterativo di complessit\u00e0 temporale O(n) e di complessit\u00e0 spaziale O(n) (Fibonacci3). Portare la memoria a O(1): Fibonacci4. Introduzione informale alla notazione asintotica. Algoritmo con complessit\u00e0 O(log n) per il calcolo dell\u2019n-simo numero di Fibonacci. Discussione della complessit\u00e0 spaziale degli algoritmi ricorsivi Fibonacci2 e Fibonacci6.</p>"
+    },
+    {
+      "id": "1",
+      "data": "04-10-2021",
+      "contenuto": "<p>Introduzione al corso. Motivazioni e concetti fondamentali. Un primo esempio: il problema di trovare una moneta falsa (pi\u00f9 pesante) fra n monete usando una bilancia a due piatti.</p>"
+    }
+  ],
   "materiale": [],
-  "programma": "<table><tr><td>null</td></tr></table>",
-  "testiRiferimento": "<table><tr><td>null</td></tr></table>",
-  "ricevimento": "<table><tr><td>null</td></tr></table>",
-  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+  "programma": "<table><tr><td><p>http://www.mat.uniroma2.it/~guala/ASDL_2021.htm</p></td></tr></table>",
+  "testiRiferimento": "<table><tr><td><p>http://www.mat.uniroma2.it/~guala/ASDL_2021.htm</p></td></tr></table>",
+  "ricevimento": "<table><tr><td><p>http://www.mat.uniroma2.it/~guala/ASDL_2021.htm</p></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td><p>http://www.mat.uniroma2.it/~guala/ASDL_2021.htm</p></td></tr></table>"
 }
