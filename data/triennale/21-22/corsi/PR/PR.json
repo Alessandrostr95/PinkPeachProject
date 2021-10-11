@@ -12,7 +12,13 @@
   "anno": "1",
   "semestre": "1-2",
   "propedeuticit\u00e0": "Nessuna",
-  "comunicazioni": [],
+  "comunicazioni": [
+    {
+      "titolo": "",
+      "data": "04-10-2021 10:53",
+      "contenuto": "<p>Le lezioni di <strong>Programazione dei Calcolatori con Laboratorio</strong> inizieranno marted\u00ec <strong>12</strong> <strong>ottobre.</strong></p>\n<p>\u00a0</p>\n<p>Le lezioni inizieranno alle ore 14:15 e termineranno alle ore 15:45 senza interruzioni.</p>\n<p>\u00a0</p>\n<p>Nel frattempo richiedete l'iscrizione al canale Teams del corso attraverso il seguente <a href=\"https://teams.microsoft.com/l/team/19%3aa6a29db18c834a8fb822d968ea008f10%40thread.tacv2/conversations?groupId=07158cb1-0fc1-4930-befd-80987312c5f0&amp;tenantId=24c5be2a-d764-40c5-9975-82d08ae47d0e\">link</a>.</p>"
+    }
+  ],
   "lezioni": [
     {
       "id": "0",

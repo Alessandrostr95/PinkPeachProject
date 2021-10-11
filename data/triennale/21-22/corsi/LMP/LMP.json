@@ -20,7 +20,7 @@
   "lezioni": [],
   "materiale": [],
   "programma": "<table><tr><td>null</td></tr></table>",
-  "testiRiferimento": "<table><tr><td>null</td></tr></table>",
+  "testiRiferimento": "<table><tr><td><ul style=\"font-size: 13.3333px;\">\n<li>\n<div style=\"font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 13.3333px;\">\n<h3 style=\"color: #660000;\"><a id=\"libri_di_testo\"></a>Libri di testo</h3>\n<ul>\n<li><em>Paradigma ad Oggetti</em>:\u00a0<a href=\"http://www.mindviewinc.com/Books/TIJ4/\">Thinking in Java (4th edition)</a>, ISBN-10: 0131872486 | ISBN-13: 978-0131872486</li>\n<li>Paradigma Dichiarativo: I. Bratko, Prolog Programming for Artificial Intelligence, Addison Wesley</li>\n<li>Paradigma Funzionale: verr\u00e0 comunicato al secondo semestre</li>\n</ul>\n<h3 style=\"color: #660000;\"><a id=\"ulteriore_materiale\"></a>Ulteriore materiale</h3>\n<ul>\n<li><em>Linguaggio Java</em>:\u00a0<a href=\"http://docs.oracle.com/javase/tutorial/\">Sun Java Tutorials</a></li>\n</ul>\n</div>\n</li>\n</ul></td></tr></table>",
   "ricevimento": "<table><tr><td>null</td></tr></table>",
   "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
 }

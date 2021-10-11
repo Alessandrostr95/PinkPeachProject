@@ -18,5 +18,25 @@
     "giorno": "29 Ottobre 2021",
     "sessione": "Autunnale",
     "aa": "2020/2021"
+  },
+  {
+    "giorno": "25 Febbraio 2022",
+    "sessione": "Invernale",
+    "aa": "2020/2021"
+  },
+  {
+    "giorno": "27 Maggio 2022",
+    "sessione": "Invernale",
+    "aa": "2020/2021"
+  },
+  {
+    "giorno": "22 Luglio 2022",
+    "sessione": "Estiva",
+    "aa": "2021/2022"
+  },
+  {
+    "giorno": "28 Ottobre 2022",
+    "sessione": "Autunnale",
+    "aa": "2021/2022"
   }
 ]

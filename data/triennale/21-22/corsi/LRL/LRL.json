@@ -12,7 +12,13 @@
   "anno": "1",
   "semestre": "2",
   "propedeuticit\u00e0": "Nessuna",
-  "comunicazioni": [],
+  "comunicazioni": [
+    {
+      "titolo": "",
+      "data": "04-10-2021 20:34",
+      "contenuto": "<p>Il corso viene erogato nel secondo semestre. La pagina web con tutto il materiale didattico relativo al corso tenuto lo scorso anno \u00e8 consultabile qui:<br> <a href=\"https://www.mat.uniroma2.it/~pasquale/dida/aa2021/lrl/index.html\" target=\"_blank\">https://www.mat.uniroma2.it/~pasquale/dida/aa2021/lrl/index.html</a></br></p>"
+    }
+  ],
   "lezioni": [],
   "materiale": [],
   "programma": "<table><tr><td>null</td></tr></table>",

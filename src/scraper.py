@@ -331,7 +331,6 @@ class UniScraper(object):
         return cdl_param
     
     def __os_param(self, scholar_year):
-        
         if scholar_year:
             return int("20" + get_current_school_year().split("-")[1]) - int("20" + scholar_year.split("-")[1])
         else:
@@ -480,15 +479,12 @@ class UniScraper(object):
         URL_PARAMS = f"/f0?fid=220&srv=0&os={os_param}&id={course_code}"
         URL = self.BASE_URL + URL_PARAMS
 
-        print(URL)
-
         # -- compute current scholar year in form 19-20, 20-21
         if not scholar_year:
             s = int(str(datetime.datetime.now().year)[2:])
             scholar_year = str(s - 1) + "-" + str(s)        
         
         r = requests.get(URL)
-        print(r.status_code)
         if r.status_code != 200:
             # -- no data available
             print(f"[(WARNING) {self.degree}, {scholar_year}]: Could not download course data for course: [{course_code}]")
@@ -901,33 +897,24 @@ class UniScraper(object):
             print(f"[(WARNING) {self.degree}]: Coud not download graduation schedule: [{URL}]")
             exit()
 
+        print(f"[{self.degree}]: Downloaded graduation schedule : [{URL}]")
+
         output = []
         soup = BeautifulSoup(r.text, 'html.parser')
-        table = soup.find("table")
-        rows = table.find_all("tr")
+        # table = soup.find("table")
+        rows = soup.find_all("tr")
+        
+        for row in rows:
+            if "Data" in row.decode_contents():
+                continue
 
-        for row in rows[1:]:
             cols = row.find_all("td")
-            # -- sometimes there is a <p> there :D
+
+            # -- extract juciy data
             rowData = {}
-            
-            # -- data
-            if cols[0].find("p"):
-                rowData["giorno"] = cols[0].p.span.decode_contents().strip()
-            else:
-                rowData["giorno"] = cols[0].span.decode_contents().strip()
-
-            # -- sessione
-            if cols[1].find("p"):
-                rowData["sessione"] = cols[1].p.span.decode_contents().strip()
-            else:
-                rowData["sessione"] = cols[1].span.decode_contents().strip()
-
-            # -- a.a.
-            if cols[2].find("p"):
-                rowData["aa"] = cols[2].p.span.decode_contents().strip()
-            else:
-                rowData["aa"] = cols[2].span.decode_contents().strip()
+            rowData["giorno"] = cols[0].text.strip()
+            rowData["sessione"] = cols[1].text.strip()
+            rowData["aa"] = cols[2].text.strip()
 
             output.append(rowData)
 

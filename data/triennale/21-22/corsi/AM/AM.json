@@ -15,8 +15,8 @@
   "comunicazioni": [],
   "lezioni": [],
   "materiale": [],
-  "programma": "<table><tr><td>null</td></tr></table>",
-  "testiRiferimento": "<table><tr><td>null</td></tr></table>",
+  "programma": "<table><tr><td><p><span style=\"font-family: Roboto; font-size: medium;\">1. Numeri reali. 2. Numeri complessi. 3. Funzioni di una variabile. 4. Limiti di funzioni.</span><br style=\"font-family: Roboto; font-size: medium;\"><span style=\"font-family: Roboto; font-size: medium;\">5. Limiti di successioni. 6. Funzioni continue. 7. Calcolo differenziale per funzioni di una variabile.\u00a0</span><span style=\"font-family: Roboto; font-size: medium;\">8. Polinomi di Taylor e Mc Laurin. 9. Integrale di Riemann. 10. Serie numeriche e integrali impropri.\u00a0</span><span style=\"font-family: Roboto; font-size: medium;\">11. Introduzione alle equazioni differenziali alle derivate ordinarie (cenni).</span><br style=\"font-family: Roboto; font-size: medium;\"><span style=\"font-family: Roboto; font-size: medium;\">12. Calcolo infinitesimale per funzioni di pi\u00f9 variabili (cenni).</span></br></br></p>\n<p>\u00a0</p>\n<p><span style=\"font-family: Roboto; font-size: medium;\">Per dettaglio vedi il sito del docente.</span></p></td></tr></table>",
+  "testiRiferimento": "<table><tr><td><p>Testi consigliati:</p>\n<p>- M. Bertsch, A. Dall'Aglio, L. Giacomelli: Epsilon 1. Primo corso di Analisi Matematica. McGraw-Hill Education, (2021)</p>\n<p>- M. Bertsch, R. Dal Passo, L. Giacomelli: Analisi matematica. Con aggiornamento online, McGraw-Hill (2014)</p>\n<p>- M. Bramanti, C. D. Pagani, S. Salsa: Analisi Matematica 1 e 2, Zanichelli (2008, 2009).</p>\n<p>- C. Canuto, A. Tabacco: Analisi matematica 1 e 2 Teoria ed esercizi, UniText Springer (2014).</p></td></tr></table>",
   "ricevimento": "<table><tr><td>null</td></tr></table>",
   "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
 }

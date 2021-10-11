@@ -16,7 +16,18 @@
   "anno": "2",
   "semestre": "1-2",
   "propedeuticit\u00e0": "Matematica discreta.",
-  "comunicazioni": [],
+  "comunicazioni": [
+    {
+      "titolo": "Classe Teams modulo 1",
+      "data": "01-10-2021 16:35",
+      "contenuto": "<p>La classe Teams relativa la primo modulo del corso \u00e8 accessibile a https://teams.microsoft.com/l/team/19%3afnpjj8Gpf9_eVm-UpC5GkDIXqIIa46FfG3vUh9LI9fE1%40thread.tacv2/conversations?groupId=d4c5d008-9873-4b48-bbb9-9b3481d37e8e&amp;tenantId=24c5be2a-d764-40c5-9975-82d08ae47d0e</p><hr/>"
+    },
+    {
+      "titolo": "Sito modulo 1",
+      "data": "01-10-2021 16:34",
+      "contenuto": "<p>Informazioni e comunicazioni sul primo modulo del corso disponibili a https://tvml.github.io/fo2122/\u00a0</p>"
+    }
+  ],
   "lezioni": [],
   "materiale": [],
   "programma": "<table><tr><td>null</td></tr></table>",
