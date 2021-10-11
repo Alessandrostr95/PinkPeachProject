@@ -1055,7 +1055,7 @@ class UniScraper(object):
     def get_news(self, scholar_year=None):
         # -- compute URL
         cdl_param = self.__cdl_param()
-        URL_PARAMS = f"/f10?fid=50&srv=4&cdl={cdl_param}&pag=0"
+        URL_PARAMS = f"/f0?fid=50&srv=4&cdl={cdl_param}&pag=0"
         URL = self.BASE_URL + URL_PARAMS
         
         r = requests.get(URL)
