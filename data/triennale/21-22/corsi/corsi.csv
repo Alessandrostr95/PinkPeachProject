@@ -1,8 +1,8 @@
 anno,insegnamento,link,codice,settore,CFU,semetre,docente,propedeuticità
-1,Analisi Matematica,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2021&cdl=0&id=AM,AM,MAT/05,9,1,Fidaleo,
+1,Analisi Matematica,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2021&cdl=0&id=AM,AM,MAT/05,9,1,Ciolli,
 1,Architettura dei sistemi di elaborazione,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2021&cdl=0&id=AE,AE,ING-INF/05,6,1,Simonetta,
 1,Fisica,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2021&cdl=0&id=FI,FI,FIS/01,6,2,Camarri,Analisi Matematica-
-1,Geometria ed algebra,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2021&cdl=0&id=GA,GA,MAT/03,6,2,Arosio,
+1,Geometria ed algebra,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2021&cdl=0&id=GA,GA,MAT/03,6,2,Bracci,
 1,Logica e reti logiche,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2021&cdl=0&id=LRL,LRL,INF/01,6,2,Pasquale,
 1,Matematica discreta,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2021&cdl=0&id=MD,MD,MAT/02,9,1,Brenti,
 1,Programmazione dei calcolatori con laboratorio,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2021&cdl=0&id=PR,PR,INF/01,12,1-2,Rossi,
@@ -14,10 +14,10 @@ anno,insegnamento,link,codice,settore,CFU,semetre,docente,propedeuticità
 2,Ricerca operativa,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2021&cdl=0&id=RO,RO,MAT/09,6,2,Caramia,
 2,Sistemi operativi e reti,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2021&cdl=0&id=SOR,SOR,INF/01,12,1-2,Frasca,Architettura dei sistemi di elaborazione-Programmazione dei calcolatori con laboratorio-
 3,Algoritmi e strutture dati 2,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2021&cdl=0&id=ASD2,ASD2,INF/01,6,1,Pasquale,Algoritmi e strutture dati-
-3,Calcolo numerico,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2021&cdl=0&id=CN,CN,MAT/08,6,1,Pelosi,Analisi Matematica-Matematica discreta-
+3,Calcolo numerico,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2021&cdl=0&id=CN,CN,MAT/08,6,1,Garoni,Analisi Matematica-Matematica discreta-
 3,Ingegneria del software,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2021&cdl=0&id=IS,IS,INF/01,12,1-2,Intrigila-D'Ambrogio,Linguaggi e metodologie di programmazione-
-3,Intelligenza artificiale 1,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2021&cdl=0&id=IA,IA,ING-INF/05,6,1,Basili,Programmazione dei calcolatori con laboratorio-
+3,Intelligenza artificiale 1,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2021&cdl=0&id=IA,IA,INF/01,6,1,Basili,Programmazione dei calcolatori con laboratorio-
 3,Lingua inglese,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2021&cdl=0&id=LING,LING,L-LIN/02,3,1,Monorchio,
 3,Modelli e linguaggi di simulazione,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2021&cdl=0&id=MLS,MLS,ING-INF/05,6,2,Iazeolla,
-3,Programmazione Java per dispositivi mobili,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2021&cdl=0&id=PJDM,PJDM,ING-INF/03,6,2,Loreti,
+3,Programmazione Java per dispositivi mobili,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2021&cdl=0&id=PJDM,PJDM,ING-INF/03,6,2,Croce-Loreti,
 3,Programmazione Web,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2021&cdl=0&id=PW,PW,ING-INF/05,6,2,Loreti,

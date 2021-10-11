@@ -6,19 +6,13 @@
       "second_name": "Gambosi"
     }
   ],
-  "annoAccademico": "2020-2021",
+  "annoAccademico": "2021-2022",
   "crediti": "9",
   "settore": "INF/01",
   "anno": "2",
   "semestre": "2",
   "propedeuticit\u00e0": "Nessuna",
-  "comunicazioni": [
-    {
-      "titolo": "Sito del corso",
-      "data": "08-10-2020 17:56",
-      "contenuto": "<p>Informazioni all'indirizzo <a href=\"https://tvml.github.io/ml2021/\" title=\"seguente\">seguente</a>. Aprire il link in un nuovo pannello o una nuova pagina.</p>"
-    }
-  ],
+  "comunicazioni": [],
   "lezioni": [],
   "materiale": [],
   "programma": "<table><tr><td>null</td></tr></table>",
