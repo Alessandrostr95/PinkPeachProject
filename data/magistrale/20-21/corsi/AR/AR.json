@@ -6,7 +6,7 @@
       "second_name": "Di Ianni"
     }
   ],
-  "annoAccademico": "2020-2021",
+  "annoAccademico": "2021-2022",
   "crediti": "6",
   "settore": "INF/01",
   "anno": "1",
@@ -15,208 +15,14 @@
   "comunicazioni": [
     {
       "titolo": "",
-      "data": "09-10-2020 17:30",
-      "contenuto": "<p><strong>AVVISO: il corso inizier\u00e0 mercoled\u00ec 14 ottobre (ore 9:30). Luned\u00ec 12 ottobre non ci sar\u00e0 lezione.</strong></p><hr/>"
-    },
-    {
-      "titolo": "",
-      "data": "09-10-2020 17:30",
-      "contenuto": "<p>Link TEAMS: </p>\n<p>https://teams.microsoft.com/l/team/19%3acf7bd8a3dd0141568d93feb87c79e1a2%40thread.tacv2/conversations?groupId=d6dadb2f-3c80-424b-b96d-65575496973d&amp;tenantId=24c5be2a-d764-40c5-9975-82d08ae47d0e</p>\n<p>\u00a0</p>\n<p>Gli studenti interessati a seguire le lezioni possono comunque inviarmi un messaggio (miriam.di.ianni chiocciola uniroma2.it) e li inserir\u00f2 nella classe dello scorso anno.</p>\n<p>\u00a0</p>\n<p>\u00a0</p>\n<p>\u00a0</p>\n<p><strong><br><br/></br></strong></p>"
+      "data": "01-10-2021 18:32",
+      "contenuto": "<p>Il link alla classe Teams del corso \u00e8: https://teams.microsoft.com/l/team/19%3acf7bd8a3dd0141568d93feb87c79e1a2%40thread.tacv2/conversations?groupId=d6dadb2f-3c80-424b-b96d-65575496973d&amp;tenantId=24c5be2a-d764-40c5-9975-82d08ae47d0e</p>"
     }
   ],
-  "lezioni": [
-    {
-      "id": "23",
-      "data": "21-12-2020",
-      "contenuto": "<p>PageRank, PageRank scalato e analisi di convergenza. Formulazione del PageRank (di base o scalato) mediante random walks. Web-search e evoluzione del Web (Cap. 14, par, 14-3, 14., 14.6-B, 14.6-C, lucidi AR-Web-search)</p>"
-    },
-    {
-      "id": "22",
-      "data": "16-12-2020",
-      "contenuto": "<p>Lezone di 3 ore.</p>\n<p>Il problema della ricerca sul web. Ranking e link analysis. Il metodo Hubs and Authorities (HITS): definizione e dimostrazione di convergenza (Cap. 14, par, 14-1, 14.2, 14.6-A, lucidi AR-Web-search)</p>"
-    },
-    {
-      "id": "21",
-      "data": "14-12-2020",
-      "contenuto": "<p>Preferenze single peaked e il teorema del votante mediano (Cap. 23, par. 23.6, lucidi AR-SistemiDiVoto).</p>\n<p>La struttura del Web: reti di informazione, memoria associativa e Memex; il Web come grafo diretto, struttura bow-tie e Web 2.0 (Cap 13, lucidi AR-Web-search)</p>"
-    },
-    {
-      "id": "20",
-      "data": "09-12-2020",
-      "contenuto": "<p>Dimostrazione del teorema di Arrow (Cap. 23, par. 23.11, lucidi AR-SistemiDiVoto)</p>"
-    },
-    {
-      "id": "19",
-      "data": "07-12-2020",
-      "contenuto": "<p>Sistemi di voto: definizione. Sistema di voto a maggioranza e paradosso di Condorcet. Torneo e agenda setting. Sistemi di voto posizionale, Borda count, ruolo delle alternative irrilevanti. Il principio di uniformit\u00e0 e il principio delle alternative irrilevanti. Il teorema di impossibilit\u00e0 di Arrow: enunciato e prima parte della dimostrazione (Cap. 23, par. 23.3-23.5 e 23.11, lucidi AR-SistemiDiVoto)</p>"
-    },
-    {
-      "id": "18",
-      "data": "04-12-2020",
-      "contenuto": "<p>Un modello per decisioni collettive: il teorema della giuria di Condorcet, ragionevolezza del voto non sincero, il caso della giuria. Voto individuale: ranking e relazioni binarie e loro equivalenza (Cap. 23, par. 23.7-23.10 e 23.1-23.2, lucidi AR-SistemiDiVoto)</p>"
-    },
-    {
-      "id": "17",
-      "data": "02-12-2020",
-      "contenuto": "<p>Un modello generale per le cascate imitative: definizione e analisi (Cap. 16, par. 16.4 -16.7, lucidi AR-Herding)</p>"
-    },
-    {
-      "id": "16",
-      "data": "30-11-2020",
-      "contenuto": "<p>Processi di diffusione in presenza di compatibilit\u00e0: analisi del caso della catena\u00a0 (Cap. 19, par. 19.5, 19.6 e 19.7-C, lucidi AR-ProcessiDiffusione).</p>\n<p>Introduzione alle cascate imitative: esempi, il gioco delle due urne (Cap. 16, par. 16.1 e 16.2, lucidi AR-Herding)</p>"
-    },
-    {
-      "id": "15",
-      "data": "26-11-2020",
-      "contenuto": "<p>Processi di diffusione in caso di nodi eterogenei. Azione collettiva. Processi di diffusione in presenza di compatibilit\u00e0: esempio sulla catena e analisi qualitativa Cap. 19, par. 19.5, 19.6 e 19.7-C, lucidi AR-ProcessiDiffusione)</p>"
-    },
-    {
-      "id": "14",
-      "data": "25-11-2020",
-      "contenuto": "<p>Capacit\u00e0 di cascata di una rete: esempi (catena e griglia) e caratterizzazione dell'insieme di initiators, non occorrenza di una cascata completa nel caso q maggiore di 1/2(Cap. 19, par. 19.7-A e 19.7-B, lucidi AR-ProcessiDiffusione)</p>"
-    },
-    {
-      "id": "13",
-      "data": "23-11-2020",
-      "contenuto": "<p>Processi di diffusione: dal concetto di omofilia alla relazione come strumento per influenzare il comportamento degli individui; odellare i processi di diffusione come network creation games, esempi: Cascate complete e clusters, il ruolo dei weak ties. (Capitolo 19, par. 19.1-19.4, lucidi AR-ProcessiDiffusione)</p>"
-    },
-    {
-      "id": "12",
-      "data": "18-11-2020",
-      "contenuto": "<p>Il metodo di Girvan-Newman per il partizionamento di un grafo in comunit\u00e0. Algoritmo per il calcolo della edge.betweenness. Rilassamento del modello: grafi peseti e neighborhood overlap. Embeddedness, ruolo di un nodo,buchi strutturali, capitale sociale (Cap. 3 parte finale del par. 3.6 e par. 3.3 e 3.5, lucidi AR-GrafiStrutturaDisomogenea)</p>"
-    },
-    {
-      "id": "11",
-      "data": "16-11-2020",
-      "contenuto": "<p>NP-completezza del problema di partizionare un grafo in due strong web- communities (dispensa 2 e lucidi AR-GrafiStrutturaDisomogenea).</p>\n<p>Partizionamento in comunit\u00e0: metodi partitivi e metodi agglomerativi. Il concetto di edge.betweenness. (Cap. 3 parte iniziale del par. 3.6, lucidi AR-GrafiStrutturaDisomogenea)</p>"
-    },
-    {
-      "id": "10",
-      "data": "11-11-2020",
-      "contenuto": "<p>Propriet\u00e0 della chiusura triadica forte: propriet\u00e0 locali e propriet\u00e0 globali. Comunit\u00e0: coefficiente di clustering, cut-communities e web- communities e loro relazione (Cap. 3 par. 3.2, lucidi AR-GrafiStrutturaDisomogenea, Dispensa 2)</p>"
-    },
-    {
-      "id": "9",
-      "data": "09-11-2020",
-      "contenuto": "<p>Modello per la ricerca decentralizzata: coefficienti di clustering non ottimali (Cap. 20, par. 20.7.B).</p>\n<p>Esperimento di Granovetter: potere informativo delle relazioni, bridges e local bridges, archi forti e deboli e chiusura triadica (Cap. 3 par. 3.1-3.2, lucidi AR-GrafiStrutturaDisomogenea)</p>"
-    },
-    {
-      "id": "8",
-      "data": "04-11-2020",
-      "contenuto": "<p>Modello per la ricerca decentralizzata: coefficiente di clustering ottimale. Dimostrazione nel caso dell'anello. (Cap. 20, pag. 544-546 e 554-561)</p>"
-    },
-    {
-      "id": "7",
-      "data": "02-11-2020",
-      "contenuto": "<p>Il fenomeno small world e i sei gradi di separazione. Relazioni forti e deboli e chiusura triadica nelle reti. Il modello di Watts-Strogatz. Ricerca decentralizzata. (Cap. 20, par. 20.1-20.4 fino pag. 544)</p>"
-    },
-    {
-      "id": "6",
-      "data": "28-10-2020",
-      "contenuto": "<p>Grafi geometrici aleatori: conclusione della prova della delimitazione superiore al minimo raggio di connessione. (Dispensa D01 e pag. 30 - 42 dei lucidi delle lezioni disponibili in questa pagina)</p>"
-    },
-    {
-      "id": "5",
-      "data": "26-10-2020",
-      "contenuto": "<p>Grafi geometrici aleatori: prima parte della prova della delimitazione superiore al minimo raggio di connessione. (Dispensa D01 e pag. 21-30 dei lucidi delle lezioni disponibili in questa pagina)</p>"
-    },
-    {
-      "id": "4",
-      "data": "21-10-2020",
-      "contenuto": "<p>Grafi geometrici e Unit Disk Graphs. Grafi geometrici aleatori, reti wireless ad-hoc e problema del minimo raggio di trasmissione. Delimitazione superiore al minimo raggio di connessione. (Dispensa 1 e lucidi delle lezioni disponibili in questa pagina)</p>"
-    },
-    {
-      "id": "3",
-      "data": "19-10-2020",
-      "contenuto": "<p>Completamento dell'analisi del modello Rich Get Richer (pag. 192-193). Impredicibilit\u00e0 della popolarit\u00e0. La lunga coda. Gli effetti sulla popolarit\u00e0 degli strumenti di web-search e sistemi di raccomandazioni. (Cap. 18, par. 18.4-18.6)</p>"
-    },
-    {
-      "id": "2",
-      "data": "16-10-2020",
-      "contenuto": "<p>Popolarit\u00e0 e fenomeno Riche get Richer: power laws, modello di Erdos Renyi e un modello che tenga conto del fenomeno Rich get Richer (cap. 18, par. 18.1-18.3). Inizio dell'analisi del modello (pag. 490-492)</p>"
-    },
-    {
-      "id": "1",
-      "data": "14-10-2020",
-      "contenuto": "<p><span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Introduzione al corso (cap. 1 del testo). Grafi: percorsi, componenti connesse e fortemente connesse (cap. 2 del testo). Grafi aleatori. Il modello di Erdos-Renyi: grado medio, popolarit\u00e0. Lezione corrispondente ai lucidi: Introduzione al corso e modello di Erdos-Renyi<br/></span></p>"
-    }
-  ],
-  "materiale": [
-    {
-      "titolo": "Lucidi: web search",
-      "dataUpload": "21.12.2020 14:13:59",
-      "link": "http://www.informatica.uniroma2.it/upload/2020/AR/AR-Web-search.pptx",
-      "dimensione": "4222 KB"
-    },
-    {
-      "titolo": "Lucidi: sistemi di voto",
-      "dataUpload": "09.12.2020 11:40:00",
-      "link": "http://www.informatica.uniroma2.it/upload/2020/AR/AR-SistemiDiVoto.pptx",
-      "dimensione": "6432 KB"
-    },
-    {
-      "titolo": "Lucidi: cascate imitative",
-      "dataUpload": "02.12.2020 11:36:21",
-      "link": "http://www.informatica.uniroma2.it/upload/2020/AR/AR-Herding.pptx",
-      "dimensione": "2210 KB"
-    },
-    {
-      "titolo": "Lucidi: processi di diffusione",
-      "dataUpload": "02.12.2020 11:35:43",
-      "link": "http://www.informatica.uniroma2.it/upload/2020/AR/AR-ProcessiDiffusione.pptx",
-      "dimensione": "5298 KB"
-    },
-    {
-      "titolo": "Lucidi: reti come grafi dalla struttura disomogenea",
-      "dataUpload": "20.11.2020 18:05:53",
-      "link": "http://www.informatica.uniroma2.it/upload/2020/AR/AR-GrafiStrutturaDisomogenea.pptx",
-      "dimensione": "4916 KB"
-    },
-    {
-      "titolo": "Lucidi: Power Law e modello Rich Get Richer",
-      "dataUpload": "20.11.2020 18:05:02",
-      "link": "http://www.informatica.uniroma2.it/upload/2020/AR/AR-PowerLaw1.pptx",
-      "dimensione": "2360 KB"
-    },
-    {
-      "titolo": "Lucidi: introduzione al corso e modello di Erdos-Renyi",
-      "dataUpload": "20.11.2020 18:04:08",
-      "link": "http://www.informatica.uniroma2.it/upload/2020/AR/AR-Introduzione.pptx",
-      "dimensione": "2090 KB"
-    },
-    {
-      "titolo": "Dispensa 2: comunit\u00e0",
-      "dataUpload": "11.11.2020 11:51:12",
-      "link": "http://www.informatica.uniroma2.it/upload/2020/AR/Communities.pdf",
-      "dimensione": "103 KB"
-    },
-    {
-      "titolo": "Lucidi: fenomeno Small World e ricerca decentralizzata",
-      "dataUpload": "09.11.2020 13:03:51",
-      "link": "http://www.informatica.uniroma2.it/upload/2020/AR/AR-SmallWorld.pptx",
-      "dimensione": "5139 KB"
-    },
-    {
-      "titolo": "Dispensa 1: grafi geometrici casuali e problema del minimo raggio di trasmissione",
-      "dataUpload": "28.10.2020 11:35:57",
-      "link": "http://www.informatica.uniroma2.it/upload/2020/AR/D01GeometricRandomGraphs.pdf",
-      "dimensione": "407 KB"
-    },
-    {
-      "titolo": "Lucidi: grafi geometrici aleatori e problema del minimo raggio di trasmissione",
-      "dataUpload": "28.10.2020 11:32:40",
-      "link": "http://www.informatica.uniroma2.it/upload/2020/AR/AR-GrafiGeometriciAleatori.pptx",
-      "dimensione": "4987 KB"
-    },
-    {
-      "titolo": "Lucidi: appendice alle lezioni sui grafi geometrici aleatori",
-      "dataUpload": "21.10.2020 08:49:32",
-      "link": "http://www.informatica.uniroma2.it/upload/2020/AR/AR-AppendiceGrafiGeometriciAleatori.pptx",
-      "dimensione": "945 KB"
-    }
-  ],
-  "programma": "<table><tr><td><p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"><strong>Programma preventivato</strong>\u00a0(che potr\u00e0 subire variazioni nel corso di svolgimento delle lezioni):</p>\n<p>\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"><strong>1) Modelli generativi di grafi aleatori e loro rilevanza nella rappresentazione di reti</strong></p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"><strong>\u00a0\u00a0\u00a0\u00a0 - </strong>Modello di Erdos-Renyi</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0\u00a0\u00a0 - Modello basato sul fenomeno rich-get-richer: la popolarit\u00e0 come un effetto rete, modelli rich-get-richer, power law e la long tail</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0\u00a0\u00a0 - Grafi geometrici aleatori: reti wireless ad-hoc e minimo raggio di connessione</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0\u00a0 - Il fenomeno Small-world: i sei gradi di separazione, modelli per lo Small-world; ricerca decentralizzata: modelli e analisi</p>\n<p>\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"><strong>2) Teoria dei grafi e delle reti sociali.</strong></p>\n<p>\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0\u00a0\u00a0\u00a0 - Chiusura triadica, importanza dei collegamenti deboli, struttura di rete in insiemi di grandi dimensioni,</p>\n<p>\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0 \u00a0 \u00a0 indici di centralit\u00e0 e partizionamenti</p>\n<p>\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0\u00a0\u00a0 - Bilancio strutturale</p>\n<p>\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"><strong>3)\u00a0</strong><strong>Dinamiche nelle reti<br/></strong></p>\n<p>\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0\u00a0\u00a0 - Cascate informative: il concetto \"segui la massa\", un modello di cascata, la regola di Bayes e le cascate</p>\n<p>\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0\u00a0\u00a0\u00a0 - Comportamento a cascata: diffusione, cascate e cluster, il ruolo dei weak ties, capacit\u00e0 di una cascata</p>\n<p>\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0\u00a0\u00a0 - Il fenomeno Small-world: i sei gradi di separazione, modelli per lo Small-world; ricerca decentralizzata: modelli e analisi</p>\n<p>\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"><strong>4) Reti di Informazione: il World Wide Web</strong></p>\n<p>\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0 \u00a0 - Struttura del Web: reti di informazione, ipertesti e memoria associativa</p>\n<p>\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0 \u00a0 - Link analysis e ricerca nel Web: il problema del Ranking, Hubs e Authorities, il PageRank</p>\n<p>\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"><strong>5) Istituzioni e comportamento aggregato</strong></p>\n<p>\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0- Meccanismi di voto: decisioni di gruppo e preferenze individuali; sistemi di voto a maggioranza e posizionale; Teorema di impossibilit\u00e0 di Arrow; Teorema del Voto Mediano</p>\n<p>\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0- Voto come forma di aggregazione dell'informazione: voto sincero e non sincero, la regolaa dell'unanimit\u00e0 e il problema del verdetto della giuria; voto sequenziale e cascate informative.</p></td></tr></table>",
+  "lezioni": [],
+  "materiale": [],
+  "programma": "<table><tr><td><p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"><strong>Programma preventivato</strong>\u00a0(che potr\u00e0 subire variazioni nel corso di svolgimento delle lezioni):</p>\n<p>\u00a0</p>\n<p>\u00a0</p>\n<p>\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"><strong>1) Modelli generativi di grafi aleatori e loro rilevanza nella rappresentazione di reti</strong></p>\n<p>\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"><strong>\u00a0\u00a0\u00a0\u00a0 - </strong>Modello di Erdos-Renyi</p>\n<p>\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0\u00a0\u00a0 - Modello basato sul fenomeno rich-get-richer: la popolarit\u00e0 come un effetto rete, modelli rich-get-richer, power law e la long tail</p>\n<p>\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0\u00a0\u00a0 - Grafi geometrici aleatori: reti wireless ad-hoc e minimo raggio di connessione</p>\n<p>\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0\u00a0 - Il fenomeno Small-world: i sei gradi di separazione, modelli per lo Small-world; ricerca decentralizzata: modelli e analisi</p>\n<p>\u00a0</p>\n<p>\u00a0</p>\n<p>\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"><strong>2) Teoria dei grafi e delle reti sociali.</strong></p>\n<p>\u00a0</p>\n<p>\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0\u00a0\u00a0\u00a0 - Chiusura triadica, importanza dei collegamenti deboli, struttura di rete in insiemi di grandi dimensioni,</p>\n<p>\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0\u00a0\u00a0\u00a0 - Comunit\u00e0, partizionamenti in comunit\u00e0, indici di centralit\u00e0 e metodo di Girvan-Newman</p>\n<p>\u00a0</p>\n<p>\u00a0</p>\n<p>\u00a0</p>\n<p>\u00a0</p>\n<p>\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"><strong>3)\u00a0</strong><strong>Dinamiche nelle reti<br/></strong></p>\n<p>\u00a0</p>\n<p>\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0\u00a0\u00a0 - Cascate informative: il concetto \"segui la massa\", un modello di cascata, la regola di Bayes e le cascate</p>\n<p>\u00a0</p>\n<p>\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0\u00a0\u00a0\u00a0 - Comportamento a cascata: diffusione, cascate e cluster, il ruolo dei weak ties, capacit\u00e0 di una cascata</p>\n<p>\u00a0</p>\n<p>\u00a0</p>\n<p>\u00a0</p>\n<p>\u00a0</p>\n<p>\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"><strong>4) Istituzioni e comportamento aggregato</strong></p>\n<p>\u00a0</p>\n<p>\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0- Meccanismi di voto: decisioni di gruppo e preferenze individuali; sistemi di voto a maggioranza e posizionale; Teorema di impossibilit\u00e0 di Arrow; Teorema del Voto Mediano</p>\n<p>\u00a0</p>\n<p>\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0- Voto come forma di aggregazione dell'informazione: voto sincero e non sincero, la regolaa dell'unanimit\u00e0 e il problema del verdetto della giuria; voto sequenziale e cascate informative.</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\"><strong>5) Reti di Informazione: il World Wide Web</strong></p>\n<p>\u00a0</p>\n<p>\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0 \u00a0 - Struttura del Web: reti di informazione, ipertesti e memoria associativa</p>\n<p>\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0 \u00a0 - Link analysis e ricerca nel Web: il problema del Ranking, Hubs e Authorities, il PageRank</p>\n<p>\u00a0</p>\n<p>\u00a0</p>\n<p>\u00a0</p>\n<p>\u00a0</p></td></tr></table>",
   "testiRiferimento": "<table><tr><td><p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">David Easley, Jon Kleinberg, \"Networks, Crowds, and Markets: Reasoning about a Highly Connected World\", Cambridge University Press</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Dispense a cura del docente, disponibili in questa pagina.</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">\u00a0</p>\n<p style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Lucidi delle lezioni on-line, a cura del docente, disponibili in questa pagina</p></td></tr></table>",
-  "ricevimento": "<table><tr><td><p>In quest'anno particolare, i ricevimenti saranno prevalentemente on-line, da richiedere al docente a mezzo posta elettronica o nel corso delle lezioni.</p>\n<p>\u00a0</p>\n<p>Se qualche studente avesse esigenza di incontro in studio potr\u00e0 farne richiesta a mezzo posta elettronica - salvo ulteriori sviluppi della situazione emergenziale.</p></td></tr></table>",
-  "modalit\u00e0Esame": "<table><tr><td><p>Prova orale - possibilmente in modalit\u00e0 on-line.</p>\n<p>\u00a0</p>\n<p><span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Si ricorda agli studenti che le date di esame che compaiono sul sito hanno titolo puramente indicativo e prenotarsi sul totem \u00e8 necessario ai soli fini della verbalizzazione. Al fine di offrire agli student\u00ec una maggiore elasticit\u00e0 nella calendarizzazione dei propri esami, <strong>per sostenere l'esame \u00e8 necessario inviare una e-mail alla docente mediante la quale \u00e8 possibile concordare la data nella quale effettuare la prova orale</strong>.</span></p>\n<p>\u00a0</p></td></tr></table>"
+  "ricevimento": "<table><tr><td><p>Da richiedere al docente a mezzo posta elettronica o nel corso delle lezioni. Il ricevimento potr\u00e0 avvenire in presenza o in modalit\u00e0 telematica.</p></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
 }
