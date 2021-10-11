@@ -26,6 +26,8 @@ from argparse import ArgumentParser
 
 DATA_DIR = "../data/"
 
+ERROR_LOG = "../logs/errors_log"
+
 # Used to allow to folders in both italian/english depending on how
 # the scraper is instantiated.
 IT_DIR_NAMES = {
@@ -215,6 +217,11 @@ def get_current_school_year():
         scholar_year = str(s - 1) + "-" + str(s)
     return scholar_year
 
+
+def log_error(msg):
+    timestamp = datetime.datetime.now()
+    with open(ERROR_LOG, 'w+') as f:
+        f.write(f"{timestamp} - {msg} \n")
 
 # -----------
 
@@ -420,8 +427,9 @@ class UniScraper(object):
         r = requests.get(URL)
         if r.status_code != 200:
             # -- no data available
-            print(f"[(WARNING) {self.degree}]: Couldn't get course list for school_year: [{scholar_year}]")
-            return -1
+            warning_msg = f"[(WARNING) {self.degree}]: Couldn't get course list for school_year: [{scholar_year}]"
+            log_error(warning_msg)
+            exit()
 
         print(f"[{self.degree}]: Downloading course list for school_year: [{scholar_year}]")
 
@@ -487,7 +495,9 @@ class UniScraper(object):
         r = requests.get(URL)
         if r.status_code != 200:
             # -- no data available
-            print(f"[(WARNING) {self.degree}, {scholar_year}]: Could not download course data for course: [{course_code}]")
+            warning_msg = f"[(WARNING) {self.degree}, {scholar_year}]: Could not download course data for course: [{course_code}]"
+            print(warning_msg)
+            log_error(warning_msg)
             exit()
 
         print(f"[{self.degree}, {scholar_year}]: Downloading course data for course: [{course_code}]")
@@ -674,7 +684,9 @@ class UniScraper(object):
 
         r = requests.get(URL)
         if r.status_code != 200:
-            print(f"[(WARNING) {self.degree}]: Could not download teachers data")
+            warning_msg = f"[(WARNING) {self.degree}]: Could not download teachers data"
+            print(warning_msg)
+            log_error(warning_msg)
             exit()
 
         print(f"[{self.degree}]: Downloading teachers data")            
@@ -725,7 +737,9 @@ class UniScraper(object):
 
         r = requests.get(URL)
         if r.status_code != 200:
-            print(f"[(WARNING) {self.degree}]: Could not download schedule data")
+            warning_msg = f"[(WARNING) {self.degree}]: Could not download schedule data"
+            log_error(warning_msg)
+            print(warning_msg)
             exit()
 
         print(f"[{self.degree}]: Downloading schedule data")
@@ -847,7 +861,9 @@ class UniScraper(object):
         """        
         r = requests.get(url)
         if r.status_code != 200:
-            print(f"[(WARNING) {self.degree}]: Coud not download exam list: [{url}]")
+            warning_msg = f"[(WARNING) {self.degree}]: Coud not download exam list: [{url}]"
+            log_error(warnings_msg)
+            print(warning_msg)
             exit()
 
         print(f"[{self.degree}]: Downloading exam list: [{url}]")
@@ -894,7 +910,9 @@ class UniScraper(object):
         
         r = requests.get(URL)
         if r.status_code != 200:
-            print(f"[(WARNING) {self.degree}]: Coud not download graduation schedule: [{URL}]")
+            warning_msg = f"[(WARNING) {self.degree}]: Coud not download graduation schedule: [{URL}]"
+            log_error(warning_msg)
+            print(warning_msg)
             exit()
 
         print(f"[{self.degree}]: Downloaded graduation schedule : [{URL}]")
@@ -1037,12 +1055,14 @@ class UniScraper(object):
     def get_news(self, scholar_year=None):
         # -- compute URL
         cdl_param = self.__cdl_param()
-        URL_PARAMS = f"/f0?fid=50&srv=4&cdl={cdl_param}&pag=0"
+        URL_PARAMS = f"/f10?fid=50&srv=4&cdl={cdl_param}&pag=0"
         URL = self.BASE_URL + URL_PARAMS
         
         r = requests.get(URL)
         if r.status_code != 200:
-            print(f"[(WARNING) {self.degree}]: Coud not download latest news")
+            warning_msg = f"[(WARNING) {self.degree}]: Coud not download latest news"
+            log_error(warning_msg)
+            print(warning_msg)
             exit()
             
         print(f"[{self.degree}]: Downloading latest news")

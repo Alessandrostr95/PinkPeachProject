@@ -1,7 +1,6 @@
 anno,insegnamento,link,codice,settore,CFU,semetre,docente,propedeuticità
 1,Algoritmi distribuiti e reti complesse,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2021&cdl=1&id=ADRC,ADRC,INF/01,9,1,Clementi-Guala',
 1,Analisi di reti,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2021&cdl=1&id=AR,AR,INF/01,6,1,Di Ianni,
-1,Bioinformatica,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2021&cdl=1&id=BIOI,BIOI,BIO/11,6,2,Ausiello,
 1,Calcolo delle probabilità,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2021&cdl=1&id=CP2,CP2,MAT/06,6,2,Macci,
 1,Economia  dell'ICT,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2021&cdl=1&id=EICT,EICT,ING-INF/03,6,1,Vatalaro,
 1,Elementi di analisi numerica,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2021&cdl=1&id=EAN,EAN,MAT/08,8,1,Di Fiore,
@@ -18,7 +17,7 @@ anno,insegnamento,link,codice,settore,CFU,semetre,docente,propedeuticità
 2,Internet technology and protocols,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2021&cdl=1&id=ITP,ITP,ING-INF/03,6,1,Salsano,
 2,Machine learning,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2021&cdl=1&id=ML,ML,INF/01,9,2,Gambosi,
 2,Metodi di verifica di sistemi,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2021&cdl=1&id=MVS,MVS,INF/01,6,1,Intrigila,
-2,Modelli e qualità del SW,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2021&cdl=1&id=MQS,MQS,INF/01,9,1,Iazeolla,
+2,Modelli e qualità del SW,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2021&cdl=1&id=MQS,MQS,INF/01,9,2,Iazeolla,
 2,Natural language processing,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2021&cdl=1&id=NLP,NLP,ING-INF/05,6,1,Zanzotto,
 2,Sicurezza dei sistemi informativi,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2021&cdl=1&id=SSI,SSI,INF/01,9,2,Talamo-Dimitri,
 2,Teoria spettrale,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2021&cdl=1&id=TS,TS,MAT/05,8,2,Isola,

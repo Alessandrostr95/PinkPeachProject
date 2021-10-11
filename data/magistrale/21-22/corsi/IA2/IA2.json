@@ -16,7 +16,7 @@
   "lezioni": [],
   "materiale": [],
   "programma": "<table><tr><td>null</td></tr></table>",
-  "testiRiferimento": "<table><tr><td>null</td></tr></table>",
+  "testiRiferimento": "<table><tr><td><p>\u00a0</p>\n<p class=\"MsoNormal\" style=\"text-align: justify;\">Testo di riferimento:\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </p>\n<ul>\n<li>Dean Allemang, James Hendler. Semantic Web for the Working Ontologist: Effective Modeling in RDFS and OWL. ISBN: 978-0-12-385965-5.\u00a0\u00a0</li>\n</ul>\n<p class=\"MsoNormal\" style=\"text-align: justify;\">Ulteriore letteratura di riferimento:\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</p>\n<p>\u00a0</p>\n<ul>\n<li style=\"padding-left: 30px;\">Knowledge Representation and Reasoning. Di Ronald Brachman, Hector Levesque.\u00a02008.\u00a0\u00a0ISBN 978-1558609327</li>\n<li style=\"padding-left: 30px;\">THE DESCRIPTION LOGIC HANDBOOK Theory, implementation, and applications. A cura di\u00a0 Franz Baader, Diego Calvanese, Deborah McGuinness, Daniele Nardi , Peter Patel-Schneider 2010. ISBN 0-521-78176-0</li>\n<li style=\"padding-left: 30px;\">Knowledge Representation and Reasoning. Di Ronald Brachman, Hector Levesque.</li>\n<li style=\"padding-left: 30px;\">Semi-Automatic Ontology Development: Processes and Resources. A cura di Maria Teresa Pazienza, Armando Stellato. IGI Global 2012\u00a0 ISBN 978-1-4666-0188-8</li>\n</ul></td></tr></table>",
   "ricevimento": "<table><tr><td>null</td></tr></table>",
   "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
 }

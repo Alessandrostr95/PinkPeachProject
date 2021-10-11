@@ -16,7 +16,18 @@
   "anno": "2",
   "semestre": "1",
   "propedeuticit\u00e0": "Nessuna",
-  "comunicazioni": [],
+  "comunicazioni": [
+    {
+      "titolo": "Sito del corso",
+      "data": "05-10-2021 16:32",
+      "contenuto": "<p>Informazioni sul corso sono disponibili all'indirizzo http://sag.art.uniroma2.it/didattica/croce/IR_21_22</p><hr/>"
+    },
+    {
+      "titolo": "Canale Teams",
+      "data": "05-10-2021 16:18",
+      "contenuto": "<p>Il canale Teams del corso \u00e8 accessibile all'indirizzo https://teams.microsoft.com/l/team/19%3ai5kRUif7jMdoO7O_aN5dMGYG__KsNHWfEQ5eL97VtVA1%40thread.tacv2/conversations?groupId=8441abd3-6917-4898-9197-e60083612116&amp;tenantId=24c5be2a-d764-40c5-9975-82d08ae47d0e\u00a0</p>"
+    }
+  ],
   "lezioni": [],
   "materiale": [],
   "programma": "<table><tr><td>null</td></tr></table>",
