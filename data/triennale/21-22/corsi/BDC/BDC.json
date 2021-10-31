@@ -15,18 +15,24 @@
   "comunicazioni": [
     {
       "titolo": "LEZIONI BDC",
-      "data": "11-10-2021 12:51",
-      "contenuto": "<p>Per tutti gli studenti del corso Basi di dati (Informatica e Bioinformatica) 2021-22:</p>\n<p>\u00a0</p>\n<p>Per le lezioni in presenza \u00e9 necessario prenotarsi in aula su Delphi ed essere dotati di Green pass. L'aula sar\u00e0 l' Aula Magna (11 e 13 Ottobre), aula 3PP2 in seguito.</p>\n<p>\u00a0</p>\n<p>Per seguire la diretta online della lezione \u00e8 possibile accedere al Team VIGLIANO-2021-22-BASI_DI_DATI sl link :</p>\n<p><span style=\"color: #005b5b; font-family: 'Trebuchet MS', Verdana, Arial, sans-serif; font-size: medium;\">https://teams.microsoft.com/l/team/19:SDEhoAkmNR3o2hHN8SpACK58QmQSYvp9c3z0_adGazk1%40thread.tacv2/conversations?groupId=2562fbf7-d83e-44cd-afd3-6e2fe5e747fb&amp;tenantId=24c5be2a-d764-40c5-9975-82d08ae47d0e</span></p>\n<p>\u00a0</p>"
+      "data": "22-10-2021 09:57",
+      "contenuto": "<p>Per tutti gli studenti del corso Basi di dati (Informatica e Bioinformatica) 2021-22:</p>\n<p>\u00a0</p>\n<p>Per le lezioni in presenza \u00e9 necessario prenotarsi in aula su Delphi ed essere dotati di Green pass.\u00a0</p>\n<p>\u00a0</p>\n<p>Per seguire la diretta online della lezione \u00e8 possibile accedere al Team VIGLIANO-2021-22-BASI_DI_DATI\u00a0</p>"
     }
   ],
   "lezioni": [
     {
       "id": "0",
-      "data": "04-10-2021",
-      "contenuto": "<p class=\"p1\" style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify; caret-color: #000000; text-size-adjust: auto;\">Orario Primo semestre :</p>\n<p class=\"p1\" style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify; caret-color: #000000; text-size-adjust: auto;\">4 Ottobre Luned\u00ec ore 16-18 aula Magna (Gismondi) (prenotare su Delphi)</p>\n<p class=\"p1\" style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify; caret-color: #000000; text-size-adjust: auto;\">6 Ottobre Mercoled\u00ec ore 14-17 aula 16</p>\n<p class=\"p1\" style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify; caret-color: #000000; text-size-adjust: auto;\">Lezioni dall'11 Ottobre:</p>\n<p class=\"p1\" style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify; caret-color: #000000; text-size-adjust: auto;\">Luned\u00ec ore 16-18 aula 3PP2 o L3(prenotare su Delphi)</p>\n<p class=\"p1\" style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify; caret-color: #000000; text-size-adjust: auto;\">Mercoled\u00ec ore 14-17 aula 3PP2</p>"
+      "data": "11-10-2021",
+      "contenuto": "<p class=\"p1\" style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify; caret-color: #000000; text-size-adjust: auto;\">Orario Primo semestre :</p>\n<p class=\"p1\" style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify; caret-color: #000000; text-size-adjust: auto;\">\u00a0</p>\n<p class=\"p1\" style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify; caret-color: #000000; text-size-adjust: auto;\">Luned\u00ec ore 16-18 aula 3PP2\u00a0</p>\n<p class=\"p1\" style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify; caret-color: #000000; text-size-adjust: auto;\">Mercoled\u00ec ore 14-17 aula 3PP2</p>"
     }
   ],
   "materiale": [
+    {
+      "titolo": "03 Algebra e Calcolo Relazionale",
+      "dataUpload": "20.10.2021 16:06:04",
+      "link": "http://www.informatica.uniroma2.it/upload/2021/BDC/3algebra_calcolo_relazionale.pdf",
+      "dimensione": "190 KB"
+    },
     {
       "titolo": "02 Modello relazionale",
       "dataUpload": "06.10.2021 18:24:12",

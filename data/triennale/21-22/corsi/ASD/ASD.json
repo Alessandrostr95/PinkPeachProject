@@ -30,6 +30,31 @@
   ],
   "lezioni": [
     {
+      "id": "8",
+      "data": "28-10-2021",
+      "contenuto": "<p>Delimitazioni superiori e inferiori di algoritmi e problemi. Un lower bound alla complessit\u00e0 temporale necessaria per ordinare n elementi (per una classe di algoritmi ragionevoli, quelli basati su confronti). Un algoritmo veloce per ordinare interi \"piccoli\": IntegerSort.</p>"
+    },
+    {
+      "id": "7",
+      "data": "25-10-2021",
+      "contenuto": "<p>Progettare algoritmi efficienti attraverso la progettazione di strutture dati efficienti. Un esempio: l'HeapSort - che ordina in loco n elementi in tempo O(n log n) nel caso peggiore.</p>"
+    },
+    {
+      "id": "6",
+      "data": "21-10-2021",
+      "contenuto": "<p>Il Problema dell\u2019ordinamento. Un algoritmo semplice ma inefficiente: il Selection Sort. Un algoritmo migliore: il MergeSort. Un altro algoritmo che usa la tecnica divide et impera: il QuickSort: analisi del caso peggiore, migliore, e intuizioni sul caso medio. Discussione versione randomizzata del QuickSort e differenza fra complessit\u00e0 nel caso medio e tempo atteso di un algoritmo randomizzato.</p>"
+    },
+    {
+      "id": "5",
+      "data": "18-10-2021",
+      "contenuto": "<p>Ancora sulle equazioni di ricorrenza. Metodo della sostituzione. Teorema Fondamentale delle Ricorrenze (Master). Semplici esempi. Quando non si pu\u00f2 applicare. Metodo del cambiamento di variabile.</p>"
+    },
+    {
+      "id": "4",
+      "data": "14-10-2021",
+      "contenuto": "<p>Analisi della complessit\u00e0 nel caso medio: un esempio. Il problema della ricerca di un elemento in un insieme: ricerca sequenziale e ricerca binaria. Equazioni di ricorrenza. Metodo dell\u2019iterazione. Metodo che usa l\u2019albero della ricorsione.</p>"
+    },
+    {
       "id": "3",
       "data": "11-10-2021",
       "contenuto": "<p>Modello di calcolo RAM. Costi uniformi e logaritmici. Complessit\u00e0 caso peggiore, migliore, medio. Notazioni asintotiche: O-grande, Omega-grande, Theta. O-piccolo, Omega-piccolo. Definizioni e semplici esempi. Propriet\u00e0. Usare la notazione asintotica nelle analisi della complessit\u00e0 computazionale degli algoritmi.</p>"

@@ -19,8 +19,71 @@
       "contenuto": "<p>Le lezioni di Sistemi operativi e reti inizieranno marted\u00ec 12/10/2021.</p>\n<p>\u00a0</p>"
     }
   ],
-  "lezioni": [],
-  "materiale": [],
+  "lezioni": [
+    {
+      "id": "5",
+      "data": "26-10-2021",
+      "contenuto": "<p>Operazioni sui processi. Creazione e terminazione dei processi.\u00a0 Creazione dei processi in POSIX. Fork. Esempio Fork. Sostituzione del codice. Famiglia di funzioni exec(). Esempio con execl(). Terminazione di processi. Le funzioni exit(), wait() e waitpid(). Esempi.</p>"
+    },
+    {
+      "id": "4",
+      "data": "21-10-2021",
+      "contenuto": "<p>Principali componenti del sistema operativo. Gestione dei processi. Concetto di processo. Stati di un processo. Transizioni di stato di un processo. Descrittore del processo (PCB). Code di processi. Scheduler. Cambio di contesto.</p>"
+    },
+    {
+      "id": "3",
+      "data": "19-10-2021",
+      "contenuto": "<p>Operazioni del sistema operativo. Funzionamento dual-mode. Timer. Ambienti di elaborazione. Computing tradizionale e mobile. Sistemi paralleli e distribuiti. Client-server e peer-to-peer. Cloud. Struttura e organizzazione software dei sistemi operativi. Struttura monolitica. Struttura stratificata. Struttura a microkernel. Struttura modulare. Struttura ibrida.\u00a0</p>"
+    },
+    {
+      "id": "2",
+      "data": "14-10-2021",
+      "contenuto": "<p>Sistemi a singolo processore. Sistemi multiprocessore. Cluster. Struttura del sistema operativo. Sistemi operativi batch multiprogrammati. Sistemi operativi time sharing. Sistemi in tempo reale. Sistemi embedded real-time. Sistemi operativi per personal computer.</p>"
+    },
+    {
+      "id": "1",
+      "data": "12-10-2021",
+      "contenuto": "<p>Presentazione del corso. Introduzione sui sistemi operativi. Funzionamento di un computer. Struttura della memoria. Struttura di I/O.</p>"
+    }
+  ],
+  "materiale": [
+    {
+      "titolo": "Appunti Sistemi operativi - Lezione 5",
+      "dataUpload": "26.10.2021 17:41:59",
+      "link": "http://www.informatica.uniroma2.it/upload/2021/SOR/SISTEMI OPERTATIVI LEZ05.pdf",
+      "dimensione": "228 KB"
+    },
+    {
+      "titolo": "Appunti Sistemi operativi - Lezione 4",
+      "dataUpload": "26.10.2021 17:41:46",
+      "link": "http://www.informatica.uniroma2.it/upload/2021/SOR/SISTEMI OPERTATIVI LEZ04.pdf",
+      "dimensione": "291 KB"
+    },
+    {
+      "titolo": "Appunti Sistemi operativi - Lezione 3",
+      "dataUpload": "26.10.2021 17:41:37",
+      "link": "http://www.informatica.uniroma2.it/upload/2021/SOR/SISTEMI OPERTATIVI LEZ03.pdf",
+      "dimensione": "381 KB"
+    },
+    {
+      "titolo": "Appunti Sistemi operativi - Lezione 2",
+      "dataUpload": "15.10.2021 16:15:43",
+      "link": "http://www.informatica.uniroma2.it/upload/2021/SOR/SISTEMI OPERTATIVI LEZ02.pdf",
+      "dimensione": "867 KB"
+    },
+    {
+      "titolo": "Appunti Sistemi operativi - Lezione 1",
+      "dataUpload": "12.10.2021 19:10:16",
+      "link": "http://www.informatica.uniroma2.it/upload/2021/SOR/SISTEMI OPERTATIVI LEZ01.pdf",
+      "dimensione": "288 KB"
+    },
+    {
+      "titolo": "Presentazione dell'insegnamento Sistemi operativi e\u00a0 reti (SOR).",
+      "dataUpload": "12.10.2021 19:09:37",
+      "link": "http://www.informatica.uniroma2.it/upload/2021/SOR/SISTEMI OPERTATIVI PRESENTAZIONE.pdf",
+      "dimensione": "202 KB"
+    }
+  ],
   "programma": "<table><tr><td><p><em>Parte I: Sistemi operativi\u00a0</em>(I semestre)<strong>\u00a0</strong></p>\n<ul>\n<li>Introduzione ai sistemi operativi.</li>\n<li>Classificazione dei sistemi operativi.</li>\n<li>Principali modelli strutturali.</li>\n<li>Gestione dei processi.</li>\n<li>Thread.</li>\n<li>Sincronizzazione dei processi.</li>\n<li>Gestione della memoria.</li>\n<li>Gestione dell' I/O.</li>\n<li>Gestione del file system.</li>\n<li>I sistemi operativi Unix e Linux.</li>\n<li>Casi di studio: Unix e Linux</li>\n</ul>\n<p><br><em>Parte II: Reti di calcolatori (II semestre)\u00a0</em></br></p>\n<ul>\n<li>Reti di calcolatori e Internet.</li>\n<li>Strato di applicazione.</li>\n<li>Strato di trasporto.</li>\n<li>Strato di rete e instradamento.</li>\n<li>Strato di collegamento e reti di area locale.</li>\n<li>Reti wireless</li>\n</ul></td></tr></table>",
   "testiRiferimento": "<table><tr><td><p><em>Testi di riferimento\u00a0</em></p>\n<p>Sistemi Operativi, X ed., A. Silberschatz, P. Galvin, G. Gagne. Pearson.\u00a0<br>Reti di Calcolatori e Internet, VII ed. - Un approccio top-down - J.F. Kurose, K.W. Ross - Pearson - Addison Wesley.\u00a0<br><br><em>Altri libri consigliati\u00a0</em></br></br></br></p>\n<p>Sistemi operativi, II ed. - P. Ancilotti, M. Boari, A. Ciampolini, G. Lipari - McGraw-Hill\u00a0<br>I moderni Sistemi Operativi, IV ed., A. S. Tanenbaum. Pearson - Prentice Hall.\u00a0<br>Sistemi operativi, D. M. Dhamdhere, McGraw-Hill.\u00a0<br>Reti di Calcolatori e Internet, B. A. Forouzan, McGraw-Hill.</br></br></br></p></td></tr></table>",
   "ricevimento": "<table><tr><td><p><span style=\"font-family: verdana, arial, helvetica; font-size: 11px;\">Il docente \u00e8 a disposizione per il \"ricevimento studenti\" al termine delle lezioni, alle ore 12:45 del marted\u00ec e gioved\u00ec, o per appuntamento da concordare via email (pietro.frasca@uniroma2.it).</span></p></td></tr></table>",

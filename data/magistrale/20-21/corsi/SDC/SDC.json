@@ -10,13 +10,19 @@
       "second_name": "Arcieri"
     }
   ],
-  "annoAccademico": "2021-2022",
+  "annoAccademico": "2020-2021",
   "crediti": "9",
   "settore": "INF/01",
   "anno": "1",
-  "semestre": "1",
+  "semestre": "2",
   "propedeuticit\u00e0": "Nessuna",
-  "comunicazioni": [],
+  "comunicazioni": [
+    {
+      "titolo": "",
+      "data": "04-03-2021 11:35",
+      "contenuto": "<p>La prima lezione si terr\u00e0 il giorno 9 marzo 2021:</p>\n<p>Gli studenti sono pregati di iscriversi tramite microsoft team.<br>Il link per partecipare \u00e8 il seguente:<br>https://teams.microsoft.com/l/meetup-join/19%3ad5956cdd78694839a2c1e3cc31173f82%40thread.tacv2/1614852841109?context=%7b%22Tid%22%3a%2224c5be2a-d764-40c5-9975-82d08ae47d0e%22%2c%22Oid%22%3a%227e318134-23b3-4b1a-b759-bddcfc99194e%22%7d</br></br></p>"
+    }
+  ],
   "lezioni": [],
   "materiale": [],
   "programma": "<table><tr><td>null</td></tr></table>",

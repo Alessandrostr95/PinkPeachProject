@@ -12,7 +12,7 @@ anno,insegnamento,link,codice,settore,CFU,semetre,docente,propedeuticità
 1,Sicurezza informatica e Internet,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2021&cdl=1&id=SII,SII,ING-INF/05,9,1,Bianchi,
 1,Sistemi di simulazione distribuita,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2021&cdl=1&id=SSD,SSD,ING-INF/05,6,2,D'Ambrogio,
 1,Sistemi distribuiti cooperativi,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2021&cdl=1&id=SDC,SDC,INF/01,9,1,Talamo-Arcieri,
-2,Information retrieval,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2021&cdl=1&id=IR,IR,INF/01,6,1,Croce-Gambosi,
+2,Information retrieval,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2021&cdl=1&id=IR,IR,INF/01,6,1,Gambosi-Croce,
 2,Intelligenza artificiale 2 - Ingegneria della conoscenza,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2021&cdl=1&id=IA2,IA2,ING-INF/05,6,1,Stellato,
 2,Internet technology and protocols,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2021&cdl=1&id=ITP,ITP,ING-INF/03,6,1,Salsano,
 2,Machine learning,http://www.informatica.uniroma2.it/f0?fid=220&srv=0&os=2021&cdl=1&id=ML,ML,INF/01,9,2,Gambosi,

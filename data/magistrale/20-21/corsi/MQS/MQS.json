@@ -6,17 +6,23 @@
       "second_name": "Iazeolla"
     }
   ],
-  "annoAccademico": "2021-2022",
+  "annoAccademico": "2020-2021",
   "crediti": "9",
   "settore": "INF/01",
   "anno": "2",
-  "semestre": "2",
+  "semestre": "1",
   "propedeuticit\u00e0": "Nessuna",
   "comunicazioni": [],
-  "lezioni": [],
+  "lezioni": [
+    {
+      "id": "0",
+      "data": "null",
+      "contenuto": "<p>Il numero di leziojni \u00f2 come da Orario Ufficiale</p>"
+    }
+  ],
   "materiale": [],
-  "programma": "<table><tr><td>null</td></tr></table>",
-  "testiRiferimento": "<table><tr><td>null</td></tr></table>",
-  "ricevimento": "<table><tr><td>null</td></tr></table>",
-  "modalit\u00e0Esame": "<table><tr><td>null</td></tr></table>"
+  "programma": "<table><tr><td><p>Vedi su Delphi</p></td></tr></table>",
+  "testiRiferimento": "<table><tr><td><p>Vedi su Delphi</p></td></tr></table>",
+  "ricevimento": "<table><tr><td><p>iazeolla@uniroma2.it\u00a0 \u00a0</p></td></tr></table>",
+  "modalit\u00e0Esame": "<table><tr><td><p>Vedi su Delphi</p></td></tr></table>"
 }
