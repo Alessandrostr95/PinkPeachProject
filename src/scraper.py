@@ -1005,7 +1005,11 @@ class UniScraper(object):
         author = header[header.find("inviato da ") + len("inviato da "): header.find("</span></th>")]
 
         # get description
-        description = entry.select_one("tr:nth-of-type(2)").text.replace("\n", "<br />")
+        descriptions_paragraphs = entry.select("tr:nth-of-type(2) p")
+        description = ""
+        for p in descriptions_paragraphs:
+            description += p.prettify()
+
         enclosure = ""
 
         # -- deal with links
