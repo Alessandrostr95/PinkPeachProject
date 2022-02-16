@@ -2,7 +2,24 @@
 
 '''This code deals with downloading all things related to the official
 computer science @ Tor Vergata http://www.informatica.uniroma2.it/.
+
+# -------------------------------------------------------
+# Example Usage
+
+# scarica tutti i dati della triennale per l'anno 20-21
+# python3 scraper.py bachelor -a -y 20-21
+
+# scarica tutti i dati della triennale per l'anno 20-21
+# python3 scraper.py bachelor -a -y 20-21
+
+# scarica tutti i dati della triennale per l'anno 20-21
+# python3 scraper.py bachelor -a -y 20-21
+
+# scarica tutti i dati della triennale per l'anno 20-21
+# python3 scraper.py bachelor -a -y 20-21
+
 '''
+
 import datetime
 import requests
 import os
@@ -24,11 +41,12 @@ from argparse import ArgumentParser
 
 # ----- Globals -----
 
+# dir which will contain all the scraper data
 DATA_DIR = "../data/"
 
 ERROR_LOG = "../logs/errors_log"
 
-# Used to allow to folders in both italian/english depending on how
+# Allow folders to be created in italian or english depending on how
 # the scraper is instantiated.
 IT_DIR_NAMES = {
     "basic_dirs": {
@@ -239,6 +257,7 @@ def parse_command_line_options():
     bachelor_parser.add_argument("-e", "--exams", action="store_true", dest="exams", help="download exams data")
     bachelor_parser.add_argument("-g", "--graduation", action="store_true", dest="graduation", help="download graduation data")
     bachelor_parser.add_argument("-s", "--schedule", action="store_true", dest="schedule", help="download courses schedule data")
+    bachelor_parser.add_argument("-l", "--coures_list", action="store_true", dest="courses_list", help="download courses list data")
     bachelor_parser.add_argument("-n", "--news", action="store_true", dest="news", help="download latest news")
 
     # TODO: make this more intuitive
@@ -253,6 +272,7 @@ def parse_command_line_options():
     master_parser.add_argument("-e", "--exams", action="store_true", dest="exams", help="download exams data")
     master_parser.add_argument("-g", "--graduation", action="store_true", dest="graduation", help="download graduation data")
     master_parser.add_argument("-s", "--schedule", action="store_true", dest="schedule", help="download courses schedule data")
+    master_parser.add_argument("-l", "--coures_list", action="store_true", dest="courses_list", help="download courses list data")
     master_parser.add_argument("-n", "--news", action="store_true", dest="news", help="download latest news")
 
     # TODO: make this more intuitive
@@ -423,7 +443,9 @@ class UniScraper(object):
         cdl_param = self.__cdl_param()
         URL_PARAMS = f"/f0?fid=220&srv=4&cdl={cdl_param}&os={os_param}"
         URL = self.BASE_URL + URL_PARAMS
-        
+
+        print(URL)
+
         r = requests.get(URL)
         if r.status_code != 200:
             # -- no data available
@@ -466,6 +488,7 @@ class UniScraper(object):
                     for a in cols[6].find_all('a'):
                         prop += a.decode_contents().strip() + "-"
 
+                    print(f"{anno},{insegnamento},{link},{codice},{settore},{cfu},{semestre},{docente},{prop}")
                     out.write(f"{anno},{insegnamento},{link},{codice},{settore},{cfu},{semestre},{docente},{prop}\n")
         return 0
 
@@ -734,6 +757,8 @@ class UniScraper(object):
         elif self.degree == Degree.MASTER:
             URL_PARAMS = "/pages/magis/orario/orario.htm"            
         URL = self.BASE_URL + URL_PARAMS
+
+        print(URL)
 
         r = requests.get(URL)
         if r.status_code != 200:
@@ -1100,6 +1125,7 @@ if __name__ == "__main__":
     dirs_mode = args.dirs
     teacher_mode = args.teachers
     exam_mode = args.exams
+    courses_list_mode = args.courses_list
     schedule_mode = args.schedule
     graduation_mode = args.graduation
     news_mode = args.news
@@ -1114,8 +1140,14 @@ if __name__ == "__main__":
         scraper.get_all_data(scholar_year)
         exit()
 
+    if schedule_mode:
+        scraper.get_schedule()
+
     if graduation_mode:
-        scraper.get_graduation_schedule()        
+        scraper.get_graduation_schedule()
+
+    if courses_list_mode:
+        scraper.get_courses_list()
 
     if teacher_mode:
         scraper.get_teachers_list()
@@ -1128,29 +1160,3 @@ if __name__ == "__main__":
 
     if course_mode:
         scraper.get_course_data(course, scholar_year)
-
-# -------------------------------------------------------
-# Example Usage
-
-# scarica tutti i dati della triennale per l'anno 20-21
-# python3 scraper.py bachelor -a -y 20-21
-
-# scarica tutti i dati della triennale per l'anno 20-21
-# python3 scraper.py bachelor -a -y 20-21
-
-# scarica tutti i dati della triennale per l'anno 20-21
-# python3 scraper.py bachelor -a -y 20-21
-
-# scarica tutti i dati della triennale per l'anno 20-21
-# python3 scraper.py bachelor -a -y 20-21
-
-
-# for debugging
-# print("year: " + str(scholar_year))
-# print("all_mode: " + str(all_mode))
-# print("teacher_mode: " + str(teacher_mode))
-# print("exam_mode: " + str(exam_mode))
-# print("schedule_mode: " + str(schedule_mode))
-# print("news_mode: " + str(news_mode))
-# print("course_mode: " + str(course_mode))
-# print("course: " + str(course))
